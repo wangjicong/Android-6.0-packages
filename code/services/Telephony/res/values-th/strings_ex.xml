@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">การส่งออกทั้งหมด</string>
+    <string name="messageAO">ป้อนรหัสผ่านการโทรแบริ่ง</string>
+    <string name="sum_ao_enabled_indicator">"โอนสายทั้งหมด"</string>
+    <string name="sum_ao_enabled">"เปิดใช้งานแล้ว"</string>
+    <string name="sum_ao_disabled">"ถูกปิดใช้งาน"</string>
+    <string name="enable_ao_forbidden">เครือข่ายของคุณไม่รองรับการเปิดใช้งานแบริ่งโทรออกทั้งหมด</string>
+    <string name="disable_ao_forbidden">เครือข่ายของคุณไม่สนับสนุนการปิดการใช้งานแบริ่งโทรออกทั้งหมด</string>
+    <string name="labelOI">ขาออกระหว่างประเทศ</string>
+    <string name="messageOI">ป้อนรหัสผ่านการโทรแบริ่ง</string>
+    <string name="sum_oi_enabled">"เปิดใช้งานแล้ว"</string>
+    <string name="sum_oi_disabled">"ถูกปิดใช้งาน"</string>
+    <string name="enable_oi_forbidden">เครือข่ายของคุณไม่รองรับการเปิดใช้งานแบริ่งโทรระหว่างประเทศขาออก</string>
+    <string name="disable_oi_forbidden">ของคุณไม่สนับสนุนการปิดการใช้งานแบริ่งโทรออกระหว่างประเทศ</string>
+    <string name="labelOX">ขาออกโรมมิ่งระหว่างประเทศ</string>
+    <string name="messageOX">ป้อนรหัสผ่านการโทรแบริ่ง</string>
+    <string name="sum_ox_enabled">"เปิดใช้งานแล้ว"</string>
+    <string name="sum_ox_disabled">"ถูกปิดใช้งาน"</string>
+    <string name="enable_ox_forbidden">เครือข่ายของคุณไม่รองรับการเปิดใช้งานแบริ่งขาออกโทรโรมมิ่งระหว่างประเทศ</string>
+    <string name="disable_ox_forbidden">เครือข่ายของคุณไม่สนับสนุนการปิดการใช้งานแบริ่งโทรโรมมิ่งขาออกระหว่างประเทศ</string>
+    <string name="labelAI">การรับมาทั้งหมด</string>
+    <string name="messageAI">ป้อนรหัสผ่านการโทรแบริ่ง</string>
+    <string name="sum_ai_enabled">"เปิดใช้งานแล้ว"</string>
+    <string name="sum_ai_disabled">"ถูกปิดใช้งาน"</string>
+    <string name="enable_ai_forbidden">เครือข่ายของคุณไม่รองรับการเปิดใช้งานแบริ่งสายเรียกเข้าทั้งหมด</string>
+    <string name="disable_ai_forbidden">เครือข่ายของคุณไม่สนับสนุนการปิดการใช้งานแบริ่งสายเรียกเข้าทั้งหมด</string>
+    <string name="labelIR">เสียงที่กำลังเรียกเข้ามาเมื่อโรมมิ่ง</string>
+    <string name="messageIR">ป้อนรหัสผ่านการโทรแบริ่ง</string>
+    <string name="sum_ir_enabled">"เปิดใช้งานแล้ว"</string>
+    <string name="sum_ir_disabled">"ถูกปิดใช้งาน"</string>
+    <string name="enable_ir_forbidden">เครือข่ายของคุณไม่รองรับการเปิดใช้งานแบริ่งสายโทรเข้ามาเมื่อใช้บริการโรมมิ่งโทร</string>
+    <string name="disable_ir_forbidden">เครือข่ายของคุณไม่สนับสนุนการปิดการใช้งานแบริ่งโทรเข้ามาเมื่อใช้บริการโรมมิ่งโทร</string>
+    <string name="labelAB">ปิดใช้งานทั้งหมด</string>
+    <string name="messageAB">ป้อนรหัสผ่านการโทรแบริ่ง</string>
+    <string name="sum_ab_enabled">"เปิดใช้งานแล้ว"</string>
+    <string name="sum_ab_disabled">"ถูกปิดใช้งาน"</string>
+    <string name="enable_ab_forbidden">เครือข่ายของคุณไม่สนับสนุนการปิดทั้งหมด</string>
+    <string name="disable_ab_forbidden">เครือข่ายของคุณไม่รองรับการเปิดใช้งานทั้งหมด</string>
+    <string name="labelChgPwd">"เปลี่ยนรหัสผ่าน"</string>
+    <string name="DlgChgPwd_oldpwd">ป้อนรหัสผ่านการโทรแบริ่ง</string>
+    <string name="DlgChgPwd_newpwd_first">ป้อนรหัสผ่านใหม่</string>
+    <string name="DlgChgPwd_newpwd_last">ยืนยันรหัสผ่านใหม่</string>
+    <string name="cb_pw_no_match">รหัสผ่านไม่ตรงกัน</string>
+    <string name="cb_pw_error">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="cb_pw_correct">เปลี่ยนรหัสผ่านแล้ว</string>
+    <string name="labelCB">"ระงับการโทร"</string>
+    <string name="call_barring_settings">"ระงับการโทร"</string>
+    <string name="cb_error">การปฏิเสธการระงับการใช้เครื่องโทร</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"เครือข่ายไม่ได้อยู่ใน, คุณต้องการที่จะตั้งค่าสถานะของเครือข่าย"</string>
+     <string name="dialog_network_selection_title">"ความสนใจ"</string>
+     <string name="dialog_network_selection_message">"โทรศัพท์มือถือจะไม่เลือกผู้ประกอบการอื่น ๆ สำหรับโหมดเลือกด้วยตนเอง. บางครั้งที่คุณต้องทำเลือกด้วยตนเองหรือเปลี่ยนกลับไปเป็นโหมดการเลือกโดยอัตโนมัติเมื่อคุณสูญเสียการบริการของผู้ประกอบการที่เลือก. แนะนำให้ใช้ เลือกอัตโนมัติ ". คุณต้องการที่จะเลือกเครือข่ายด้วยตนเอง"</string>
+     <string name="network_unknown">ไม่ทราบ</string>
+     <string name="network_inhibit">"ต้องห้าม"</string>
+     <string name="ip_dialing_title">"โทร IP "</string>
+     <string name="ip_dialing_list_title">"รายการโทร IP"</string>
+     <string name="ip_no_number">"ขาดคำนำ IP"</string>
+     <string name="ip_no_number_msg">"คำนำ IP ไม่เก็บไว้ในโทรศัพท์."</string>
+     <string name="ip_number_empty_loading">"รายการโทร IP ว่างเปล่า."</string>
+     <string name="remove">"ย้่าย"</string>
+     <string name="ip_number_is_too_long">"หมายเลขโทร IP ไม่สามารถมากกว่า 20"</string>
+     <string name="add_ip_number_str">"ใหม่"</string>
+     <string name="ip_dialing_num_error">"สามารถบันทึกหมายเลข IP 10 "</string>
+     <string name="ip_dialing_num_repeat">ทำซ้ำหมายเลข เพิ่มล้มเหลว</string>
+     <string name="menu_selected_all">เลือกทั้งหมด</string>
+     <string name="menu_select_none">ไม่เลือกท้ั้งหมด</string>
+     <string name="doneButton">เรียบร้อย</string>
+     <string name="cancel">ยกเลิก</string>
+     <string name="uplmn_setting_title">"ค่ากำหนด"</string>
+     <string name="uplmn_setting">"ตั้งค่า UPLMN"</string>
+     <string name="uplmn_index">"ดัชนี (เริ่มต้นจาก 0):"</string>
+     <string name="uplmn_id">"จำนวน Id:"</string>
+     <string name="uplmn_type">"รูปแบบ (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">กรุณาใส่ USIMการ์ด และลองอีกครั้ง</string>
+     <string name="index_error_uplmn">"ดัชนียังว่างลองอีกครั้ง"</string>
+     <string name="type_is_emplty_error_uplmn">"ประเภทยังว่างลองอีกครั้ง"</string>
+     <string name="number_too_short_uplmn">"หมายเลขรหัสสั้นเกินไปลองอีกครั้ง!"</string>
+     <string name="type_is_wrong_uplmn">"ประเภทที่ควรจะเป็น 1 หรือ 0 ลองอีกครั้ง"</string>
+     <string name="fail_uplmn">"ล้มเหลวและลองอีกครั้ง"</string>
+     <string name="set_uplmn_unsuccessful">"ตั้ง uplmn ไม่ประสบความสำเร็จ!"</string>
+     <string name="menu_new_uplmn">"UPLMN ใหม่"</string>
+     <string name="menu_delete_uplmn">"ลบ uplmn"</string>
+     <string name="uplmn_exceeds_capacity">"จำนวนเกินกว่าความจุของซิม!"</string>
+     <string name="delete">ลบ</string>
+     <string name="delete_uplmn_successfully">"ลบ uplmnเสร็จเรียบร้อย"</string>
+     <string name="id_is_wrong_uplmn">"รหัสจะต้องตั้งค่าที่มีจำนวน"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"เลือกโหมดเครือข่าย"</string>
+     <string name="lte_service_switch">"ตั้งค่า,โปรดรอสักครู่ ... "</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2Gมีหลายรูปแบบ"</item>
+        <item>รูปแบบ3G/2G เท่านั้น</item>
+        <item>"โหมด 2G เท่านั้น"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2Gมีหลายรูปแบบ"</item>
+        <item>รูปแบบ3G/2G เท่านั้น</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"GSM เท่านั้น"</item>
+        <item>"WCDMA เท่านั้น"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE / WCDMA / GSM (อัตโนมัติ)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"ตั้งค่าการโทรด่วน"</string>
+     <string name="delete_fastdial">"ลบโทรด่วน"</string>
+     <string name="update_fastdial">"ปรับปรุงโทรด่วน"</string>
+     <string name="no_sim_text">"กรุณาใส่หรือเปิดใช้ซิมการ์ด"</string>
+     <string name="network_not_on">"เครือข่ายไม่ได้อยู่ใน, คุณต้องการที่จะตั้งค่าสถานะของเครือข่าย"</string>
+     <string name="one_key_locked_notification">"ชนิดนี้เป็นปลดล็อค, คุณต้องการที่จะล็อคหรือไม่"</string>
+     <string name="one_key_unlocked_notification">"ชนิดนี้ถูกล็อค, คุณต้องการที่จะปลดล็อคได้หรือไม่"</string>
+     <string name="one_key_unlocked">"ปลดล็อก"</string>
+     <string name="one_key_locked">"กุญแจล็อก"</string>
+     <string name="one_key_operation_success">"การดำเนินงานที่ประสบความสำเร็จต้องเริ่มต้นใหม่ขณะนี้."</string>
+     <string name="one_key_operation_unsuccess">"การดำเนินการประสบความสำเร็จคุณสามารถลองอีกครั้ง!"</string>
+     <string name="one_key_query_unsuccess">"ล็อคSIMที่ล้มเหลว"</string>
+     <string name="one_key_simlock_setting">"การตั้งค่าล็อคSIM"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"เครือข่ายล็อค"</item>
+        <item>"เครือข่ายกลุ่มย่อยล็อค"</item>
+        <item>"ผู้ให้บริการล็อค"</item>
+        <item>"ล็อคขององค์กร"</item>
+        <item>"ล็อคSIM"</item>
+    </string-array>
+     <string name="callin_barring_settings">"ยกเว้นการตั้งค่าสายเรียกเข้า"</string>
+     <string name="callout_barring_settings">"จํากัดการโทรออกการตั้งค่า"</string>
+     <string name="labelCOUT">"จํากัดการโทรออก"</string>
+     <string name="labelCIN">"ยกเว้นการโทรเข้า"</string>
+     <string name="no_sim_text">"กรุณาใส่หรือเปิดใช้ซิมการ์ด"</string>
+     <string name="sim_lock_none">"ไม่ถูกล็อคSIM."</string>
+     <string name="sim_lock_try_later">"โปรดลองในภายหลัง."</string>
+     <string name="edit_and_save_fdn">"แก้ไขจำนวน Fdn"</string>
+     <string name="call_fdn_number_by_sim">"โทร"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"โทร VT"</string>
+     <string name="airplane_changed_on">"เปิดโหมดบนเครื่องบินแล้ว"</string>
+     <string name="number_empty">"จำนวนที่ว่าง"</string>
+     <string name="unblock_pin2">"ยกเลิกบล็อก PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"ป้อน PUK2 เพื่อปลดล็อคSIM การ์ดของคุณ"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> เวลาที่เหลือ(วินาที))"</string>
+     <string name="oldPin2_Label">"PIN2เก่า (<xliff:g>%s</xliff:g>  เวลาที่เหลือ(วินาที))"</string>
+     <string name="puk2_code_label">"รูปแบบรหัสPUK2  (<xliff:g>%s</xliff:g> เวลาที่เหลือ(วินาที))"</string>
+     <string name="promptWordOne">"ยังคง โค้ด &#160;"</string>
+     <string name="promptWordTwo">"&#160;เวลา"</string>
+     <string name="adn_full">"รายการFDN เต็ม"</string>
+     <string name="no_available_phone_accounts">"ไม่มีบัญชีการเรียกใช้งานได้"</string>
+     <string name="lnd_list">"รายการ LND"</string>
+     <string name="sdn_list">"รายการSDN"</string>
+     <string name="sim_list_title">"โปรดเลือกSIM การ์ด"</string>
+     <string name="wait_message">กรุณารอสักครู่:</string>
+     <string name="menu_call">"โทรติดต่อ”</string>
+     <string name="lnd_no_contact_record">"รายชื่อผู้โทร</string>
+     <string name="sdn_no_contact_number">"SIM การ์ดนี้ไม่สนับสนุนหมายเลข SDN."</string>
+     <string name="remove">"ย้่าย"</string>
+     <string name="delete_selected_contents">"คุณต้องการที่จะลบเนื้อหาที่เลือกหรือไม่"</string>
+     <string name="sim_notready_can_not_delete">"เพราะSIMการ์ดไม่พร้อม,ไม่สามารถลบ"</string>
+     <string name="contact_del_failed">"การลบผิดพลาด"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"หากต้องการตั้งค่าข้อความเสียง ให้ไปที่เมนู &gt; การตั้งค่า"</string>
+     <string name="simlock_unlocked">"Simล็อค ได้รับการปลดล็อค."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"WCDMA เท่านั้น"</item>
+        <item>"GSM เท่านั้น"</item>
+        <item>อัตโนมัติ</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"GSM เท่านั้น"</item>
+    </string-array>
+</resources>

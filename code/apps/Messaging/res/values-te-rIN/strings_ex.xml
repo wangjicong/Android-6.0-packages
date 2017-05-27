@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"సంతకం"</string>
+<string name="pref_title_sms_retry_times">ఎనేబుల్  SMS రీట్రై</string>
+<string name="preference_name">కామన్ ఫ్రేజ్  </string>
+<string name="select">"ఎంచుకోబడినవి"</string>
+<string name="item_cancel">రద్దు</string>
+<string name="item_delete">డిలీట్</string>
+<string name="save_as_teltype">"ఫోన్ కొరకు"</string>
+<string name="save_as_mmstype">"Sms కొరకు"</string>
+<string name="type_to_pharser">"సాధారణ ఫ్రేజ్ టైప్ చేయండి"</string>
+<string name="add">"కలుపు"</string>
+<string name="edit">ఎడిట్</string>
+<string name="delete">డిలీట్</string>
+<string name="finish">"ముగించు"</string>
+<string name="cancel">రద్దు</string>
+<string name="add_pharser">"సాధారణ ఫ్రేజ్ చేర్చండి"</string>
+<string name="edit_pharser">ఎడిట్ కామన్ ఫ్రేజ్  </string>
+<string name="pharser_can_modify">"కస్టమైజ్ చేయబడిన ఫ్రేజ్"</string>
+<string name="pharser_cannot_modify">"ఫ్రేజ్ ఫిక్స్ చేయండి"</string>
+<string name="select_item">"మీరు ఎంచుకున్నారు"</string>
+<string name="select_commmon_phrase">కామన్ ఫ్రేజ్ ను ఎంపిక చేయండి</string>
+<string name="common_phrase_empty">"సాధారణ ఫ్రేజ్ లు లేవు"</string>
+<string name="action_add_phrase">"సాధారణ ఫ్రేజ్ దూర్చండి"</string>
+<string name="pref_other_settings_title">"ఇతరాలు"</string>
+<string-array name="fixed_mms_phrase">
+<item>దయచేసి నా ఆఫీస్ ఫోన్ కు కాల్ చేయండి, కృతజ్ఞతలు</item>
+<item>దయచేసి నన్ను సంప్రదించండి, కృతజ్ఞతలు.</item>
+<item>దయచెసి మీ ప్రాంతం చెప్పండి.  </item>
+<item>దయచేసి నా సెల్ ఫోన్ కు తరువాత కాల్ చేయండి, కృతజ్ఞతలు.</item>
+<item>నేను బయట ఉన్నాను, ఇంటికి వెళ్లి మీకు కాల్ చేస్తాను. </item>
+<item>"నేను వాహనం నడుపుతున్నాను అందుచే తరువాత కాల్ చేస్తాను."</item>
+<item>"నేను రోడ్డుపైకి వస్తాను, వెంటనే చేరుకుంటాను. </item>
+<item>ట్రాఫిక్ జాములు, ఇంకా ఉన్నాయి, క్షమించండి.  </item>
+<item>తర్వాత కాల్ చేయగలను.  </item>
+<item>నేను ఒక మీటింగ్ లో ఉన్నాను, తర్వాత రిప్లయ్ ఇస్తాను.  </item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"ఇప్పుడు మాట్లాడలేను. ఏమి ఉన్నది?"</item>
+<item>"నేను ఇప్పుడే నీకు కాల్ బాక్ చేస్తాను."</item>
+<item>"నేను నీకు తరువాత కాల్ చేస్తాను."</item>
+<item>"ఇప్పుడు మాట్లాలేను. తరువాత నాకు కాల్ చేయండి?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"దయచేసి నాకు తర్వాత కాల్ చేయండి లేదా sms  పంపండి."</item>
+</string-array>
+</resources>

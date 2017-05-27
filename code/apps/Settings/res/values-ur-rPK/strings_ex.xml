@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">۔USB سیٹنگ</string>
+<string name="usb_charge_only">صرف چارج</string>
+<string name="usb_charge_only_summary">جب USB استعمال میں ہو تب صرف چارج موڈ استعمال کریں</string>
+<string name="usb_charge_only_storage_active_subtext">صرف اُس وقت چارج نہیں کع سکتے جب یوایس بی سٹوریج استعمال میں ہو۔</string>
+<string name="usb_charge_only_notification">صرف چارج کے طور پہ مربوط کریں۔</string>
+<string name="usb_storage">"‏USB اسٹوریج"</string>
+<string name="usb_storage_summary">"‏USB عظیم ذخیرہ فعال کریں"</string>
+<string name="ums_settings">۔UMS سیٹنگ</string>
+<string name="ums_mounted_setting">اب پی سی پر UMS لگائیں، براہ کرم انتظار کریں ...</string>
+<string name="ums_unmounted_setting">اب پی سی سے UMS اتاریں، براہ کرم انتظار کریں ...</string>
+<string name="usb_virtual_drive">۔USB خیالی ڈرائیو</string>
+<string name="usb_virtual_drive_summary">۔USB خیالی ڈرائیو کو فعال کریں</string>
+<string name="remember_choice">"میری پسند یاد رکھیں"</string>
+<string name="remember_choice_summary">میری پسند یاد رکھیں اور اگلی دفعہ  خود بخود یاد کیا ہوا فنکشن شروع کریں۔</string>
+<string name="stand_by_set_changed_prompt">سم ایکٹیویشن سٹیٹ تبدیل ہو جاے گی،  براہ کرم جاری رکھنے کے لئے، تصدیق کریں ؟</string>
+<string name="not_stand_by">ممنوعہ</string>
+<string name="primary_card_switching">"ترتیبات\uff0cبرائے مہربانی انتظار کریں ..."</string>
+<string name="toggle_data_change_message">"ڈیٹا کنکشن سم کارڈ پر منتخب ہو چکا ہے <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, یہ ڈیٹا تھروپٹ اور متلازم چارجز پیدا کرے گا، براہ مہربانی نوٹ فرمائیں."</string>
+<string name="select_primary_card">پرائمری کارڈ منتخب کریں</string>
+<string name="whether_switch_primary_card">"براہ مہربانی تصدیق کریں آیا کہ پرائمری کارڈ کو اس کارڈ میں منتقل کرنا ہے؟\n(سیلولر ڈیٹا بھی کارڈ پر منتقل کر دیا جائے گا۔)"</string>
+<string name="attention">"توجہ دیں"</string>
+<string name="bt_softap_cannot_coexist">جب سوفٹ ٹیپ فعال ہے یا کھلا ہوا ہے تو بلوٹتھ کام نہیں کر سکتا، اگر آپ بلوٹتھ استعمال کرنا کرنا چاہتے ہیں تو اس بات کو یقینی بنایٔں کے بلوٹتھ غیر فعال ہے۔</string>
+<string name="softap_bt_cannot_coexist">"جب بلوٹوتھ کو فعال کیا گیا ہے یا تبدیل کیا جا سکتا ہے، سافٹ ایپ کام نہیں کر سکتی ہے، اگر آپ سافٹ ایپ استعمال کرنا چاہتے ہیں، تو براہ مہربانی یقینی بنائیں کہ بلوٹوتھ غیر فعال ہے۔"</string>
+<string name="softap_need_mobile_data_enabled">"قابل منتقلی Wi-Fi ہاٹ سپاٹ کو موبائل ڈیٹا سے رابطہ قائم کرنے کی ضرورت ہے، جس کے اضافی اخراجات ہو سکتے ہیں۔"</string>
+<string-array name="light_color_picker">
+<item>"سبز"</item>
+<item>"نیلا"</item>
+<item>"گِہرا بنفشی"</item>
+<item>"جامنی"</item>
+<item>"گلابی"</item>
+<item>"سرخ"</item>
+<item>"پیلا"</item>
+</string-array>
+</resources>

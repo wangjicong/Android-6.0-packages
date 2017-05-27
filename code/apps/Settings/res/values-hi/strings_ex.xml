@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB सेटिंग"</string>
+<string name="usb_charge_only">"केवल चार्ज करें"</string>
+<string name="usb_charge_only_summary">"जब USB कनेक्ट किया हुआ हो तो केवल चार्ज करें मोड ही प्रयोग करें"</string>
+<string name="usb_charge_only_storage_active_subtext">"जब USB स्टोरेज प्रयोग में हो तो केवल चार्ज नहीं किया जा सकता"</string>
+<string name="usb_charge_only_notification">"केवल चार्ज के तौर पर कनेक्ट किया गया"</string>
+<string name="usb_storage">"USB मेमोरी"</string>
+<string name="usb_storage_summary">"USB विशाल मेमोरी सक्षम करें"</string>
+<string name="ums_settings">"UMS सेटिंग्स"</string>
+<string name="ums_mounted_setting">"अब PC के लिए ums लगाएं, कृपया प्रतीक्षा करें..."</string>
+<string name="ums_unmounted_setting">"अब PC से ums अलग करें, कृपया प्रतीक्षा करें..."</string>
+<string name="usb_virtual_drive">"USB वर्चुअल ड्राइव"</string>
+<string name="usb_virtual_drive_summary">"USB वर्चुअल ड्राइव को समर्थ बनाएं"</string>
+<string name="remember_choice">"मेरी पसंद को याद रखें"</string>
+<string name="remember_choice_summary">"मेरी पसंद याद रखें तथा अगली बार स्वचालित ढंग से याद रखी गयी कार्यप्रणाली को चालू करें"</string>
+<string name="stand_by_set_changed_prompt">"Sim की सक्रियन स्थिति बदल जाएगी, कृपया पुष्टि करें कि जारी रखें या नहीं ?"</string>
+<string name="not_stand_by">"मना"</string>
+<string name="primary_card_switching">"सेट हो रहा है\uff0cकृपया ठहरें..."</string>
+<string name="toggle_data_change_message">"डेटा कनेक्शन sim कार्ड में बदला गया है <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, कृपया ध्यान दें कि यह डेटा थ्रूपुट और संबंधित शुल्क उत्पन्न करेगा। "</string>
+<string name="select_primary_card">"प्राथमिक कार्ड चयन करें"</string>
+<string name="whether_switch_primary_card">"कृपया पुष्टि करें कि प्राइमरी कार्ड को इस कार्ड से बदलना है या नही?\n(सेल्युलर डेटा भी कार्ड में बदला जाएगा।)"</string>
+<string name="attention">"सावधान"</string>
+<string name="bt_softap_cannot_coexist">"जब सॉफ्टएप सक्रिय होता है या चालू किया जाता है, तब ब्लूटूथ कार्य नहीं कर सकता है, यदि आप ब्लूटूथ का प्रयोग करना चाहते हैं, तो कृपया सॉफ्टएप को निष्क्रिय करना सुनिश्चित कर लें। "</string>
+<string name="softap_bt_cannot_coexist">"जब ब्लूटुथ समर्थ होता है या चालू किया जाता है, तब सॉफ्टएप कार्य नहीं कर सकता है, यदि आप सॉफ्टएप का प्रयोग करना चाहते हैं, तो कृपया ब्लूटुथ को असमर्थ करना सुनिश्चित कर लें।" </string>
+<string name="softap_need_mobile_data_enabled">"पोर्टेबल Wi-Fi हॉटस्पॉट को मोबाइल डाटा कनेक्ट की जरूरत है. इससे अतिरिक्त खर्च हो सकता है।"</string>
+<string-array name="light_color_picker">
+<item>"हरा"</item>
+<item>"फिरोज़ी नीला"</item>
+<item>"गहरा नीला"</item>
+<item>"बैंगनी"</item>
+<item>"गुलाबी"</item>
+<item>"लाल"</item>
+<item>"पीला"</item>
+</string-array>
+	<!-- smartwake settings up150723-->
+	<string name="smartwake_settings">स्मार्ट मद्देनजर</string>
+	<string name="gesture_smartwake">इशारे स्मार्ट मद्देनजर</string>
+	<string name="smartwake_feature_selection">फीचर चयन</string>
+	<string name="smartwake_change_music">स्विचिंग संगीत आसपास फिसलने</string>
+	<string name="smartwake_double_click">उज्ज्वल स्क्रीन करने के लिए डबल क्लिक करें</string>
+	<string name="smartwake_up">ऊपर चढ़ाइए</string>
+	<string name="smartwake_down">नीचे खिसकना</string>
+	<string name="smartwake_c">खींचना C</string>
+	<string name="smartwake_e">खींचना e</string>
+	<string name="smartwake_m">खींचना M</string>
+	<string name="smartwake_o">खींचना O</string>
+	<string name="smartwake_s">खींचना S</string>
+	<string name="smartwake_v">खींचना V</string>
+	<string name="smartwake_w">खींचना W</string>
+	<string name="smartwake_z">खींचना Z</string>
+	<string name="gesture_smartwake_summaryOn">पर</string>
+	<string name="gesture_smartwake_summaryOff">बंद</string>
+	<string name="gesture_music">संगीत</string>
+	<string name="gesture_camera">कैमरा</string>
+	<string name="gesture_dial">डायल</string>
+	<string name="gesture_video">वीडियो</string>
+	<string name="gesture_browser">ब्राउज़र</string>
+	<string name="gesture_google_play">गूगल प्ले</string>
+	<string name="gesture_message">संदेश</string>
+	<string name="gesture_calc">कैल्क</string>
+	<string name="gesture_calendar">कैलेंडर</string>
+	<string name="gesture_fileexplorer">फाइल ढूँढने वाला</string>
+	<string name="gesture_gallery">गेलरी</string>
+	<string name="gesture_settings">सेट अप</string>	
+	<string name="gesture_unlock">खोलना</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"រាល់លេខទូរស័ព្ទដែលហៅចេញទាំងអស់"</string>
+    <string name="messageAO">"វាយបញ្ចូលពាក្យសម្ងាត់ទប់ស្កាត់ការហៅ"</string>
+    <string name="sum_ao_enabled_indicator">ទទួលបន្តទូរស័ព្ទទាំងអស់</string>
+    <string name="sum_ao_enabled">បានបើកប្រើប្រាស់</string>
+    <string name="sum_ao_disabled">បានបិទប្រើប្រាស់</string>
+    <string name="enable_ao_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបើកប្រើការទប់ស្កាត់ការហៅចេញនោះទេ។"</string>
+    <string name="disable_ao_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបិទប្រើការទប់ស្កាត់ការហៅចេញនោះទេ។"</string>
+    <string name="labelOI">ហៅទូរស័ព្ទអន្តរជាតិ</string>
+    <string name="messageOI">"វាយបញ្ចូលពាក្យសម្ងាត់ទប់ស្កាត់ការហៅ"</string>
+    <string name="sum_oi_enabled">បានបើកប្រើប្រាស់</string>
+    <string name="sum_oi_disabled">បានបិទប្រើប្រាស់</string>
+    <string name="enable_oi_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបើកប្រើការទប់ស្កាត់ការហៅចេញអន្តរជាតិនោះទេ។"</string>
+    <string name="disable_oi_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបិទប្រើការទប់ស្កាត់ការហៅចេញអន្តរជាតិនោះទេ។"</string>
+    <string name="labelOX">ហៅទូរស័ព្ទនៅតំបន់អន្តរជាតិ</string>
+    <string name="messageOX">"វាយបញ្ចូលពាក្យសម្ងាត់ទប់ស្កាត់ការហៅ"</string>
+    <string name="sum_ox_enabled">បានបើកប្រើប្រាស់</string>
+    <string name="sum_ox_disabled">បានបិទប្រើប្រាស់</string>
+    <string name="enable_ox_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបើកប្រើការទប់ស្កាត់ការហៅចេញអន្តរជាតិដោយសេវានៅក្រៅតំបន់នោះទេ។"</string>
+    <string name="disable_ox_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបិទប្រើការទប់ស្កាត់ការហៅចេញអន្តរជាតិដោយសេវានៅក្រៅតំបន់នោះទេ។"</string>
+    <string name="labelAI">"រាល់ការហៅចូលទាំងអស់"</string>
+    <string name="messageAI">"វាយបញ្ចូលពាក្យសម្ងាត់ទប់ស្កាត់ការហៅ"</string>
+    <string name="sum_ai_enabled">បានបើកប្រើប្រាស់</string>
+    <string name="sum_ai_disabled">បានបិទប្រើប្រាស់</string>
+    <string name="enable_ai_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបើកប្រើការទប់ស្កាត់ការហៅចូលនោះទេ។"</string>
+    <string name="disable_ai_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបិទប្រើការទប់ស្កាត់ការហៅចូលនោះទេ។"</string>
+    <string name="labelIR">ការហៅចូលទាំងអស់នៅតំបន់ក្រៅ</string>
+    <string name="messageIR">"វាយបញ្ចូលពាក្យសម្ងាត់ទប់ស្កាត់ការហៅ"</string>
+    <string name="sum_ir_enabled">បានបើកប្រើប្រាស់</string>
+    <string name="sum_ir_disabled">បានបិទប្រើប្រាស់</string>
+    <string name="enable_ir_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបើកប្រើប្រើការទប់ស្កាត់ការហៅចូលនោះទេពេលដំណើរការសេវាការហៅក្រៅតំបន់សេវា។"</string>
+    <string name="disable_ir_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយបិទប្រើការទប់ស្កាត់ការហៅចូលនោះទេពេលដំណើរការសេវាការហៅក្រៅតំបន់សេវា។"</string>
+    <string name="labelAB">ធ្វើឲ្យអសកម្មទាំងអស់</string>
+    <string name="messageAB">"វាយបញ្ចូលពាក្យសម្ងាត់ទប់ស្កាត់ការហៅ"</string>
+    <string name="sum_ab_enabled">បានបើកប្រើប្រាស់</string>
+    <string name="sum_ab_disabled">បានបិទប្រើប្រាស់</string>
+    <string name="enable_ab_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាកម្មទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយធ្វើអោយអកម្មរាល់កម្រិតទាំងអស់នោះទេ។"</string>
+    <string name="disable_ab_forbidden">"ក្រុមហ៊ុនផ្តល់សេវាកម្មទូរស័ព្ទរបស់លោកអ្នកមិនគាំទ្រអោយធ្វើអោយសកម្មរាល់កម្រិតទាំងអស់នោះទេ។"</string>
+    <string name="labelChgPwd">កែពាក្យសម្ងាត់</string>
+    <string name="DlgChgPwd_oldpwd">"វាយបញ្ចូលពាក្យសម្ងាត់ទប់ស្កាត់ការហៅ"</string>
+    <string name="DlgChgPwd_newpwd_first">បញ្ចូលពាក្យសម្ងាត់ថ្មី</string>
+    <string name="DlgChgPwd_newpwd_last">"អះអាងពាក្យសម្ងាត់ថ្មី"</string>
+    <string name="cb_pw_no_match">"លេខសម្ងាត់មិនត្រូវគ្នា"</string>
+    <string name="cb_pw_error">"លេខសម្ងាត់មិនត្រឹមត្រូវ"</string>
+    <string name="cb_pw_correct">"លេខសម្ងាត់បានត្រូវផ្លាស់ប្តូរ"</string>
+    <string name="labelCB">ការកំរិតហៅ</string>
+    <string name="call_barring_settings">ការកំណត់កំរិតហៅ</string>
+    <string name="cb_error">"ការទប់ស្កាត់ការហៅទូរស័ព្ទត្រូវបានបដិសេធន៍"</string>
+    <!-- SPRD: function call barring support. END-->
+
+</resources>

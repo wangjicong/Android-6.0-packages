@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Nastavenia USB"</string>
+<string name="usb_charge_only">"Len nabiť"</string>
+<string name="usb_charge_only_summary">"Keď je USB pripojené, použiť len režim nabíjania"</string>
+<string name="usb_charge_only_storage_active_subtext">"Nedá sa  nabíjať, len keď sa ukladací priestor USB používa"</string>
+<string name="usb_charge_only_notification">"Pripojené len na nabíjanie"</string>
+<string name="usb_storage">"Ukladací priestor USB"</string>
+<string name="usb_storage_summary">"Povoliť veľkokapacitné pamäťové zariadenie USB"</string>
+<string name="ums_settings">"Nastavenia UMS"</string>
+<string name="ums_mounted_setting">"Inštaluje sa ums na počítač, čakajte prosím..."</string>
+<string name="ums_unmounted_setting">"Prebieha odinštalovanie ums z počítača, čakajte prosím..."</string>
+<string name="usb_virtual_drive">"Virtuálny disk USB"</string>
+<string name="usb_virtual_drive_summary">"Povoliť virtuálny disk USB"</string>
+<string name="remember_choice">"Zapamätať si voľbu"</string>
+<string name="remember_choice_summary">"Zapamätať moju voľbu a nabudúce automaticky spustiť zapamätanú funkciu"</string>
+<string name="stand_by_set_changed_prompt">"Stav aktivácie sim sa zmení, potvrďte, či chcete pokračovať."</string>
+<string name="not_stand_by">"Neprístupné"</string>
+<string name="primary_card_switching">"Nastavenie\uff0cprosím, čakajte..."</string>
+<string name="toggle_data_change_message">"Dátové pripojenie sa preplo na sim kartu <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, produkuje prechod dát a korelatívne poplatky, prosím, všimnite si."</string>
+<string name="select_primary_card">"Zvoľte primárnu kartu"</string>
+<string name="whether_switch_primary_card">"Prosím, potvrďte, či prepnúť primárnu kartu na túto kartu?\n(Celulárne dáta sa tiež presunú na kartu.)"</string>
+<string name="attention">"Pozor"</string>
+<string name="bt_softap_cannot_coexist">"Keď je softap zapnuté alebo sa zapína, bluetooth nemôže pracovať, ak chcete používať bluetooth, uistite sa, že softap je vypnutý."</string>
+<string name="softap_bt_cannot_coexist">"Keď je aktivovaný bluetooth alebo je zapnutý, softap nemôže pracovať, ak chcete použiť softap, prosím, zabezpečte, aby bol bluetooth deaktivovaný."</string>
+<string name="softap_need_mobile_data_enabled">"Prenosný Wi-Fi hotspot potrebuje mobilné dátové pripojenie, môže to mať za následok ďalšie poplatky."</string>
+<string-array name="light_color_picker">
+<item>"Zelená"</item>
+<item>"Modrá"</item>
+<item>"Indigo"</item>
+<item>"Purpurová"</item>
+<item>"Ružová"</item>
+<item>"Červená"</item>
+<item>"Žltá"</item>
+</string-array>
+</resources>

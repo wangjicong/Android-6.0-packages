@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <attr name="ic_menu_moreoverflow" format="reference" />
+
+    <style name="MusicTheme"
+        parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyleNewUI</item>
+        <item name="android:fastScrollTextColor">#ffff6400</item>
+        <item name="android:statusBarColor">#c2185b</item>
+        <item name="android:colorPrimary">#e91e63</item>
+        <item name="android:actionBarWidgetTheme">@style/MyActionBarWidgetTheme</item>
+    </style>
+    <style name="MyActionBarWidgetTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:textColorHint">#66ffffff</item>
+        <item name="android:queryHint">@string/search_title</item>
+        <item name="android:searchViewStyle">@style/MySearchView</item>
+        <item name="android:iconifiedByDefault">true</item>
+    </style>
+    <style name="MySearchView" parent="@android:style/Widget.Material.Light.SearchView">
+        <item name="android:closeIcon">@drawable/ic_delete</item>
+    </style>
+    <style name="ActionBarStyleNewUI" parent="@android:style/Widget.Material.Light.ActionBar">
+        <item name="android:background">@color/actionbar_background_color</item>
+        <item name="android:titleTextStyle">@style/ActionBarTitleTextStyleNewUI</item>
+        <item name="android:backgroundSplit">@null</item>
+        <item name="android:elevation">0dp</item>
+    </style>
+    <style name="ActionBarTitleTextStyleNewUI" parent="android:TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/background_light</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="MusicPickerTheme" parent="@style/MusicTheme">
+        <item name="android:actionBarStyle">@style/ActionBarPickerStyle</item>
+    </style>
+
+    <style name="ActionBarPickerStyle" parent="@style/ActionBarStyleNewUI">
+        <item name="android:elevation">8dp</item>
+    </style>
+    <style name="Theme.NoDisplay" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowNoDisplay">false</item>
+    </style>
+</resources>

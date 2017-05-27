@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"۔IP ڈائل سیٹنگ"</string>
+    <string name="ip_dial_menu">"۔IP ڈائل"</string>
+    <string name="ip_dialing_title">"آئی پی ڈائلنگ"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE -->
+    <string name="fast_dial_title">"فاسٹ ڈائل سیٹنگ"</string>
+    <string name="no_fast_dial_number">"فاسٹ ڈائل نمبر مقرر نہیں"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"آؤٹ گوئنگ"</string>
+     <string name="call_log_incoming_title">"اِن کمنگ"</string>
+     <string name="recentOutgoing_empty">"آپ کے پاس کوئی بیرونی کی جانیوالی کالیں نہیں ہیں"</string>
+     <string name="recentIncoming_empty">"آپ کی کوئی اندرون کی جانیوالی کالیں نہیں ہیں"</string>
+     <string name="view_setting">"دیکھیں"</string>
+     <string name="item_all_calls">تمام کال لاگژ</string>
+     <string name="item_sim_calls">۔SIM%d کال لاگز</string>
+     <string name="unselect_all">"سبھی کو غیر منتخب کریں"</string>
+     <string name="select_all_sprd">"سبھی منتخب کریں"</string>
+     <string name="doneButton">"ہوگیا"</string>
+     <string name="cancel">"منسوخ کریں"</string>
+     <string name="delete_selected_calls">"کیا آپ کو یقین ہے کہ آپ منتخب کردہ ریکارڈز کو حذف کرنا چاہتے ہیں"</string>
+     <string name="clearCallLogProgress_title">"کال لاگ صاف کرتے ہوئے\u2026"</string>
+     <string name="delete_success">"کامیابی کے ساتھ حذف کیا"</string>
+     <string name="clear_all_call_log">تمام کال لاگ صاف کریں</string>
+     <string name="clear_selected_call_log">منتخب کردہ کال لاگ صاف کریں</string>
+     <string name="select_all">"سبھی منتخب کریں"</string>
+     <string name="unselect_all">"سبھی غیر منتخب کریں"</string>
+     <string name="delete_all_calls_confirm">کیا آپ اپنا تمام ریکارڈ حزف کرنا چاہتے ہیں؟</string>
+     <string name="do_not_select">آپ نے حذف کرنے کے لئے ریکارڈ منتخب نہیں کیا</string>
+     <string name="delete_calls">"حذف کریں"</string>
+     <string name="number_anr_isnull">کانٹیکٹ نمبر خالی ہے</string>
+     <string name="call_recording_setting_title">"کال ریکارڈنگ"</string>
+     <string name="automatic_recording_title">"خود کار ریکارڈنگ"</string>
+     <string name="dialog_phone_permission_deny">"IP ڈائل استعمال کرنے کے لئے، \n  فون کی اجازت کو آن کریں۔"</string>
+     <string name="search_description">"کال لاگ تلاش کریں"</string>
+     <string name="call_log_add_to_blacklist">بلیک لسٹ میں شامل کریں</string>
+     <string name="make_video_call_menu">"ویڈیو کال کریں"</string>
+
+</resources>

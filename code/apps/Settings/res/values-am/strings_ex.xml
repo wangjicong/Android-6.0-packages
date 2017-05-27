@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB ማስተካከያዎች"</string>
+<string name="usb_charge_only">"ለቻርጅ ብቻ"</string>
+<string name="usb_charge_only_summary">"USB በተሰካ ግዜ ለቻርጅ ብቻ መጠቀም"</string>
+<string name="usb_charge_only_storage_active_subtext">"USB ማከማቻ ጥቅም ላይ እየዋለ ቻርጅ ማድረግ አይቻልም"</string>
+<string name="usb_charge_only_notification">"ለመሙላት ብቻ የተሰካ"</string>
+<string name="usb_storage">USB ማከማቻ</string>
+<string name="usb_storage_summary">"የUSB ሰፊማከማቻ አንቃ"</string>
+<string name="ums_settings">"UMS ማስተካከያዎች"</string>
+<string name="ums_mounted_setting">ums ወደ PC አሁን በማስገባት ላይ፣ እባክዎ ይጠብቁ...</string>
+<string name="ums_unmounted_setting">ums ከ PC በመንቀል ላይ፣ እባክዎ ይጠብቁ...</string>
+<string name="usb_virtual_drive">"USB ቨርቹዋል ድራይቭ"</string>
+<string name="usb_virtual_drive_summary">"USB ቨርቹዋል ድራይቩን ማሰራት"</string>
+<string name="remember_choice">"ምርጫዬን አስታውስ"</string>
+<string name="remember_choice_summary">ምርጫዬን አስታዉስና ለሌላ ጊዜ የምታስታዉሰዉን ተግባር በራስህ ወዲያዉኑ ጀምር</string>
+<string name="stand_by_set_changed_prompt">"Sim የሚሰራበት ሁኔታ ይቀየራል፣ እባክዎ ለመቀጠል ያረጋግጡ? </string>
+<string name="not_stand_by">የተከለከለ</string>
+<string name="primary_card_switching">"ማስተካከያ\uff0c እባክዎን ይጠብቁ..."</string>
+<string name="toggle_data_change_message">"ዳታ ግንኙነቱ ወደ sim ካርድ ተቀይሯል <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>፣ እባክዎን ያስተውሉ፣ የሚተላለፍ ዳታና ግንኙነት ያላቸው ቻርጆች ይወጣሉ፡፡"</string>
+<string name="select_primary_card">የሚቀድም ካርድ ምረጥ</string>
+<string name="whether_switch_primary_card">"እባክዎን ቀዳሚውን ካርድ ወደዚህ ካርድ ለመቀየር ያረጋግጡ?\n(የስልኩ ዳታ ወደዚህ ካርድ ይዛወራል)"</string>
+<string name="attention">"ትኩረት"</string>
+<string name="bt_softap_cannot_coexist">ሶፍትታቡ እየሰራ ወይም ክፍት ከሆነ ብሉቱዙ አይሰራም፣ ብሉቱዙ መጠቀም ከፈለጉ እባክዎ ሶፍትታቡ መዘጋቱን ያረጋግጡ፡፡</string>
+<string name="softap_bt_cannot_coexist">"ብሉቱዙ እየሰራ ወይም በርቶ፣ ሶፍትታፕ አይሰራም፣ ሶፍትአፕ እንዲሰራ ከፈለጉ፣ ብሉቱዙ መጥፋቱን እርግጠኛ ይሁኑ፡፡"</string>
+<string name="softap_need_mobile_data_enabled">"ተንቀሳቃሽ  Wi-Fi ሆት ስፖት የተንቀሳቃሽ ሰለክ ዳታ ግንኙነት ይፈልጋል፣ተጨማሪ ወጪዎቸን ሊያስከትልይችላል።"</string>
+<string-array name="light_color_picker">
+<item>"አረንጓዴ"</item>
+<item>"ሰማያዊ"</item>
+<item>"ወይን ጠጅ"</item>
+<item>"ወይን ጠጅ"</item>
+<item>"ሮዝ"</item>
+<item>"ቀይ"</item>
+<item>"ቢጫ"</item>
+</string-array>
+</resources>

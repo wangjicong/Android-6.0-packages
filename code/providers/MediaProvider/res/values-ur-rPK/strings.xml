@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="uid_label">"میڈیا"</string>
+<string name="app_label">میڈیا کا زخیرہ</string>
+<string name="artist_label">مصور</string>
+<string name="ringtone_default">"ڈیفالٹ رنگ ٹون"</string>
+<string name="notification_sound_default">"ڈیفالٹ اطلاع کی آواز"</string>
+<string name="alarm_sound_default">پہلے سے طے شدہ الارم کی آواز</string>
+<string name="root_images">تصاویر</string>
+<string name="root_videos">"ویڈیوز"</string>
+<string name="root_audio">"آڈیو"</string>
+<string name="android_custom_label">اپنی مرضی کی  ٹونز</string>
+<string name="ringtone_dialog_message">ایسی کوئی رِنگ ٹون نہیں جو استعمال کی جا سکے</string>
+<string name="ringtone_default_message">معذرت، رنگ ٹون نہیں چلتی ہے</string>
+</resources>

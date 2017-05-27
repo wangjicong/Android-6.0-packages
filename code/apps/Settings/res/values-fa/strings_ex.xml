@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"تنظیمات USB"</string>
+<string name="usb_charge_only">"فقط شارژ"</string>
+<string name="usb_charge_only_summary">"تنها هنگام اتصال USB، از حالت شارژ استفاده کنید"</string>
+<string name="usb_charge_only_storage_active_subtext">"هنگامی که حافظه USB در حال استفاده است امکان شارژ وجود ندارد"</string>
+<string name="usb_charge_only_notification">""متصل تنها به صورت شارژ" "</string>
+<string name="usb_storage">"‏حافظهٔ USB"</string>
+<string name="usb_storage_summary">"‏فعال کردن ذخیره‌سازی انبوه USB"</string>
+<string name="ums_settings">"تنظیمات UMS"</string>
+<string name="ums_mounted_setting">"بارگذاری ums بر روی رایانه، لطفاً منتظر بمانید..."</string>
+<string name="ums_unmounted_setting">"خارج کردن ums از رایانه، لطفاً منتظر بمانید..."</string>
+<string name="usb_virtual_drive">"درایو مجازی USB"</string>
+<string name="usb_virtual_drive_summary">"فعال‌سازی درایو مجازی USB"</string>
+<string name="remember_choice">"این انتخاب را به خاطر بسپار"</string>
+<string name="remember_choice_summary">"انتخاب مرا به خاطر بسپار و عملکرد به خاطرسپاری را در آینده انجام بده"</string>
+<string name="stand_by_set_changed_prompt">"وضعیت فعال سازی SIM تغییر خواهد کرد، ادامه می دهید؟"</string>
+<string name="not_stand_by">"ممنوع"</string>
+<string name="primary_card_switching">در حال تنظیم \uff0c لطفاً صبر کنید...</string>
+<string name="toggle_data_change_message">"اتصال داده به سیم‌کارت <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g> انتقال یافت، لطفاً توجه داشته باشید که این کار باعث به وجود آمدن داده و هزینه‌های اضافی می‌شود.."</string>
+<string name="select_primary_card">"انتخاب کارت اصلی"</string>
+<string name="whether_switch_primary_card">"لطفاً تایید کنید آیا می خواهید کارت اصلی را به این کارت تغییر دهید؟\n(داده های تلفن نیز به این کارت انتقال می یابد)"</string>
+<string name="attention">"توجه"</string>
+<string name="bt_softap_cannot_coexist">"بلوتوث هنگام فعال بودن حالت softap کار نمی کند. اگر می خواهید از بلوتوث استفاده کنید حتما حالت softap را غیرفعال کنید."</string>
+<string name="softap_bt_cannot_coexist">"هنگام فعال بودن بلوتوث، ضربه آرام عمل نمی‌کند، در صورتی که تمایل دارید از ضربه آرام استفاده کنید، لطفاً اطمینان حاصل کنید که بلوتوث خاموش باشد."</string>
+<string name="softap_need_mobile_data_enabled">"هات اسپات WiFi به اینترنت نیاز دارد، ممکن است هزینه داشته باشد."</string>
+<string-array name="light_color_picker">
+<item>"سبز"</item>
+<item>"آبی"</item>
+<item>"نیلی"</item>
+<item>"بنفش"</item>
+<item>"صورتی"</item>
+<item>"قرمز"</item>
+<item>"زرد"</item>
+</string-array>
+</resources>

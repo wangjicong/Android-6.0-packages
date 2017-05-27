@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SPRD: Should not show duration time in call detail for cmcc case feature. -->
+    <string name="dialer_plugin">com.sprd.dialer.plugin.AddonDialerPlugin</string>
+    <!-- Application name used in Settings/Apps. Default label for activities
+            that don't specify a label. -->
+    <string name="specail_chars_plugin_name">plugin.sprd.specialChars.SpecialCharSequenceMgrPlugIn</string>
+    <string name="emergency_number_plugin_name">plugin.sprd.logEmergencyCalls.AddonEmergencyPlugin</string>
+    <string name="black_list_plugin_name">plugin.sprd.dialerBlackList.AddonDialerBlackListPlugin</string>
+    <string name="fdn_number_plugin_name">plugin.sprd.CallLogFdnName.AddonFdnNumberPlugin</string>
+</resources>

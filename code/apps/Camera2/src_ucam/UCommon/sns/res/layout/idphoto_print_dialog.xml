@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2010,2014 Thundersoft Corporation
+  All rights Reserved
+-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/idphoto_print_background"
+    >
+<!--
+    <RelativeLayout
+        android:id="@+id/ll_idphoto_print"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edit_topbar_bg" >
+
+        <ImageButton
+            android:id="@+id/sidphoto_print_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="6dip"
+            android:background="@drawable/btn_edit_view_status" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/text_idphoto_save" />
+    </RelativeLayout>
+ -->
+</LinearLayout>

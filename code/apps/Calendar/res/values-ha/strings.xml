@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">"Kalanda"</string>
+<string name="what_label">"Me"</string>
+<string name="where_label">"Ina"</string>
+<string name="when_label">"Yayin"</string>
+<string name="timezone_label">"Yankin lokaci"</string>
+<string name="attendees_label">"Baki"</string>
+<string name="today">"Yau"</string>
+<string name="tomorrow">"gobe"</string>
+<string name="today_at_time_fmt">"Yau a <xliff:g id="time_interval">%s</xliff:g>"</string>
+<string name="tomorrow_at_time_fmt">"Gobe a <xliff:g id="time_interval">%s</xliff:g>"</string>
+<string name="date_time_fmt">"<xliff:g id="date">%s</xliff:g>, <xliff:g id="time_interval">%s</xliff:g>"</string>
+<string name="repeats_label">"Maimaitawa"</string>
+<string name="no_title_label">"(Babu take)"</string>
+<plurals name="Nminutes">
+<item quantity="one">"Minti 1"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> mintuna"</item>
+</plurals>
+<plurals name="Nmins">
+<item quantity="one">"Minti 1"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> mintuna"</item>
+</plurals>
+<plurals name="Nhours">
+<item quantity="one">"1 awa"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> awanni"</item>
+</plurals>
+<plurals name="Ndays">
+<item quantity="one">"Rana 1"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> kwanaki"</item>
+</plurals>
+<plurals name="weekN">
+<item quantity="other">"MAKO <xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<string name="calendar_refresh">"Sabunta"</string>
+<string name="select_date">Zabi kwanan wata</string>
+<string name="show_day_view">"Nuna yini"</string>
+<string name="agenda_view">"Tsari"</string>
+<string name="day_view">"Yini"</string>
+<string name="week_view">"Mako"</string>
+<string name="month_view">"Wata"</string>
+<string name="event_view">"Duba al\'amura"</string>
+<string name="event_create">"Sabuwar aukuwa"</string>
+<string name="event_edit">"Tace aukuwa"</string>
+<string name="event_delete">"Soke aukuwa"</string>
+<string name="goto_today">"Yau"</string>
+<string name="menu_preferences">"Saituna"</string>
+<string name="menu_select_visible_calendars">"Kalandun da za a nuna"</string>
+<string name="search">"Bincika"</string>
+<string name="hide_controls">"Boye masarrafai"</string>
+<string name="show_controls">"Nuna masarrafai"</string>
+<string name="select_visible_calendars_title">"Kalandun da za a nuna"</string>
+<string name="synced">"daidaitacce"</string>
+<string name="not_synced">"ba daidaitacce ba"</string>
+<string name="acct_not_synced">"Wannan ma\'ajiyar ba a daidaita shi ba don haka kalandojinka ba lale su zama daidai ba."</string>
+<string name="accounts">"Ma\'ajiyoyi &amp; daidaitawa"</string>
+<string name="select_synced_calendars_title">"Kalandun da za a jona"</string>
+<string name="select_synced_calendars_button">"Kalandun da za a jona"</string>
+<string name="hint_what">"Sunan aukuwa"</string>
+<string name="hint_where">"Wuri"</string>
+<string name="hint_description">"Kwatance"</string>
+<string name="hint_attendees">"Baki"</string>
+<string name="creating_event">"Abin kirkiro"</string>
+<string name="saving_event">"Ajiyar aukuwa"</string>
+<string name="empty_event">"Ba a kirkiri holokon sha\'ani ba."</string>
+<string name="creating_event_with_guest">"Za a aika da gayyata."</string>
+<string name="saving_event_with_guest">"Za a aiko da sabuntawa."</string>
+<string name="rsvp_accepted">"Maida jawabi eh."</string>
+<string name="rsvp_tentative">"Maida jawabi watakila."</string>
+<string name="rsvp_declined">"Maida jawabi a\'a."</string>
+<string name="create_event_dialog_save">"Adana"</string>
+<string name="alert_title">"Sanarwan kalanda"</string>
+<string name="event_info_title">"Duba al\'amura"</string>
+<string name="event_info_title_invite">"Gayyatar zuwa taro"</string>
+<string name="edit_event_to_label">"Zuwa"</string>
+<string name="edit_event_from_label">"Daga"</string>
+<string name="edit_event_all_day_label">"Duk yini"</string>
+<string name="edit_event_calendar_label">"kalanda"</string>
+<string name="edit_event_show_all">"Nuna duk"</string>
+<string name="description_label">"Kwatance"</string>
+<string name="presence_label">"Nuna ni a matsayin"</string>
+<string name="privacy_label">"Kebanta"</string>
+<string name="reminders_label">"Kara tuni"</string>
+<string name="no_syncable_calendars">"Babu kalandoji"</string>
+<string name="no_calendars_found">"Kafin ka kara wani sha\'ani, dole sai ka kara akalla asusun Kalanda daya ga na\'urarka kuma ka bayyanar da kalanda. Taba Kara Asusu don kara asusu (idan ka riga ka kara asusu, jira har ya gama jonawa sannan ka sake gwadawa). Ko kuma ka taba Soke sannan ka tabbata akalla kalanda daya ta bayyana."</string>
+<string name="create_an_account_desc">"Kalanda ta fi yin aiki tare da asusun Google.\n\n\u2022 Sami damar bud eta daga cikin kowace mashigar-intanet\n\u2022 Yi tallafin-baya na kariya ga sha’anoninka"</string>
+<string name="add_account">"Kara asusu"</string>
+<string name="view_event_calendar_label">"Kalanda:"</string>
+<string name="view_event_organizer_label">"Mai shiryawa/tafiyarwa:"</string>
+<string name="choose_event_color_label">"Zabi kalan aiki"</string>
+<string name="event_color_picker_dialog_title">"Kalan aiki"</string>
+<string name="event_color_set_to_default">"Saita kalan kalanda zuwa na asali"</string>
+<string name="calendar_color_picker_dialog_title">"Kalan kalanda"</string>
+<string name="calendar_square_color_picker_description">"Mai zabar kala"</string>
+<string name="view_event_response_label">"Lura da?"</string>
+<string name="response_yes">"E"</string>
+<string name="response_maybe">"Watakila"</string>
+<string name="response_no">"A\'a"</string>
+<string name="email_guests_label">Imel ga baki</string>
+<string name="email_organizer_label">"Mashiryin I-mel"</string>
+<string name="email_picker_label">Imel da </string>
+<string name="event_not_found">"Ba a ga aikin ba."</string>
+<string name="map_label">"Taswira"</string>
+<string name="call_label">"Kira"</string>
+<string name="quick_response_settings">"Martanin sauri"</string>
+<string name="quick_response_settings_summary">Gyara martani yayin imel ga baki</string>
+<string name="quick_response_settings_title">"Gyara martanin sauri"</string>
+<string name="quick_response_settings_edit_title">"Martanin sauri"</string>
+<string name="quick_response_dialog_title">Zabi martani na gaggawa</string>
+<string name="quick_response_email_failed">Gaza samun manhajar imel</string>
+<string-array name="quick_response_defaults">
+<item>Aiki bisa lattin wasu yan mintuna</item>
+<item>Kasance a gun nan da mintuna 10.</item>
+<item>Je ka fara ba tare da ni ba.</item>
+<item>Yi hakuri, ba zan iya ba. Dole mu sauya lokaci.</item>
+</string-array>
+<string name="quick_response_custom_msg">"Rubuta naka\u2026"</string>
+<string name="event_info_organizer">"Mai shiryawa/tafiyarwa:"</string>
+<string name="event_info_reminders_label">"Tunatarwa"</string>
+<string name="agenda_today">"Yau, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="agenda_yesterday">"JIYA, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="agenda_tomorrow">"GOBE, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="loading">"Ana daura wa\u2026"</string>
+<string name="show_older_events">"Taba don ka ga sha\'anoni kafin <xliff:g id="oldest_search_range">%1$s</xliff:g>"</string>
+<string name="show_newer_events">"Taba don ka ga sha\'anoni bayan <xliff:g id="newest_search_range">%1$s</xliff:g>"</string>
+<string name="search_title">"Binciki kalandu na"</string>
+<string name="edit_event_label">"Bayanai"</string>
+<string name="edit_label">"Gyara"</string>
+<string name="delete_label">"Goge"</string>
+<string name="save_label">"An yi"</string>
+<string name="discard_label">"Soke"</string>
+<string name="snooze_all_label">"Gyangyadi dukka"</string>
+<string name="dismiss_all_label">"Sallame dukka"</string>
+<string name="snooze_label">"Maimaita kararrwa"</string>
+<string name="does_not_repeat">"Al\'amarin lokaci-daya"</string>
+<string name="endByDate">"; har sai <xliff:g id="date">%s</xliff:g>"</string>
+<plurals name="endByCount">
+<item quantity="one">"; na lokaci guda"</item>
+<item quantity="other">"; don <xliff:g id="number">%d</xliff:g> lokutta"</item>
+</plurals>
+<plurals name="daily">
+<item quantity="one">"Kullum"</item>
+<item quantity="other">"Kowanne <xliff:g id="number">%d</xliff:g> kwanaki"</item>
+</plurals>
+<string name="every_weekday">"Kowace ranar mako (Litinin\u2013Juma\'a)"</string>
+<plurals name="weekly">
+<item quantity="one">"Kowane mako ran <xliff:g id="days_of_week">%2$s</xliff:g>"</item>
+<item quantity="other">"Kowanne <xliff:g id="number">%1$d</xliff:g> makonni ran <xliff:g id="days_of_week">%2$s</xliff:g>"</item>
+</plurals>
+<string name="monthly">"Kowanne wata"</string>
+<string name="yearly_plain">"Duk shekaru"</string>
+<string name="monthly_on_day">"Na wata wata (a rana <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+<string name="yearly">"Na shekara shekara (a <xliff:g id="dates">%s</xliff:g>)"</string>
+<string name="custom" product="tablet">"Dauwamar (ba zai dauwamu akan tablet ba)"</string>
+<string name="custom" product="default">"Dauwamar (ba zai dauwamu akan waya ba)"</string>
+<string name="modify_event">"Canza wannan faruwa kadai."</string>
+<string name="modify_all">"Canza dukkan aukuwa cikin jerrurruka."</string>
+<string name="modify_all_following">"Canza wannan da  dukkan faruwa na gaba."</string>
+<string name="new_event_dialog_label">"Sabuwar aukuwa"</string>
+<string name="new_event_dialog_option">"Sabuwar aukuwa"</string>
+<string name="delete_this_event_title">"A share wannan sha\'ani?"</string>
+<string name="delete_recurring_event_title">"Share <xliff:g id="eventtitle">%s</xliff:g>?"</string>
+<string name="change_response_title">"Canza amsa"</string>
+<string name="menu_general_preferences">"Saitoci na bai daya"</string>
+<string name="menu_about_preferences">"Game da Kalanda"</string>
+<string name="preferences_title">"Saituna"</string>
+<string name="preferences_general_title">"Saitin duba kalanda"</string>
+<string name="preferences_reminder_title">"Ankararwa\u0026 tuni"</string>
+<string name="preferences_hide_declined_title">"Boye al\'amuran da ba a amince ba"</string>
+<string name="preferences_week_start_day_title">"Mako zai fara ranar"</string>
+<string name="preferences_week_start_day_dialog">"Mako zai fara ranar"</string>
+<string name="preferences_clear_search_history_title">"Goge tarihin bincike"</string>
+<string name="preferences_clear_search_history_summary">"Cike duk binciken da ka yi"</string>
+<string name="search_history_cleared">"An goge tarihin bincike."</string>
+<string name="preferences_alerts_title">"Ankararwa"</string>
+<string name="preferences_alerts_vibrateWhen_title">"Jijjiga"</string>
+<string name="preferences_alerts_ringtone_title">"Sauti"</string>
+<string name="preferences_alerts_popup_title">"Sanarwar akwatin nuni"</string>
+<string name="preferences_default_reminder_title">"Mai tuna da lokaci na asali"</string>
+<string name="preferences_default_reminder_dialog">"Mai tuna da lokaci na asali"</string>
+<string name="preferences_use_home_tz_title">"Yi amfani da lokacin yanki na gida"</string>
+<string name="preferences_use_home_tz_descrip">"Yana bijiro kalandu da kuma lokacin sha\'ani a cikin lokacin yankin gidanku yayin da ka ke bulagura"</string>
+<string name="preferences_home_tz_title">"yankin lokaci na gida"</string>
+<string name="preferences_show_week_num_title">"Nuna lambar mako"</string>
+<string name="preferences_about_title">"Game da "</string>
+<string name="preferences_build_version">"Gina juyi"</string>
+<string name="gadget_title">"kalanda"</string>
+<string name="gadget_no_events">"Babu kwanan wata na al\'amura masu zuwa"</string>
+<string name="preferences_experimental_category">"Na gwaji"</string>
+<string name="preferences_reminders_category">"Tunatarwa"</string>
+<string name="preferences_reminders_responded_label">"Tsallake Tunin"</string>
+<string name="preferences_reminders_responded_dialog">"Tsallake Tunin"</string>
+<string name="preferences_reminders_quiet_hours_label">"Awannin shiru"</string>
+<string name="preferences_reminders_quiet_hours_description">"Sanya tunin aiki a shiru zuwa wani lokaci."</string>
+<string name="preferences_reminders_quiet_hours_start">"Farkon awannin shiru"</string>
+<string name="preferences_reminders_quiet_hours_end">"Karshen awannin shiru"</string>
+<string name="preferences_debug_category">Yana cire bug</string>
+<string name="copy_db">"Aika rumbun bayanai"</string>
+<string name="directory_searching_fmt">"Ana bincike <xliff:g id="domain">%s</xliff:g>\u2026"</string>
+<string name="accessibility_remove_attendee">"Cire mahalarci"</string>
+<string name="accessibility_pick_start_date">"Kwanan watan farawa"</string>
+<string name="accessibility_pick_start_time">"Lokacin farawa"</string>
+<string name="accessibility_pick_end_date">"Kwanan watan karewa"</string>
+<string name="accessibility_pick_end_time">"Lokacin karewa"</string>
+<string name="accessibility_pick_time_zone">"Yankin lokaci"</string>
+<string name="accessibility_pick_recurrence">"A maimaita aikin"</string>
+<string name="accessibility_add_reminder">"Kara tuni"</string>
+<string name="accessibility_remove_reminder">"Tunin cirewa"</string>
+<string name="accessibility_add_attendee">"Kara mai halarta"</string>
+<string name="accessibility_sync_cal">"Jona kalanda"</string>
+<string name="accessibility_all_day">"Sha\'anin duk rana"</string>
+<string name="accessibility_repeats">"Maimaitawa"</string>
+<string name="accessibility_reminder_time">"Lokacin tunawa"</string>
+<string name="accessibility_reminder_type">"Nau\'in tunawa"</string>
+<string name="accessibility_reminder_showmeas">"Nuna ni a matsayin"</string>
+<string name="accessibility_reminder_privacy">"Kebanta"</string>
+<string name="acessibility_cal_notification">Ankararwar kalanda</string>
+<string name="acessibility_snooze_notification">Ankararwar maimaici</string>
+<string name="accessibility_email_notification">Imel ga baki</string>
+<string name="day_view_new_event_hint">"+ Sabon sha\'ani"</string>
+<string name="template_announce_item_index">"Taro <xliff:g id="item_index">%1$s</xliff:g> of <xliff:g id="item_count">%2$s</xliff:g>."</string>
+<plurals name="Nevents">
+<item quantity="one"> 1 al\'amura</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> tarurruka"</item>
+</plurals>
+<plurals name="N_remaining_events">
+<item quantity="one"> +1 al\'amura</item>
+<item quantity="other">"+<xliff:g id="count">%d</xliff:g> tarurruka"</item>
+</plurals>
+<string name="acessibility_selected_marker_description">Zababben al\'amari</string>
+<string name="do_not_check">Kar ka bincika -&gt;</string>
+<string name="recurrence_dialog_title">"Maimaita"</string>
+<string name="recurrence_dialog_title_never">"Kar a maimaita sam"</string>
+<plurals name="recurrence_interval_daily">
+<item quantity="one">"kowane <xliff:g id="count">%d</xliff:g> rana"</item>
+<item quantity="other">"Kowane<xliff:g id="count">%d</xliff:g> kwanaki"</item>
+</plurals>
+<plurals name="recurrence_interval_weekly">
+<item quantity="one">"Kowane <xliff:g id="count">%d</xliff:g> mako"</item>
+<item quantity="other">"Kowane <xliff:g id="count">%d</xliff:g> makonni"</item>
+</plurals>
+<plurals name="recurrence_interval_monthly">
+<item quantity="one">"Kowane <xliff:g id="count">%d</xliff:g> wata"</item>
+<item quantity="other">"Kowane <xliff:g id="count">%d</xliff:g> watanni"</item>
+</plurals>
+<plurals name="recurrence_interval_yearly">
+<item quantity="one">"Kowace <xliff:g id="count">%d</xliff:g> shekara"</item>
+<item quantity="other">"Kowane <xliff:g id="count">%d</xliff:g> shekaru"</item>
+</plurals>
+<string name="recurrence_month_pattern_by_day">"A wannan ranar ta kowane wata"</string>
+<string name="recurrence_end_continously">"Sarmadan"</string>
+<string name="recurrence_end_date_label">"Zuwa wani kwanan watan"</string>
+<string name="recurrence_end_date">"Zuwa <xliff:g id="date">%s</xliff:g>"</string>
+<string name="recurrence_end_count_label">"Na adadin wasu ayyukan"</string>
+<plurals name="recurrence_end_count">
+<item quantity="one">"Don <xliff:g id="event_count">%d</xliff:g> aiki"</item>
+<item quantity="other">"Don <xliff:g id="event_count">%d</xliff:g> ayyuka"</item>
+</plurals>
+<string name="acessibility_recurrence_choose_end_date_description">"canza karshen kwanan wata"</string>
+<string name="email_format_err">Kuren yanayin adireshin imel na bako!</string>
+<string name="local_account">"Ma\'ajiya na gida"</string>
+<string name="can_not_synced">"Ba za a iya joni ba"</string>
+<string name="menu_share">"Raba"</string>
+<string name="send_calendar">"Rarraba sha\'ani ta cikin"</string>
+<string name="no_way_to_share_calendar">"Babu wata manhaja da za a rarraba sha\'anin kalanda."</string>
+<string name="ringtone_default_message">Yi hakuri, jakar nauin kararrawar ba ta aiki,an sanya kararrawar wayar ta asali ta zama kararrawar</string>
+<string name="select_date_out_range">"Zabinka na Kwanan watan ba shi a tsakanin nan, tsakanin da ke akwai shi ne 1970-2037."</string>
+<string name="title_too_long">Bayanin yai tsawo sosai</string>
+<string name="type_vcalendar">"kalanda"</string>
+<string name="import_vcalendar">"\'\'A shigo da Kalanda?\'\'"</string>
+<string name="parse_fail">"Raba fayil ya gaza!"</string>
+<string name="import_error">"Aikin shigowa ya gaza!"</string>
+<string name="import_waiting">"\'\'Ana shigowa da, jira…\'\'"</string>
+<string name="import_ok">"Shigo da abin ya yi nasara!"</string>
+<string name="import_type_error">"Nau\'in asusu don hada hadar shigowa da babu shi a cikin wannan kalanda"</string>
+<string name="no_exist_accounts">Babu ma\'ajiyar kalanda. Ka kara ma\'ajiya!</string>
+<string name="application_stop">"Masarrafin da zai iya wannan aikin ba a gan shi ba"</string>
+<string name="error_permissions">"Manhajar ba ta da tabbataccen izinin da ake bukata don tafiyarwa. Duba saitukan izinin ka."</string>
+<string name="dialog_dismiss">"Sallama"</string>
+<string name="toast_calendar_internal_error">"Matsalar ciki ta auku a kalanda!"</string>
+<string name="not_save_event">"Karshen kwanan wata ba a  bar shi ya adana wannan aikin ba"</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ucomm.sns</string>
+    <string name="sns_label_sina">新浪微博</string>
+    <string name="sns_label_sohu">搜狐微博</string>
+    <string name="sns_label_tencent">騰訊微博</string>
+    <string name="sns_label_qzone">QQ空間</string>
+    <string name="sns_label_renren">人人網</string>
+    <string name="sns_label_kaixin">開心網</string>
+    <string name="sns_label_facebook">Facebook</string>
+    <string name="sns_label_tumblr">Tumblr</string>
+    <string name="sns_label_flickr">Flickr</string>
+    <string name="sns_label_twitter">Twitter</string>
+    <string name="sns_label_mixi">Mixi</string>
+    <string name="sns_label_share">立即分享</string>
+    <string name="sns_label_account_setup">賬號設置</string>
+    <string name="sns_label_more_share">更多分享</string>
+    <string name="sns_label_bind">綁定</string>
+    <string name="sns_label_unbind">解除綁定</string>
+    <string name="sns_label_hide_location">不顯示地理位置</string>
+    <string name="sns_msg_getting_location">正在獲取地理位置信息…</string>
+    <string name="sns_msg_please_choose_share_account">請選擇要分享的賬號。</string>
+    <string name="sns_msg_missing_share_pic">請點擊縮略圖選擇圖片，然後分享</string>
+    <string name="sns_msg_fail_login">無法登錄，請稍後重試。</string>
+    <string name="sns_msg_connecting">正在連接…</string>
+    <string name="sns_msg_loading">正在加載…</string>
+    <string name="sns_msg_network_unavailable">網絡不可用，請稍後重試</string>
+    <string name="sns_msg_from_ucam">來自UCam全能相機</string>
+    <string name="sns_title_account_settings">賬號設置</string>
+    <string name="sns_title_share_to">分享到:</string>
+    <string name="sns_title_share">分享</string>
+    <string name="sns_title_sync">社區分享</string>
+    <string name="sns_title_login">登錄</string>
+    <string name="sns_title_privacy">隱私保密聲明</string>
+    <string name="sns_msg_privacy">保護用戶隱私是UCam的一項基本政策。 \n
+        UCam使用OAuth等安全協議訪問SNS站點，因此不直接涉及您的賬戶信息。 \n
+        UCam向您鄭重承諾除法律規定、政府主管部門要求或您書面同意外，UCam將嚴格保密有關您的一切賬戶信息。</string>
+    <string name="sns_ucam_link">"&lt;a href=\"http://www.u-camera.com\" &gt;UCam全能相機&lt;/a&gt;</string>
+    <string name="sns_ucam_share">#UCam照片分享#</string>
+    <string name="sns_toast_location_error">獲取地理位置信息失敗</string>
+    <string name = "text_activity_is_not_found">沒有找到合適的應用</string>
+    <string name = "text_edit_share_title">使用以下方式打開</string>
+    <string name="edit_operation_failure_tip">操作失敗。</string>
+
+    <!-- SPRD:fix bug523252 -->
+    <string name="sns_label_qqvatar">QQ頭像</string>
+    <string name="sns_label_friends">朋友圈</string>
+    <string name="sns_label_weixin">微信好友</string>
+    <string name="sns_label_qq">QQ頭像</string>
+    <string name="sns_msg_weixin_notinstall">微信沒有安裝，請先安裝</string>
+    <string name="sns_title_print">列印/預覽</string>
+    <string name="sohu400">5分鐘內不能分享重複內容</string>
+    <string name="sns_share_type_time">即時分享</string>
+    <string name="sns_share_type_onekey">一鍵分享</string>
+    <string name="sns_share_select_hint">親，點這裡\n可換圖片哦</string>
+    <string name="text_image_share_damage">無法分享此圖片</string>
+    <string name="sns_share_failed">分享失敗</string>
+
+</resources>

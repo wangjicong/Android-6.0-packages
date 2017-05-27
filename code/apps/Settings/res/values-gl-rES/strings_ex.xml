@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">Axustes USB</string>
+<string name="usb_charge_only">Só carga</string>
+<string name="usb_charge_only_summary">Usar carga só no modo cando o USB  está conectado</string>
+<string name="usb_charge_only_storage_active_subtext">Non pode cargar só cando a memoria USB está en uso</string>
+<string name="usb_charge_only_notification">Conectado só como unha carga</string>
+<string name="usb_storage">Almacenamento USB</string>
+<string name="usb_storage_summary">Habilitar a memoria USB</string>
+<string name="ums_settings">"Axustes UMS"</string>
+<string name="ums_mounted_setting">"Monte o UMS no PC ágora, esperando..."</string>
+<string name="ums_unmounted_setting">"Desmontar o UMS do PC ágora, espere..."</string>
+<string name="usb_virtual_drive">"Accionamento virtual USB"</string>
+<string name="usb_virtual_drive_summary">"Habilite o accionamento virtual USB"</string>
+<string name="remember_choice">Recordar a miña elección</string>
+<string name="remember_choice_summary">Recordar a miña elección e iniciar a función recordada automaticamente para a próxima vez</string>
+<string name="stand_by_set_changed_prompt">"O estado de activación da SIM cambiará, ¿confirme si desexa continuar?</string>
+<string name="not_stand_by">PROHIBIDO</string>
+<string name="primary_card_switching">"Axustando, \uff0espere..."</string>
+<string name="toggle_data_change_message">A conexión de datos cambiouse a tarxeta SIM <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, isto producirá un transvase de datos e cargas correlativas, que debe ter en conta.</string>
+<string name="select_primary_card">Seleccionar tarxeta primaria</string>
+<string name="whether_switch_primary_card">"¿Confirme si ó cambiar a tarxeta primaria a esta tarxeta?\n(Datos celulares tamén cambiará a tarxeta.)"</string>
+<string name="attention">Atención</string>
+<string name="bt_softap_cannot_coexist">"Cando a softap está habilitado ou se esta a acender, o bluetooth non funcionará, se quere usar o bluetooth, asegúrese de que a softap  está deshabilitada."</string>
+<string name="softap_bt_cannot_coexist">"Cando o Bluetooth está habilitado ou se esta a acender, a softap non funcionará, se quere usar a softap, asegúrese de que o Bluetooth  está deshabilitado."</string>
+<string name="softap_need_mobile_data_enabled">"O punto de acceso Wi-Fi require a conexión dos datos móbiles, isto pode crear custes adicionais."</string>
+<string-array name="light_color_picker">
+<item>Verde</item>
+<item>Azul</item>
+<item>Índigo</item>
+<item>Púrpura</item>
+<item>Rosa</item>
+<item>Vermello</item>
+<item>Amarelo</item>
+</string-array>
+</resources>

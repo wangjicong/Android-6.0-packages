@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB nastavitve"</string>
+<string name="usb_charge_only">"Samo polnjenje"</string>
+<string name="usb_charge_only_summary">"Uporabite polnjenje samo, ko je USB povezan"</string>
+<string name="usb_charge_only_storage_active_subtext">"Ne morem polniti; samo, ko je USB pomnilnik v uporabi"</string>
+<string name="usb_charge_only_notification">"Samo polnjenje"</string>
+<string name="usb_storage">"Pomnilnik USB"</string>
+<string name="usb_storage_summary">"Omogoči masovni pomnilnik USB"</string>
+<string name="ums_settings">"UMS nastavitve"</string>
+<string name="ums_mounted_setting">"Nameščanje ums na PC, prosimo počakajte..."</string>
+<string name="ums_unmounted_setting">"Odstranjevanje ums z PCja, prosimo počakajte..."</string>
+<string name="usb_virtual_drive">"navidezni USB pogon"</string>
+<string name="usb_virtual_drive_summary">"Omogoči virtualni USB pogon"</string>
+<string name="remember_choice">"Zapomni si mojo izbiro"</string>
+<string name="remember_choice_summary">"Zapomni si izbiro in naslednjič samodejno zaženi izbrano funkcijo"</string>
+<string name="stand_by_set_changed_prompt">"Stanje aktivacije sim se bo spremenilo, prosimo potrdite za nadaljevanje."</string>
+<string name="not_stand_by">"PREPOVEDANO"</string>
+<string name="primary_card_switching">"Nastavitev\uff0cprosim, počakajte..."</string>
+<string name="toggle_data_change_message">"Prenos podatkov je bil preklopljen na kartico sim <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, bodite pozorni, da so je tak prenos podatkov lahko plačljiv."</string>
+<string name="select_primary_card">"Izberite primarno kartico"</string>
+<string name="whether_switch_primary_card">"Prosim, potrdite preklop primarne kartice na to kartico.\n(Mobilni podatki bodo prav tako premaknjeni na to kartico.)"</string>
+<string name="attention">"Pozor"</string>
+<string name="bt_softap_cannot_coexist">"Ko je softap omogočen ali se vklaplja, bluetooth ne deluje. Če hočete uporabiti bluetooth, najprej onemogočite softap."</string>
+<string name="softap_bt_cannot_coexist">"Ko je bluetooth vklopkljen ali se vklaplja, softap ne more delovati. Če želite uporabiti softap, se prepričajte, da je bluetooth izklopljen."</string>
+<string name="softap_need_mobile_data_enabled">"Prenosna dostopna točka za Wi-Fi potrebuje podatkovni prenosm kar lahko povzroči dodatne stroške."</string>
+<string-array name="light_color_picker">
+<item>"Zelena"</item>
+<item>"Modra"</item>
+<item>"Indigo"</item>
+<item>"Vijolična"</item>
+<item>"Rožnata"</item>
+<item>"Rdeča"</item>
+<item>"Rumena"</item>
+</string-array>
+</resources>

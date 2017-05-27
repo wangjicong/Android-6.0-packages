@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">Lahat ng palabas</string>
+    <string name="messageAO">Ilagay ang password na humaharang sa tawag.</string>
+    <string name="sum_ao_enabled_indicator">"Pinapasa lahat ng tawag"</string>
+    <string name="sum_ao_enabled">Gumagana</string>
+    <string name="sum_ao_disabled">Di-gumagana</string>
+    <string name="enable_ao_forbidden">Hindi sinusuportahan ng carrier mo pagpagana ng barring sa lahat ng papalabas na tawag.</string>
+    <string name="disable_ao_forbidden">Hindi sinusuportahan ng carrier mo ang pag-aktiba sa lahat.Hindi sinusuportahan ng carrier mo hindi pagpagana sa barring ng lahat ng mga papalabas na tawag.</string>
+    <string name="labelOI">Papalabas na tawag internasyunal</string>
+    <string name="messageOI">Ilagay ang password na humaharang sa tawag.</string>
+    <string name="sum_oi_enabled">Gumagana</string>
+    <string name="sum_oi_disabled">Di-gumagana</string>
+    <string name="enable_oi_forbidden">Hindi sinusuportahan ng carrier mo pagpagana ng barring sa mga  papalabas na internasyunal na tawag kapag naka-roaming na tawag.</string>
+    <string name="disable_oi_forbidden">Hindi sinusuportahan ng carrier mo hindi pagpagana papalabas na internasyunal na tawag.</string>
+    <string name="labelOX">Papalabas na tawag sa roaming internasyunal</string>
+    <string name="messageOX">Ilagay ang password na humaharang sa tawag.</string>
+    <string name="sum_ox_enabled">Gumagana</string>
+    <string name="sum_ox_disabled">Di-gumagana</string>
+    <string name="enable_ox_forbidden">Hindi sinusuportahan ng carrier mo pagpagana ng barring sa  papalabas na internasyunal na tawag kapag naka-roaming na tawag.</string>
+    <string name="disable_ox_forbidden">Hindi sinusuportahan ng carrier mo hindi pagpagana sa paghadlang sa papalabas na internasyunal na roaming na tawag.</string>
+    <string name="labelAI">Lahat ng papasok</string>
+    <string name="messageAI">Ilagay ang password na humaharang sa tawag.</string>
+    <string name="sum_ai_enabled">Gumagana</string>
+    <string name="sum_ai_disabled">Di-gumagana</string>
+    <string name="enable_ai_forbidden">Hindi sinusuportahan ng carrier mo pagpagana ng barring sa lahat ng papasok na tawag.</string>
+    <string name="disable_ai_forbidden">Hindi sinusuportahan ng carrier mo hindi pagpagana sa barring ng lahat ng mga papasok na tawag.</string>
+    <string name="labelIR">Mga tawag kapag nag-roaming</string>
+    <string name="messageIR">Ilagay ang password na humaharang sa tawag.</string>
+    <string name="sum_ir_enabled">Gumagana</string>
+    <string name="sum_ir_disabled">Di-gumagana</string>
+    <string name="enable_ir_forbidden">Hindi sinusuportahan ng carrier mo pagpagana ng barring sa mga  papasok na tawag kapag naka-roaming na tawag.</string>
+    <string name="disable_ir_forbidden">Hindi sinusuportahan ng carrier mo hindi pagpagana sa barring ng mga papasok na tawag kapag may tawag na naka-roaming.</string>
+    <string name="labelAB">Itigil lahat</string>
+    <string name="messageAB">Ilagay ang password na humaharang sa tawag.</string>
+    <string name="sum_ab_enabled">Gumagana</string>
+    <string name="sum_ab_disabled">Di-gumagana</string>
+    <string name="enable_ab_forbidden">Hindi sinusuportahan ng carrier mo ang pag-deaktiba sa lahat.</string>
+    <string name="disable_ab_forbidden">Hindi sinusuportahan ng carrier mo ang pag-aktiba sa lahat.</string>
+    <string name="labelChgPwd">Baguhin ang password</string>
+    <string name="DlgChgPwd_oldpwd">Ilagay ang password na humaharang sa tawag.</string>
+    <string name="DlgChgPwd_newpwd_first">Ilagay ang bagong password</string>
+    <string name="DlgChgPwd_newpwd_last">"Kumpirmahin ang bagong password:"</string>
+    <string name="cb_pw_no_match">"Hindi magkatugma ang password"</string>
+    <string name="cb_pw_error">"Mali ang password"</string>
+    <string name="cb_pw_correct">"Ang password ay binago"</string>
+    <string name="labelCB">"Pag-bar ng tawag"</string>
+    <string name="call_barring_settings">Mga setting ng pagharang sa tawag</string>
+    <string name="cb_error">Tinanggihan ang pagharang sa tawag</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Ang network ay hindi naka-on. Gusto mo bang itakda ang istado ng network?"</string>
+     <string name="dialog_network_selection_title">"Atensiyon"</string>
+     <string name="dialog_network_selection_message">"Ang mobile na telepono ay hindi pumili ng ibang mga operetor para sa iyo na ang moda ay seleksyon na manwal. Kung minsan ikaw ay kailangan magsagawa ng manwal na seleksyon uli o magpalit uli sa moda ng awtomatik na seleksyon kung ikaw ay nawalan ng serbisyo ng piniling operetor. Inirekomenda namin na gumamit ka ng "Awtomatikang Pumili". Gusto mo bang pumili ng network na manwal?"</string>
+     <string name="network_unknown">Di-matukoy</string>
+     <string name="network_inhibit">"PINAGBABAWAL"</string>
+     <string name="ip_dialing_title">Pag-dial ng IP</string>
+     <string name="ip_dialing_list_title">Listahan sa Dial ng IP</string>
+     <string name="ip_no_number">"Kulang ng unlapi sa IP"</string>
+     <string name="ip_no_number_msg">"Unlapi ng IP ay hindi naka-imbak sa phone."</string>
+     <string name="ip_number_empty_loading">"Ang IP dayal listahan ay walang laman"</string>
+     <string name="remove">"Alisin"</string>
+     <string name="ip_number_is_too_long">"IP dial na mga numero ay hindi hihigit sa 20."</string>
+     <string name="add_ip_number_str">"Bago"</string>
+     <string name="ip_dialing_num_error">Maaari lamang I-save ang 10 na numero ng IP</string>
+     <string name="ip_dialing_num_repeat">Ulitin nag numero, dagdag bigo</string>
+     <string name="menu_selected_all">"Piliin lahat"</string>
+     <string name="menu_select_none">Tanggalin lahat sa pagkakapili</string>
+     <string name="doneButton">"Tapos na"</string>
+     <string name="cancel">"Kanselahin"</string>
+     <string name="uplmn_setting_title">"Mga Kagustuhan"</string>
+     <string name="uplmn_setting">"UPLMN na mga Setting"</string>
+     <string name="uplmn_index">"Indeks (mula sa 0):"</string>
+     <string name="uplmn_id">"Numero ng ID:"</string>
+     <string name="uplmn_type">"Uri (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">Paki pasok ng USIM kard at paki-ulit.</string>
+     <string name="index_error_uplmn">"Index walang laman, subukang muli!"</string>
+     <string name="type_is_emplty_error_uplmn">"sulat walang laman. Subukang muli!"</string>
+     <string name="number_too_short_uplmn">"Ang numero ng ID ay sobrang maiksi, subukang muli!"</string>
+     <string name="type_is_wrong_uplmn">"Sulay ay kailangang 1 o 0. Subukang muli!"</string>
+     <string name="fail_uplmn">"Bigo at subukang muli"</string>
+     <string name="set_uplmn_unsuccessful">"Pagtatalaga uplmn bigo!"</string>
+     <string name="menu_new_uplmn">"Bagong UPLMN"</string>
+     <string name="menu_delete_uplmn">"Tanggalin ang UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"Bilang ay lumagpas sa kapasidad ng sim!"</string>
+     <string name="delete">"Tanggalin"</string>
+     <string name="delete_uplmn_successfully">"Matagumpay na natanggal ang uplmn"</string>
+     <string name="id_is_wrong_uplmn">"Ang ID ay dapat nakatakda sa isang numero!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Pumili ng moda ng network"</string>
+     <string name="lte_service_switch">"Nagtatakda, mangyaring maghintay..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G Multi na moda"</item>
+        <item>"3G/2G na moda lang"</item>
+        <item>"2G na Moda lamang"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G Multi na moda"</item>
+        <item>"3G/2G na moda lang"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"GSM lang"</item>
+        <item>"WCDMA lang"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Awto)"</item>
+    </string-array>
+     <string name="fast_dial_settings">Mga setting sa mabilis na pag-dial</string>
+     <string name="delete_fastdial">alisin ang mabilis na dial</string>
+     <string name="update_fastdial">I-update ang mabilis na dial</string>
+     <string name="no_sim_text">"Mangyaring ilagay o ilunsad ang SIM kard"</string>
+     <string name="network_not_on">"Ang network ay hindi naka-on. Gusto mo bang itakda ang istado ng network?"</string>
+     <string name="one_key_locked_notification">"Ang uri na ito ay naka-DI-SARADO, Gusto mo bang isasara ito?"</string>
+     <string name="one_key_unlocked_notification">"Ang uri na ito ay naka-SARADO, Gusto mo bang i-di-sarado ito?"</string>
+     <string name="one_key_unlocked">"I-unlock"</string>
+     <string name="one_key_locked">"Lock"</string>
+     <string name="one_key_operation_success">"Ang operasyon ay matagumpay, kailangan patayin at paandarin uli ngayon."</string>
+     <string name="one_key_operation_unsuccess">"Ang operasyon ay hindi matagumpay, pwede mong subukan ulit!"</string>
+     <string name="one_key_query_unsuccess">"Ang Query simlock na uri ay bigo!"</string>
+     <string name="one_key_simlock_setting">"Seting ng SIMLOCK"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Seradura ng Network"</item>
+        <item>"Seradura ng bahagi ng Network"</item>
+        <item>"Seradura ng Service Provider"</item>
+        <item>"Seradura ng Korporeyt"</item>
+        <item>"Nakasarado na SIM"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Seting ng pag-bar sa mga papasok na tawag"</string>
+     <string name="callout_barring_settings">"Seting ng pag-bar sa mga palabas na tawag"</string>
+     <string name="labelCOUT">"Pag-bar ng mga palabas na tawag"</string>
+     <string name="labelCIN">"Pag-bar ng mga papasok"</string>
+     <string name="no_sim_text">"Mangyaring ilagay o ilunsad ang SIM kard"</string>
+     <string name="sim_lock_none">"Walang SIM na naka-sarado."</string>
+     <string name="sim_lock_try_later">"Mangyaring subukan ito sa ibang pagkakataon."</string>
+     <string name="edit_and_save_fdn">I-edit ang Numero ng Fdn</string>
+     <string name="call_fdn_number_by_sim">"Tawag"</string>
+     <string name="vt_call_fdn_numberr_by_sim">VT na Tawag</string>
+     <string name="airplane_changed_on">"Na-on ang Airplane mode."</string>
+     <string name="number_empty">"Numero walang laman"</string>
+     <string name="unblock_pin2">"I-unblock ang PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Ipasok ang PUK2 para mai-unblock ang iyong SIM kard"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> naiwang pagsubok(s))"</string>
+     <string name="oldPin2_Label">"Luma PIN2 (<xliff:g>%s</xliff:g> naiwang pagsubok(s))"</string>
+     <string name="puk2_code_label">"Isulat Kodigo PUK2 code (<xliff:g>%s</xliff:g> naiwang pagsubok(s))"</string>
+     <string name="promptWordOne">"Nalalabi&#160;"</string>
+     <string name="promptWordTwo">"&#160;na ulit"</string>
+     <string name="adn_full">"FDN listahan ay puno"</string>
+     <string name="no_available_phone_accounts">"Walang bakanteng pantawag na mga account"</string>
+     <string name="lnd_list">"lista ng LDN"</string>
+     <string name="sdn_list">"lista ng SDN"</string>
+     <string name="sim_list_title">Maaaring pumili ng SIM card</string>
+     <string name="wait_message">"Pakihintay..."</string>
+     <string name="menu_call">"Tawagan ang kontak"</string>
+     <string name="lnd_no_contact_record">Walang tala sa LND sa SIM card na ito.</string>
+     <string name="sdn_no_contact_number">Ang SIM card na ito ay hindi sumusuporta sa numero ng SDN.</string>
+     <string name="remove">"Alisin"</string>
+     <string name="delete_selected_contents">Gusto mong alisin ang mga  napiling mga nilalaman?</string>
+     <string name="sim_notready_can_not_delete">Dahil and sim card ay hindi handa, kaya hindi makapag-alis.</string>
+     <string name="contact_del_failed">Pag-aalis Nabigo</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Upang mag-set up ng voicemail, pumunta sa Menu &gt; Mga Setting."</string>
+     <string name="simlock_unlocked">"Ang simlock ay naka di-sarado"</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"WCDMA lang"</item>
+        <item>"GSM lang"</item>
+        <item>"AUTO"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"GSM lang"</item>
+    </string-array>
+</resources>

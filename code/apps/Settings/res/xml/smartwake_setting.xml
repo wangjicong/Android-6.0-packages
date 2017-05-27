@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/smartwake_settings"
+        android:key="smartwake_set"
+        xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+
+	<CheckBoxPreference android:key="gesture_smartwake"
+		android:title="@string/gesture_smartwake"
+		android:summaryOn="@string/gesture_smartwake_summaryOn"
+		android:summaryOff="@string/gesture_smartwake_summaryOff"
+	/>
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries_onoff"
+        	android:entryValues="@array/smartwake_entries_onoff_value"
+	        android:key="smartwake_changemusic"
+	        android:persistent="false"
+	        android:title="@string/smartwake_change_music" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries_onoff"
+        	android:entryValues="@array/smartwake_entries_onoff_value"
+	        android:key="smartwake_doubleclick"
+	        android:persistent="false"
+	        android:title="@string/smartwake_double_click" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries"
+        	android:entryValues="@array/smartwake_entries_value"
+	        android:key="smartwake_up"
+	        android:persistent="false"
+	        android:title="@string/smartwake_up" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries"
+        	android:entryValues="@array/smartwake_entries_value"
+	        android:key="smartwake_down"
+	        android:persistent="false"
+	        android:title="@string/smartwake_down" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries"
+        	android:entryValues="@array/smartwake_entries_value"
+	        android:key="smartwake_c"
+	        android:persistent="false"
+	        android:title="@string/smartwake_c" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries"
+        	android:entryValues="@array/smartwake_entries_value"
+	        android:key="smartwake_e"
+	        android:persistent="false"
+	        android:title="@string/smartwake_e" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries"
+        	android:entryValues="@array/smartwake_entries_value"
+	        android:key="smartwake_m"
+	        android:persistent="false"
+	        android:title="@string/smartwake_m" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries"
+        	android:entryValues="@array/smartwake_entries_value"
+	        android:key="smartwake_o"
+	        android:persistent="false"
+	        android:title="@string/smartwake_o" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries"
+        	android:entryValues="@array/smartwake_entries_value"
+	        android:key="smartwake_s"
+	        android:persistent="false"
+	        android:title="@string/smartwake_s" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries"
+        	android:entryValues="@array/smartwake_entries_value"
+	        android:key="smartwake_v"
+	        android:persistent="false"
+	        android:title="@string/smartwake_v" />
+
+        <ListPreference
+	        android:dialogTitle="@string/smartwake_feature_selection"
+	        android:entries="@array/smartwake_entries"
+        	android:entryValues="@array/smartwake_entries_value"
+	        android:key="smartwake_w"
+	        android:persistent="false"
+	        android:title="@string/smartwake_w" />
+
+		<ListPreference
+			android:dialogTitle="@string/smartwake_feature_selection"
+			android:entries="@array/smartwake_entries"
+			android:entryValues="@array/smartwake_entries_value"
+			android:key="smartwake_z"
+			android:persistent="false"
+			android:title="@string/smartwake_z" />
+</PreferenceScreen>

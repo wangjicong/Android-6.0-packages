@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">""налаштування IP набору" "</string>
+    <string name="ip_dial_menu">"IP набір"</string>
+    <string name="ip_dialing_title">"IP набір номера"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE -->
+    <string name="fast_dial_title">"налаштування швидкого набору"</string>
+    <string name="no_fast_dial_number">"номер швидкого набору не встановлений"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">Вихідний</string>
+     <string name="call_log_incoming_title">Вхідні</string>
+     <string name="recentOutgoing_empty">"У вас немає вихідних дзвінків"</string>
+     <string name="recentIncoming_empty">"У вас немає вхідних дзвінків"</string>
+     <string name="view_setting">"дивитися"</string>
+     <string name="item_all_calls">Усі журнали викликів</string>
+     <string name="item_sim_calls">Журнали викликів SIM %d</string>
+     <string name="unselect_all">"всі замовлені"</string>
+     <string name="select_all_sprd">"Вибрати все"</string>
+     <string name="doneButton">"Виконано"</string>
+     <string name="cancel">"    скасувати"</string>
+     <string name="delete_selected_calls">"Впевнені, що хочете видалити вибрані записи?"</string>
+     <string name="clearCallLogProgress_title">"Очищення журналу викликів..."</string>
+     <string name="delete_success">"Вдало видалено"</string>
+     <string name="clear_all_call_log">Видалити всі журнали викликів</string>
+     <string name="clear_selected_call_log">Видалити обраний журнал викликів</string>
+     <string name="select_all">"Вибрати все"</string>
+     <string name="unselect_all">"Відмінити все"</string>
+     <string name="delete_all_calls_confirm">Ви хочете видалити усі Ваші записи?</string>
+     <string name="do_not_select">"Ви не вибрали запис, який потрібно видалити"</string>
+     <string name="delete_calls">"видалити "</string>
+     <string name="number_anr_isnull">"Номер контакту порожній"</string>
+     <string name="call_recording_setting_title">"Запис викликів"</string>
+     <string name="automatic_recording_title">"Автоматичний запис"</string>
+     <string name="dialog_phone_permission_deny">"Для використання IP- дозвону,\n необхідно активувати дозвіл цієї функції"</string>
+     <string name="search_description">"Пошук CallLog"</string>
+     <string name="call_log_add_to_blacklist">"У чорний список"</string>
+     <string name="make_video_call_menu">"Здійснити відеодзвінок"</string>
+
+</resources>

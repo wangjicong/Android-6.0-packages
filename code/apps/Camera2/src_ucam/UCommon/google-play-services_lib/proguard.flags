@@ -1,0 +1,7 @@
+#
+# Copyright (C) 2011,2013 Thundersoft Corporation
+# All rights Reserved
+#
+
+-dontwarn com.google.android.gms.**
+-keep class com.google.android.gms.** {*;}

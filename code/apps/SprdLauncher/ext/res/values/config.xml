@@ -1,0 +1,24 @@
+<resources>
+    <integer name="folder_line_num">3</integer>
+    <!-- Default folder model is from arrays.xml, folder_model_values -->
+    <string name="default_folder_model" translatable="false">Grid</string>
+
+    <!-- Default settings of unread function -->
+    <bool name="config_default_unread_call_enable">false</bool>
+    <bool name="config_default_unread_sms_enable">false</bool>
+    <bool name="config_default_unread_email_enable">false</bool>
+    <bool name="config_default_unread_calendar_enable">false</bool>
+
+    <!--SPRD Add for dynamic icon feature start-->
+    <bool name="config_hide_dynamic_icon_settings">false</bool>
+    <bool name="config_show_dynamic_calendar">false</bool>
+    <bool name="config_show_dynamic_clock">false</bool>
+
+    <string name="custom_dynamic_clock" translatable="false">com.google.android.deskclock/com.android.deskclock.DeskClock</string>
+    <string name="custom_dynamic_calendar" translatable="false">com.google.android.calendar/com.android.calendar.AllInOneActivity</string>
+
+    <!--SPRD Add for dynamic icon feature end-->
+
+    <!--add for circular sliding-->
+    <bool name="allow_circle_slide">false</bool>
+</resources>

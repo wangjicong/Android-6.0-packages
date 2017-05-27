@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!-- This is a place for vendor-specific config values. The format and
+     filtering rules are the same as those in carrier_config*.xml files. This
+     file is read after any specific config file from the assets folder, so it
+     must use explicit filters for MCC ad MNC if that is desired. -->
+<carrier_config_list>
+    <carrier_config>
+      <!-- SPRD: bug#474283, add for IP-DIAL FEATURE @{ -->
+      <boolean name ="ip_dial_enabled_bool" value="false" />
+      <!-- SPRD: modify for bug 494075 @{ -->
+      <boolean name ="hspaDataDistinguishable" value="false"/>
+      <!-- @} -->
+      <!-- SPRD: modify for bug 495057 @{ -->
+      <boolean name="mobile_network_support_wcdma_only" value="true" />
+      <!-- SPRD: modify for bug 494056 -->
+      <string name ="operator_separator_label">|</string>
+      <!-- SPRD: modify for bug 494698 @{ -->
+      <boolean name="systemui_carrier_label_with_simcolor_bool" value="false" />
+      <boolean name="show_eccbutton_lockscreen_bool" value="true" />
+      <!-- @} -->
+      <!-- SPRD: Flip to silence from incoming calls. See bug473877 -->
+      <boolean name="flip_to_silent_incoming_call_enabled_bool" value="true"/>
+      <!-- SPRD: screen off 5s after call connection. See bug #503700 -->
+      <boolean name="screen_off_in_active_call_state_bool" value="false" />
+      <!-- SPRD: add for STK feature. @{ -->
+      <boolean name="stk_setupcall_nocnf_bool" value="false" />
+      <boolean name="stk_refresh_notoast_bool" value="false" />
+      <boolean name="stk_sendsms_notoast_bool" value="false" />
+      <boolean name="stk_callcontrol_showid_bool" value="false" />
+      <boolean name="stk_endsession_tomainmenu_bool" value="false" />
+      <boolean name="stk_name_fromsetupmenu_bool" value="false" />
+      <boolean name="stk_nameandicon_config_bool" value="false" />
+      <!-- @} -->
+      <!-- SPRD: Add for Apn and Data pop up. Bug:509845 -->
+      <boolean name ="feature_data_and_apn_pop_bool" value="false"/>
+
+      <!-- SPRD: modify for bug513637 -->
+      <boolean name="set_data_and_set_primarycard_merge_bool" value="false" />
+
+      <!-- SPRD: National Data Roaming. @{ -->
+      <boolean name="national_data_roaming_bool" value="false" />
+      <!-- @} -->
+    </carrier_config>
+
+    <!-- SPRD: modify for bug 494075 @{ -->
+    <carrier_config operator="vodafone">
+      <boolean name ="hspaDataDistinguishable" value="true"/>
+      <!-- SPRD: add for STK feature. @{ -->
+      <boolean name="stk_name_fromsetupmenu_bool" value="true" />
+      <!-- @} -->
+    </carrier_config>
+    <!-- @} -->
+
+    <!-- SPRD: modify for bug 490243@{ -->
+    <carrier_config operator="telcel">
+        <boolean name="mobile_network_support_3g_only_2g_only" value="true"/>
+    </carrier_config>
+    <!-- @} -->
+
+    <!-- SPRD: add for STK feature. @{ -->
+    <carrier_config operator="orange">
+        <boolean name="stk_setupcall_nocnf_bool" value="true"/>
+        <boolean name="stk_refresh_notoast_bool" value="true"/>
+        <boolean name="stk_sendsms_notoast_bool" value="true"/>
+        <boolean name="stk_callcontrol_showid_bool" value="true"/>
+        <boolean name="stk_endsession_tomainmenu_bool" value="true"/>
+    </carrier_config>
+    <!-- @} -->
+
+    <!-- SPRD: add for STK feature. @{ -->
+    <carrier_config operator="cucc">
+        <boolean name="stk_nameandicon_config_bool" value="true"/>
+    </carrier_config>
+    <!-- @} -->
+</carrier_config_list>

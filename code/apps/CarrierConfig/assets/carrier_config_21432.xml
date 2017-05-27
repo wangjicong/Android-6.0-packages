@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config spn="Tuenti">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Tuenti</string>
+        <string name="vmnumber">22123</string>
+    </carrier_config>
+</carrier_config_list>

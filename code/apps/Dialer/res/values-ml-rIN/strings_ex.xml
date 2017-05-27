@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IPഡയല്‍ ക്രമീകരണങ്ങള്‍"</string>
+    <string name="ip_dial_menu">"IPഡയല്‍"</string>
+    <string name="ip_dialing_title">"IP ഡയലിങ്ങ്"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"അതിവേഗ ഡയല്‍ ക്രമീകരങ്ങള്‍"</string>
+    <string name="no_fast_dial_number">"അതിവേഗ ഡയല്‍ നമ്പര്‍ ക്രമീകരിച്ചിട്ടില്ല."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"പുറത്തേക്കുള്ളവ"</string>
+     <string name="call_log_incoming_title">"ഇന്‍കമിംഗ്"</string>
+     <string name="recentOutgoing_empty">"നിങ്ങള്‍ക്ക് ഔട്ട്ഗോയിംഗ് കോളുകള്‍ ഒന്നുമില്ല.."</string>
+     <string name="recentIncoming_empty">"നിങ്ങള്‍ക്ക് ഇന്‍കമിംഗ് കോളുകള്‍ ഒന്നുമില്ല.."</string>
+     <string name="view_setting">"കാണുക"</string>
+     <string name="item_all_calls">"എല്ലാ കോള്‍ ലോഗുകളും"</string>
+     <string name="item_sim_calls">"SIM%d കോള്‍ ലോഗുകള്‍"</string>
+     <string name="unselect_all">"എല്ലാം അണ്‍സെലക്ട് ചെയ്യുക"</string>
+     <string name="select_all_sprd">എല്ലാം തെരഞ്ഞെടുക്കുക</string>
+     <string name="doneButton">ചെയ്തു കഴിഞ്ഞു</string>
+     <string name="cancel">"റദ്ദാക്കുക"</string>
+     <string name="delete_selected_calls">"തെരഞ്ഞെടുത്ത റെക്കോഡുകള്‍ ഡെലീറ്റ് ചെയ്യണമെന്ന് തീര്‍ച്ചയാണോ?"</string>
+     <string name="clearCallLogProgress_title">"കോള്‍ ലോഗ് ഇല്ലാതാക്കുന്നു\u2026"</string>
+     <string name="delete_success">"വിജയകരമായി ഇല്ലാതാക്കി"</string>
+     <string name="clear_all_call_log">"എല്ലാ കോള്‍ ലോഗുകളും നീക്കുക"</string>
+     <string name="clear_selected_call_log">"തെരഞ്ഞെടുത്ത കോള്‍ ലോഗുകള്‍ നീക്കുക"</string>
+     <string name="select_all">എല്ലാം തെരഞ്ഞെടുക്കുക</string>
+     <string name="unselect_all">"എല്ലാ തെരഞ്ഞെടുപ്പും ഒഴിവാക്കുക"</string>
+     <string name="delete_all_calls_confirm">"നിങ്ങളുടെ എല്ലാ റെക്കോഡുകളും ഇല്ലാതാക്കണമെന്ന് താങ്കള്‍ക്ക് തീര്‍ച്ചയാണോ?"</string>
+     <string name="do_not_select">"നിങ്ങള്‍ ഇല്ലാതാക്കാനുള്ള റെക്കോഡ് തെരഞ്ഞെടുത്തില്ല"</string>
+     <string name="delete_calls">"നീക്കം ചെയ്യുക"</string>
+     <string name="number_anr_isnull">"കോണ്ടാക്ട് നമ്പര്‍ ശൂന്യമാണ്"</string>
+     <string name="call_recording_setting_title">"കോള്‍ റെക്കോഡിങ്ങ്േ"</string>
+     <string name="automatic_recording_title">"ഓട്ടോമാറ്റിക് റെക്കോഡിങ്ങ്"</string>
+     <string name="dialog_phone_permission_deny">"IP ഉപയോഗിക്കുന്നതിന് ഡയല്‍ ചെയ്യുക,\n ഫോണ്‍ അനുമതി ഓണ്‍ ചെയ്യുക."</string>
+     <string name="search_description">"കോള്‍ ലോഗ് തിരയുക"</string>
+     <string name="call_log_add_to_blacklist">"ബ്ലാക്ക്ലിസ്റ്റില്‍ ചേര്‍ക്കുക"</string>
+     <string name="make_video_call_menu">"വീഡിയോ കോൾ ചെയ്യുക"</string>
+
+</resources>

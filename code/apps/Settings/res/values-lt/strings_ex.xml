@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB nustatymai"</string>
+<string name="usb_charge_only">"Tik įkrovimui"</string>
+<string name="usb_charge_only_summary">"Naudokite tik įkrovimo režimą, kai USB yra prijungtas"</string>
+<string name="usb_charge_only_storage_active_subtext">"Negalima tik įkrauti, kai yranaudojamas USB laikmena"</string>
+<string name="usb_charge_only_notification">"Prijungta tik įkrovimui"</string>
+<string name="usb_storage">"USB atmintinė"</string>
+<string name="usb_storage_summary">"Įgalinti nuolatinį USB saugojimą"</string>
+<string name="ums_settings">"UMS Nustatymai"</string>
+<string name="ums_mounted_setting">"Ums šiuo metu prijungiamas prie PC, prašom palaukti..."</string>
+<string name="ums_unmounted_setting">"Ums šiuo metu atjungiamas nuo PC, prašom palaukti..."</string>
+<string name="usb_virtual_drive">"USB virtuali tvarkyklė"</string>
+<string name="usb_virtual_drive_summary">"Įjungti USB virtualią tvarkyklę"</string>
+<string name="remember_choice">"Atsiminti mano pasirinkimą"</string>
+<string name="remember_choice_summary">"Prisiminti mano pasirinkimą ir sekantį kartą automatiškai paleisti įsimintą funkciją"</string>
+<string name="stand_by_set_changed_prompt">"Sim aktyvavimo būsena bus pakeista, patvirtinkite ar tęsite?"</string>
+<string name="not_stand_by">"Uždrausta"</string>
+<string name="primary_card_switching">"Nustatoma\uff0cprašome palaukti…"</string>
+<string name="toggle_data_change_message">"Duomenų ryšys persijungė į sim kortelę <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, tai suteiks duomenų pralaidumą ir koreliacinius mokesčius, atkreipkite dėmesį."</string>
+<string name="select_primary_card">"Rinktis pirminę kortelę"</string>
+<string name="whether_switch_primary_card">"Prašome patvirtinti, jog ši kortelė bus pirminė.\n(Duomenų naudojimas taip pat bus perkeltas šiai kortelei.)"</string>
+<string name="attention">"Dėmesio"</string>
+<string name="bt_softap_cannot_coexist">"Kai softap funkcija įjungta ar jis veikia dabar, bluetooth negali veikti, jei norite naudoti bluetooth, išjunkite softap funkciją."</string>
+<string name="softap_bt_cannot_coexist">"Kai "Bluetooth" yra įjungtas ar įsijungia, programinės įrangos prieigos taškas neveikia, jei norite naudoti programinės įrangos prieigos tašką, prašome įsitikinkite, kad "Bluetooth" yra išjungtas."</string>
+<string name="softap_need_mobile_data_enabled">"Kilnojamas Wi-Fi prieigos taškas reikalauja mobilių duomenų ryšio,gali būti papildomų išlaidų."</string>
+<string-array name="light_color_picker">
+<item>"Žalia"</item>
+<item>"Mėlyna"</item>
+<item>"Indigo"</item>
+<item>"Purpurinė"</item>
+<item>"Rožinė"</item>
+<item>"Raudona"</item>
+<item>"Geltona"</item>
+</string-array>
+</resources>

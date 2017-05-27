@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layers used to add send sms button. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- The standard "compound button" background. -->
+    <item android:id="@+id/compoundBackgroundItem"
+          android:drawable="@drawable/btn_compound_background" />
+
+    <!-- ...and the actual icon on top.  Use an explicit <bitmap> to avoid scaling
+         the icon up to the full size of the button. -->
+    <item>
+        <bitmap android:src="@drawable/fab_ic_message"
+                android:gravity="center"
+                android:tint="@color/selectable_icon_tint" />
+    </item>
+
+</layer-list>

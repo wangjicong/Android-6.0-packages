@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">Основна карта:</string>
+<string name="vice_card_slot">Заместваща карта:</string>
+<string name="record_time">Време на запис:</string>
+<string name="onscreenShowRecodText">Запис</string>
+<string name="recorderr">"Неусшено запазване на запис!"</string>
+<string name="audio_db_artist_name">"Вашите записи"</string>
+<string name="audio_db_album_name">Регистър на обажданията</string>
+<string name="audio_db_playlist_name">"Моите записи"</string>
+<string name="app_name">Приложения на телефона</string>
+<string name="error_mediadb_new_record">"Аудиозаписът не можа да бъде запазен."</string>
+<string name="sdcard_access_error">Картата памет е недостъпна</string>
+<string name="no_sd_card">Картата памет липсва или е демонтирана</string>
+<string name="insert_sd_card">Моля поставете карта памет</string>
+<string name="storage_is_full">"Хранилището е пълно"</string>
+<string name="recording">"Запис "</string>
+<string name="used_by_other_applications">Приложението за запис се използва от други програми, моля изключете ги.</string>
+<string name="prompt_record_finish">Записаният файл беше запаметен в</string>
+<string name="ok">"ОK"</string>
+<string name="permission_no_record">"Нямате разрешение за запис на повикване"</string>
+<string name="hangup_hold_and_answer">"Затворете задържаното повикване и отговори"</string>
+<string name="hangup_active_and_answer">"Затворете активното повикване и отговорете"</string>
+<string name="hangup_all_and_answer">"Затворете всички повиквания и отговорете"</string>
+<string name="onActive">"Активирано"</string>
+<string name="hold_current_call_and_answer">"Задръжте текущото повикване и отговорете"</string>
+<string name="hangup_current_call_and_answer">"Затворете текущото повикване и отговорете"</string>
+</resources>

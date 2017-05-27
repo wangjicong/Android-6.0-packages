@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.browser.SpeedDialItem
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/speed_dial_item"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingTop="24dip">
+
+        <LinearLayout
+            android:id="@+id/normal_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="80dip"
+                android:layout_height="80dip"
+                android:orientation="vertical"
+                android:background="#ffffff"
+                android:layout_gravity="center" >
+
+                <ImageView
+                    android:id="@+id/favicon"
+                    android:layout_width="25dip"
+                    android:layout_height="25dip"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:scaleType="fitXY" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dip"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:paddingLeft="2dip"
+                android:paddingRight="2dip"
+                android:paddingTop="10dip"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#808080"
+                android:gravity="center_horizontal"/>
+        </LinearLayout>
+
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dip"
+                android:background="#ffffff"
+                android:layout_marginBottom="30dip" >
+        <ImageView
+            android:id="@+id/add_new_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_add_string"
+            android:background="@drawable/bookmark_list_favicon_bg"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+</com.android.browser.SpeedDialItem>

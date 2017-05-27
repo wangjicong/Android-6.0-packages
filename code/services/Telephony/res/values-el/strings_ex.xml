@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">Όλα τα εξερχόμενα</string>
+    <string name="messageAO">Εισάγετε κωδικό φραγής κλήσεων.</string>
+    <string name="sum_ao_enabled_indicator">"Προώθηση όλων των κλήσεων"</string>
+    <string name="sum_ao_enabled">"Ενεργοποιημένο"</string>
+    <string name="sum_ao_disabled">"Απενεργοποιημένη"</string>
+    <string name="enable_ao_forbidden">Ο φορέας σας δεν υποστηρίζει την ενεργοποίηση φραγής όλων των εξερχομένων κλήσεων.</string>
+    <string name="disable_ao_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση φραγής όλων των εξερχομένων κλήσεων.</string>
+    <string name="labelOI">Διεθνές εξερχόμενο</string>
+    <string name="messageOI">Εισάγετε κωδικό φραγής κλήσεων.</string>
+    <string name="sum_oi_enabled">"Ενεργοποιημένο"</string>
+    <string name="sum_oi_disabled">"Απενεργοποιημένη"</string>
+    <string name="enable_oi_forbidden">Ο φορέας σας δεν υποστηρίζει την ενεργοποίηση φραγής εξερχόμενης διεθνούς κλήσης.</string>
+    <string name="disable_oi_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση φραγής εξερχόμενης διεθνούς κλήσης.</string>
+    <string name="labelOX">Εξερχόμενο διεθνούς περιαγωγής</string>
+    <string name="messageOX">Εισάγετε κωδικό φραγής κλήσεων.</string>
+    <string name="sum_ox_enabled">"Ενεργοποιημένο"</string>
+    <string name="sum_ox_disabled">"Απενεργοποιημένη"</string>
+    <string name="enable_ox_forbidden">Ο φορέας σας δεν υποστηρίζει την ενεργοποίηση φραγής εξερχόμενης διεθνούς κλήσης περιαγωγής.</string>
+    <string name="disable_ox_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση φραγής εξερχόμενης διεθνούς κλήσης περιαγωγής.</string>
+    <string name="labelAI">Όλα τα εισερχόμενα</string>
+    <string name="messageAI">Εισάγετε κωδικό φραγής κλήσεων.</string>
+    <string name="sum_ai_enabled">"Ενεργοποιημένο"</string>
+    <string name="sum_ai_disabled">"Απενεργοποιημένη"</string>
+    <string name="enable_ai_forbidden">Ο φορέας σας δεν υποστηρίζει την ενεργοποίηση φραγής όλων των εισερχομένων κλήσεων.</string>
+    <string name="disable_ai_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση φραγής όλων των εισερχομένων κλήσεων.</string>
+    <string name="labelIR">Εισερχόμ. κατά την περιαγωγή</string>
+    <string name="messageIR">Εισάγετε κωδικό φραγής κλήσεων.</string>
+    <string name="sum_ir_enabled">"Ενεργοποιημένο"</string>
+    <string name="sum_ir_disabled">"Απενεργοποιημένη"</string>
+    <string name="enable_ir_forbidden">Ο φορέας σας δεν υποστηρίζει την ενεργοποίηση φραγής εισερχομένων κλήσεων κατά τις κλήσεις περιαγωγής.</string>
+    <string name="disable_ir_forbidden">Ο φορέας σας δεν υποστηρίζει την απενεργοποίηση φραγής εισερχομένων κλήσεων κατά τις κλήσεις περιαγωγής.</string>
+    <string name="labelAB">Απενεργοποίηση όλων</string>
+    <string name="messageAB">Εισάγετε κωδικό φραγής κλήσεων.</string>
+    <string name="sum_ab_enabled">"Ενεργοποιημένο"</string>
+    <string name="sum_ab_disabled">"Απενεργοποιημένη"</string>
+    <string name="enable_ab_forbidden">Ο φορέας σας δεν επιτρέπει καθόλου απενεργοποίηση.</string>
+    <string name="disable_ab_forbidden">"Ο φορέας σας δεν υποστηρίζει την ενεργοποίηση όλων."</string>
+    <string name="labelChgPwd">"Αλλαγή κωδικού πρόσβασης"</string>
+    <string name="DlgChgPwd_oldpwd">Εισάγετε κωδικό φραγής κλήσεων.</string>
+    <string name="DlgChgPwd_newpwd_first">Εισάγετε νέο κωδικό</string>
+    <string name="DlgChgPwd_newpwd_last">Επιβεβαίωση νέου κωδικού</string>
+    <string name="cb_pw_no_match">"Οι κωδικοί δεν ταιριάζουν"</string>
+    <string name="cb_pw_error">"Ο κωδικός είναι λανθασμένος"</string>
+    <string name="cb_pw_correct">"Ο κωδικός αλλάχτηκε"</string>
+    <string name="labelCB">"Φραγή κλήσεων"</string>
+    <string name="call_barring_settings">Ρυθμίσεις φραγής κλήσεων</string>
+    <string name="cb_error">Η φραγή κλήσεων απορρίφθηκε</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Το δίκτυο δεν είναι ενεργοποιημένο, Θέλετε να ρυθμίσετε την κατάσταση του δικτύου;" </string>
+     <string name="dialog_network_selection_title">"Προσοχή"</string>
+     <string name="dialog_network_selection_message">"Το κινητό τηλέφωνο δεν θα επιλέξει άλλους χειριστές για εσάς στην επιλογή χειροκίνητης λειτουργίας. Μερικές φορές πρέπει να επιλέξετε την χειροκίνητη λειτουργία ξανά ή να γυρίσετε πίσω σε επιλογή αυτόματης λειτουργίας όταν έχετε χάσει την υπηρεσία του επιλεγμένου χειριστή. Σας προτείνουμε να χρησιμοποιήσετε "Επιλέξτε αυτόματα". Θέλετε να επιλέξετε το δίκτυο χειροκίνητα;" </string>
+     <string name="network_unknown">Άγνωστο</string>
+     <string name="network_inhibit">"ΑΠΑΓΟΡΕΥΕΤΑΙ"</string>
+     <string name="ip_dialing_title">"Κλήση IP"</string>
+     <string name="ip_dialing_list_title">Κατάλογος κλήσεων IP</string>
+     <string name="ip_no_number">"Έλλειψη προθέματος ΙΡ"</string>
+     <string name="ip_no_number_msg">"Το πρόθεμα IP δεν είναι αποθηκευμένο στο τηλέφωνο."</string>
+     <string name="ip_number_empty_loading">"Η λίστα κλήσης IP είναι κενή."</string>
+     <string name="remove">"Αφαίρεση"</string>
+     <string name="ip_number_is_too_long">"Οι αριθμοί πληκτρολόγησης IP δεν μπορούν να είναι μεγαλύτεροι από το 20."</string>
+     <string name="add_ip_number_str">"Νέα"</string>
+     <string name="ip_dialing_num_error">Δυνατότητα αποθήκευσης μόνο 10 αριθμών IP</string>
+     <string name="ip_dialing_num_repeat">Επαναλάβετε τον αριθμό, αποτυχία προσθήκης</string>
+     <string name="menu_selected_all">Επιλογή όλων</string>
+     <string name="menu_select_none">Κατάργηση επιλογής όλων</string>
+     <string name="doneButton">Ολοκληρώθηκε</string>
+     <string name="cancel">Ακύρωση</string>
+     <string name="uplmn_setting_title">"Προτιμήσεις"</string>
+     <string name="uplmn_setting">"Ρυθμίσεις UPLMN"</string>
+     <string name="uplmn_index">"Δείκτης (εκκίνηση από 0):"</string>
+     <string name="uplmn_id">"Αριθμός Id:"</string>
+     <string name="uplmn_type">"Τύπος (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">Παρακαλώ εισάγετε κάρτα USIM και προσπαθήστε ξανά</string>
+     <string name="index_error_uplmn">"Το ευρετήριο είναι κενό. Δοκιμάστε ξανά!"</string>
+     <string name="type_is_emplty_error_uplmn">"Ο τύπος είναι κενός. Δοκιμάστε ξανά!"</string>
+     <string name="number_too_short_uplmn">"Ο αριθμός Id είναι πολύ μικρός. Δοκιμάστε ξανά!"</string>
+     <string name="type_is_wrong_uplmn">"Ο τύπος πρέπει να είναι 1 ή 0. Δοκιμάστε ξανά!"</string>
+     <string name="fail_uplmn">"Αποτυχία και δοκιμή ξανά."</string>
+     <string name="set_uplmn_unsuccessful">"Αποτυχία ρύθμισης uplmn!"</string>
+     <string name="menu_new_uplmn">"Νέο UPLMN"</string>
+     <string name="menu_delete_uplmn">"Διαγραφή UPLMN" </string>
+     <string name="uplmn_exceeds_capacity">"Το μέτρημα υπερβαίνει τη χωρητικότητα της sim" </string>
+     <string name="delete">Διαγραφή</string>
+     <string name="delete_uplmn_successfully">"Επιτυχής διαγραφή UPLMN"</string>
+     <string name="id_is_wrong_uplmn">"Το ID θα πρέπει να ρυθμιστεί με κάποιο αριθμό!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Επιλέξτε λειτουργία δικτύου"</string>
+     <string name="lte_service_switch">"Γίνεται ρύθμιση, παρακαλώ περιμένετε…"</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"Πολλαπλή Λειτουργία 4G/3G/2G"</item>
+        <item>" Μόνη Λειτουργία 3G/2G" </item>
+        <item>"Μόνο λειτουργία 2G"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"Πολλαπλή Λειτουργία 4G/3G/2G"</item>
+        <item>" Μόνη Λειτουργία 3G/2G" </item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"GSM μόνο"</item>
+        <item>"WCDMA μόνο"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Αυτόματο)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"Ρυθμίσεις Ταχείας κλήσεως"</string>
+     <string name="delete_fastdial">"Διαγραφή ταχείας κλήσης"</string>
+     <string name="update_fastdial">"Ενημέρωση ταχείας κλήσης"</string>
+     <string name="no_sim_text">"Παρακαλούμε εισάγετε ή εκκινήστε τη κάρτα SIM"</string>
+     <string name="network_not_on">"Το δίκτυο δεν είναι ενεργοποιημένο, Θέλετε να ρυθμίσετε την κατάσταση του δικτύου;" </string>
+     <string name="one_key_locked_notification">"Αυτό το είδος έχει ΞΕΚΛΕΙΔΩΘΕΙ, Θέλετε να το κλειδώσετε;" </string>
+     <string name="one_key_unlocked_notification">"Αυτό το είδος έχει ΚΛΕΙΔΩΘΕΙ, Θέλετε να το ξεκλειδώσετε;" </string>
+     <string name="one_key_unlocked">"Ξεκλείδωμα"</string>
+     <string name="one_key_locked">"Κλειδαριά"</string>
+     <string name="one_key_operation_success">"Επιτυχής λειτουργία, απαιτείται επανεκκίνηση τώρα." </string>
+     <string name="one_key_operation_unsuccess">"Ανεπιτυχής λειτουργία, μπορείτε να προσπαθήσετε ξανά!" </string>
+     <string name="one_key_query_unsuccess">"Το ερώτημα τύπου simlock απέτυχε!"</string>
+     <string name="one_key_simlock_setting">"Ρύθμιση SIMLOCK" </string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Κλείδωμα δικτύου"</item>
+        <item>"Κλείδωμα υποομάδας δικτύου"</item>
+        <item>"Κλείδωμα παροχής υπηρεσιών"</item>
+        <item>"Συλλογικό κλείδωμα"</item>
+        <item>"Κλείδωμα κάρτας SIM"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Ρυθμίσεις φραγής εισερχομένων κλήσεων"</string>
+     <string name="callout_barring_settings">"Ρυθμίσεις φραγής εξερχόμενων κλήσεων"</string>
+     <string name="labelCOUT">"Φραγή εξερχόμενων κλήσεων"</string>
+     <string name="labelCIN">"Φραγή εισερχομένων κλήσεων"</string>
+     <string name="no_sim_text">"Παρακαλούμε εισάγετε ή εκκινήστε τη κάρτα SIM"</string>
+     <string name="sim_lock_none">"Δεν κλειδώθηκε καμία SIM."</string>
+     <string name="sim_lock_try_later">"Παρακαλούμε προσπαθήστε το αργότερα."</string>
+     <string name="edit_and_save_fdn">"Επεξεργασία αριθμού Fdn"</string>
+     <string name="call_fdn_number_by_sim">"Κλήση"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"Κλήση VT"</string>
+     <string name="airplane_changed_on">"Ενεργή λειτουργία πτήσης."</string>
+     <string name="number_empty">"Ο αριθμός είναι κενός"</string>
+     <string name="unblock_pin2">"Ξεμπλοκάρισμα PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Εισάγετε το PUK2 για να ξεμπλοκάρετε την κάρτα SIM σας"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> υπόλοιπες προσπάθειες(α))"</string>
+     <string name="oldPin2_Label">"Παλιό PIN2 (<xliff:g>%s</xliff:g> υπόλοιπες προσπάθειες(α))"</string>
+     <string name="puk2_code_label">"Εισάγετε κωδικό PUK2 (<xliff:g>%s</xliff:g> υπόλοιπες προσπάθειες(α))"</string>
+     <string name="promptWordOne">"Διατήρηση&#160;"</string>
+     <string name="promptWordTwo">"&#160;φορά(-ές)"</string>
+     <string name="adn_full">"Η λίστα FDN είναι πλήρης"</string>
+     <string name="no_available_phone_accounts">"Δεν υπάρχουν διαθέσιμοι λογαριασμοί κλήσης"</string>
+     <string name="lnd_list">Κατάλογος LND</string>
+     <string name="sdn_list">Κατάλογος SDN</string>
+     <string name="sim_list_title">Παρακαλώ επιλέξτε κάρτα SIM</string>
+     <string name="wait_message">Παρακαλώ περιμένετε…</string>
+     <string name="menu_call">"Κλήση επαφής"</string>
+     <string name="lnd_no_contact_record">Κανένα αρχείο LND δεν βρίσκεται αποθηκευμένο στην κάρτα SIM.</string>
+     <string name="sdn_no_contact_number">Αυτή η κάρτα SIM δεν υποστηρίζει αριθμούς SDN.</string>
+     <string name="remove">"Αφαίρεση"</string>
+     <string name="delete_selected_contents">Επιθυμείτε τη διαγραφή του επιλεγμένου περιεχόμενου;</string>
+     <string name="sim_notready_can_not_delete">Επειδή η κάρτα SIM δεν είναι έτοιμη, δεν μπορείτε να διαγράψετε.</string>
+     <string name="contact_del_failed">Αποτυχία διαγραφής</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Για τη r;yumish του αυτόματου τηλεφωνητή, μεταβείτε στο στοιχείο Μενού &gt; Ρυθμίσεις."</string>
+     <string name="simlock_unlocked">"Η Simlock ξεκλειδώθηκε."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"WCDMA μόνο"</item>
+        <item>"GSM μόνο"</item>
+        <item>Αυτόματη</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"GSM μόνο"</item>
+    </string-array>
+</resources>

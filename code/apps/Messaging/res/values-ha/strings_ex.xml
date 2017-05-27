@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Signature"</string>
+<string name="pref_title_sms_retry_times">Kunna sake SMS</string>
+<string name="preference_name">"Yankin jumla da aka saba"</string>
+<string name="select">"Wanda aka zaba"</string>
+<string name="item_cancel">"Soke"</string>
+<string name="item_delete">"Goge"</string>
+<string name="save_as_teltype">"Don waya"</string>
+<string name="save_as_mmstype">"Don Sms"</string>
+<string name="type_to_pharser">"Rubuta karin magana gama-gari"</string>
+<string name="add">"Kara"</string>
+<string name="edit">"Gyara"</string>
+<string name="delete">"Goge"</string>
+<string name="finish">"Gama"</string>
+<string name="cancel">"Soke"</string>
+<string name="add_pharser">"Kara karin magana gama-gari"</string>
+<string name="edit_pharser">"Gyara sashen jumlar yau da kullum"</string>
+<string name="pharser_can_modify">"Dauwamammen karin magana"</string>
+<string name="pharser_cannot_modify">"Gyara karin magana"</string>
+<string name="select_item">"Ka zaba"</string>
+<string name="select_commmon_phrase">Zabi jimlar da ta fi yawan aukuwa</string>
+<string name="common_phrase_empty">"Ba yankin jumla da aka saba"</string>
+<string name="action_add_phrase">"Shigar da karin magana gama-gari"</string>
+<string name="pref_other_settings_title">"Wasu"</string>
+<string-array name="fixed_mms_phrase">
+<item>Ka kira wayar ofis dina, na gode.</item>
+<item>Ka tuntube ni, na gode.</item>
+<item>Ka shaida min inda kake.</item>
+<item>Ka kira wayar salulata anjima, na gode.</item>
+<item>Na fita waje, je gida, zan kira.</item>
+<item>"Ina tuki amma zan amsa daga bisani."</item>
+<item>"Na zo akan titi, a same ka nan da nan."</item>
+<item>Cunkoson ababen hawa, yi hakuri, sai anjima.</item>
+<item>Zan kira anjima.</item>
+<item>Ina cikin taro, zan ba da amsa anjima.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Ba zan iya magana ba yanzu. Me ake ciki ne/"</item>
+<item>"Zan kira ka."</item>
+<item>"Zan kira ka wani lokaci."</item>
+<item>"Ba zan iya magana yanzu ba. A kira ni wani lokaci?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Kira ni ko ka aika min sms daga bisani."</item>
+</string-array>
+</resources>

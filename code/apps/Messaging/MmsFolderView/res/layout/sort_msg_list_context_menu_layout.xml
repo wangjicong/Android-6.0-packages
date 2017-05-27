@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/contextmenu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_height" />
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+            <TextView
+                    android:id="@+id/addToContact"
+                    style="@style/contextmenu_textview"
+                    android:gravity="center_vertical|left"
+                    android:text="@string/sort_msg_list_menu_addtocontacts"/>
+
+            <TextView
+                    android:id="@+id/voiceCall"
+                    style="@style/contextmenu_textview"
+                    android:gravity="center_vertical|left"
+                    android:text="@string/sort_msg_list_menu_call"/>
+
+            <TextView
+                    android:id="@+id/editBeforeCall"
+                    style="@style/contextmenu_textview"
+                    android:gravity="center_vertical|left"
+                    android:text="@string/sort_msg_list_menu_editbeforecall"/>
+
+            <TextView
+                    android:id="@+id/videoCall"
+                    style="@style/contextmenu_textview"
+                    android:gravity="center_vertical|left"
+                    android:text="@string/sort_msg_list_menu_videocall"/>
+
+            <TextView
+                    android:id="@+id/deleteMessage"
+                    style="@style/contextmenu_textview"
+                    android:gravity="center_vertical|left"
+                    android:text="@string/delete_message"/>
+
+            <TextView
+                android:id="@+id/copySimSmsToPhone"
+                style="@style/contextmenu_textview"
+                android:gravity="center_vertical|left"
+                android:text="@string/copy_sim_sms_to_phone"/>
+
+            <TextView
+                android:id="@+id/delSimSms"
+                style="@style/contextmenu_textview"
+                android:gravity="center_vertical|left"
+                android:visibility="gone"
+                android:text="@string/del_sim_sms"/>
+
+            <TextView
+                android:id="@+id/copySmsToFirstSim"
+                style="@style/contextmenu_textview"
+                android:gravity="center_vertical|left"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/copySmsToSecondSim"
+                style="@style/contextmenu_textview"
+                android:gravity="center_vertical|left"
+                android:visibility="gone"/>
+
+            <TextView
+                android:id="@+id/copySmsToThirdSim"
+                style="@style/contextmenu_textview"
+                android:gravity="center_vertical|left"
+                android:visibility="gone"/>
+        </LinearLayout>
+
+    </ScrollView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_height" />
+
+</LinearLayout>

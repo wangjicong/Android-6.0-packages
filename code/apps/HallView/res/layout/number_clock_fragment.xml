@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    android:background="@drawable/digit_clock_back" 
+    android:layout_width="@dimen/hall_view_width" 
+    android:layout_height="@dimen/hall_view_width"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <ImageView 
+        android:id="@+id/iv_weather_icon" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="60.0dip" 
+        android:layout_marginTop="55.0dip" 
+        android:src="@drawable/clock_snow" />
+    <!-- qiuyaobo,remove weather,20160906,begin-->     
+    <!--<TextView 
+        android:textSize="15.0sp" 
+        android:textColor="#ffa8a8a8" 
+        android:id="@+id/tv_day_week" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="10.0dip" 
+        android:layout_marginTop="60.0dip" 
+        android:layout_toRightOf="@id/iv_weather_icon" />-->
+    <TextView 
+        android:textSize="15.0sp" 
+        android:textColor="#ffa8a8a8" 
+        android:id="@+id/tv_day_week" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="60.0dip" 
+        android:layout_centerHorizontal="true" />        
+    <!-- qiuyaobo,remove weather,20160906,end-->       
+    <TextView 
+        android:textSize="20.0sp" 
+        android:textColor="#ffa8a8a8" 
+        android:id="@+id/tv_am_pm" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="20.0dip" 
+        android:layout_toRightOf="@id/tv_day_week" 
+        android:layout_alignBottom="@id/tv_day_week" />
+    <TextView 
+        android:textSize="55.0sp" 
+        android:textColor="#ff212121" 
+        android:id="@+id/tv_number_time" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="@dimen/number_clock_time_marginTop"
+        android:layout_centerHorizontal="true" />
+    <TextView android:textSize="55.0sp" 
+        android:textColor="#ff212121" 
+        android:id="@+id/tv_point_second" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="@dimen/number_clock_point_marginTop"
+        android:text="@string/point" 
+        android:layout_centerHorizontal="true" />
+    <RelativeLayout 
+        android:layout_width="75.0dip" 
+        android:layout_height="wrap_content" 
+        android:layout_marginBottom="@dimen/number_clock_icon_marginBottom" 
+        android:layout_alignParentBottom="true" 
+        android:layout_centerHorizontal="true">
+        <com.wx.hallview.views.ImageViewWithUnReadNumber
+            android:id="@+id/number_phone_icon" 
+            android:layout_width="30.0dip" 
+            android:layout_height="30.0dip" 
+            android:src="@drawable/clock_call" 
+            android:layout_alignParentLeft="true" />
+        <com.wx.hallview.views.ImageViewWithUnReadNumber 
+            android:id="@+id/number_message_icon" 
+            android:layout_width="30.0dip" 
+            android:layout_height="30.0dip" 
+            android:src="@drawable/clock_sms" 
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+</RelativeLayout>

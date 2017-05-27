@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB beállítások"</string>
+<string name="usb_charge_only">Csak töltés</string>
+<string name="usb_charge_only_summary">Csak töltés mód használata, amikor USB-n keresztül csatlakozik</string>
+<string name="usb_charge_only_storage_active_subtext">Nem lehet csak töltés, ha az USB tárhely használatban van</string>
+<string name="usb_charge_only_notification">Csatlakoztatva csak töltésre</string>
+<string name="usb_storage">"USB-tár"</string>
+<string name="usb_storage_summary">USB tárolás engedélyezése</string>
+<string name="ums_settings">"UMS beállítások"</string>
+<string name="ums_mounted_setting">"ums szerelése a számítógépre, kérjük, várjon..."</string>
+<string name="ums_unmounted_setting">"ums törlése a számítógépről, kérjük, várjon..."</string>
+<string name="usb_virtual_drive">"USB virtuális meghajtó"</string>
+<string name="usb_virtual_drive_summary">"USB virtuális meghajtó engedélyezése"</string>
+<string name="remember_choice">Választásom megjegyzése</string>
+<string name="remember_choice_summary">"Választásom megjegyzése és a megjegyzett funkció automatikus indítása a következő alkalommal"</string>
+<string name="stand_by_set_changed_prompt">"A SIM aktiválási állapot megváltozik. Folytatja?"</string>
+<string name="not_stand_by">TILOS</string>
+<string name="primary_card_switching">"Beállítás\uff0ckérem, várjon..."</string>
+<string name="toggle_data_change_message">"Az adatkapcsolat a SIM kártyára kapcsolt <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, ez adatátvitellel és ehhez kapcsolódó terheléssel jár, kérem, vegye ezt számításba."</string>
+<string name="select_primary_card">"Elsődleges kártya kiválasztása"</string>
+<string name="whether_switch_primary_card">"Biztosan ez a kártya legyen az elsődleges kártya?\n(A mobiladatok is átkerülnek erre a kártyára.)"</string>
+<string name="attention">"Figyelem"</string>
+<string name="bt_softap_cannot_coexist">"Amikor a Softap engedélyezve van vagy bekapcsol, a Bluetooth nem működik; ha Bluetooth-t szeretne használni, ellenőrizze, hogy a Softap engedélyezve van-e."</string>
+<string name="softap_bt_cannot_coexist">"A Bluetooth engedélyezése vagy bekapcsolása esetén a Softap nem működik, a softap használatához tiltsa le a Bluetooth kapcsolatot."</string>
+<string name="softap_need_mobile_data_enabled">"A hordozható Wi-Fi hotspothoz mobil adatkapcsolat szükséges. Járulékos költségek merülhetnek fel."</string>
+<string-array name="light_color_picker">
+<item>zöld</item>
+<item>"Kék"</item>
+<item>"Indigókék"</item>
+<item>bíbor</item>
+<item>"Rózsaszín"</item>
+<item>"Piros"</item>
+<item>"Sárga"</item>
+</string-array>
+</resources>

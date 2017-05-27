@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP ဖုန္းသတ္မွတ္ခ်က္"</string>
+    <string name="ip_dial_menu">IP ဖုန္းေခၚသည္</string>
+    <string name="ip_dialing_title">IP ေခၚဆိုေနဆဲ:</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"ဖုန္းနံပါတ္ အျမန္ေခၚဆိုမွဳ သတ္မွတ္ခ်က္."</string>
+    <string name="no_fast_dial_number">"ဖုန္းနံပါတ္ အျမန္ေခၚဆိုမွဳ သတ္မွတ္ခ်က္မရွိ."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">အထြက္</string>
+     <string name="call_log_incoming_title">အဝင္</string>
+     <string name="recentOutgoing_empty">"အထြက္ဖုန္းမ်ား မရွိပါ."</string>
+     <string name="recentIncoming_empty">"အ၀င္ဖုန္းမ်ား မရွိပါ."</string>
+     <string name="view_setting">ျမင္ကြင္း</string>
+     <string name="item_all_calls">"ဖုန္းေခၚမွတ္တမ္းမ်ားအားလံုး"</string>
+     <string name="item_sim_calls">"SIM%d ဖုန္းမွတ္တမ္းမ်ား"</string>
+     <string name="unselect_all">↔အားလံုးမေရြးပါ↔</string>
+     <string name="select_all_sprd">"အားလံုးကို ေ႐ြးခ်ယ္ပါ"</string>
+     <string name="doneButton">ၿပီးပါၿပီ</string>
+     <string name="cancel">"မလုပ္ပါ"</string>
+     <string name="delete_selected_calls">"ေရြးခ်ယ္သည့္ မွတ္တမ္းမ်ားကို ပယ္ဖ်က္မွာ ေသခ်ာလား?"</string>
+     <string name="clearCallLogProgress_title">ဖုန္းေခၚဆိုမႈမွတ္တမ္းကို ႐ွင္းလင္းေနဆဲ\u2026</string>
+     <string name="delete_success">ေအာင္ျမင္စြာ ဖ်က္ၿပီးပါၿပီ</string>
+     <string name="clear_all_call_log">"ဖုန္းေခၚဆိုမႈအားလံုးပယ္ဖ်က္မည္"</string>
+     <string name="clear_selected_call_log">"ေရြးခ်ယ္ထားသည့္ဖုန္းခၚစရင္းပယ္ဖ်က္ျပီး"</string>
+     <string name="select_all">"အားလံုးကို ေ႐ြးခ်ယ္ပါ"</string>
+     <string name="unselect_all">"အားလံုးကို ပယ္ဖ်က္ပါ"</string>
+     <string name="delete_all_calls_confirm">"သင္၏မွတ္တမ္းမ်ားကို ပယ္ဖ်က္လိုပါသလား?"</string>
+     <string name="do_not_select">ဖ်က္ရန္ မွတ္တမ္းကုိ သင္မေရြးခ်ယ္ခဲ့ပါ</string>
+     <string name="delete_calls">"ဖ်က္ပါ"</string>
+     <string name="number_anr_isnull">အဆက္အသြယ္ နံပါတ္မရွိပါ</string>
+     <string name="call_recording_setting_title">"ဖုန္း အသံသြင္းျခင္း"</string>
+     <string name="automatic_recording_title">"ေအာ္တို အသံသြင္းျခင္း"</string>
+     <string name="dialog_phone_permission_deny">"IP ေခၚဆိုမွဳကို သံုးရန္,\n ဖုန္းခြင့္ျပဳမိန့္ကို ဖြင့္ပါ."</string>
+     <string name="search_description">"ဖုန္း မွတ္တမ္း ရွာေဖြပါ"</string>
+     <string name="call_log_add_to_blacklist">"အမည္မည္းစာရင္းထည့္."</string>
+     <string name="make_video_call_menu">ဗီဒီယုိ ေခၚဆုိမႈ လုပ္ပါ</string>
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <int name="smsToMmsTextThreshold" value="10"/>
+    </carrier_config>
+    <carrier_config>
+        <string name="vmnumber">121</string>
+        <string name="roamingvm">+447836121121</string>
+    </carrier_config>
+    <carrier_config spn="Sainsbury's">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Sainsbury's</string>
+        <string name="vmnumber">121</string>
+    </carrier_config>
+    <carrier_config spn="Lebara">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Lebara</string>
+        <string name="vmnumber">121</string>
+    </carrier_config>
+    <carrier_config spn="OVIVO">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">OVIVO</string>
+    </carrier_config>
+    <carrier_config spn="TalkTalk">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">TalkTalk</string>
+    </carrier_config>
+    <carrier_config spn="Talkmobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Talkmobile</string>
+        <string name="vmnumber">121</string>
+    </carrier_config>
+    <carrier_config spn="ASDA Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">ASDA Mobile</string>
+    </carrier_config>
+    <carrier_config spn="BT">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">BT Mobile</string>
+    </carrier_config>
+    <carrier_config imsi="23415xxx89xxxxx">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Vodafone Pre Pay</string>
+    </carrier_config>
+</carrier_config_list>

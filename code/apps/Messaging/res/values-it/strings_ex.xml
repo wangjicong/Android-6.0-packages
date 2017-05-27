@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Firma"</string>
+<string name="pref_title_sms_retry_times">Abilita nuovo tentativo SMS</string>
+<string name="preference_name">frase comune</string>
+<string name="select">"Selezionata"</string>
+<string name="item_cancel">Cancella</string>
+<string name="item_delete">Cancella</string>
+<string name="save_as_teltype">"Per il telefono"</string>
+<string name="save_as_mmstype">"Per l\'SMS"</string>
+<string name="type_to_pharser">"Digitare frase comune"</string>
+<string name="add">"Aggiungi"</string>
+<string name="edit">Modifica</string>
+<string name="delete">Cancella</string>
+<string name="finish">"Fine"</string>
+<string name="cancel">Cancella</string>
+<string name="add_pharser">"Aggiungere frase comune"</string>
+<string name="edit_pharser">modifica frase comune</string>
+<string name="pharser_can_modify">"Frase personalizzata"</string>
+<string name="pharser_cannot_modify">"Correggere frase"</string>
+<string name="select_item">"Si è scelto"</string>
+<string name="select_commmon_phrase">Selezionare frase comune</string>
+<string name="common_phrase_empty">Nessuna frase comune</string>
+<string name="action_add_phrase">"Inserire frase comune"</string>
+<string name="pref_other_settings_title">Altro</string>
+<string-array name="fixed_mms_phrase">
+<item>per favore chiama al numero di telefono del mio ufficio, grazie</item>
+<item>La prego di contattarmi, grazie.</item>
+<item>per favore informami sulla tua ubicazione.</item>
+<item>per favore, mi contatti più tardi al cellulare, grazie. </item>
+<item>ero fuori, ti chiamo appena arrivo a casa.</item>
+<item>"Sto guidando, risponderò più tardi."</item>
+<item>"Sono per strada, arrivo subito."</item>
+<item>c\'è traffico, arrivo in ritardo, scusa.</item>
+<item>ti chiamo più tardi.</item>
+<item>sono in riunione, rispondo dopo.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Non posso parlare ora. Che succede?"</item>
+<item>"Ti richiamo subito."</item>
+<item>"Ti chiamo dopo."</item>
+<item>"Non posso parlare ora. Mi chiami dopo?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Chiamami o inviami SMS più tardi."</item>
+</string-array>
+</resources>

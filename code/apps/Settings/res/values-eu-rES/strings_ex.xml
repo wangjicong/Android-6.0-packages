@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">USB ezarpenak</string>
+<string name="usb_charge_only">Kargatu bakarrik</string>
+<string name="usb_charge_only_summary">Erabili bakarrik kargatzeko modua USB konektatuta dagoenean</string>
+<string name="usb_charge_only_storage_active_subtext">ezin da bakarrik kargatu USB memoria erabiltzen hari denean</string>
+<string name="usb_charge_only_notification">Kargadore gisa bakarrik konektatua</string>
+<string name="usb_storage">USB memoria</string>
+<string name="usb_storage_summary">Gaitu USB memoria masiboa</string>
+<string name="ums_settings">"UMS Ezarpenak"</string>
+<string name="ums_mounted_setting">"Ums-ak ordenagailuan muntatzen, mesedez itxaron..."</string>
+<string name="ums_unmounted_setting">"Ordenagailutik ums-ak desmontatzen ari dira, mesedez itxaron..."</string>
+<string name="usb_virtual_drive">"USB unitate birtuala"</string>
+<string name="usb_virtual_drive_summary">"Gaitu USB biltegi birtuala"</string>
+<string name="remember_choice">Gogoratu nire aukera</string>
+<string name="remember_choice_summary">Gogoratu nire aukera eta hurrengo aldian hasi gogoratutako funtzioa automatikoki</string>
+<string name="stand_by_set_changed_prompt">"Sim-a aktibatzeko egoera aldatuko da, mesedez berretsi jarraitu nahi duzula?"</string>
+<string name="not_stand_by">DEBEKATUTA</string>
+<string name="primary_card_switching">"Ezartzen \uff0cmesedez itxaron..."</string>
+<string name="toggle_data_change_message">Datu konexioa <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g> sim txartelera aldatu da, datuen errepetimendua eta karga korrelatiboa, mesedez ohartu.</string>
+<string name="select_primary_card">Hautatu txartel nagusia</string>
+<string name="whether_switch_primary_card">"Berretsi txartel hau txartel nagusi izatera aldatu nahi duzula?\n(Mugikorraren datuak ere txartelera pasako dira.)"</string>
+<string name="attention">Arreta</string>
+<string name="bt_softap_cannot_coexist">"Softap-a gaitua dagoenean edo pizten ari denean, bluetooth-a ezin da erabili, erabili nahi izatekotan, mesedez ziurtatu softap-a itzalita dagoela."</string>
+<string name="softap_bt_cannot_coexist">"Bluetooth-a gaitua dagoenean edo pizten ari denean, softap-a ezin da erabili, erabili nahi izatekotan, mesedez ziurtatu bluetooth-a itzalita dagoela."</string>
+<string name="softap_need_mobile_data_enabled">"Wi-Fi sarbide eramangarria datu konexio mugikorra behar du eta honek kostu gehigarriak ekar ditzake."</string>
+<string-array name="light_color_picker">
+<item>Berdea</item>
+<item>Urdina</item>
+<item>Indigo</item>
+<item>Morea</item>
+<item>Arrosa</item>
+<item>Gorria</item>
+<item>Horia</item>
+</string-array>
+</resources>

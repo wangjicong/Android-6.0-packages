@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"የIP መደወያ መቼት"</string>
+    <string name="ip_dial_menu">"IP መደወያ"</string>
+    <string name="ip_dialing_title">IP በመደወል ላይ </string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"ፈጣን የመደወያ መቼት"</string>
+    <string name="no_fast_dial_number">"ፈጣን የመደወያ ቁጥር አልተሞላም"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"ወጪ"</string>
+     <string name="call_log_incoming_title">"ገቢ"</string>
+     <string name="recentOutgoing_empty">"የደወሉት ቁጥር የለም፡፡"</string>
+     <string name="recentIncoming_empty">"የተቀበሉት ቁጥር የለም፡፡"</string>
+     <string name="view_setting">እይታ</string>
+     <string name="item_all_calls">"ሁሉም ምዝግብ ማስተዋሻዎች"</string>
+     <string name="item_sim_calls">"SIM%d የጥሪ ምዝግብ ማስተዋሻዎች"</string>
+     <string name="unselect_all"> ሁሉም አትምረጥl</string>
+     <string name="select_all_sprd">ሁሉንም ምረጥ </string>
+     <string name="doneButton">ሰርቷል</string>
+     <string name="cancel">ሰርዝ</string>
+     <string name="delete_selected_calls">"የተመረጡትን ቅጂዎች ላመጥፋት እርግጠኛ ኖት?"</string>
+     <string name="clearCallLogProgress_title">"የተደወሉትን ማፅዳት\u2026"</string>
+     <string name="delete_success">"መሰረዙ ተሳክቷል!"</string>
+     <string name="clear_all_call_log">"ሁሉም የጥሪ ምዝግብ ማስተዋሻዎች አጽዳ"</string>
+     <string name="clear_selected_call_log">"ሁሉም የተመረጡ ምዝግብ ማስተዋሻዎች አጽዳ"</string>
+     <string name="select_all">ሁሉንም ምረጥ </string>
+     <string name="unselect_all">"ሁሉም ምረጥ"</string>
+     <string name="delete_all_calls_confirm">" ሁሉንም የራስዎን ቅጂዎች ማጥፋት ፈልገዋል?"</string>
+     <string name="do_not_select">"የሚጠፋ መዝገቦች አልመረጡም"</string>
+     <string name="delete_calls">ሰርዝ</string>
+     <string name="number_anr_isnull">"የማግኛ ቁጥሩ ባዶ ነው"</string>
+     <string name="call_recording_setting_title">"የተቀዳ ጥሪ"</string>
+     <string name="automatic_recording_title">"በራሱ የሚቀዳ"</string>
+     <string name="dialog_phone_permission_deny">"IP ዲያል ለመጠቀም፣ \n የስልኩን ፈቃድ ማብራት፡፡"</string>
+     <string name="search_description">"የጥሪ ምዝግብ ማስተዋሻዎች ፈልግ"</string>
+     <string name="call_log_add_to_blacklist">ወደ ጥቁር መዝገብ ጨምር</string>
+     <string name="make_video_call_menu">"የቪዲዮ ጥሪ አድርግ"</string>
+
+</resources>

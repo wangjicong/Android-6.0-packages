@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP డయల్ సెట్టింగ్"</string>
+    <string name="ip_dial_menu">IP డయల్</string>
+    <string name="ip_dialing_title">IP డయల్ చేయాల్సిన</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"ఫాస్ట్ డయల్ సెట్టింగ్"</string>
+    <string name="no_fast_dial_number">"ఫాస్ట్ డయల్ నంబర్"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"అవుట్ గోయింగ్"</string>
+     <string name="call_log_incoming_title">"ఇన్కమింగ్"</string>
+     <string name="recentOutgoing_empty">"మీకు అవుట్ గోయింగ్ కాల్స్ లేవు."</string>
+     <string name="recentIncoming_empty">"మీకు ఇన్కమింగ్ కాల్స్ లేవు."</string>
+     <string name="view_setting">"వ్యూ"</string>
+     <string name="item_all_calls">"అన్ని కాల్ లాగ్స్"</string>
+     <string name="item_sim_calls">"SIM%d కాల్ లాగ్స్"</string>
+     <string name="unselect_all">"ఎన్ సెలెక్ట్ ఆల్"</string>
+     <string name="select_all_sprd">అన్నీ ఎంచుకోండి </string>
+     <string name="doneButton">జరిగినది</string>
+     <string name="cancel">రద్దు</string>
+     <string name="delete_selected_calls">"ఎంపిక చేయబడిన రికార్డ్లను మీరు డిలీట్ చేయాలని ధృవీకరించారా?"</string>
+     <string name="clearCallLogProgress_title">కాల్ లాగ్ రద్దు చేయబడుతోంది\u2026</string>
+     <string name="delete_success">"విజయవంతముగా డిలీట్ చేయబడింది"</string>
+     <string name="clear_all_call_log">"అన్ని కాల్ లాగ్స్ ను క్లియర్ చేయండి"</string>
+     <string name="clear_selected_call_log">"ఎంపిక చేయబడిన కాల్ లాగ్ క్లియర్ చేయండి"</string>
+     <string name="select_all">అన్నీ ఎంచుకోండి </string>
+     <string name="unselect_all">"అన్నిటినీ డీసెలెక్ట్ చేయండి"</string>
+     <string name="delete_all_calls_confirm">"మీరు మీ యొక్క అన్ని రికార్డ్స్ ను డిలీట్ చేయాలి అని అనుకుంటున్నారా?"</string>
+     <string name="do_not_select">"డిలీట్ చేసేందుకు మీరు రికార్డును ఎంపిక చేసుకోలేదు"</string>
+     <string name="delete_calls">డిలీట్</string>
+     <string name="number_anr_isnull">"కాంటాక్ట్ నంబర్ ఖాళీగా ఉంది"</string>
+     <string name="call_recording_setting_title">"కాల్ రికార్డింగ్"</string>
+     <string name="automatic_recording_title">"ఆటోమేటిక్ రికార్డింగ్"</string>
+     <string name="dialog_phone_permission_deny">" IP డయల్ ఉపయోగించడానికి,\n ఫోన్ అనుమతి ఆన్ చేయండి."</string>
+     <string name="search_description">కాల్ లాగ్ ని వెతుకు</string>
+     <string name="call_log_add_to_blacklist">నిలుపు చేసిన జాబితా</string>
+     <string name="make_video_call_menu">"వీడియో కాల్ చేయండి"</string>
+
+</resources>

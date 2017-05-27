@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ucomm.sns</string>
+    <string name="sns_label_sina">Sina Weibo</string>
+    <string name="sns_label_sohu">Sohu Weibo</string>
+    <string name="sns_label_tencent">Tencent Weibo</string>
+    <string name="sns_label_qzone">QQ</string>
+    <string name="sns_label_renren">Mạng Renren</string>
+    <string name="sns_label_kaixin">Mạng Kaixin</string>
+    <string name="sns_label_facebook">Facebook</string>
+    <string name="sns_label_tumblr">Tumblr</string>
+    <string name="sns_label_flickr">Flickr</string>
+    <string name="sns_label_twitter">Twitter</string>
+    <string name="sns_label_mixi">Mixi</string>
+    <string name="sns_label_share">Chia sẻ ngay</string>
+    <string name="sns_label_account_setup">Tài khoản</string>
+    <string name="sns_label_more_share">Chia sẻ thêm</string>
+    <string name="sns_label_bind">Khoá</string>
+    <string name="sns_label_unbind">Mở khoá</string>
+    <string name="sns_label_hide_location">Không hiển thị cài đặt định vị</string>
+    <string name="sns_msg_getting_location">Đang lấy thông tin cài đặt định vị...</string>
+    <string name="sns_msg_please_choose_share_account">Chọn tài khoản muốn chia sẻ.</string>
+    <string name="sns_msg_missing_share_pic">Nhấp vào thư viện ảnh để chọn ảnh chia sẻ</string>
+    <string name="sns_msg_fail_login">Không thể đăng nhập, mời thử lại sau.</string>
+    <string name="sns_msg_connecting">Đang kết nối...</string>
+    <string name="sns_msg_loading">Đang tải...</string>
+    <string name="sns_msg_network_unavailable">Mạng không thể dùng được, mời thử lại sau</string>
+    <string name="sns_msg_from_ucam">Toàn bộ chức năng máy chụp hình đến từ UCam</string>
+    <string name="sns_title_account_settings">Tài khoản</string>
+    <string name="sns_title_share_to">Chia sẻ đến...</string>
+    <string name="sns_title_share">Chia sẻ</string>
+    <string name="sns_title_sync">Chia sẻ cộng đồng</string>
+    <string name="sns_title_login">Đăng nhập</string>
+    <string name="sns_title_privacy">Bảo mật riêng tư</string>
+    <string name="sns_msg_privacy">Bảo mật quyền riêng tư của người dùng là chính sách cơ bản hàng đầu của UCam.\n
+       UCam dùng OAuth thoả thuận đứng đầu độ an toàn về SNS, vì thế không trực tiếp can thiệp đến thông tin tài khoản cá nhân của bạn.\n
+        UCam sẽ trịnh trọng thông báo cho bạn ngoài những quy định pháp luật, chính phủ hoặc cơ quan chuyên trách yêu cầu hoặc sự đồng ý về văn bản của bạn, UCam sẽ nghiêm túc bảo mật tất cả những thông tin tài khoản của bạn.</string>
+    <string name="sns_ucam_link">"&lt;a href=\"http://www.u-camera.com\" &gt;UCam máy chụp hình đa năng&lt;a/&gt;</string>
+    <string name="sns_ucam_share">#Chia sẻ hình UCam#</string>
+    <string name="sns_toast_location_error">Lấy thông tin cài đặt định vị thất bại</string>
+    <string name = "text_activity_is_not_found">Không tìm được ứng dụng tương thích</string>
+    <string name = "text_edit_share_title">Dùng cách dưới đây để mở</string>
+    <string name="edit_operation_failure_tip">Thao tác thất bại.</string>
+</resources>

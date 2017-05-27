@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Chữ ký"</string>
+<string name="pref_title_sms_retry_times">Bật Thử lại SMS</string>
+<string name="preference_name">Cụm từ thông dụng</string>
+<string name="select">"Đã chọn"</string>
+<string name="item_cancel">"Hủy"</string>
+<string name="item_delete">"xóa"</string>
+<string name="save_as_teltype">"Đối với điện thoại"</string>
+<string name="save_as_mmstype">"Đối với Sms"</string>
+<string name="type_to_pharser">"Gõ cụm từ phổ biến"</string>
+<string name="add">"Thêm"</string>
+<string name="edit">"Chỉnh sửa"</string>
+<string name="delete">"xóa"</string>
+<string name="finish">"Hoàn tất"</string>
+<string name="cancel">"Hủy"</string>
+<string name="add_pharser">"Thêm cụm từ phổ biến"</string>
+<string name="edit_pharser">Chỉnh sửa cụm từ thông dụng</string>
+<string name="pharser_can_modify">"Cụm từ Tùy chọn"</string>
+<string name="pharser_cannot_modify">"Sửa cụm từ"</string>
+<string name="select_item">"Bạn đã chọn"</string>
+<string name="select_commmon_phrase">Chọn cụm từ thông dụng</string>
+<string name="common_phrase_empty">"Không có cụm từ thông dụng"</string>
+<string name="action_add_phrase">"Chèn cụm từ phổ biến"</string>
+<string name="pref_other_settings_title">"Khác"</string>
+<string-array name="fixed_mms_phrase">
+<item>Hãy gọi số điện thoại văn phòng của tôi, cám ơn.</item>
+<item>Vui lòng liên hệ với tôi, xin cám ơn.</item>
+<item>Vui lòng nói cho tôi biết vị trí của bạn.</item>
+<item>Vui lòng gọi tới số di động của tôi sau, xin cám ơn.</item>
+<item>Tôi đang ở ngoài, về nhà và sẽ gọi điện cho bạn.</item>
+<item>"Tôi đang lái xe và sẽ trả lời sau."</item>
+<item>"Tôi đi trên đường, sẽ đến ngay lập tức."</item>
+<item>Tắc đường, sẽ tới muộn, xin lỗi.</item>
+<item>Gọi lại cho bạn sau.</item>
+<item>Tôi đang trong một buổi họp, trả lời sau.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Giờ tôi ko thể nói chuyện. Gì vậy?"</item>
+<item>"Tôi sẽ gọi lại ngay."</item>
+<item>"Tôi sẽ gọi lại sau."</item>
+<item>"Giờ tôi ko thể nói chuyện. Gọi sau nhé?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Xin vui lòng gọi cho tôi hoặc gửi sms cho tôi sau."</item>
+</string-array>
+<string name="sms_merge_forward">"Trộn lẫn và chuyển tiếp"</string>
+<string name="sms_merge_forward_empty">"Không có tin nhắn sms để trộn lẫn và chuyển tiếp."</string>
+<string name="message_details_text">Chi tiết</string>
+<string name="folder_reply">"Trả lới"</string>
+<string name="new_message">Tin nhắn mới</string>
+<string name="folder_forward">"Chuyển tiếp"</string>
+<string name="delete_message">"Xóa tin nhắn"</string>
+<string name="sms_forward">"Chuyển tiếp"</string>
+<!-- Kalyy 20161009 -->
+<string name="exceed_participant_limit">"Số lượng vượt quá giới hạn(<xliff:g>%1$s</xliff:g>), vui lòng xóa bớt <xliff:g>%2$s</xliff:g>."</string>
+<string name="warning">Cảnh báo</string>
+<string name="share_video_exceeded">Vượt quá giới hạn MMS</string>
+<string name="share_audio_exceeded">Vượt quá giới hạn MMS</string>
+<string name="share_image_exceeded">Vượt quá giới hạn MMS</string>
+<string name="share_muimgae_exceeded">Vượt quá giới hạn MMS</string>
+<string name="select_vcard_button" >Chọn để thêm danh bạ</string>
+<string name="select_video_button" >Chọn để thêm video</string>
+<string name="select_audio_button" >Chọn để thêm ghi âm</string>
+<string name="menu_resend">"Gửi lại"</string>
+<string name="message_outgoing_failure">"Không gửi được"</string>
+
+    <!-- add for bug 504075 -->
+    <string name="conversation_deleteAll_failed">vui lòng thử lại sau.</string>
+    <!-- Modify by SPRD for Bug:536150  2016.02.29 Start -->
+    <string name="attachment_exceeded">Tập tin đính kèm mà bạn chọn đã vượt quá!</string>
+    <!-- Modify by SPRD for Bug:536150  2016.02.29 End -->
+    <!-- SPRD: modified for bug 503091 end -->
+    <string name="attachment_size">Kích thước của tệp đính kèm là:</string>
+    <string name="mms_size">Kích thước của MMS là:</string>
+
+    <!-- Sprd add for common message begin -->
+    <!-- Permissions label for reading messages attachments -->
+    <string name="permission_read_messages_attachment_label">Đọc các tệp tin đính kèm</string>
+    <!-- Permissions description for reading messages attachments -->
+    <string name="permission_read_messages_attachment_desc">Cho phép ứng dụng đọc các tệp đính kèm trong thư của bạn</string>
+    <string name="exit_pharser_dialog_title">Nhắc nhở</string>
+    <string name="exit_pharser_dialog_content">Cho dù lưu các cụm từ thường xuyên sử dụng?</string>
+    <string name="empty_pharser_not_save">"Cụm từ Null không thể được cứu!"</string>
+    <string name="action_wireless_alerts">"Phát sóng di động"</string>
+    <string name="positive">tích cực</string>
+    <string name="wap_push_message_dialog_title">Tin nhắn Wap Push</string>
+    <string name="open_website">Mở trang web</string>
+    <string name="activity_not_found">Không tìm thấy ứng dụng phù hợp</string>
+
+    <string name="share_noimgae_exceeded">Bao gồm các tập tin không phải là hình ảnh không thể được chia sẻ!</string>
+    <string name="exceed_text_length_limitation">Nó vượt quá giới hạn độ dài văn bản.</string>
+
+    <!-- Sprd add for common message end -->
+    <string name="drm_no_application_open">Không thể mở tệp</string>
+
+
+    <string name="ok_drm_rights_consume">"được"</string>
+    <string name="cancel_drm_rights_consume">"Hủy"</string>
+    <string name="orgdrm_no_share">" Không hỗ trợ chia sẻ"</string>
+    <string name="drm_can_not_processed">" Không thể xử lý tệp Drm"</string>
+
+    <string name="protect_information">"Bảo vệ Thông tin"</string>
+    <string name="drm_consume_title">"Tiêu thụ quyền drm"</string>
+    <string name="drm_consume_hint">"Hoạt động của bạn sẽ tiêu tốn Quyền Drm"</string>
+    <string name="drm_file_path">Con đường:%1$s</string>
+    <string name="drm_file_name">Tên tệp:%1$s</string>
+    <string name="drm_rights_validity">Quyền có hiệu lực: hợp lệ</string>
+    <string name="drm_rights_invalidity">Quyền hiệu lực: không hợp lệ</string>
+    <string name="drm_rights_status_transfer">Trạng thái Quyền: được phép chuyển</string>
+    <string name="drm_rights_status_untransfer">Trạng thái Quyền: không được phép chuyển</string>
+    <string name="drm_start_time">Thời gian bắt đầu:%1$s</string>
+    <string name="drm_end_time">Thời gian kết thúc:%1$s</string>
+    <string name="drm_expiration_time">Thời gian hết hạn:%1$s</string>
+    <string name="drm_remain_times">Giữ lại thời gian:%1$s</string>
+    <string name="drm_no_info">"Không có thông tin"</string>
+    <string name="drm_unlimited_rights">"Vô hạn"</string>
+    <string name="drm_rights_unknown">"không xác định"</string>
+    <string name="drm_inactive_rights">"Các quyền không hoạt động"</string>
+    <string name="drm_shared_not_drmdownload">Di chuyển nó tới thư mục DrmDownload và sau đó chia sẻ nó</string>
+
+    <string name="share_nofile_exceeded">Vượt quá giới hạn MMS!</string>
+    <string name="no_few_participants">Không có người tham gia</string>
+
+    <string name="mms_validity_pref_title">Cài đặt hợp lệ MMS</string>
+    <string name="sms_validity_pref_title">Cài đặt tính hợp lệ của tin nhắn SMS</string>
+
+    <string name="attach_vcalendar">Lịch</string>
+    <string name="confirm_import_vcalendar">"Nhập Vcalendar này?"</string>
+    <string name="confirm_save_otherfiles">"Lưu tệp đính kèm này?"</string>
+    <string name="confirm_import">Vâng</string>
+    <string name="cancel_import">Không</string>
+    <string name="attach_other_file">Tệp không xác định</string>
+    <string name="copy_to_sdcard_success">"Đã lưu tệp đính kèm  "<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g></string>
+    <string name="copy_to_sdcard_fail">Không thể lưu tệp đính kèm.</string>
+    <string name="attach_sound" >Âm thanh</string>
+
+    <!-- bug 478514: Add for MmsFolderView Feature Begin -->
+    <string name="no_mms_plugin">Không có chế độ xem thư mục</string>
+    <string name="attachment_details">Chi tiết đính kèm</string>
+    <string name="context_menu_copy_to_sim_memory">Sao chép tin nhắn vào SIM</string>
+    <string name="copy_message_text">Sao chép văn bản</string>
+    <string name="min_zoom">Đã đạt đến mức tối thiểu</string>
+    <string name="max_zoom">Đã đạt đến mức tối đa</string>
+    <string name="save_all_attachments">"Lưu tất cả các tệp đính kèm"</string>
+    <string name="host_app_name">Nhắn tin</string>
+    <string name="need_messaging_is_default_app">"Bạn phải đặt \"%1$s\" Để sms ứng dụng mặc định"</string>
+    <string name="message_outgoing_successful">"Gửi tin nhắn thành công"</string>
+    <!-- bug 478514: Add for MmsFolderView Feature End -->
+
+    <!-- Add by SPRD for Bug:521086 2016.01.15 Start -->
+    <string name="share_unsupported_type">"Không được cắt loại nội dung không được hỗ trợ!"</string>
+    <!-- Add by SPRD for Bug:521086 2016.01.15 End -->
+
+    <!-- 489220 begin -->
+    <!-- Title for the preference for whether or not to request/show delivery reports for MMS -->
+    <string name="mms_delivery_reports_pref_title">Báo cáo gửi MMS</string>
+    <string name="mms_delivery_reports_pref_summary">Yêu cầu báo cáo phân phối cho mỗi MMS bạn gửi</string>
+    <string name="mms_read_reports_pref_title">MMS đọc báo cáo</string>
+    <string name="mms_read_reports_pref_summary">Yêu cầu một báo cáo đọc cho mỗi MMS bạn gửi</string>
+    <string name="enable_return_mms_delivery_reports_pref_title">Bật Báo cáo gửi lại MMS</string>
+    <string name="enable_return_mms_delivery_reports_pref_summary">Bật Return Yêu cầu báo cáo gửi cho mỗi MMS bạn gửi</string>
+    <string name="enable_return_mms_read_reports_pref_title">Bật trả lại báo cáo đã đọc MMS</string>
+    <string name="enable_return_mms_read_reports_pref_summary">Bật Return Yêu cầu báo cáo đọc cho mỗi MMS bạn gửi</string>
+
+    <string name="delivery_toast_body">Tin nhắn được nhận bởi %s.</string>
+    <string name="delivery_toast_body_expired">"Tin nhắn đã hết hạn %s."</string>
+    <string name="delivery_toast_body_fail_rejected">Thông báo bị từ chối bởi %s.</string>
+    <string name="delivery_toast_body_fail">Thư không nhận được %s.</string>
+    <string name="read_report_toast_body">Tin nhắn được đọc bởi %s.</string>
+    <string name="read_report_toast_body_fail">Thư không được đọc bởi %s.</string>
+    <!-- 489220 end -->
+    <!--add for bug 527803 begin -->
+    <string name="mimetype_null">"Loại mime là null, không thể lưu các tập tin đính kèm"</string>
+    <!--add for bug 527803 end-->
+
+    <!-- Sprd add for Smsc begin-->
+    <string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> Trung tâm Dịch vụ SMS"</string>
+    <!-- Settings item description for modifying Sim smcs screen -->
+    <string name="pref_title_manage_sim_smsc">Trung tâm Dịch vụ SMS</string>
+    <string name="smsc_set_fails">Trung tâm Dịch vụ SMS...</string>
+    <string name="smsc_set_success">Thiết lập thành công.</string>
+    <string name="smsc_update_success">Cập nhật thành công</string>
+    <string name="smsc_cannot_be_null">Smsc không được null!</string>
+    <string name="smsc_should_be_number">Smsc phải là một số</string>
+    <string name="smsc_list">Danh sách trung tâm SMS</string>
+    <string name="smsc_list_empty">Không có số trung tâm SMS</string>
+    <string name="smsc_list_loading">Tải</string>
+    <string name="smsc_list_empty_number">Nhấp để thêm số mới</string>
+    <string name="smsc_list_empty_toast">Không gửi tin nhắn, không có số trung tâm SMS</string>
+    <string name="smsc_list_empty_notify_des">Vui lòng thêm số trung tâm SMS mới</string>
+    <string name="smsc_list_empty_notify_title">Không có số trung tâm SMS</string>
+    <!-- Sprd add for Smsc end -->
+
+    <!-- Add by SPRD for Bug:521086 2016.02.02 Start -->
+    <string name="shared_image_number_exceed">"Số ảnh chia sẻ tối đa là %d, Vượt quá được gỡ bỏ."</string>
+    <!-- Add by SPRD for Bug:521086 2016.02.02 End -->
+
+    <string name="drm_unsupported_toast">"Tệp DRM không khả dụng. Vui lòng chọn một tệp tin khác."</string>
+
+    <string name="err_sent_no_sim">Không gửi tin nhắn, không có thẻ SIM.</string>
+    <string name="is_redirect_to">Được chuyển hướng đến %1$s ?</string>
+	<string name="browser">Trình duyệt</string>
+	<string name="telephone">Điện thoại</string>
+	<string name="map">Bản đồ</string>
+
+    <string name="no_permissions">Không có quyền</string>
+
+    <!-- Add by SPRD for Bug:533513 2016.03.10 Start -->
+    <!-- SIGNATURE FUNC -->
+    <string name="message_signature_setting">Thiết lập chữ ký</string>
+    <string name="pref_signature_enable_title">Chữ ký tùy chọn</string>
+    <string name="pref_signature_enabl_summary">Tự động nối chữ ký với mọi tin nhắn MMS bạn gửi</string>
+    <string name="pref_signature_input_title">Chỉnh sửa chữ ký</string>
+    <string name="pref_signature_input_summary">Nhập vào đây để đặt chữ ký của bạn</string>
+    <!-- Add by SPRD for Bug:533513 2016.03.10 End -->
+
+    <!-- Sprd add for sms merge forward begin -->
+    <string name="folder_loading">Tải..</string>
+    <string name="sms_merge_dialog_title">Nhắc nhở</string>
+    <string name="sms_merge_dialog_content1">"Bạn chỉ có thể hợp nhất giữa% d tin nhắn SMS "</string>
+    <string name="sms_merge_dialog_content2">"Và %d Tin nhắn SMS. Xin vui lòng kiểm tra xem nó."</string>
+    <string name="messagelist_sender_self">Tôi</string>
+    <string name="muti_select_all">Chọn tất cả</string>
+    <string name="menu_select_none">Hủy bỏ tất cả</string>
+    <string name="sms_merge_dialog_content_exceed">"Bạn hợp nhất chuyển tiếp nội dung thư qua %d Giới hạn, hãy kiểm tra lại!"</string>
+    <!-- Sprd add for sms merge forward end -->
+
+
+    <string name="action_sim_sms">Tin nhắn trong sim</string>
+
+    <!-- sprd #542214 start -->
+    <string name="sms_save_to_sim_pref_title">"Sms đã được ưu tiên để tiết kiệm cho sim"</string>
+    <string name="sms_sim_full_title">"Sim đầy"</string>
+    <string name="sms_sim_full_notification_ticker">"Dung lượng SMS thấp. Bạn có thể cần phải xoá thư."</string>
+    <string name="sms_sim_full_text">"Sim là đầy đủ, sms sẽ được lưu vào cơ sở dữ liệu tin nhắn. Và xin vui lòng xóa sms từ sim nếu muốn lưu lại để sim."</string>
+    <!-- sprd #542214 end -->
+
+    <!-- Add by SPRD for Bug:543263 2016.03.29 Start -->
+    <string name="no_sms_permissions">"Không có sự cho phép SMS, không thể phát âm thanh."</string>
+    <!-- Add by SPRD for Bug:543263 2016.03.29 End -->
+
+    <string name="smil_subject_hint">"Không có chủ đề mms, bạn có thể chỉnh sửa"</string>
+    <string name="smil_out_of_size">"Ra khỏi bộ nhớ"</string>
+
+    <string name="iamge_content_type">"Hình ảnh :"</string>
+    <string name="audio_content_type">"Âm thanh :"</string>
+    <!-- bug 495194 : add for search feature start -->
+    <string name="subject_edit">"Chủ đề Chỉnh sửa"</string>
+    <string name="text_edit">"Trình soạn thảo văn bản"</string>
+    <string name="repalce_slide">"Thay thế Slide"</string>
+    <string name="remove_slide">"Xóa trang trình bày"</string>
+    <string name="insert_befor_slide">"Chèn trước khi trình chiếu"</string>
+    <string name="insert_after_slide">"Chèn sau khi trình chiếu"</string>
+    <string name="add_attachment">"Thêm Tệp đính kèm"</string>  
+    <string name="remove_attachment">"Xóa tệp đính kèm"</string>
+    <string name="repalce_attachment">"Thay thế tệp đính kèm"</string>
+    <string name="hint_for_input">"Xin vui lòng để chỉnh sửa"</string>
+    <string name="hint_for_empty">"Vui lòng chỉnh sửa, Tập tin đính kèm vị trí hiện tại là tập tin trống"</string>
+    <string name="goto_smil">"Đi đến nụ cười"</string>
+    <string name="smil_subject">"Môn học :"</string>
+
+    <!-- bug 495194 : add for search feature begin -->
+    <plurals name="search_results_title">
+        <item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> Ghi Gặp“<xliff:g id="SEARCH">%2$s</xliff:g>”Kết quả tìm kiếm"</item>
+        <item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> Ghi Gặp“<xliff:g id="SEARCH">%2$s</xliff:g>”Kết quả tìm kiếm"</item>
+    </plurals>
+    <string name="menu_search_text">Tìm kiếm</string>
+    <string name="search_label">Nhắn tin</string>
+    <string name="search_hint">Tìm kiếm tin nhắn</string>
+    <string name="search_max_length">Tìm kiếm câu là quá dài, sẽ giới hạn đến 512.</string>
+    <string name="search_setting_description">Văn bản trong thư của bạn</string>
+    <string name="search">Nhắn tin</string>
+    <string name="search_empty">Không có trận đấu.</string>
+    <string name="search_history"><xliff:g id="count">%1$s</xliff:g> Kết quả cho \"<xliff:g id="search">%2$s</xliff:g>\"</string>
+    <!-- bug 495194 : add for search feature end -->
+    <string name="can_not_add_same_picture">Không thể lặp lại để thêm hình ảnh giống nhau</string>
+    <string name="smil_add_text">"Thêm tệp đính kèm văn bản"</string>
+    <string name="smil_empty_content">"Nội dung trống, Dừng gửi!"</string>
+    <string name="dlg_save_attachment">"lưu tập tin&#8230;"</string>
+    <plurals name="attachments_saved_dir">
+        <item quantity="one"><xliff:g id="quantity">%d</xliff:g> Tập tin đính kèm được lưu vào \"<xliff:g id="dir">%s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="quantity">%d</xliff:g> Tệp đính kèm được lưu vào \"<xliff:g id="dir">%s</xliff:g>\"</item>
+    </plurals>
+
+    <!-- add for bug 556265 capacity of sim messages begin -->
+    <string name="capacity_sim_message_title">Dung lượng SIM</string>
+    <string name="capacity_sim_message_summary">Số / công suất tối đa:%s</string>
+    <!-- add for bug 556265 capacity of sim messages end -->
+
+    <!-- Add by SPRD for bug 554677 -->
+    <string name="audio_record_retry">Vui lòng đóng đoạn ghi lại nền và thử lại.</string>
+    <!-- add for bug 555230 begin -->
+    <string name="contact_invalid">Liên hệ không hợp lệ, vui lòng chọn lại liên hệ hợp lệ.</string>
+    <!-- add for bug 555230 begin -->
+    <!-- add for bug 558980 begin -->
+    <string name="message_size_counting">Đếm</string>
+    <!-- add for bug 558980 end -->
+
+    <!-- SPRD: Add for bug 562203 start -->
+    <string name="pref_encode_type_setting_title">"Cài đặt loại mã hoá"</string>
+    <string name="pref_encode_type_title">"Loại mã hóa"</string>
+    <!-- SPRD: Add for bug 562203 end -->
+</resources>

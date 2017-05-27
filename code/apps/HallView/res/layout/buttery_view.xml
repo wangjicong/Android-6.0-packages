@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wx.hallview.views.ButteryWithProgress android:layout_width="76.0dip" android:layout_height="76.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:round="http://schemas.android.com/apk/res/com.wx.hallview">
+    <com.wx.hallview.views.RoundProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        round:RoundProgressBar_roundColor="#ff16274b"
+        round:RoundProgressBar_roundProgressColor="#ffe6e4ea"
+        round:RoundProgressBar_roundWidth="2.0dip"
+        round:RoundProgressBar_textSize="12.0sp"
+        round:RoundProgressBar_max="100"
+        round:RoundProgressBar_textIsDisplayable="true" />
+    <com.wx.hallview.views.ButteryView
+        android:id="@+id/buttery_view"
+        android:background="#ff085156"
+        android:layout_width="15.0dip"
+        android:layout_height="@dimen/buttery_height"
+        android:layout_marginTop="16.0dip"
+        android:layout_centerHorizontal="true">
+        <View android:background="#ffd8cdcc"
+            android:layout_width="7.5dip"
+            android:layout_height="1.0dip"
+            android:layout_marginBottom="2.5dip"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+    </com.wx.hallview.views.ButteryView>
+</com.wx.hallview.views.ButteryWithProgress>

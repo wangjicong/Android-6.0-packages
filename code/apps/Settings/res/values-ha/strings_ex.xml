@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB saitoci"</string>
+<string name="usb_charge_only">"Caji Kadai"</string>
+<string name="usb_charge_only_summary">"Yi amfani da yanayin \'caji kadai\' yayin da a ka jona USB"</string>
+<string name="usb_charge_only_storage_active_subtext">"Ba za a iya caji kadai ba lokacin da ake amfani da ma\'adanar USB"</string>
+<string name="usb_charge_only_notification">"An hada a matsayin caji kadai"</string>
+<string name="usb_storage">"Ma\'adanar USB"</string>
+<string name="usb_storage_summary">"An bada damar babbar ma\'adanar USB"</string>
+<string name="ums_settings">"Saitunan ma\'ajiyar USB"</string>
+<string name="ums_mounted_setting">"Kafa ums ga PC yanzu, dan dakata..."</string>
+<string name="ums_unmounted_setting">"Cire ums daga PC yanzu, dan dakata..."</string>
+<string name="usb_virtual_drive">"Gurbin USB Na kwamfuta"</string>
+<string name="usb_virtual_drive_summary">"Bada damar gurbin USB na kwamfuta"</string>
+<string name="remember_choice">"Tuna zabi na"</string>
+<string name="remember_choice_summary">"Tuna zabina kuma kunna aikin da aka tuna automatikiyyan nan gaba"</string>
+<string name="stand_by_set_changed_prompt">"Yanayin kunna Sim zai canzu, tabbatar kan ko a ci gaba?"</string>
+<string name="not_stand_by">"HARAMTACCE"</string>
+<string name="primary_card_switching">"Saituka\ufff0cjira… "</string>
+<string name="toggle_data_change_message">"Haduwar bayanai ya sauya zuwa katin sim <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, zai samar da bayanai gaba daya da kuma cajin kudin da ya dace, ka lura."</string>
+<string name="select_primary_card">"Zabi katin asali"</string>
+<string name="whether_switch_primary_card">"Tabbatar ko ya kamata a musanya katin fari zuwa wannan katin?\n (Haka kuma za a matsar da datar salula zuwa katin)"</string>
+<string name="attention">"Kula"</string>
+<string name="bt_softap_cannot_coexist">"Idan aka kunna masarrafin soft ko ana kunnawa, bulutus ba zai aiki ba, in kana son aiki da bulutus, ka tabbatar masarrafin soft a kashe yake."</string>
+<string name="softap_bt_cannot_coexist">"Yayin da aka bada damar Bluetooth ko ake kunna shi, softap ba zai iya aiki ba, idan kana son amfani da softap, tabbatar an kashe Bluetooth."</string>
+<string name="softap_need_mobile_data_enabled">"Mararrabin Wi-Fi na hannu yana bukatar a hada shi da bayanan mobayil, zai jawo karin kudi."</string>
+<string-array name="light_color_picker">
+<item>"Kore"</item>
+<item>"Shudi"</item>
+<item>"Ja"</item>
+<item>"shunayya"</item>
+<item>"Rawaya"</item>
+<item>"Ja"</item>
+<item>"Yelo"</item>
+</string-array>
+</resources>

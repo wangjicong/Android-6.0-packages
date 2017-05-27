@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.example.smartwakeanimation">
+
+	<application
+		android:allowBackup="false"
+		android:icon="@drawable/ic_launcher"
+		android:label="@string/app_name"
+		android:theme="@style/noAnimationTheme" >
+		<activity
+			android:name=".MainActivity"
+			android:screenOrientation="portrait" 
+			android:excludeFromRecents="true" >
+		</activity>
+	</application>
+
+</manifest>

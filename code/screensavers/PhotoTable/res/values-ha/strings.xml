@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Hotuna adane a fuskar waya"</string>
+<string name="table_screensaver_name">"Teburin hoto"</string>
+<string name="flipper_screensaver_name">"Gidan hoto"</string>
+<string name="posts_album_name">"Hotuna daga aike"</string>
+<string name="unknown_album_name">"Album da ba suna"</string>
+<string name="stock_photo_album_name">"Hotunan allo"</string>
+<string name="local_source_name">"Hotunan kan na\'ura"</string>
+<string name="need_to_configure">"Ba hoton da aka zaba."</string>
+<string name="photodream_select_all">"Zabi duk"</string>
+<string name="photodream_select_none">"Cire zaben duk"</string>
+<string name="no_photos">"Ba hotuna kan na\'urar."</string>
+
+</resources>

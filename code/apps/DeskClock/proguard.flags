@@ -1,0 +1,2 @@
+# temporary modifications in order to solve "clock stops running" when Click the "add worldclock" button
+-keep class android.support.v7.widget.SearchView { <init>(...); }

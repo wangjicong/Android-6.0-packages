@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB asetukset"</string>
+<string name="usb_charge_only">"Vain lataus"</string>
+<string name="usb_charge_only_summary">"Käytä vain lataustilaa, kun USB on liitetty "</string>
+<string name="usb_charge_only_storage_active_subtext">"Ei pysty lataamaan, ainoastaan kun USB-varasto on käynnissä"</string>
+<string name="usb_charge_only_notification">"Liitetty ainoastaan latauksena"</string>
+<string name="usb_storage">"USB-tila"</string>
+<string name="usb_storage_summary">"Ota USB-massamuisti käyttöön"</string>
+<string name="ums_settings">"UMS asetukset"</string>
+<string name="ums_mounted_setting">"Kiinnitä ums tietokoneeseen nyt, odota..."</string>
+<string name="ums_unmounted_setting">"Irrota ums tietokoneesta nyt, odota..."</string>
+<string name="usb_virtual_drive">"USB virtuaalinen asema"</string>
+<string name="usb_virtual_drive_summary">"Kytke USB virtuaalinen asema pois"</string>
+<string name="remember_choice">"Muista valintani"</string>
+<string name="remember_choice_summary">"Muista valintani ja käynnistä muistettu toiminto automaattisesti seuraavalla kerralla"</string>
+<string name="stand_by_set_changed_prompt">"Sim aktivaation tila muutetaan, vahvista haluatko jatkaa?"</string>
+<string name="not_stand_by">"Kielletty"</string>
+<string name="primary_card_switching">"Setting\uff0codota..."</string>
+<string name="toggle_data_change_message">"Datayhteys on vaihdettu SIM-kortille <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, se tuottaa tiedonsiirron kuluja, huomaa tämä."</string>
+<string name="select_primary_card">"Valitse ensisijainen kortti"</string>
+<string name="whether_switch_primary_card">"Vahvista mikäli haluat vaihtaa ensisijaisen kortin tähän korttiin?\n(Matkapuhelintiedot siirretään myös tälle kortille.)"</string>
+<string name="attention">"Huomio"</string>
+<string name="bt_softap_cannot_coexist">"Kun ohjelmiston sovellutus on kytketty päälle tai kytkeytyy päälle,bluetooth ei pysty toimimaan, jos haluat käyttää bluetoothia, varmista, että ohjelmiston sovellutus on kytketty pois."</string>
+<string name="softap_bt_cannot_coexist">"Kun bluetooth on käynnissä, kevytkosketus ei toimi, jos haluat käyttää kevytkosketusta, varmista että bluetooth ei ole käynnissä."</string>
+<string name="softap_need_mobile_data_enabled">"Kannettava Wi-Fi hotspot tarvitsee kännykkätietojen liitoksen, joka voi aiheuttaa lisäkustannuksia."</string>
+<string-array name="light_color_picker">
+<item>"Vihreä"</item>
+<item>"Sininen"</item>
+<item>"Indigo"</item>
+<item>"Violetti"</item>
+<item>"Vaaleanpunainen"</item>
+<item>"Punainen"</item>
+<item>"Keltainen"</item>
+</string-array>
+</resources>

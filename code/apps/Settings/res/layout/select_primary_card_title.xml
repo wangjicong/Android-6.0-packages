@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:layout_marginTop="8dip"
+        android:layout_marginBottom="7dip"
+        android:layout_marginLeft="16dip">
+        <TextView
+            android:id="@+id/multi_mode_slot_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/select_primary_card"
+            android:textColor="@color/custom_text_color"
+            android:textSize="22sp" />
+        <TextView
+            android:id="@+id/multi_mode_slot_introduce"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dip"
+            android:textColor="@color/custom_text_color"
+            android:text="@string/select_primary_slot_description"
+            android:textSize="12sp" />
+    </LinearLayout>
+</LinearLayout>

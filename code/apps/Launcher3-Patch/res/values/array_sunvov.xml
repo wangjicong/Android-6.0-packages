@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--qiuyaobo,20161124,begin-->
+    <string-array name = "app_package">
+    		<item>com.android.vending</item>
+    		<item>com.cn.net.mplayers</item>
+    		<item>com.android.quicksearchbox</item>
+    		<item>cn.xender</item>
+    		<item>com.dc.geek</item>
+    		<item>com.adups.fota</item>
+    		<item>com.dewmobile.kuaiya.play</item>
+    		<item>com.facebook.katana</item>
+    		<item>com.viber.voip</item>
+    		<item>com.tencent.mm</item>
+    		<item>com.zing.zalo</item>
+    		<item>com.google.android.youtube</item>
+    		<item>com.whatsapp</item>
+    		<item>com.lenovo.anyshare.gps</item>
+    		<item>com.google.android.inputmethod.pinyin</item>
+    </string-array>
+
+    <string-array name = "app_classname">
+
+    </string-array>
+    
+    <string-array name = "app_icon">
+    		<item>@drawable/app_icon_vending</item>
+            <item>@drawable/app_icon_hdplayer</item>    
+            <item>@drawable/app_icon_search</item> 		
+            <item>@drawable/app_icon_xender</item> 
+            <item>@drawable/app_icon_geek</item> 
+            <item>@drawable/app_icon_fota</item> 
+            <item>@drawable/app_icon_zapya</item> 
+            <item>@drawable/app_icon_facebook</item>
+            <item>@drawable/app_icon_viber</item>
+            <item>@drawable/app_icon_wechat</item> 
+            <item>@drawable/app_icon_zalo</item> 
+            <item>@drawable/app_icon_youtube</item>
+            <item>@drawable/app_icon_whatsapp</item>  
+            <item>@drawable/app_icon_anyshare</item>     
+            <item>@drawable/app_icon_googlepin</item>          
+    </string-array>
+    <!--qiuyaobo,20161124,end-->
+    
+</resources>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"ಎಲ್ಲ ಹೊರಹೋಗುವ"</string>
+    <string name="messageAO">"ಕರೆ ನಿಷೇಧ ಪಾಸ್ ವರ್ಸ್ ದಾಖಲಿಸಿ"</string>
+    <string name="sum_ao_enabled_indicator">"ಎಲ್ಲಾ ಕರೆಗಳನ್ನು ಫ಼ಾರ್ವರ್ಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+    <string name="sum_ao_enabled">"ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="sum_ao_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="enable_ao_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ಎಲ್ಲ ಹೊರಹೋಗುವ ಕರೆಗಳನ್ನು ನಿಷೇಧಿಸುವುದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="disable_ao_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ಎಲ್ಲ ಹೊರಹೋಗುವ ಕರೆಗಳನ್ನು ನಿಷೇಧಿಸುವುದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವುದನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="labelOI">"ಹೊರಹೋಗುವ ಅಂತರರಾಷ್ಟ್ರೀಯ"</string>
+    <string name="messageOI">"ಕರೆ ನಿಷೇಧ ಪಾಸ್ ವರ್ಸ್ ದಾಖಲಿಸಿ"</string>
+    <string name="sum_oi_enabled">"ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="sum_oi_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="enable_oi_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ಎಲ್ಲ ಹೊರಹೋಗುವ ಅಂತರರಾಷ್ಟ್ರೀಯ ಕರೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ನಿಷೇಧಿಸುವುದನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="disable_oi_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ಎಲ್ಲ ಹೊರಹೋಗುವ ಅಂತರರಾಷ್ಟ್ರೀಯ ಕರೆಗಳನ್ನು ನಿಷೇಧಿಸುವುದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವುದನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="labelOX">"ಹೊರಹೋಗುವ ಅಂತರರಾಷ್ಟ್ರೀಯ ರೋಮಿಂಗ್"</string>
+    <string name="messageOX">"ಕರೆ ನಿಷೇಧ ಪಾಸ್ ವರ್ಸ್ ದಾಖಲಿಸಿ"</string>
+    <string name="sum_ox_enabled">"ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="sum_ox_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="enable_ox_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ಎಲ್ಲ ಹೊರಹೋಗುವ ಅಂತರರಾಷ್ಟ್ರೀಯ ರೋಮಿಂಗ್ ಕರೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ನಿಷೇಧಿಸುವುದನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="disable_ox_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ಎಲ್ಲ ಹೊರಹೋಗುವ ಅಂತರರಾಷ್ಟ್ರೀಯ ರೋಮಿಂಗ್ ಕರೆಗಳನ್ನು ನಿಷೇಧಿಸುವುದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸುವುದನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="labelAI">"ಎಲ್ಲ ಒಳಬರುವ"</string>
+    <string name="messageAI">"ಕರೆ ನಿಷೇಧ ಪಾಸ್ ವರ್ಸ್ ದಾಖಲಿಸಿ"</string>
+    <string name="sum_ai_enabled">"ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="sum_ai_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="enable_ai_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ಎಲ್ಲ ಒಳಬರುವ ಕರೆಗಳನ್ನು ನಿಷೇಧಿಸುವುದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="disable_ai_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ಎಲ್ಲ ಒಳಬರುವ ಕರೆಗಳನ್ನು ನಿಷೇಧಿಸುವುದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="labelIR">"ರೋಮಿಂಗ್ ನಲ್ಲಿರುವಾಗ ಒಳಬರುವ ಕರೆಗಳು"</string>
+    <string name="messageIR">"ಕರೆ ನಿಷೇಧ ಪಾಸ್ ವರ್ಸ್ ದಾಖಲಿಸಿ"</string>
+    <string name="sum_ir_enabled">"ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="sum_ir_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="enable_ir_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ರೋಮಿಂಗ್ ನಲ್ಲಿರುವಾಗ ಒಳಬರುವ ಕರೆಗಳನ್ನು ನಿಷೇಧಿಸುವುದನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="disable_ir_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ರೋಮಿಂಗ್ ನಲ್ಲಿರುವಾಗ ಒಳಬರುವ ಕರೆಗಳನ್ನು ನಿಷೇಧಿಸುವುದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="labelAB">"ಎಲ್ಲವನ್ನೂ ಚಟುವಟಿಕೆರಹಿತಗೊಳಿಸಿ"</string>
+    <string name="messageAB">"ಕರೆ ನಿಷೇಧ ಪಾಸ್ ವರ್ಸ್ ದಾಖಲಿಸಿ"</string>
+    <string name="sum_ab_enabled">"ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="sum_ab_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="enable_ab_forbidden">"ನಿಮ್ಮ ರವಾನಕವು ಎಲ್ಲವನ್ನೂ ಚಟುವಟಿಕೆರಹಿತಗೊಳಿಸುವುದನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="disable_ab_forbidden">"ನಿಮ್ಮ ರವಾನಕ ಎಲ್ಲವನ್ನೂ ಚಟುವಟಿಕೆಗೊಳಿಸುವುದನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+    <string name="labelChgPwd">"ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಿ"</string>
+    <string name="DlgChgPwd_oldpwd">"ಕರೆ ನಿಷೇಧ ಪಾಸ್ ವರ್ಸ್ ದಾಖಲಿಸಿ"</string>
+    <string name="DlgChgPwd_newpwd_first">"ಪಾಸ್ವರ್ಡ್ ದಾಖಲಿಸಿ"</string>
+    <string name="DlgChgPwd_newpwd_last">"ಹೊಸ ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ"</string>
+    <string name="cb_pw_no_match">"ಪಾಸ್ವರ್ಡ್ ಗಳು ತಾಳೆಯಾಗುತ್ತಿಲ್ಲ"</string>
+    <string name="cb_pw_error">"ಪಾಸ್ವರ್ಡ್ ಸರಿಯಿಲ್ಲ"</string>
+    <string name="cb_pw_correct">"ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಲಾಗಿದೆ"</string>
+    <string name="labelCB">"ಕರೆ ಪ್ರತಿಬಂಧಿಸುವಿಕೆ"</string>
+    <string name="call_barring_settings">"ಕರೆ ನಿಷೇಧ ಸ್ಥಾಪನೆಗಳು"</string>
+    <string name="cb_error">"ಕರೆ ನಿಷೇಧ ತಿರಸ್ಕೃತ"</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"ನೆಟ್ವರ್ಕ್ ಲಭ್ಯವಿಲ್ಲ; ನೀವು ನೆಟ್ವರ್ಕ್ ಸ್ಥಿತಿಯನ್ನು ಹೊಂದಿಸಲು ಬಯಸುವಿರಾ?</string>
+     <string name="dialog_network_selection_title">"ಗಮನ"</string>
+     <string name="dialog_network_selection_message">"ಮೊಬೈಲ್ ಫೋನ್ ಹಸ್ತಚಾಲಿತ ಆಯ್ಕೆ ಮಾಡುವ ಕ್ರಮದಲ್ಲಿ ನಿಮಗಾಗಿ ಇತರ ಸೇವಾದಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದಿಲ್ಲ." ಕೆಲವು ಬಾರಿ ಆಯ್ಕೆ ಮಾಡಿದ ಸೇವಾದಾರರ ಸೇವೆಯನ್ನು ನೀವು ಕಳೆದುಕೊಂಡಾಗ, ನೀವು ಹಸ್ತಚಾಲಿತವಾಗಿ ಪುನಃ ಸೇವಾದಾರರನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕು ಅಥವಾ ಸ್ವಯಂಚಾಲಿತ ಆಯ್ಕೆ ಕ್ರಮಕ್ಕೆ ಬದಲಾಯಿಸಿಕೊಳ್ಳಬೇಕು. ನೀವು "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಆಯ್ಕೆಮಾಡಿ" ಬಳಸಿರೆಂದು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ". ನೀವು ಹಸ್ತಚಾಲಿತವಾಗಿ ನೆಟ್ವರ್ಕನ್ನು ಆಯ್ಕೆ ಮಾಡಿಕೊಳ್ಳಬೇಕೆಂದಿದ್ದೀರ?</string>
+     <string name="network_unknown">"ಪರಿಚಿತವಲ್ಲದ್ದು"</string>
+     <string name="network_inhibit">"ನಿಷೇಧಿತ"</string>
+     <string name="ip_dialing_title">"IP ಡಯಲಿಂಗ್"</string>
+     <string name="ip_dialing_list_title">"IP ಡಯಲ್ ಪಟ್ಟಿ"</string>
+     <string name="ip_no_number">"IP ಹಿಂಜೋಡಣೆಯ ಕೊರತೆ"</string>
+     <string name="ip_no_number_msg">"IP ಹಿಂಜೋಡಣೆ ಫೋನ್ ನಲ್ಲಿ ಸಂಗ್ರಹಿತವಾಗಿಲ್ಲ."</string>
+     <string name="ip_number_empty_loading">"IP ಡಯಲ್ ಪಟ್ಟಿ ಖಾಲಿಯಾಗಿದೆ."</string>
+     <string name="remove">"ತೆಗೆಯಿರಿ"</string>
+     <string name="ip_number_is_too_long">ಐಪಿ ಸಂಖ್ಯೆಗಳು 20ಕ್ಕಿಂತ ದೊಡ್ಡದಾಗಿರಬಾರದು</string>
+     <string name="add_ip_number_str">"ಹೊಸದು"</string>
+     <string name="ip_dialing_num_error">"ಕೇವಲ 10 IP ಸಂಖ್ಯೆಗಳನ್ನು ಮಾತ್ರ ಉಳಿಸಲು ಸಾಧ್ಯ"</string>
+     <string name="ip_dialing_num_repeat">"ಸಂಖ್ಯೆ ಪುನರಾವರ್ತಿಸಿ, ಸೇರಿಸು ವಿಫಲವಾಗಿದೆ"</string>
+     <string name="menu_selected_all">ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ</string>
+     <string name="menu_select_none">"ಎಲ್ಲ ಆಯ್ಕೆಗಳನ್ನು ರದ್ದು ಮಾಡಿ"</string>
+     <string name="doneButton">"ಆಯ್ತು"</string>
+     <string name="cancel">"ರದ್ದು"</string>
+     <string name="uplmn_setting_title">"ಪ್ರಾಶಸ್ತ್ಯಗಳು"</string>
+     <string name="uplmn_setting">"UPLMN ಸೆಟ್ಟಿಂಗ್ಸ್"</string>
+     <string name="uplmn_index">"ಇಂಡೆಕ್ಸ್ (0 ಯಿಂದ ಪ್ರಾರಂಭ):"</string>
+     <string name="uplmn_id">"ಐಡಿ ಸಂಖ್ಯೆ:"</string>
+     <string name="uplmn_type">"ವಿಧ (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">"ದಯವಿಟ್ಟು USIM ಕಾರ್ಡನ್ನು ಒಳಪಡಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"</string>
+     <string name="index_error_uplmn">"ಅನುಕ್ರಮಣಿಕೆ ಖಾಲಿ ಇದೆ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.!"</string>
+     <string name="type_is_emplty_error_uplmn">"ವಿಧ ಖಾಲಿ ಇದೆ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ!"</string>
+     <string name="number_too_short_uplmn">"Id ಸಂಖ್ಯೆ ಬಹಳ ಚಿಕ್ಕದು. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ!"</string>
+     <string name="type_is_wrong_uplmn">"ವಿಧವು 1 ಅಥವಾ 0 ಆಗಿರಬೇಕು. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ!"</string>
+     <string name="fail_uplmn">"ವಿಫಲವಾಯಿತ ಹಾಗೂ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+     <string name="set_uplmn_unsuccessful">"ಸ್ಥಾಪನೆ ವಿಫಲ!"</string>
+     <string name="menu_new_uplmn">ಹೊಸ UPLMN</string>
+     <string name="menu_delete_uplmn">"UPLMN ಅಳಿಸಿ"</string>
+     <string name="uplmn_exceeds_capacity">"ಸಿಮ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಹಚ್ಚಿಸಲಾಗುವುದಿಲ್ಲ"</string>
+     <string name="delete">"ಅಳಿಸಿ"</string>
+     <string name="delete_uplmn_successfully">" uplmn ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ"</string>
+     <string name="id_is_wrong_uplmn">"ಐಡಿ ಯನ್ನು ಒಂದು ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಸೆಟ್ ಮಾಡಬೇಕು!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"ನೆಟ್ವರ್ಕ್ ಸ್ಥಿತಿಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+     <string name="lte_service_switch">"ಜೋಡಣೆಯಾಗುತ್ತಿದೆ, ದಯವಿಟ್ಟು ಕಾಯಿರಿ…"</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4ಜಿ/3ಜಿ/ ಬಹು ಸ್ಥಿತಿ"</item>
+        <item>"3ಜಿ/2ಜಿ ಒಂದೇ ಸ್ಥಿತಿ"</item>
+        <item>"2G ಮಾತ್ರ ಕ್ರಮ"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4ಜಿ/3ಜಿ/ ಬಹು ಸ್ಥಿತಿ"</item>
+        <item>"3ಜಿ/2ಜಿ ಒಂದೇ ಸ್ಥಿತಿ"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"GSM  ಮಾತ್ರ"</item>
+        <item>"WCDMA ಮಾತ್ರ"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (ಸ್ವಯಂ)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"ವೇಗದ ಡಯಲ್ ಸೆಟ್ಟಿಂಗ್ಸ್"</string>
+     <string name="delete_fastdial">"ಫಾಸ್ಟ್ ಡಯಲ್ ಅಳಿಸಿ"</string>
+     <string name="update_fastdial">"ಫಾಸ್ಟ್ ಡಯಲ್ ನವೀಕರಿಸಿ"</string>
+     <string name="no_sim_text">"ದಯವಿಟ್ಟು SIM ಕಾರ್ಡ್ ಒಳಸೇರಿಸಿ ಇಲ್ಲವೇ ಲಾಂಚ್ ಮಾಡಿ"</string>
+     <string name="network_not_on">"ನೆಟ್ವರ್ಕ್ ಲಭ್ಯವಿಲ್ಲ; ನೀವು ನೆಟ್ವರ್ಕ್ ಸ್ಥಿತಿಯನ್ನು ಹೊಂದಿಸಲು ಬಯಸುವಿರಾ?</string>
+     <string name="one_key_locked_notification">"ಈ ತರಹದ್ದು ಅನ್ಲಾಕ್ ಆಗಿದೆ; ಇದನ್ನು ಲಾಕ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ?</string>
+     <string name="one_key_unlocked_notification">"ಈ ತರಹದ್ದು ಲಾಕ್ ಆಗಿದೆ; ಇದನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಲು ಬಯಸುತ್ತೀರಾ?</string>
+     <string name="one_key_unlocked">"ಅನ್ಲಾಕ್"</string>
+     <string name="one_key_locked">"ಬೀಗ"</string>
+     <string name="one_key_operation_success">"ಕಾರ್ಯಾಚರಣೆ ಯಶಸ್ವಿಯಾಗಿದೆ; ಈಗ ಪುನಃ ಬೂಟ್ ಮಾಡುವ ಅಗತ್ಯವಿರುವುದು."</string>
+     <string name="one_key_operation_unsuccess">"ಕಾರ್ಯಾಚರಣೆ ವಿಫಲವಾಯಿತು; ನೀವು ಪುನಃ ಪ್ರಯತ್ನಿಸಬಹುದು!"</string>
+     <string name="one_key_query_unsuccess">"simlock ಬಗೆಯ ಬಗ್ಗೆ ಕ್ವೇರಿಯು ವಿಫಲವಾಗಿದೆ! "</string>
+     <string name="one_key_simlock_setting">"SIMLOCK ಸಂಯೋಜನೆ"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"ನೆಟ್ವರ್ಕ್ ಲಾಕ್"</item>
+        <item>"NetworkSubset ಲಾಕ್"</item>
+        <item>"ಸೇವೆ ಒದಗಿಸುವವರ ಲಾಕ್"</item>
+        <item>"ಸಂಸ್ಥೆಯ ಲಾಕ್"</item>
+        <item>"SIM ಲಾಕ್"</item>
+    </string-array>
+     <string name="callin_barring_settings">"ಒಳಬರುವ ಕರೆಗಳನ್ನು ಪ್ರತಿಬಂಧಿಸುವ ಸಂಯೋಜನೆಗಳು"</string>
+     <string name="callout_barring_settings">"ಹೊರಹೋಗುವ ಕರೆಗಳನ್ನು ಪ್ರತಿಬಂಧಿಸುವ ಸಂಯೋಜನೆಗಳು"</string>
+     <string name="labelCOUT">"ಹೊರಹೋಗುವ ಕರೆಗಳನ್ನು ಪ್ರತಿಬಂಧಿಸುವುದು"</string>
+     <string name="labelCIN">"ಒಳಬರುವ ಕರೆಗಳನ್ನು ಪ್ರತಿಬಂಧಿಸುವುದು"</string>
+     <string name="no_sim_text">"ದಯವಿಟ್ಟು SIM ಕಾರ್ಡ್ ಒಳಸೇರಿಸಿ ಇಲ್ಲವೇ ಲಾಂಚ್ ಮಾಡಿ"</string>
+     <string name="sim_lock_none">"ಯಾವುದೇ SIM ಲಾಕ್ ಆಗಿಲ್ಲ."</string>
+     <string name="sim_lock_try_later">"ಪುನಃ ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ."</string>
+     <string name="edit_and_save_fdn">"FDN ಸಂಖ್ಯೆ ಪರಿಷ್ಕರಿಸಿ"</string>
+     <string name="call_fdn_number_by_sim">"ಕರೆ ಮಾಡಿ"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"VT ಕರೆ"</string>
+     <string name="airplane_changed_on">"ಏರ್‌ಪ್ಲೇನ್ ಮೋಡ್ ಅನ್ನು ಆನ್ ಮಾಡಲಾಗಿದೆ."</string>
+     <string name="number_empty">"ಸಂಖ್ಯೆ ಖಾಲಿ ಇದೆ"</string>
+     <string name="unblock_pin2">"ಅನ್ಲಾಕ್ PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"ನಿಮ್ಮ SIM ಕಾರ್ಡ್ ಅನ್ಲಾಕ್ ಮಾಡಲು PUK2 ನಮೂದಿಸಿ"</string>
+     <string name="pin2_Label">"PIN2(<xliff:g>%s</xliff:g> ಉಳಿದಿರುವ ಪ್ರಯತ್ನ(ಗಳು)"</string>
+     <string name="oldPin2_Label">"ಹಳೆಯ PIN2(<xliff:g>%s</xliff:g> ಉಳಿದಿರುವ ಪ್ರಯತ್ನ(ಗಳು)"</string>
+     <string name="puk2_code_label">"PUK2 ಕೋಡ್ (<xliff:g>%s</xliff:g>ಮುದ್ರಿಸಿ ಉಳಿದಿರುವ ಪ್ರಯತ್ನ(ಗಳು)"</string>
+     <string name="promptWordOne">"ಉಳಿದ Remain&#160;"</string>
+     <string name="promptWordTwo">"&#160;ಸಮಯ(ಗಳು)"</string>
+     <string name="adn_full">"FDN ಪಟ್ಟಿಯು ತುಂಬಿದೆ"</string>
+     <string name="no_available_phone_accounts">"ಲಭ್ಯವಿರುವ ಕಾಲಿಂಗ್ ಅಕೌಂಟ್‌ಗಳಿಲ್ಲ"</string>
+     <string name="lnd_list">"LND ಪಟ್ಟಿ</string>
+     <string name="sdn_list">"SDN ಪಟ್ಟಿ</string>
+     <string name="sim_list_title">"ದಯವಿಟ್ಟು SIM ಕಾರ್ಡ್ ಆಯ್ಕೆ ಮಾಡಿ"</string>
+     <string name="wait_message">"ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ..."</string>
+     <string name="menu_call">"ಸಂಪರ್ಕಕ್ಕೆ ಕರೆ ನೀಡಿ"</string>
+     <string name="lnd_no_contact_record">"ಯಾವುದೇ LND ದಾಖಲೆ ಈ SIM ಕಾರ್ಡ್ ನಲ್ಲಿ ಇಲ್ಲ."</string>
+     <string name="sdn_no_contact_number">"ಈ SIM ಕಾರ್ಡ್ SDN ಸಂಖ್ಯೆಯನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+     <string name="remove">"ತೆಗೆಯಿರಿ"</string>
+     <string name="delete_selected_contents">"ಆಯ್ದ ಅಂಶಗಳನ್ನು ನೀವು ಅಳಿಸಿಹಾಕಲು ಬಯಸುವಿರೆ?"</string>
+     <string name="sim_notready_can_not_delete">"ಸಿಮ್ ಕಾರ್ಡ್ ಸಿದ್ಧವಿಲ್ಲದಿರುವುದರಿಂದ, ಅಳಿಸಲು ಆಗುವುದಿಲ್ಲ."</string>
+     <string name="contact_del_failed">"ಅಳಿಸುವುದು ವಿಫಲ"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"ಧ್ವನಿಮೇಲ್‌ ಹೊಂದಿಸಲು, ಮೆನು &gt; ಸೆಟ್ಟಿಂಗ್‌ಗಳುಗೆ ಹೋಗಿ."</string>
+     <string name="simlock_unlocked">"ಸಿಮ್‌ಲಾಕ್ ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲಾಗಿದೆ"</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"WCDMA ಮಾತ್ರ"</item>
+        <item>"GSM  ಮಾತ್ರ"</item>
+        <item>"ಸ್ವಯಂಚಾಲನೆ"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"GSM  ಮಾತ್ರ"</item>
+    </string-array>
+</resources>

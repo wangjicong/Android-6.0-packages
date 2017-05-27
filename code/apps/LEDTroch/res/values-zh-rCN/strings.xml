@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手电筒</string>
+    <string name="led_troch">手电筒</string>
+    <string name="action_settings">设置</string>
+</resources>

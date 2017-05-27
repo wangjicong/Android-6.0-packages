@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <int name="maxImageHeight" value="1944"/>
+        <int name="maxMessageSize" value="614400"/>
+        <int name="maxImageWidth" value="2592"/>
+    </carrier_config>
+    <carrier_config>
+        <string name="vmnumber">123</string>
+    </carrier_config>
+    <carrier_config spn="C le mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">C le mobile</string>
+        <string name="vmnumber">888</string>
+    </carrier_config>
+    <carrier_config spn="AfoneMobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">AfoneMobile</string>
+    </carrier_config>
+    <carrier_config spn="La Poste Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">La Poste Mobile</string>
+        <string name="vmnumber">123</string>
+    </carrier_config>
+    <carrier_config spn="Joe">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Joe</string>
+    </carrier_config>
+    <carrier_config spn="Mobisud">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Mobisud</string>
+    </carrier_config>
+    <carrier_config spn="NRJ Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">NRJ Mobile</string>
+    </carrier_config>
+    <carrier_config spn="La Poste">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">La Poste Mobile</string>
+        <string name="vmnumber">123</string>
+    </carrier_config>
+    <carrier_config spn="CORIOLIS">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Coriolis</string>
+        <string name="vmnumber">123</string>
+    </carrier_config>
+    <carrier_config spn="A MOBILE">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">A MOBILE</string>
+    </carrier_config>
+    <carrier_config spn="Simplicime">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Simplicime</string>
+    </carrier_config>
+    <carrier_config spn="E.Leclerc Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Leclerc Mobile</string>
+    </carrier_config>
+</carrier_config_list>

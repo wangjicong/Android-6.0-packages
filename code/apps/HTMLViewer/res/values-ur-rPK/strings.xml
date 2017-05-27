@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">HTML ناظر</string>
+<string name="storage_permission_missed_hint">"مطلوبہ ذخیرہ اجازت موجود نہیں ہے۔ اس لئے معمول کے مطابق انجام نہیں دیا جا سکتا ہے۔ براہ مہربانی اپنی اجازت کی ترتیبات کی پڑتال کریں۔"</string>
+<string name="dialog_dismiss">"کالعدم کریں"</string>
+</resources>

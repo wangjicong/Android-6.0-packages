@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Mga itinakda sa IP Dial"</string>
+    <string name="ip_dial_menu">"IP DIAL"</string>
+    <string name="ip_dialing_title">IP dialing</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Mga itinakda sa Fast Dial"</string>
+    <string name="no_fast_dial_number">"Hindi itinakda ang numero sa Fast dial."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"Palabas"</string>
+     <string name="call_log_incoming_title">"Papasok"</string>
+     <string name="recentOutgoing_empty">"Wala kang mga papalabas na tawag."</string>
+     <string name="recentIncoming_empty">"Wala kang mga papasok na tawag."</string>
+     <string name="view_setting">"Tingnan"</string>
+     <string name="item_all_calls">"Lahat ng listahan sa tawag"</string>
+     <string name="item_sim_calls">"SIM%d listahan ng tawag""</string>
+     <string name="unselect_all">Tanggalin lahat sa pagkakapili</string>
+     <string name="select_all_sprd">"Piliin lahat"</string>
+     <string name="doneButton">"Tapos na"</string>
+     <string name="cancel">"Kanselahin"</string>
+     <string name="delete_selected_calls">"Sigurado ka bang buburahin ang napiling mga tala?"</string>
+     <string name="clearCallLogProgress_title">"Nilinis ang lista ng tawag\u2026"</string>
+     <string name="delete_success">"Matagumpay na nabura"</string>
+     <string name="clear_all_call_log">"Burahin lahat ng tawag sa listahan"</string>
+     <string name="clear_selected_call_log">"Burahin ang mga napiling tawag sa listahan"</string>
+     <string name="select_all">"Piliin lahat"</string>
+     <string name="unselect_all">"Wagpiliin lahat"</string>
+     <string name="delete_all_calls_confirm">"Nais mo bang burahin lahat ng rekords mo?"</string>
+     <string name="do_not_select">"Hindi ka pumili ng talaan para alisin"</string>
+     <string name="delete_calls">"Tanggalin"</string>
+     <string name="number_anr_isnull">"Ang numero ng kontak  ay walang laman"</string>
+     <string name="call_recording_setting_title">"Magre-rekord ng tawag"</string>
+     <string name="automatic_recording_title">"Awtomatik na magre-rekord"</string>
+     <string name="dialog_phone_permission_deny">"Upang gamitin ang IP dial, \n i-on ang pahintulot ng telepono."</string>
+     <string name="search_description">maghanap ng callLog</string>
+     <string name="call_log_add_to_blacklist">Idagdag sa blacklist</string>
+     <string name="make_video_call_menu">"Gumawa ng video call"</string>
+
+</resources>

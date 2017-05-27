@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ucomm.sns</string>
+    <string name="sns_label_sina">Sina</string>
+    <string name="sns_label_sohu">Sohu</string>
+    <string name="sns_label_tencent">Tencent</string>
+    <string name="sns_label_qzone">QZone</string>
+    <string name="sns_label_renren">Renren</string>
+    <string name="sns_label_kaixin">Kaixin</string>
+    <string name="sns_label_facebook">Facebook</string>
+    <string name="sns_label_tumblr">Tumblr</string>
+    <string name="sns_label_flickr">Flickr</string>
+    <string name="sns_label_twitter">Twitter</string>
+    <string name="sns_label_mixi">Mixi</string>
+    <string name="sns_label_share">แชร์</string>
+    <string name="sns_label_account_setup">ตั้งค่าชื่อเข้าใช้</string>
+    <string name="sns_label_more_share">แชร์อื่นๆๆ</string>
+    <string name="sns_label_bind">รวมเข้าด้วยกัน</string>
+    <string name="sns_label_unbind">ยกเลิกการรวเข้าด้วยกัน</string>
+    <string name="sns_label_hide_location">ไม่แสดงแผนที่ที่อยู่ตอนนี้</string>
+    <string name="sns_msg_getting_location">กำลังยอมรับแผนที่แสดง</string>
+    <string name="sns_msg_please_choose_share_account">เลือกรหัสล็อคอินที่จะแชร์</string>
+    <string name="sns_msg_missing_share_pic">กรุณาคลิ๊กรูปเล็กที่ต้องการเลือกภาพแล้วแบ่งปัน</string>
+    <string name="sns_msg_fail_login">ไม่สามารถล็อคอินได้ กรุณาลองใหม่อีกครั้ง</string>
+    <string name="sns_msg_connecting">กำลังเชื่อมต่อ</string>
+    <string name="sns_msg_loading">กำลังทำการโหลด</string>
+    <string name="sns_msg_network_unavailable">อินเตอร์เน็ตใช้ไม่ได้ กรุณาลองใหม่</string>
+    <string name="sns_msg_from_ucam">มาจากUCamมือถือครบวงจร</string>
+    <string name="sns_title_account_settings">ตั้งค่าผู้เข้าใช้</string>
+    <string name="sns_title_share_to">แชร์ไปยัง</string>
+    <string name="sns_title_share">แชร์</string>
+    <string name="sns_title_sync">แชร์ไปยังสเปส</string>
+    <string name="sns_title_login">ลงชื่อเข้าใช้</string>
+    <string name="sns_title_privacy">ความเป็นส่วนตัว</string>
+    <string name="sns_msg_privacy">หลักการของUCamคือการรักษาความเป็นส่วนตัวของคุณ Ucam
+        ใช้OAuthต่างๆๆปลอดภัยในการเข้าใช้SNS
+        ไม่เกี่ยวข้องกับหรัสล็อคอินของคุณUcamจะรักษาความเป็นส่วนตัวของคุณและทำตามการอนุญาติเปิดเผยต่อเมื่อได้รับการอนุญาติจากคุณ
+        ทำตามกฎหมายหรือทำตามนโยบายรัฐบาล</string>
+    <string name="sns_ucam_link">"&lt;a href=\"http://www.u-camera.com\"
+        &gt;UCam&lt;a/&gt;</string>
+    <string name="sns_ucam_share">แชร์ภาพจาก#Ucam</string>
+    <string name="sns_toast_location_error">การรับแผนที่แสดงล้มเหลว</string>
+    <string name="text_activity_is_not_found">ไม่พบActivity</string>
+    <string name="text_edit_share_title">เลือกรูปแบบด้านล่างในการเปิด</string>
+    <string name="edit_operation_failure_tip">การกระทำล้มเหลว</string>
+</resources>

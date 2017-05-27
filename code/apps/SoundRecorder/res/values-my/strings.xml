@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="list_recorder_item_size_format_b">%1$s\u0020B</string>
+  <string name="list_recorder_item_size_format_kb">%1$s\u0020KB</string>
+  <string name="list_recorder_item_size_format_mb">%1$s\u0020MB</string>
+  <string name="app_name">အသံသြင္းစက္</string>
+  <string name="record_your_message">သင့္မက္ေဆ့ခ်္ကို သြင္းယူထားမည္</string>
+  <string name="message_recorded">မက္ေဆ့ခ်္မွတ္တမ္းတင္ျပီး</string>
+  <string name="review_message">မက္ေဆ့ခ်္စာသား</string>
+  <string name="recording">အသံသြင္းေနဆဲ</string>
+  <string name="recording_save">အသံသြင္းထားခ်က္ကို သိမ္းျပီး</string>
+  <string name="recording_nosave">အသံသြင္းထားခ်က္ကို မသိမ္းထားပါ</string>
+  <string name="storage_is_full">သိမ္းဆည္းထားမႈ ျပည့္ေနျပီ</string>
+  <string name="max_length_reached">အမ်ားဆံုးခြင့္ျပဳခ်က္ပမာဏသို႔ ေရာက္႐ွိ</string>
+  <string name="insert_sd_card">SD ကဒ္ကို သြင္းပါ</string>
+  <string name="phone_message">ဖုန္းေခၚဆိုစဥ္ အသံဖမ္းစက္ ဖြင့္၍မရႏုိင္ပါ</string>
+  <string name="min_available"><xliff:g id="minutes">%d</xliff:g> မိနစ္ရ႐ွိႏိုင္</string>
+  <string name="sec_available"><xliff:g id="seconds">%d</xliff:g>s ရ႐ွိႏိုင္</string>
+  <string name="accept">စုထားသည်</string>
+  <string name="discard">ျဖတ္ခ်မည္</string>
+  <string name="button_ok">OK</string>
+  <string name="press_record">အသံဖမ္းမည္ကို ႏွိပ္ပါ</string>
+  <string name="audio_db_title_format">
+    <xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g>
+  </string>
+  <string name="audio_db_artist_name">သင့္အသံသြင္းယူခ်က္မ်ား</string>
+  <string name="audio_db_album_name">အသံဖမ္းယူခ်က္မ်ား</string>
+  <string name="audio_db_playlist_name">မိမိအသံကူးယူခ်က္မ်ား</string>
+  <string name="error_sdcard_access">SD ကဒ္သို႔ ၀င္ေရာက္ရန္ မျဖစ္ႏုိင္ပါ</string>
+  <string name="error_app_internal">ဖုန္းအတြင္းပ႐ိုဂရမ္အမွား</string>
+  <string name="error_mediadb_new_record">သြင္းထားေသာ အသံကို သိမ္းရန္ မျဖစ္ႏုိင္ပါ</string>
+  <string name="select_file_type">ဖုိင္အမ်ိဳးအစားမွတ္တမ္းကို ေ႐ြးခ်ယ္ပါ</string>
+  <string name="record_amr">amr အမ်ိဳးအစား</string>
+  <string name="record_3gpp">3gpp အမ်ိဳးအစား</string>
+  <string name="button_cancel">မလုပ္ပါ</string>
+  <string name="path_save">မူလသိမ္းထားသည့္လမ္းေၾကာင္းအား သိမ္းဆည္းျပီး</string>
+  <string name="path_nosave">မူလသိမ္းထားသည့္လမ္းေၾကာင္းအား မသိမ္းရေသးပါ</string>
+  <string name="path_default">လက္႐ွိလမ္းေၾကာင္းမွာ အတြင္းပိုင္းသိမ္းဆည္းမႈေသာ္လည္းေကာင္း၊ ျပင္ပသိမ္းဆည္းမႈေသာ္လည္းေကာင္း မဟုတ္ပါ။ မူလသိမ္းသည့္ လမ္းေၾကာင္းအား အတြင္းပိုင္းသိမ္းဆည္းမႈအျဖစ္ ေျပာင္းလဲျပီးျဖစ္သည္။</string>
+  <string name="menu_set_save_path">လမ္းေၾကာင္းသိမ္းဆည္းျခင္း အဆင္အျပင္ထား႐ွိပါ</string>
+  <string name="back">ေနာက္သို႔</string>
+  <string name="path_label">သိမ္းရန္လမ္းေၾကာင္းကို ေ႐ြးခ်ယ္ပါ</string>
+  <string name="storage_is_not_enough">သိမ္းဆည္းမႈမလံုေလာက္ပါ</string>
+  <string name="menu_recording_file_list">အသံကူးယူထားေသာဖိုင္စာရင္း</string>
+  <string name="menu_recording_list_select_all">အကုန္ ေရြး</string>
+  <string name="menu_recording_list_delete">ဖ်က္ပါ</string>
+  <string name="menu_recording_list_deselect_all">မ ေရြး</string>
+  <string name="recording_file_delete_success">အသံကူးယူထားျခင္းဖ်က္ျပီး</string>
+  <string name="recording_file_database_failed">ေဒတာေဘ့စ္ဖိုင္ဖ်က္ရန္ မေအာင္ျမင္ပါ</string>
+  <string name="recording_file_delete_failed">အသံသြင္းထားသည့္ဖိုင္ဖ်က္ရန္ မေအာင္ျမင္ပါ</string>
+  <string name="confirm_del">ဖုိင္မ်ားကို ဖ်က္မွာ ေသခ်ာလား?</string>
+  <string name="button_delete">ဖ်က္ပါ</string>
+  <string name="recording_file_delete_alert_title">ဖ်က္ပါ</string>
+  <string name="recording_file_delete_alert_message">%1$s ကိုဖ်က္မွာေသခ်ာလား?</string>
+  <string name="recording_file_list">အသံကူးယူထားေသာဖိုင္စာရင္း</string>
+  <string name="less_than_one_second">"၁ စကၠန္႕"</string>
+  <string name="is_scanning">"မီဒီယာစကင္နာသည္ စကင္ဖတ္ေနသည္၊ေက်းဇူးျပဳ၍ ေနာက္မွ ထပ္ႀကိဳးစားပါ။"</string>
+  <string name="low_memory">"စတို မွတ္ဥာဏ္ ေနရာမလံုေလာက္ပါ။"</string>
+  <string name="emptylist">"စာရင္းဗလာ"</string>
+  <string name="choose_file">"ေက်းဇူးျပဳ၍ သင္ပယ္ဖ်က္လိုသည့္ ရီေကာဒင္းကို ေရြးခ်ယ္ပါ။""</string>
+  <string name="error_path">" သင္ေရြးခ်ယ္သည့္လမ္းေၾကာင္းမရွိပါ၊ ေက်းဇူးျပဳ၍ေနာက္မွဆက္တင္ျပန္လုပ္ပါ။"</string>
+  <string name="path_miss">"စတိုမွတ္ဥာဏ္ လမ္းေၾကာင္း မရွိပါ၊ (သို႕) ၀င္ခြင့္မရႏိုင္ပါ။"</string>
+  <string name="record_error">"အသံသြင္းျခင္း ပံုမွန္မဟုတ္ပါ။"</string>
+  <string name="same_application_running">"ရီေကာဒင္းကိရိယာကို တျခားပရိုဂရမ္မွ သံုးထားသည္။ ေက်းဇူးျပဳ၍ ဤပရိုဂရမ္ကိုပိတ္ပါ။ "</string>
+  <string name="min_and_time_available">"ခန့္ <xliff:g id="minutes">%d</xliff:g> မိနစ္နွင့္ <xliff:g id="seconds">%d</xliff:g> စကန့္ေထာက္ပံ့"</string>
+  <string name="rename">နာမည္အသစ္ေပး</string>
+  <string name="rename_save">"အမည္ျပန္ေပးျခင္းေအာင္ျမင္"</string>
+  <string name="rename_nosave">"အမည္ျပန္ေပးျခင္းက်ရွံုး"</string>
+  <string name="filename_is_used">"ဖိုင္အမည္ကိုသံုးထားသည္"</string>
+  <string name="soundpicker_label">"ေက်းဇူးျပဳ၍ရီေကာဒင္းဖိုင္ကိုေရြးခ်ယ္ပါ"</string>
+  <string name="dialog_title">"ေက်းဇူးျပဳ၍ေရြးခ်ယ္ပါ"</string>
+  <string name="dialog_message">"ရီေကာဒင္းကိုသိမ္းထားမွာလား?"</string>
+  <string name="recording_time_short">"ရီေကာဒင္းအခ်ိန္ ၁ မိနစ္ေအာက္, မသိမ္းပါ"</string>
+    <string name="recording_stopped">အသံသြင္းထားခ်က္ကို ရပ္ျပီး</string>
+     <string name="save">စုထားသည်</string>
+     <string name="pause">ခဏရပ</string>
+     <string name="recording_list_empty">Empty list</string>
+     <string name="filename_is_not_modified">"ဖိုင္အမည္ျပန္မျပင္ပါ"</string>
+     <string name="duplicate_name">"ဖိုင္အမည္ ပြားထားသည္"</string>
+     <string name="error_sdcard_path">"sd ကဒ္မရွိ. အတြင္းစတိုမွတ္ဥာဏ္သို့ ဒီေဖါ့သိမ္းသည့္လမ္းေျကာင္း ေျပာင္းျပီး."</string>
+     <string name="input_length_overstep">"အင္ပြတ္ပမာဏအျမင့္ဆံုးသို့ေရာက္ေန"</string>
+     <string name="filename_empty_error">"ဖိုင္အမည္ဗလာမျဖစ္ရ ,မူလအမည္ျဖင့္သိမ္းပါ"</string>
+     <string name="please_choose_files">"ေက်းဇူးျပု၍မူလဖိုင္မ်ားေရြးခ်ယ္ပါ"</string>
+     <string name="selected_files_count">"ေရြးခ်ယ္ျပီး <xliff:g id="COUNTS">%d</xliff:g>"</string>
+</resources>

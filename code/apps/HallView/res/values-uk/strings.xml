@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">вид залу</string>
+    <string name="new_message">SMS/MMS</string>
+    <string name="empty">Порожньо</string>
+    <string name="loading">Завантаження</string>
+    <string name="background">фон</string>
+    <string name="wating">Виклик</string>
+    <string name="exit">Вихід</string>
+    <string name="open_network_gps_comments">Ввімкніть GPS</string>
+    <string name="network_is_not_good">Немає мережі</string>
+    <string name="network_not_open">Немає мережі</string>
+    <string name="network_is_not_available">Немає мережі</string>
+    <string name="try_again">Спробуйте ще раз</string>
+    <string name="clock_style">Стиль <xliff:g id="style_id">%1$d</xliff:g></string>
+    <string name="settings">Налаштування</string>
+    <string name="screentimeout">Підсвічування</string>
+    <string name="audioprofile">Профілі</string>
+    <string name="songnamenull">Музика</string>
+    
+    <string name="General">Основний</string>
+    <string name="Silent">Без звуку</string>
+    <string name="Meeting">Зустріч</string>
+    <string name="Outdoor">На вулиці</string>
+    
+    <string name="fifteen_seconds">15 сек.</string>
+    <string name="thirty_seconds">30 сек.</string>
+    <string name="one_minute">1 хв.</string>
+    <string name="two_minutes">2 хв.</string>
+    <string name="five_minutes">5 хв.</string>
+    <string name="ten_minutes">10 хв.</string>
+    <string name="thirty_minutes">30 хв.</string>	
+</resources>

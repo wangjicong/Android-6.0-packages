@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config spn="Truphone">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Truphone</string>
+        <string name="vmnumber">22505</string>
+        <string name="vmtag">Truphone voicemail</string>
+    </carrier_config>
+</carrier_config_list>

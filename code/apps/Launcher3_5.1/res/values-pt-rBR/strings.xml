@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="home">"Página Principal"</string>
+<string name="uid_name">"Núcleo Android Apps"</string>
+<string name="activity_not_found">App não instalado. </string>
+<string name="safemode_shortcut_error">"Aplicação descarregada desativada no modo de Seguro"</string>
+<string name="widgets_tab_label">"Widgets"</string>
+<string name="widget_adder">"Widgets"</string>
+<string name="toggle_weight_watcher">"Mostrar Mem"</string>
+<string name="long_press_widget_to_add">"Toque &amp; segure para escolher uma configuração"</string>
+<string name="market">Loja</string>
+<string name="widget_dims_format">"%1$d \u00d7 %2$d"</string>
+<string name="external_drop_widget_error">"Não pode cair item nesta tela Principal."</string>
+<string name="external_drop_widget_pick_title">Escolher widget para criar</string>
+<string name="rename_folder_label">"Nome de pasta"</string>
+<string name="rename_folder_title">"Renomear pasta"</string>
+<string name="rename_action">"OK"</string>
+<string name="cancel_action">"Cancelar"</string>
+<string name="menu_item_add_item">Adicionar à tela inicial</string>
+<string name="group_applications">"Apps"</string>
+<string name="group_shortcuts">"Atalho:"</string>
+<string name="group_widgets">"Widgets"</string>
+<string name="completely_out_of_space">"Sem mais quarto nas suas Telas Principais."</string>
+<string name="out_of_space">"Sem mais quarto nesta tela principal"</string>
+<string name="hotseat_out_of_space">"Nenhum mais quarto na trilha de Favoritos"</string>
+<string name="invalid_hotseat_item">"Este elemento é tão largo para a trilha de Favoritos"</string>
+<string name="shortcut_installed">Atalho \"<xliff:g id="nome" exemplo="Explorador">%s</xliff:g>\" criado.</string>
+<string name="shortcut_uninstalled">Atalho \"<xliff:g id="nome" exemplo="Explorador">%s</xliff:g>\" foi removido.</string>
+<string name="shortcut_duplicate">Atalho \"<xliff:g id="nome" exemplo="Explorador">%s</xliff:g>\" existe.</string>
+<string name="title_select_shortcut">"Escolher atalho"</string>
+<string name="title_select_application">Escolher app</string>
+<string name="all_apps_button_label">"Apps"</string>
+<string name="all_apps_home_button_label">"Página Principal"</string>
+<string name="delete_zone_label_workspace">"Remover"</string>
+<string name="delete_zone_label_all_apps">"Desinstalar"</string>
+<string name="delete_target_label">"Remover"</string>
+<string name="delete_target_uninstall_label">"Desinstalar"</string>
+<string name="info_target_label">Informação de App</string>
+<string name="accessibility_search_button">"Pesquisar"</string>
+<string name="accessibility_voice_search_button">"Busca por voz"</string>
+<string name="accessibility_all_apps_button">"Apps"</string>
+<string name="accessibility_delete_button">"Remover"</string>
+<string name="delete_zone_label_all_apps_system_app">Desinstalar atualização</string>
+<string name="cab_menu_delete_app">Desconhecido</string>
+<string name="cab_menu_app_info">Detalhes de app</string>
+<string name="cab_app_selection_text">1 app selecionado</string>
+<string name="cab_widget_selection_text">1 widget selecionado</string>
+<string name="cab_folder_selection_text">1 pasta selecionada</string>
+<string name="cab_shortcut_selection_text">1 atalho selecionado</string>
+<string name="permlab_install_shortcut">"Instalar os atalhos"</string>
+<string name="permdesc_install_shortcut">Permitir uma aplicação adicionar os atalhos sem intervenção de usuário.</string>
+<string name="permlab_uninstall_shortcut">"Desinstalar atalhos"</string>
+<string name="permdesc_uninstall_shortcut">Permitir uma aplicação remover os atalhos sem intervenção de usuário.</string>
+<string name="permlab_read_settings">"Ajuste e atalhos de ler Tela principal"</string>
+<string name="permdesc_read_settings">Permitir uma aplicação ler os ajustes e atalhos em Principal.</string>
+<string name="permlab_write_settings">"Escrever ajustes de Principal e atalhos"</string>
+<string name="permdesc_write_settings">Permitir uma aplicação mudar os ajustes e atalhos em Principal.</string>
+<string name="gadget_error_text">"Widget de carrega de problema"</string>
+<string name="gadget_setup_text">Ajuste</string>
+<string name="uninstall_system_app_text">Este é um app de sistema e não pode ser desinstalado.</string>
+<string name="dream_name">"Lançador de Foguete"</string>
+<string name="folder_hint_text">Pasta não nomeado</string>
+<string name="workspace_description_format">"Tela Principal %1$d"</string>
+<string name="default_scroll_format">página %1$d de %2$d</string>
+<string name="workspace_scroll_format">"Tela Principal %1$d" de %2$d"</string>
+<string name="apps_customize_apps_scroll_format">Apps página %1$d de %2$d</string>
+<string name="apps_customize_widgets_scroll_format">Página de Widgets %1$d de %2$d</string>
+<string name="first_run_cling_title">Bem-vindo</string>
+<string name="first_run_cling_description">"Fazer o si próprio em casa"</string>
+<string name="first_run_cling_create_screens_hint">"Criar mais telas para aplicações e pastas"</string>
+<string name="migration_cling_title">"Copiar seus ícones de aplicação"</string>
+<string name="migration_cling_description">"Importar os ícones e pastas das suas telas Inicial antigas?"</string>
+<string name="migration_cling_copy_apps">"COPIAR ÍCONES"</string>
+<string name="migration_cling_use_default">"INICIAR FRESH"</string>
+<string name="workspace_cling_title">"Organizar o seu espaço"</string>
+<string name="workspace_cling_move_item">"Toque &amp; segure o fundo para administrar o papel de parede, configurações e ajustes."</string>
+<string name="workspace_cling_longpress_title">"Papeis de parede, elementos, &amp; ajustes"</string>
+<string name="workspace_cling_longpress_description">"Toque &amp; segure o fundo para personalizar"</string>
+<string name="workspace_cling_longpress_dismiss">"IR"</string>
+<string name="folder_cling_title">"Aqui há uma pasta"</string>
+<string name="folder_cling_create_folder">"Para criar uma como isso, toque &amp; segure uma aplicação, e depois mova-a para outra."</string>
+<string name="cling_dismiss">"OK"</string>
+<string name="folder_opened">Pasta aberta, <xliff:g id="width" example="5">%1$d</xliff:g> por <xliff:g id="height" example="3">%2$d</xliff:g></string>
+<string name="folder_tap_to_close">"Toque para fechar pasta"</string>
+<string name="folder_tap_to_rename">"Toque para guardar renomeação"</string>
+<string name="folder_closed">Pasta fechada</string>
+<string name="folder_renamed">Pasta nomeada para <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+<string name="folder_name_format">Pasta: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+<string name="widget_button_text">"Widgets"</string>
+<string name="wallpaper_button_text">"Papéis de parede"</string>
+<string name="settings_button_text">"Configurações"</string>
+<string name="package_state_enqueued">"Aviso"</string>
+<string name="package_state_downloading">Efetuando o download\u2026</string>
+<string name="package_state_installing">"Instalando"</string>
+<string name="package_state_unknown">"Desconhecido"</string>
+<string name="package_state_error">"Não restaurado"</string>
+<string name="abandoned_clean_all">"Remover Tudo"</string>
+<string name="abandoned_clean_this">"Remover"</string>
+<string name="abandoned_search">"Pesquisar"</string>
+<string name="abandoned_promises_title">"Esta aplicação não é instalada"</string>
+<string name="abandoned_promise_explanation">"A aplicação para este ícone não é instalada. Você pode remover, ou buscar para a aplicação e instalá-la manualmente."</string>
+<string name="circular_sliding">Ciclo de Desktop</string>
+    <string name="input_too_long">"A entrada é tão longa."</string>
+
+</resources>

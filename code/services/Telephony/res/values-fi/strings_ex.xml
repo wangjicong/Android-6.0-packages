@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"Kaikki soitetut"</string>
+    <string name="messageAO">"Lisää soitoneston salasana."</string>
+    <string name="sum_ao_enabled_indicator">"Kaikki puhelut siirretään"</string>
+    <string name="sum_ao_enabled">"Käytössä"</string>
+    <string name="sum_ao_disabled">"Pois käytöstä"</string>
+    <string name="enable_ao_forbidden">"Puhelinoperaattorisi ei tue lähtevien puheluiden estämisen sallimista."</string>
+    <string name="disable_ao_forbidden">"Puhelinoperaattorisi ei tue lähtevien puheluiden estämisen pois kytkemistä."</string>
+    <string name="labelOI">"Lähtevä kansainvälinen"</string>
+    <string name="messageOI">"Lisää soitoneston salasana."</string>
+    <string name="sum_oi_enabled">"Käytössä"</string>
+    <string name="sum_oi_disabled">"Pois käytöstä"</string>
+    <string name="enable_oi_forbidden">"Puhelinoperaattorisi ei tue lähtevien kansainvälisten puheluiden estämisen sallimista."</string>
+    <string name="disable_oi_forbidden">"Puhelinoperaattorisi ei tue lähtevien kansainvälisten puheluiden estämistä."</string>
+    <string name="labelOX">"Lähtevä kansainvälinen roaming"</string>
+    <string name="messageOX">"Lisää soitoneston salasana."</string>
+    <string name="sum_ox_enabled">"Käytössä"</string>
+    <string name="sum_ox_disabled">"Pois käytöstä"</string>
+    <string name="enable_ox_forbidden">"Puhelinoperaattorisi ei tue lähtevien kansainvälisten roaming-puheluiden estämisen sallimista."</string>
+    <string name="disable_ox_forbidden">"Puhelinoperaattorisi ei tue lähtevien kansainvälisten roaming-puheluiden estämistä."</string>
+    <string name="labelAI">"Kaikki tulevat"</string>
+    <string name="messageAI">"Lisää soitoneston salasana."</string>
+    <string name="sum_ai_enabled">"Käytössä"</string>
+    <string name="sum_ai_disabled">"Pois käytöstä"</string>
+    <string name="enable_ai_forbidden">"Puhelinoperaattorisi ei tue tulevien puheluiden estämisen sallimista."</string>
+    <string name="disable_ai_forbidden">"Puhelinoperaattorisi ei tue tulevien puheluiden estämisen pois kytkemistä."</string>
+    <string name="labelIR">"Tulevat puhelut roamingin aikana"</string>
+    <string name="messageIR">"Lisää soitoneston salasana."</string>
+    <string name="sum_ir_enabled">"Käytössä"</string>
+    <string name="sum_ir_disabled">"Pois käytöstä"</string>
+    <string name="enable_ir_forbidden">"Puhelinoperaattorisi ei tue tulevien puheluiden estämisen sallimista roaming-puheluissa."</string>
+    <string name="disable_ir_forbidden">"Puhelinoperaattorisi ei tue tulevien puheluiden estämistä roaming-puheluissa."</string>
+    <string name="labelAB">"Ota kaikki pois käytöstä"</string>
+    <string name="messageAB">"Lisää soitoneston salasana."</string>
+    <string name="sum_ab_enabled">"Käytössä"</string>
+    <string name="sum_ab_disabled">"Pois käytöstä"</string>
+    <string name="enable_ab_forbidden">"Puhelinoperaattorisi ei tue kaiken pois kytkemistä."</string>
+    <string name="disable_ab_forbidden">"Puhelinoperaattorisi ei tue kaiken aktivointia."</string>
+    <string name="labelChgPwd">"Vaihda salasana"</string>
+    <string name="DlgChgPwd_oldpwd">"Lisää soitoneston salasana."</string>
+    <string name="DlgChgPwd_newpwd_first">"lisää uusi salasana"</string>
+    <string name="DlgChgPwd_newpwd_last">"Vahvista uusi salasana"</string>
+    <string name="cb_pw_no_match">"Salasanat eivät täsmää"</string>
+    <string name="cb_pw_error">"Salasana on väärin"</string>
+    <string name="cb_pw_correct">"Salasana on vaihdettu"</string>
+    <string name="labelCB">"Puhelujen esto"</string>
+    <string name="call_barring_settings">"Soitonesto asetettu"</string>
+    <string name="cb_error">"Soitonesto hylätty"</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Verkko ei ole päällä. Haluatko asettaa verkon tilan?"</string>
+     <string name="dialog_network_selection_title">"Huomio"</string>
+     <string name="dialog_network_selection_message">"Matkapuhelin ei valitse muita operaattoreita ohjevalikossa. Joskus sinun on tehtävä manuaalinen valinta uudelleen tai vaihtaa takaisin automaattiseen valintaan kun verkko häviää. Suosittelemme käyttämään ”valitse automaattisesti”. Haluatko todella valita valitse manuaalisesti?"</string>
+     <string name="network_unknown">"Tuntematon"</string>
+     <string name="network_inhibit">"Kielletty"</string>
+     <string name="ip_dialing_title">"IP valinta"</string>
+     <string name="ip_dialing_list_title">"IP valintaluettelo"</string>
+     <string name="ip_no_number">"IP-etuliitteen puute"</string>
+     <string name="ip_no_number_msg">"IP-etuliitettä ei säilytetä puhelimella."</string>
+     <string name="ip_number_empty_loading">" IP-valintalista on tyhjä."</string>
+     <string name="remove">"Poista"</string>
+     <string name="ip_number_is_too_long">"IP valintanumerot eivät saa olla suurempia, kuin 20."</string>
+     <string name="add_ip_number_str">"Uusi"</string>
+     <string name="ip_dialing_num_error">"Voi säästää ainoastaan 10 IP-numeroa "</string>
+     <string name="ip_dialing_num_repeat">"Toista numero, lisäys epäonnistui "</string>
+     <string name="menu_selected_all">"Valitse kaikki"</string>
+     <string name="menu_select_none">"Poista kaikki valinnat"</string>
+     <string name="doneButton">"Valmis"</string>
+     <string name="cancel">"Peruuta"</string>
+     <string name="uplmn_setting_title">"Asetukset"</string>
+     <string name="uplmn_setting">"UPLMN Asetukset"</string>
+     <string name="uplmn_index">"Sisällysluettelo (aloita 0):"</string>
+     <string name="uplmn_id">"Tunnusnumero"</string>
+     <string name="uplmn_type">"Kirjoita (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">"Liitä USIM-kortti ja yritä uudelleen"</string>
+     <string name="index_error_uplmn">"Hakemisto on tyhjä. Yritä uudelleen!"</string>
+     <string name="type_is_emplty_error_uplmn">"Kirjoitus on tyhjä. Yritä uudelleen!"</string>
+     <string name="number_too_short_uplmn">"Tunnusnumero on liian lyhyt. Yritä uudelleen!"</string>
+     <string name="type_is_wrong_uplmn">"Kirjoituksen on oltava 1 tai 0. yritä uudelleen!"</string>
+     <string name="fail_uplmn">"Epäonnistui ja yrittää uudelleen."</string>
+     <string name="set_uplmn_unsuccessful">"Asetettu uplmn epäonnistui!"</string>
+     <string name="menu_new_uplmn">"Uusi UPLMN"</string>
+     <string name="menu_delete_uplmn">"Poista UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"Määrä ylittää SIM-kortin kapasiteetin!"</string>
+     <string name="delete">"Poista"</string>
+     <string name="delete_uplmn_successfully">"poista uplmn onnistuneesti"</string>
+     <string name="id_is_wrong_uplmn">"Tunnus tulee tehdä numeroista!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Valitse verkostotila"</string>
+     <string name="lte_service_switch">"Asettaa, odota..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G Monitila"</item>
+        <item>"vain 3G/2G tila"</item>
+        <item>"Vain 2G tila"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G Monitila"</item>
+        <item>"vain 3G/2G tila"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"Vain GSM"</item>
+        <item>"Vain WCDMA"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Auto)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"Pikavalinta-asetukset"</string>
+     <string name="delete_fastdial">"Pyyhi pikavalinta"</string>
+     <string name="update_fastdial">"Päivitä pikavalinta"</string>
+     <string name="no_sim_text">"Syötä tai laukaise SIM-kortti"</string>
+     <string name="network_not_on">"Verkko ei ole päällä. Haluatko asettaa verkon tilan?"</string>
+     <string name="one_key_locked_notification">"Tämä tyyppi on LUKITSEMATON, haluatko lukita sen?"</string>
+     <string name="one_key_unlocked_notification">"Tämä tyyppi on LUKITTU, haluatko avata sen?"</string>
+     <string name="one_key_unlocked">"Poista lukitus"</string>
+     <string name="one_key_locked">"Lukko"</string>
+     <string name="one_key_operation_success">"Onnistunut toiminto, käynnistä uudelleen."</string>
+     <string name="one_key_operation_unsuccess">"Epäonnistunut toiminto, kokeile uudelleen!"</string>
+     <string name="one_key_query_unsuccess">"Kysely simlock-tyyppi epäonnistui!"</string>
+     <string name="one_key_simlock_setting">"SIMLOCK asetukset"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Verkkolukko"</item>
+        <item>"NetworkSubset-Lukko"</item>
+        <item>"ServiceProvider-Lukko"</item>
+        <item>"Yrityslukko"</item>
+        <item>"SIM-Lukko"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Tulevien puheluiden estoasetukset"</string>
+     <string name="callout_barring_settings">"Lähtevien puheluiden estoasetukset"</string>
+     <string name="labelCOUT">"Lähtevän puhelun esto"</string>
+     <string name="labelCIN">"Tulevan puhelun esto"</string>
+     <string name="no_sim_text">"Syötä tai laukaise SIM-kortti"</string>
+     <string name="sim_lock_none">"SIM ei lukittu."</string>
+     <string name="sim_lock_try_later">"Kokeile myöhemmin uudelleen."</string>
+     <string name="edit_and_save_fdn">"Muokkaa FDN-numero"</string>
+     <string name="call_fdn_number_by_sim">"Soita"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"VT soitto"</string>
+     <string name="airplane_changed_on">"Lentokonetila otettiin käyttöön."</string>
+     <string name="number_empty">"Numero on tyhjä"</string>
+     <string name="unblock_pin2">"Vapauta PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Lisää PUK2 avataksesi SIM-kortin"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> pysyvät yritykse(t))"</string>
+     <string name="oldPin2_Label">"Vanha PIN2 (<xliff:g>%s</xliff:g> yrityksen ylläpitäminen(t))"</string>
+     <string name="puk2_code_label">"Kirjoita PUK2 koodi (<xliff:g>%s</xliff:g> jäljelläolevat yrityksen(t))"</string>
+     <string name="promptWordOne">"Remain&#160;"</string>
+     <string name="promptWordTwo">"&#160;aika"</string>
+     <string name="adn_full">"FDN-lista on täynnä"</string>
+     <string name="no_available_phone_accounts">"Ei saatavilla olevia soittotilejä"</string>
+     <string name="lnd_list">"LND luettelo"</string>
+     <string name="sdn_list">"SDN luettelo"</string>
+     <string name="sim_list_title">"Valitse SIM-kortti"</string>
+     <string name="wait_message">"Odota…"</string>
+     <string name="menu_call">"Soita"</string>
+     <string name="lnd_no_contact_record">"Ei LND-tallennusta tällä SIM-kortilla."</string>
+     <string name="sdn_no_contact_number">"Tämä SIM-kortti ei tue SDN-numeroa."</string>
+     <string name="remove">"Poista"</string>
+     <string name="delete_selected_contents">"Haluatko pyyhkiä valitut sisällöt?"</string>
+     <string name="sim_notready_can_not_delete">"Koska sim-kortti ei ole valmis, ei voida pyyhkiä."</string>
+     <string name="contact_del_failed">"Pyyhkiminen epäonnistui"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Määritä puhelinvastaajan asetukset kohdassa Valikko &gt; Asetukset."</string>
+     <string name="simlock_unlocked">"Simlock on avattu."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"Vain WCDMA"</item>
+        <item>"Vain GSM"</item>
+        <item>"auto"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"Vain GSM"</item>
+    </string-array>
+</resources>

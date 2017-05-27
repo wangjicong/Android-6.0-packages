@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <string name="vmnumber">+447782333123</string>
+        <string name="roamingvm">+447782333123</string>
+    </carrier_config>
+    <carrier_config spn="Lebara">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Lebara</string>
+    </carrier_config>
+</carrier_config_list>

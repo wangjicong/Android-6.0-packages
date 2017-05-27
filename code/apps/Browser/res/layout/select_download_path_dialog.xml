@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/select_path_cancel"
+            android:layout_width="75dip"
+            android:layout_height="40dip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="10dip"
+            android:layout_marginLeft="2dip"
+            android:layout_marginTop="10dip"
+            android:background="?android:attr/selectableItemBackground"
+            android:paddingBottom="4dip"
+            android:paddingTop="4dip"
+            android:singleLine="true"
+            android:text="@string/select_storage_back"
+            android:textColor="@color/btn_materiallight" />
+
+        <Button
+            android:id="@+id/select_path_internal"
+            android:layout_width="135dip"
+            android:layout_height="40dip"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dip"
+            android:layout_marginTop="10dip"
+            android:background="?android:attr/selectableItemBackground"
+            android:paddingBottom="4dip"
+            android:paddingTop="4dip"
+            android:singleLine="true"
+            android:text="@string/select_storage_internal"
+            android:textColor="@color/btn_materiallight" />
+
+        <Button
+            android:id="@+id/select_path_sdcard"
+            android:layout_width="75dip"
+            android:layout_height="40dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="10dip"
+            android:layout_marginRight="2dip"
+            android:layout_marginTop="10dip"
+            android:background="?android:attr/selectableItemBackground"
+            android:paddingBottom="4dip"
+            android:paddingTop="4dip"
+            android:singleLine="true"
+            android:text="@string/select_storage_sdcard"
+            android:textColor="@color/btn_materiallight" />
+    </RelativeLayout>
+
+</LinearLayout>

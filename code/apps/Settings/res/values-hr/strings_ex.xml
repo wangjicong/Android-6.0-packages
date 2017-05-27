@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB podešavanja"</string>
+<string name="usb_charge_only">"Samo punjenje"</string>
+<string name="usb_charge_only_summary">"Kada je USB povezan, koristite način rada samo punjenje"</string>
+<string name="usb_charge_only_storage_active_subtext">"Nije moguće puniti samo kada se koristi USB pohrana"</string>
+<string name="usb_charge_only_notification">"Povezano samo kao punjač"</string>
+<string name="usb_storage">"Memorija USB"</string>
+<string name="usb_storage_summary">"Omogući USB masovno pohranjivanje"</string>
+<string name="ums_settings">"UMS podešavanja"</string>
+<string name="ums_mounted_setting">"Instaliranje UMS-a na računalo, molimo sačekajte..."</string>
+<string name="ums_unmounted_setting">"Deinstaliranje UMS-a na računalo, molimo sačekajte..."</string>
+<string name="usb_virtual_drive">"USB virtualni disk"</string>
+<string name="usb_virtual_drive_summary">" Pokrenite USB virtualni disk"</string>
+<string name="remember_choice">"Zapamti odabir"</string>
+<string name="remember_choice_summary">"Zapamtite moj izbor i pokrenite zapamćenu funkciju automatski sljedeći put"</string>
+<string name="stand_by_set_changed_prompt">"Stanje aktivacije SIM kartice će biti izmijenjeno, nastaviti?"</string>
+<string name="not_stand_by">"Zabranjeno"</string>
+<string name="primary_card_switching">"Podešavanje\uff0cmolimo sačekajte..."</string>
+<string name="toggle_data_change_message">"Podatkovna veza je promijenjena na SIM karticu <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, i imajte na umu da će proizvesti protok podataka i vezane troškove."</string>
+<string name="select_primary_card">"Odaberite primarnu karticu"</string>
+<string name="whether_switch_primary_card">"Molimo potvrdite promjenu primarne kartice na povu karticu?\n(Stanični podaci će se također premjestiti na ovu karticu.)"</string>
+<string name="attention">"Pažnja"</string>
+<string name="bt_softap_cannot_coexist">"Kada je softap uključen ili se uključuje, bluetooth ne može raditi, ukoliko želite koristiti ovu točku molimo uvjerite se da je softap uključen."</string>
+<string name="softap_bt_cannot_coexist">"Kada je Bluetooth omogućen ili kada se uključuje, software ne može raditi, ako želite koristiti softap molimo vas provjerite je li Bluetooth onemogućen."</string>
+<string name="softap_need_mobile_data_enabled">Prijenosna WLAN vruća točka treba povezivanje sa podatkovnom vezom mobilnog telefona, što može uzrokovati dodatne troškove.</string>
+<string-array name="light_color_picker">
+<item>"Zelena"</item>
+<item>"Plava"</item>
+<item>"Indigo"</item>
+<item>"Ljubičasta"</item>
+<item>"Ružičasta"</item>
+<item>"Crvena"</item>
+<item>"Žuta"</item>
+</string-array>
+</resources>

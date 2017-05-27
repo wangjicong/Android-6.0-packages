@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">Kalendari</string>
+<string name="what_label">Çfarë</string>
+<string name="where_label">Ku</string>
+<string name="when_label">Kur</string>
+<string name="timezone_label">Zona orare</string>
+<string name="attendees_label">Mysafirë</string>
+<string name="today">Sot</string>
+<string name="tomorrow">nesër</string>
+<string name="today_at_time_fmt">Sot në <xliff:g id="time_interval">%s</xliff:g></string>
+<string name="tomorrow_at_time_fmt">Nesër në <xliff:g id="time_interval">%s</xliff:g></string>
+<string name="date_time_fmt">"<xliff:g id="date">%s</xliff:g>, <xliff:g id="time_interval">%s</xliff:g>"</string>
+<string name="repeats_label">Përsëritje</string>
+<string name="no_title_label">(Pa titull)</string>
+<plurals name="Nminutes">
+<item quantity="one">1 minutë</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> minuta"</item>
+</plurals>
+<plurals name="Nmins">
+<item quantity="one">1 min</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> min"</item>
+</plurals>
+<plurals name="Nhours">
+<item quantity="one">1 orë</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> orë"</item>
+</plurals>
+<plurals name="Ndays">
+<item quantity="one">1 ditë</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ditë"</item>
+</plurals>
+<plurals name="weekN">
+<item quantity="other">"JAVË <xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<string name="calendar_refresh">Rifresko</string>
+<string name="select_date">Zgjidh Datën</string>
+<string name="show_day_view">"Trego ditën"</string>
+<string name="agenda_view">"Axhenda"</string>
+<string name="day_view">ditë</string>
+<string name="week_view">javë</string>
+<string name="month_view">"Muaji"</string>
+<string name="event_view">"Shiko ngjarjen"</string>
+<string name="event_create">"Ngjarje e re"</string>
+<string name="event_edit">"Modifiko ngjarjen"</string>
+<string name="event_delete">"Fshi ngjarjen"</string>
+<string name="goto_today">Sot</string>
+<string name="menu_preferences">Cilësimet</string>
+<string name="menu_select_visible_calendars">"Kalendarë për tu shfaqur"</string>
+<string name="search">Kërko</string>
+<string name="hide_controls">"Fshih kontrollet"</string>
+<string name="show_controls">"Trego kontrollet"</string>
+<string name="select_visible_calendars_title">"Kalendarë për tu shfaqur"</string>
+<string name="synced">sinkronizuar</string>
+<string name="not_synced">pa sinkronizuar</string>
+<string name="acct_not_synced">Kjo llogari nuk po sinkronizohet prandaj kalendarët tuaj mund të mos jenë të përditësuar.</string>
+<string name="accounts">"Llogaritë &amp; sinkronizimi"</string>
+<string name="select_synced_calendars_title">Kalendarë për  sinkronizuar</string>
+<string name="select_synced_calendars_button">Kalendarë për  sinkronizuar</string>
+<string name="hint_what">"Emri i ngjarjes"</string>
+<string name="hint_where">Vendndodhja</string>
+<string name="hint_description">"Përshkrimi"</string>
+<string name="hint_attendees">Mysafirë</string>
+<string name="creating_event">"Ngjarja u krijua"</string>
+<string name="saving_event">"Ngjarja u ruajt"</string>
+<string name="empty_event">"Ngjarja bosh nuk u krijua"</string>
+<string name="creating_event_with_guest">"Ftestat do të dërgohen."</string>
+<string name="saving_event_with_guest">"Përditësimet do të dërgohen."</string>
+<string name="rsvp_accepted">Të përgjigjura po.</string>
+<string name="rsvp_tentative">Të përgjigjura ndoshta.</string>
+<string name="rsvp_declined">Të përgjigjura jo.</string>
+<string name="create_event_dialog_save">Ruaj</string>
+<string name="alert_title">Njoftimet e kalendarit</string>
+<string name="event_info_title">"Shiko ngjarjen"</string>
+<string name="event_info_title_invite">Ftesë takimi</string>
+<string name="edit_event_to_label">Për</string>
+<string name="edit_event_from_label">Nga</string>
+<string name="edit_event_all_day_label">Gjithë ditën</string>
+<string name="edit_event_calendar_label">Kalendari</string>
+<string name="edit_event_show_all">Trego të gjitha</string>
+<string name="description_label">"Përshkrimi"</string>
+<string name="presence_label">Më trego si</string>
+<string name="privacy_label">Privatësia</string>
+<string name="reminders_label">Shto përkujtues</string>
+<string name="no_syncable_calendars">Asnjë kalendar</string>
+<string name="no_calendars_found">Para se të mundeni të shtoni një event, duhet të shtoni të paktën një llogari Kalendari në pajisjen tuaj dhe ta bëni kalendarin të dukshëm. Prekni Shto Llogari në një llogari (nëse sapo e keni shtuar një llogari, prisni që të mbarojë sinkronizimin dhe provoni përsëri). Ose prekni Anulo dhe sigurohuni që të paktën një kalendar të jetë i dukshëm.</string>
+<string name="create_an_account_desc">"Kalendari punon më mirë me një Llogari në Google.\n\n\u2022 Mund ta hapësh nga cilido shfletues interneti \n\u2022 Rezervoji ngjarjet e tua në mënyrë të sigurt"</string>
+<string name="add_account">Shto llogari</string>
+<string name="view_event_calendar_label">Kalendari:</string>
+<string name="view_event_organizer_label">Organizuesi:</string>
+<string name="choose_event_color_label">Zgjidh ngjyrën e eventit</string>
+<string name="event_color_picker_dialog_title">Ngjyra e eventit</string>
+<string name="event_color_set_to_default">Vendos në ngjyrën standarde të kalendarit</string>
+<string name="calendar_color_picker_dialog_title">Ngjyra e kalendarit</string>
+<string name="calendar_square_color_picker_description">Përzgjedhësi i ngjyrës</string>
+<string name="view_event_response_label">Do të marrësh pjesë?</string>
+<string name="response_yes">Po</string>
+<string name="response_maybe">Ndoshta</string>
+<string name="response_no">Jo</string>
+<string name="email_guests_label">Mysafirët e email-it</string>
+<string name="email_organizer_label">Organizuesi i email-ëve</string>
+<string name="email_picker_label">Email me</string>
+<string name="event_not_found">"Ngjarja nuk u gjet."</string>
+<string name="map_label">MAP</string>
+<string name="call_label">Telefono</string>
+<string name="quick_response_settings">Përgjigjet e shpejta</string>
+<string name="quick_response_settings_summary">Ndrysho përgjigjet e shpejta kur u dërgon email mysafirëve</string>
+<string name="quick_response_settings_title">Ndrysho përgjigjet e shpejta</string>
+<string name="quick_response_settings_edit_title">Përgjigje e shpejtë</string>
+<string name="quick_response_dialog_title">Zgjidh përgjigjen e shpejtë</string>
+<string name="quick_response_email_failed">Dështoi të gjejë një program email</string>
+<string-array name="quick_response_defaults">
+<item>Do të vij vetëm disa minuta me vonesë.</item>
+<item>Do të jem atje për 10 minuta.</item>
+<item>Vazhdoni dhe filloni pa mua.</item>
+<item>Më vjen keq, nuk vij dot. Duhet ta lemë për herë tjetër.</item>
+</string-array>
+<string name="quick_response_custom_msg">Shkruaj tënden\u2026</string>
+<string name="event_info_organizer">Organizuesi:</string>
+<string name="event_info_reminders_label">Përkujtues</string>
+<string name="agenda_today">"SOT, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="agenda_yesterday">"DJE, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="agenda_tomorrow">"NESËR, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="loading">Duke ngarkuar...</string>
+<string name="show_older_events">"Prek për të parë eventet para <xliff:g id="oldest_search_range">%1$s</xliff:g>"</string>
+<string name="show_newer_events">"Prek për të parë eventet pas <xliff:g id="newest_search_range">%1$s</xliff:g>"</string>
+<string name="search_title">Kërko kalendarët e mi</string>
+<string name="edit_event_label">Detaje</string>
+<string name="edit_label">Ndrysho</string>
+<string name="delete_label">Fshi</string>
+<string name="save_label">U krye</string>
+<string name="discard_label">Anulo</string>
+<string name="snooze_all_label">"Dremit të gjitha"</string>
+<string name="dismiss_all_label">"Hiq të gjitha"</string>
+<string name="snooze_label">"Dremit"</string>
+<string name="does_not_repeat">Ngjarje që ndodh një herë</string>
+<string name="endByDate">"; deri në <xliff:g id="date">%s</xliff:g>"</string>
+<plurals name="endByCount">
+<item quantity="one">"; për një herë"</item>
+<item quantity="other">"; për <xliff:g id="number">%d</xliff:g> herë"</item>
+</plurals>
+<plurals name="daily">
+<item quantity="one">Çdo ditë</item>
+<item quantity="other">"Çdo <xliff:g id="number">%d</xliff:g> ditë"</item>
+</plurals>
+<string name="every_weekday">"Çdo ditë e javës (Hën \u2013 Pre)"</string>
+<plurals name="weekly">
+<item quantity="one">"Çdo javë <xliff:g id="days_of_week">%2$s</xliff:g>"</item>
+<item quantity="other">"Çdo <xliff:g id="number">%1$d</xliff:g> javë <xliff:g id="days_of_week">%2$s</xliff:g>"</item>
+</plurals>
+<string name="monthly">Çdo muaj</string>
+<string name="yearly_plain">Çdo vit</string>
+<string name="monthly_on_day">"Çdo muaj (në ditën <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+<string name="yearly">"Çdo vit (në <xliff:g id="dates">%s</xliff:g>)"</string>
+<string name="custom" product="tablet">"Personalizuar (nuk mund të personalizohet në tablet)"</string>
+<string name="custom" product="default">"Personalizuar (nuk mund të personalizohet në telefon)"</string>
+<string name="modify_event">Ndrysho vetëm këtë ngjarje</string>
+<string name="modify_all">Ndrysho të gjitha ngjarjet në seri</string>
+<string name="modify_all_following">Ndrysho këtë dhe të gjitha ngjarjet e ardhshme</string>
+<string name="new_event_dialog_label">"Ngjarje e re"</string>
+<string name="new_event_dialog_option">"Ngjarje e re"</string>
+<string name="delete_this_event_title">Fshi këtë ngjarje?</string>
+<string name="delete_recurring_event_title">"Fshi <xliff:g id="eventtitle">%s</xliff:g>?"</string>
+<string name="change_response_title">Ndrysho përgjigjen</string>
+<string name="menu_general_preferences">Cilësimet e përgjithshme</string>
+<string name="menu_about_preferences">Rreth Kalendarit</string>
+<string name="preferences_title">Cilësimet</string>
+<string name="preferences_general_title">Cilësimi i pamjes të Kalendarit</string>
+<string name="preferences_reminder_title">Njoftimet \u0026 përkujtuesit</string>
+<string name="preferences_hide_declined_title">Fshih ngjarjet e refuzuara</string>
+<string name="preferences_week_start_day_title">Java fillon</string>
+<string name="preferences_week_start_day_dialog">Java fillon</string>
+<string name="preferences_clear_search_history_title">Pastro historinë e kërkimit</string>
+<string name="preferences_clear_search_history_summary">Fshi të gjitha kërkimet që ke kryer</string>
+<string name="search_history_cleared">Historia e kërkimit u pastrua</string>
+<string name="preferences_alerts_title">Njoftimet</string>
+<string name="preferences_alerts_vibrateWhen_title">Dridhje</string>
+<string name="preferences_alerts_ringtone_title">Tingull</string>
+<string name="preferences_alerts_popup_title">Njoftim kërcyes</string>
+<string name="preferences_default_reminder_title">Koha standarde e përkujtuesit</string>
+<string name="preferences_default_reminder_dialog">Koha standarde e përkujtuesit</string>
+<string name="preferences_use_home_tz_title">Përdor zonën orare të shtëpisë</string>
+<string name="preferences_use_home_tz_descrip">Shfaq kalendarët dhe kohët e ngjarjeve në zonën tënde orare kur udhëton</string>
+<string name="preferences_home_tz_title">Zona orare e shtëpisë</string>
+<string name="preferences_show_week_num_title">Trego numrin e javës</string>
+<string name="preferences_about_title">Rreth</string>
+<string name="preferences_build_version">Versioni ndërtimit</string>
+<string name="gadget_title">Kalendari</string>
+<string name="gadget_no_events">Asnjë ngjarje kalendarike e ardhshme</string>
+<string name="preferences_experimental_category">Eksperimentale</string>
+<string name="preferences_reminders_category">Përkujtues</string>
+<string name="preferences_reminders_responded_label">Kalo përkujtuesit</string>
+<string name="preferences_reminders_responded_dialog">Kalo përkujtuesit</string>
+<string name="preferences_reminders_quiet_hours_label">Orët e heshtura</string>
+<string name="preferences_reminders_quiet_hours_description">Hesht përkujtuesit e eventit gjatë kohës të caktuar.</string>
+<string name="preferences_reminders_quiet_hours_start">Koha e fillimit të orëve të heshtura.</string>
+<string name="preferences_reminders_quiet_hours_end">Koha e mbarimit të orëve të heshtura.</string>
+<string name="preferences_debug_category">Duke rregulluar</string>
+<string name="copy_db">Dërgo databazën</string>
+<string name="directory_searching_fmt">"Duke kërkuar <xliff:g id="domain">%s</xliff:g>\u2026"</string>
+<string name="accessibility_remove_attendee">Hiq pjesëmarrjen</string>
+<string name="accessibility_pick_start_date">Data e fillimit</string>
+<string name="accessibility_pick_start_time">Ora e fillimit</string>
+<string name="accessibility_pick_end_date">Data e mbarimit</string>
+<string name="accessibility_pick_end_time">Ora e mbarimit</string>
+<string name="accessibility_pick_time_zone">Zona orare</string>
+<string name="accessibility_pick_recurrence">Përsërit eventin</string>
+<string name="accessibility_add_reminder">Shto përkujtues</string>
+<string name="accessibility_remove_reminder">Hiq përkujtuesin</string>
+<string name="accessibility_add_attendee">Shto pjesëmarrje</string>
+<string name="accessibility_sync_cal">Sinkronizo kalendarin</string>
+<string name="accessibility_all_day">Ngjarje gjithë ditën</string>
+<string name="accessibility_repeats">Përsëritje</string>
+<string name="accessibility_reminder_time">Ora e përkujtuesit</string>
+<string name="accessibility_reminder_type">Lloji i përkujtuesit</string>
+<string name="accessibility_reminder_showmeas">Më trego si</string>
+<string name="accessibility_reminder_privacy">Privatësia</string>
+<string name="acessibility_cal_notification">Njoftim i Kalendarit</string>
+<string name="acessibility_snooze_notification">Njoftim i Dremitjes</string>
+<string name="accessibility_email_notification">Mysafirët e email-it</string>
+<string name="day_view_new_event_hint"> + Ngjarje e re</string>
+<string name="template_announce_item_index">"Eventi <xliff:g id="item_index">%1$s</xliff:g> nga <xliff:g id="item_count">%2$s</xliff:g>."</string>
+<plurals name="Nevents">
+<item quantity="one">1 ngjarje</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> evente"</item>
+</plurals>
+<plurals name="N_remaining_events">
+<item quantity="one"> +1 ngjarje</item>
+<item quantity="other">"+<xliff:g id="count">%d</xliff:g> evente"</item>
+</plurals>
+<string name="acessibility_selected_marker_description">Ngjarje e zgjedhur</string>
+<string name="do_not_check">MOS kontrollo -&amp;gt;</string>
+<string name="recurrence_dialog_title">Përsërit</string>
+<string name="recurrence_dialog_title_never">Nuk përsëritet asnjëherë</string>
+<plurals name="recurrence_interval_daily">
+<item quantity="one">"Çdo <xliff:g id="count">%d</xliff:g> ditë"</item>
+<item quantity="other">"Çdo <xliff:g id="count">%d</xliff:g> ditë"</item>
+</plurals>
+<plurals name="recurrence_interval_weekly">
+<item quantity="one">"Çdo <xliff:g id="count">%d</xliff:g> javë"</item>
+<item quantity="other">"Çdo <xliff:g id="count">%d</xliff:g> javë"</item>
+</plurals>
+<plurals name="recurrence_interval_monthly">
+<item quantity="one">"Çdo <xliff:g id="count">%d</xliff:g> muaj"</item>
+<item quantity="other">"Çdo <xliff:g id="count">%d</xliff:g> muaj"</item>
+</plurals>
+<plurals name="recurrence_interval_yearly">
+<item quantity="one">"Çdo <xliff:g id="count">%d</xliff:g> vit"</item>
+<item quantity="other">"Çdo <xliff:g id="count">%d</xliff:g> vjet"</item>
+</plurals>
+<string name="recurrence_month_pattern_by_day">në të njëjtën ditë çdo muaj</string>
+<string name="recurrence_end_continously">Përgjithmonë</string>
+<string name="recurrence_end_date_label">Deri në një datë</string>
+<string name="recurrence_end_date">"Deri në <xliff:g id="date">%s</xliff:g>"</string>
+<string name="recurrence_end_count_label">Për një numër eventesh</string>
+<plurals name="recurrence_end_count">
+<item quantity="one">"Për <xliff:g id="event_count">%d</xliff:g> event"</item>
+<item quantity="other">"Për <xliff:g id="event_count">%d</xliff:g> evente"</item>
+</plurals>
+<string name="acessibility_recurrence_choose_end_date_description">ndrysho datën e mbarimit</string>
+<string name="email_format_err">Gabim në formatin e adresës të email-it të mysafirit!</string>
+<string name="local_account">Llogari Lokale</string>
+<string name="can_not_synced">"Nuk mund të sinkronizohen"</string>
+<string name="menu_share">Ndaj</string>
+<string name="send_calendar">Ndaj eventin përmes</string>
+<string name="no_way_to_share_calendar">Nuk ka aplikacion në dispozicion për të ndarë eventin e kalendarit.</string>
+<string name="ringtone_default_message">Më vjen keq, skeda e ringtonit nuk luhet, vendosni skedën e tingullit standard si rington</string>
+<string name="select_date_out_range">"Data e zgjedhur nga ju është jashtë intervalit, intervali i saktë është 1970-2037."</string>
+<string name="title_too_long">Informacioni është shumë i gjatë</string>
+<string name="type_vcalendar">Kalendari</string>
+<string name="import_vcalendar">Importo kalendarin?</string>
+<string name="parse_fail">Analiza e skedës dështoi!</string>
+<string name="import_error">Aktiviteti i importit dështoi!</string>
+<string name="import_waiting">Duke importuar, ju lutem prisni...</string>
+<string name="import_ok">Eventi(et) u ruajtën me sukses!</string>
+<string name="import_type_error">"Lloji i llogarisë për aktivitetin e importit nuk ekziston në kalendarin aktual"</string>
+<string name="no_exist_accounts">Nuk ekziston llogari kalendari. Ju lutem shtoni një llogari!</string>
+<string name="application_stop">"Nuk u gjet aplikacioni që mund të bëjë këtë veprim"</string>
+<string name="error_permissions">"Aplikacioni nuk ka leje të rëndësishme të nevojshme për ekzekutimin. Kontrollo cilësimet e lejeve."</string>
+<string name="dialog_dismiss">Hiq</string>
+<string name="toast_calendar_internal_error">"Ka ndodhur një gabim i brendshëm në kalendar!"</string>
+<string name="not_save_event">"Nuk lejohet data e mbarimit për të ruajtur këtë aktivitet"</string>
+</resources>

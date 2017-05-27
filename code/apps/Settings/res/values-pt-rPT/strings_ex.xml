@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB ajuste"</string>
+<string name="usb_charge_only">"Carregar apenas"</string>
+<string name="usb_charge_only_summary">"Utilizar modo de carregar apenas quando USB é conectado"</string>
+<string name="usb_charge_only_storage_active_subtext">"Não pode carregar apenas quando a guarda de USB é no uso"</string>
+<string name="usb_charge_only_notification">"Conectado como carregador apenas"</string>
+<string name="usb_storage">USB guarda</string>
+<string name="usb_storage_summary">"Ativar armazenamento em massa USB"</string>
+<string name="ums_settings">"Ajustes de UMS"</string>
+<string name="ums_mounted_setting">"Montar UMS para PC agora, favor espere..."</string>
+<string name="ums_unmounted_setting">"Desmontar UMS de PC agora, favor espere..."</string>
+<string name="usb_virtual_drive">"Dirve Virtual de USB"</string>
+<string name="usb_virtual_drive_summary">"Activar drive virtual de USB"</string>
+<string name="remember_choice">"Memorizar a minha escolha"</string>
+<string name="remember_choice_summary">"Lembrar minha escolha e iniciar a função lembrada automaticamente na próxima vez"</string>
+<string name="stand_by_set_changed_prompt">"O estado de activação de SIM será mudado, favor confirme se continua?"</string>
+<string name="not_stand_by">"PROIBIDO"</string>
+<string name="primary_card_switching">"Ajustando\uff0cfavor espere..."</string>
+<string name="toggle_data_change_message">"A ligação de dados é ligada com o sim cartão <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, a qual vai produzir a taxa de transferência de dados e despesas correlativas, favor note."</string>
+<string name="select_primary_card">"Seleccionar cartão primário"</string>
+<string name="whether_switch_primary_card">"Favor confirme se muda o cartão primário para este cartão?\n(Os dados de celular também vão transferir para o cartão.)"</string>
+<string name="attention">"Atenção"</string>
+<string name="bt_softap_cannot_coexist">"Quando o softap é activado ou está ligando, o Bluetooth não pode funcionar, se você quer usar o Bluetooth, favor assegura que o softap é desactivado."</string>
+<string name="softap_bt_cannot_coexist">"Quando o Bluetooth é activado ou está ligando, o softap não pode funcionar, se você quer usar o softap, favor assegura que o Bluetooth é desactivado."</string>
+<string name="softap_need_mobile_data_enabled">"Portável Wi-Fi hotspot precisa de ligar os dados móveis, pode produzir os custos adicionais."</string>
+<string-array name="light_color_picker">
+<item>"Verde"</item>
+<item>"Azul"</item>
+<item>"Índigo"</item>
+<item>"Roxo"</item>
+<item>"Cor-de-rosa"</item>
+<item>"Vermelho"</item>
+<item>"Amarelo"</item>
+</string-array>
+</resources>

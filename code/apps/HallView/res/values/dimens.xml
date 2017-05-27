@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="hall_view_width">270.0dip</dimen>
+    <dimen name="hall_view_half_width">135.0dip</dimen>
+	  <dimen name="hall_view_marginTop">45.0dip</dimen>
+    <dimen name="launch_icon_width">85.5dip</dimen>
+    <dimen name="hall_view_cricle">85.0dip</dimen>
+    <dimen name="dialer_digits_width">168.0dip</dimen>
+    <dimen name="dialer_digits_half_width">84.0dip</dimen>
+    <dimen name="buttery_height">22.0dip</dimen>
+    <dimen name="sport_clock_content_height">76.0dip</dimen>
+	<!-- music -->
+	<dimen name="music_progress_marginTop">161.29999dip</dimen>
+	<dimen name="music_text_marginTop">167dip</dimen>
+	<dimen name="music_btn_width">150dip</dimen>
+
+	<!-- choose clock -->
+	<dimen name="clock_chose_view_width">190dip</dimen>
+	<dimen name="clock_chose_view_height">190dip</dimen>
+	<dimen name="choose_clock_title_marginTop">8dip</dimen>
+
+	<dimen name="number_clock_time_marginTop">90dip</dimen>
+	<dimen name="number_clock_time_marginRight">60dip</dimen>
+	<dimen name="number_clock_point_marginTop">85dip</dimen>
+	<dimen name="number_clock_icon_marginBottom">65.5dip</dimen>
+	<dimen name="setting_list_icon_width">45dip</dimen>
+	<dimen name="setting_list_icon_height">45dip</dimen>
+
+	<!-- incall -->
+	<dimen name="incall_answerRejectButton_margin">10.5dip</dimen>
+	<dimen name="RejectButton_margin">15dip</dimen>
+
+	<!-- dial -->
+	<dimen name="dialCirleTextSize">25sp</dimen>
+</resources>

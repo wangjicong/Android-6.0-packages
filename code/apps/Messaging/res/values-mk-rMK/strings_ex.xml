@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">Потпис</string>
+<string name="pref_title_sms_retry_times">Активирај повторен обид за SMS</string>
+<string name="preference_name">Честа фраза</string>
+<string name="select">Изберено</string>
+<string name="item_cancel">Откажи</string>
+<string name="item_delete">Избриши</string>
+<string name="save_as_teltype">"За Телефон"</string>
+<string name="save_as_mmstype">"За СМС"</string>
+<string name="type_to_pharser">"Истипкајте вообичаена фраза"</string>
+<string name="add">Додај</string>
+<string name="edit">Уреди</string>
+<string name="delete">Избриши</string>
+<string name="finish">Заврши</string>
+<string name="cancel">Откажи</string>
+<string name="add_pharser">"Додајте вообичаена фраза"</string>
+<string name="edit_pharser">Уреди честа фраза</string>
+<string name="pharser_can_modify">"Прилагодете на фраза"</string>
+<string name="pharser_cannot_modify">"Поправете ја фразата"</string>
+<string name="select_item">"Избравте"</string>
+<string name="select_commmon_phrase">"Изберете вообичаена фраза"</string>
+<string name="common_phrase_empty">Нема чести фрази</string>
+<string name="action_add_phrase">"Вметнете вообичаена фраза"</string>
+<string name="pref_other_settings_title">Друго</string>
+<string-array name="fixed_mms_phrase">
+<item>Јавете ми се во канцеларија подоцна, благодарам.</item>
+<item>Контактирајте со мене, благодарам.</item>
+<item>Кажи ми ја локацијата.</item>
+<item>Јавете ми се на мобилен подоцна, благодарам.</item>
+<item>Излезен бев, кога ќе дојдам дома ќе ти се јавам.</item>
+<item>Возам и ќе ти одговорам подоцна.</item>
+<item>На пат сум, веднаш јави ми се.</item>
+<item>Сообраќајни гужви, подоцна, жалам.</item>
+<item>Ќе ти се јавам подоцна.</item>
+<item>На состанок сум, ќе ти одговорам подоцна.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>Не можам да зборувам сега. Што е работата?</item>
+<item>Ќе ти се јавам веднаш.</item>
+<item>Ќе ти се јавам подоцна.</item>
+<item>Не можам да зборувам сега. Ќе ми се јавиш подоцна?</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Ве молам повикајте ме или испратете ми СМС подоцна."</item>
+</string-array>
+</resources>

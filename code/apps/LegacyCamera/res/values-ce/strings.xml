@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">Mali sa kamera</string>
+<string name="cannot_connect_camera">"Dili makakonek ngadto sa kamera."</string>
+<string name="camera_disabled">"Kamera kay wala gipagana tungod sa mga palisiya sa seguridad."</string>
+<string name="camera_label">Kamera</string>
+<string name="video_camera_label">Kamcorder</string>
+<string name="gallery_camera_bucket_name">Mga larawan sa kamera</string>
+<string name="gallery_camera_videos_bucket_name">Mga video sa kamera</string>
+<string name="wait">Palihug paghuwat\u2026</string>
+<string name="no_storage" product="nosdcard">"Isaka ang imbakan sa USB sa dili pa gamiton ang kamera."</string>
+<string name="no_storage" product="default">"Suksok ug SD card sa dili pa maggamit ug kamera."</string>
+<string name="not_enough_space" product="nosdcard">Puno na ang imbakan sa imu USB.</string>
+<string name="not_enough_space" product="default">Puno na imu SD card.</string>
+<string name="preparing_sd" product="nosdcard">"Nag-andam sa imbakan sa USB\u2026"</string>
+<string name="preparing_sd" product="default">Nag-andam sa SD card\u2026</string>
+<string name="access_sd_fail" product="nosdcard">"Dili maka-access sa imbakan sa USB."</string>
+<string name="access_sd_fail" product="default">"Dili maka-access sa SD card."</string>
+<string name="confirm_restore_title">Ibalik ang mga default</string>
+<string name="confirm_restore_message">Ibalik ang mga default nga setting sa Kamera?</string>
+<string name="review_play">Andar</string>
+<string name="review_cancel">"Kansela"</string>
+<string name="review_ok">"Human"</string>
+<string name="review_retake">"KUHA BALIK"</string>
+<string name="camera_gallery_photos_text">Galerya</string>
+<string name="switch_camera_id">"Pagbaylo ug kamera"</string>
+<string name="time_lapse_title">"Pagrekord sa lapas nga oras"</string>
+<string name="pref_camera_id_title">Pili ug kamera</string>
+<string name="pref_camera_id_entry_back">balik</string>
+<string name="pref_camera_id_entry_front">Atubangan</string>
+<string name="pref_camera_recordlocation_title">"Lokasyon sa tindahan"</string>
+<string name="pref_camera_recordlocation_entry_off">"Pawng"</string>
+<string name="pref_camera_recordlocation_entry_on">"Pagana"</string>
+<string name="pref_video_quality_title">Kalidaad sa video</string>
+<string name="pref_video_time_lapse_frame_interval_title">Agwat sa lapas nga oras</string>
+<string name="pref_camera_settings_category">Mga setting sa kamera</string>
+<string name="pref_camcorder_settings_category">Mga setting sa Kamcorder</string>
+<string name="pref_camera_picturesize_title">Sukod sa larawan</string>
+<string name="pref_camera_picturesize_entry_2592x1936">5M ka mga pixel</string>
+<string name="pref_camera_picturesize_entry_2048x1536">3M ka mga pixel</string>
+<string name="pref_camera_picturesize_entry_1600x1200">2M ka mga pixel</string>
+<string name="pref_camera_picturesize_entry_1280x960">1.3M ka mga pixel</string>
+<string name="pref_camera_picturesize_entry_1024x768">1M ka mga pixel</string>
+<string name="pref_camera_focusmode_title">Pinaagi sa pokus</string>
+<string name="pref_camera_focusmode_entry_auto">"Awto"</string>
+<string name="pref_camera_focusmode_entry_infinity">"Walay kahumanan"</string>
+<string name="pref_camera_focusmode_entry_macro">"Macro"</string>
+<string name="pref_camera_flashmode_title">"Pinaagi sa siga"</string>
+<string name="pref_camera_flashmode_entry_auto">"Awto"</string>
+<string name="pref_camera_flashmode_entry_on">"Pagana"</string>
+<string name="pref_camera_flashmode_entry_off">"Pawng"</string>
+<string name="pref_camera_whitebalance_title">"Puti nga balanse"</string>
+<string name="pref_camera_whitebalance_entry_auto">"Awto"</string>
+<string name="pref_camera_whitebalance_entry_incandescent">"Hayag kaayo"</string>
+<string name="pref_camera_whitebalance_entry_daylight">"Buntag"</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">"Suga"</string>
+<string name="pref_camera_whitebalance_entry_cloudy">"Dag-om"</string>
+<string name="pref_camera_scenemode_title">"Paagi sa tanawin"</string>
+<string name="pref_camera_scenemode_entry_auto">"Awto"</string>
+<string name="pref_camera_scenemode_entry_action">Aksyon</string>
+<string name="pref_camera_scenemode_entry_night">"Gabie"</string>
+<string name="pref_camera_scenemode_entry_sunset">Pagnaog sa adlaw</string>
+<string name="pref_camera_scenemode_entry_party">Partido</string>
+<string name="not_selectable_in_scene_mode">"Dili mapili sa paagi nga tanawin."</string>
+<string name="pref_restore_title">Mga setting sa kamera</string>
+<string name="pref_restore_detail">Ibalik ang mga default</string>
+<string name="pref_exposure_title">"Lantaray"</string>
+<string name="dialog_ok">"OK"</string>
+<string name="spaceIsLow_content" product="nosdcard">Ang imong USB gamay nalang ang lugar,Kambiyohi ang iyang kadak-on o pag papa ug laing litrato o mga file. </string>
+<string name="spaceIsLow_content" product="default">Ang imong SD kard, wala nay lugar. Kambiyohi ang kadak-on o papa ug laing litrato o file.</string>
+<string name="video_reach_size_limit">Limitasyon sa sukod  naabot.</string>
+<string name="switch_to_camera_label">"Baylo ngadto sa Kamera"</string>
+<string name="switch_to_video_label">"Balhin ngadto sa video"</string>
+<string name="switch_to_panorama_label">"Balhin ngadto sa panorama"</string>
+<string name="share_picture_via">Ibahagi ang larawan pinaagi sa</string>
+<string name="share_video_via">Ibahagi ang video pinaagi sa</string>
+<string name="no_picture_to_share">"Walay mga larawan para ibahagi."</string>
+<string name="no_video_to_share">"Walay video nga ibahagi."</string>
+<string name="pano_too_fast_prompt">"Paspas ra kaayo"</string>
+<string name="pano_dialog_prepare_preview">"Gi-andam ang panorama"</string>
+<string name="pano_dialog_panorama_failed">"Dili makasave ug panorama."</string>
+<string name="pano_dialog_title">"Panorama"</string>
+<string name="pano_capture_indication">"Nagdakop ug panorama"</string>
+<string name="pano_review_saving_indication_str">Nagsave\u2026</string>
+<string name="tap_to_focus">"Hikapa para magpokus."</string>
+<string name="pref_video_effect_title">epekto</string>
+<string name="effect_none">"Wala"</string>
+<string name="effect_goofy_face_squeeze">"Pug-on"</string>
+<string name="effect_goofy_face_big_eyes">Dako ug mga mata</string>
+<string name="effect_goofy_face_big_mouth">Dako ug ba-ba</string>
+<string name="effect_goofy_face_small_mouth">"Gamay nga ba-ba"</string>
+<string name="effect_goofy_face_big_nose">"Dako ug ilong"</string>
+<string name="effect_goofy_face_small_eyes">Gamay nga mga mata</string>
+<string name="effect_backdropper_space">"Sa spasyo"</string>
+<string name="effect_backdropper_sunset">Pagnaog sa adlaw</string>
+<string name="effect_backdropper_gallery">Pili ug imu kaugalingon</string>
+<string name="bg_replacement_message">"Takda imu device paubos\nGawas usa sa tanaw sa makadiyot"</string>
+<string name="not_selectable_in_effect">Dili mapili kung ang epekto kay naka-on.</string>
+<string name="video_snapshot_hint">Kuha ug larawan samtang nagrekord ug video pinaagi sa paghikap sa tanaw sa screen.</string>
+<string name="disable_video_snapshot_hint">"Snapshot sa video kay wala gipagana kung naka-on ang mga espesyal nga mga epekto."</string>
+<string name="clear_effects">"Limason tanan mga epekto"</string>
+<string name="effect_silly_faces">BUGALON nga mga NAWNG</string>
+<string name="effect_background">"Likod"</string>
+<string name="accessibility_shutter_button">"Shutter nga pislitanan"</string>
+<string name="accessibility_review_thumbnail">"Pinaka bagohay nga larawan"</string>
+<string name="accessibility_camera_picker">"Atubangan ug likod nga switch sa kamera"</string>
+<string name="accessibility_mode_picker">"Kamera, video, o tigpili sa panorama"</string>
+<string name="accessibility_second_level_indicators">"Daghan nga mga kontrol sa setting"</string>
+<string name="accessibility_back_to_first_level">"Mga kontrol sa sarado nga setting"</string>
+<string name="accessibility_zoom_control">"Kontrol sa Zoom"</string>
+<string name="accessibility_decrement">"Iban %1$s"</string>
+<string name="accessibility_increment">"Dugangan %1$s"</string>
+<string name="accessibility_switch">"%1$s baylo"</string>
+</resources>

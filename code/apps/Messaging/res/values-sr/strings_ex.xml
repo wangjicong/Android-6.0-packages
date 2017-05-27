@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Потпис"</string>
+<string name="pref_title_sms_retry_times">"Покрени поновно слање SMS-а"</string>
+<string name="preference_name">"Уобичајена реченица"</string>
+<string name="select">"Одабрано"</string>
+<string name="item_cancel">"Откажи"</string>
+<string name="item_delete">"Избриши"</string>
+<string name="save_as_teltype">"За телефон"</string>
+<string name="save_as_mmstype">"За Sms"</string>
+<string name="type_to_pharser">"Укуцајте уобичајену фразу"</string>
+<string name="add">"Додај"</string>
+<string name="edit">"Измени"</string>
+<string name="delete">"Избриши"</string>
+<string name="finish">"Заврши"</string>
+<string name="cancel">"Откажи"</string>
+<string name="add_pharser">"Додајте уобичајену фразу"</string>
+<string name="edit_pharser">"Измени уобичајену реченицу"</string>
+<string name="pharser_can_modify">"Подешена фраза"</string>
+<string name="pharser_cannot_modify">"Поправите фразу"</string>
+<string name="select_item">"Одабрали сте"</string>
+<string name="select_commmon_phrase">"Изаберите уобичајену фразу"</string>
+<string name="common_phrase_empty">"Нема уобичајених реченица"</string>
+<string name="action_add_phrase">"Унесите уобичајену фразу"</string>
+<string name="pref_other_settings_title">"Други"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Молим позовите мој уредски број, хвала."</item>
+<item>"Молим контактирајте ме, хвала"</item>
+<item>"Молим реците ми где сте."</item>
+<item>"Молим позовите доцније мој број мобитела, хвала."</item>
+<item>"Изашао сам, позваћу вас кад се вратим кући."</item>
+<item>"Возим и јавићу вам се касније."</item>
+<item>"Бићу доступан чим будем на цести."</item>
+<item>"Опристите, застој је у саобраћају, јавићу вам се доцније."</item>
+<item>"Позваћу вас доциније."</item>
+<item>"На састанку сам, јавићу вам се касније."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"У гужви сам. О чему се ради?"</item>
+<item>"Позваћу те ускоро."</item>
+<item>"Позваћу те касније."</item>
+<item>"У гужви сам. Да се чујемо касније?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Молим назови ме или ми касније пошаљи SMS"</item>
+</string-array>
+</resources>

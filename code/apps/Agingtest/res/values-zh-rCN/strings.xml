@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="app_name">老化测试</string>
+    <string name="attentions">注意：\n1、麦克风无法与喇叭和听筒同时测试。\n2、摄像头、蓝牙、无线网络只能单独测试。</string>
+	<string name="lcd_name">屏</string>
+	<string name="speaker_name">喇叭</string>
+	<string name="vibrator_name">震动</string>
+	<string name="mic_name">麦克风</string>
+	<string name="earpiece_name">听筒</string>
+	<string name="flashlight_name">闪光灯</string>
+	<string name="camera_name">摄像头</string>
+	<string name="wifi_name">无线网络</string>
+	<string name="bluetooth_name">蓝牙</string>
+	<string name="start_test">开始</string>
+	<string name="flash_open_fail">闪光灯打开失败。</string>
+	<string name="test_interval">"每次等待<xliff:g id="testId">%1$s</xliff:g>打开/关闭时间：20秒"</string>
+    <string name="WiFi_success">"测试成功"</string>
+    <string name="WiFi_failed">测试失败</string>
+    <string name="WiFi_scaning">正在查找中...</string>
+    <string name="WiFi_info_closeing">wifi正在关闭中...</string>
+    <string name="WiFi_info_close">"wifi已经关闭"</string>
+    <string name="WiFi_info_opening">wifi正在打开</string>
+    <string name="WiFi_info_open">wifi已经打开</string>
+    <string name="WiFi_info_unknown">未知状态</string>
+    <string name="WiFi_connecting">正在连接...</string>
+    <string name="WiFi_notfound_openap">"未找到开放的连接点"</string>
+    <string name="Bluetooth_open">蓝牙已经打开</string>
+	<string name="Bluetooth_close">蓝牙已经关闭</string>
+    <string name="Bluetooth_opening">蓝牙正在打开...</string>
+    <string name="Bluetooth_scaning">正在查找...</string>
+    <string name="Bluetooth_mac">MAC地址:</string>
+    <string name="Bluetooth_scan_success">查找完成</string>
+	<string name="error_permissions">"此应用缺少运行所需的必要权限。请检查您的权限设置。"</string>
+</resources>

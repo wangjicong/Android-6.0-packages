@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Para Set" >
+
+    <Preference
+        android:key="key_manualassert"
+        android:summary="Manual Assert"
+        android:title="Manual Assert" />
+    <Preference
+        android:key="key_cp2_reset"
+        android:title="CP2 Assert" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.sprd.engineermode.telephony.Cp2AssertActivity"
+            android:targetPackage="com.sprd.engineermode" />
+    </Preference>
+    <Preference
+        android:key="key_forbidplmn"
+        android:summary="Forbid Plmn Info"
+        android:title="Forbid PLMN" />
+    <Preference
+        android:key="key_plmnselect"
+        android:summary="Equal Plmn Info"
+        android:title="PLMN Select" />
+    <Preference
+        android:key="key_sendpower"
+        android:title="RF Send Power" >
+    </Preference>
+
+    <com.sprd.engineermode.EMSwitchPreference
+        android:defaultValue="false"
+        android:key="key_sleepmode"
+        android:summaryOff="Off"
+        android:summaryOn="On"
+        android:title="Non-Sleep" >
+    </com.sprd.engineermode.EMSwitchPreference>
+
+</PreferenceScreen>

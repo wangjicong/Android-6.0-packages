@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Configuració de marcatge IP"</string>
+    <string name="ip_dial_menu">"marca IP"</string>
+    <string name="ip_dialing_title">"MARCATGE IP"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Configuració de marcatge ràpid"</string>
+    <string name="no_fast_dial_number">"No s\'han registrat els números de marcatge ràpid."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"sortints"</string>
+     <string name="call_log_incoming_title">"entrant"</string>
+     <string name="recentOutgoing_empty">"No teniu trucades sortints."</string>
+     <string name="recentIncoming_empty">"No teniu trucades entrants."</string>
+     <string name="view_setting">"Mostra"</string>
+     <string name="item_all_calls">"Tots els registres de trucades"</string>
+     <string name="item_sim_calls">Registre de trucades SIM%d</string>
+     <string name="unselect_all">"Anul·la tota la selecció"</string>
+     <string name="select_all_sprd">"Selec. tot"</string>
+     <string name="doneButton">"Fet"</string>
+     <string name="cancel">"Cancel·la"</string>
+     <string name="delete_selected_calls">"Esteu segurs d\'esborrar els registres seleccionats?"</string>
+     <string name="clearCallLogProgress_title">"S\'està esborrant el registre de trucades\u2026"</string>
+     <string name="delete_success">"S\'ha esborrat correctament"</string>
+     <string name="clear_all_call_log">"Esborra tots els registres de trucades"</string>
+     <string name="clear_selected_call_log">"Esborra el registre de trucades seleccionat"</string>
+     <string name="select_all">"Selec. tot"</string>
+     <string name="unselect_all">"Anul. sel. tot"</string>
+     <string name="delete_all_calls_confirm">Voleu esborrar tots els registres de trucades?</string>
+     <string name="do_not_select">"No heu seleccionat un registre per a esborrar"</string>
+     <string name="delete_calls">"Suprimeix"</string>
+     <string name="number_anr_isnull">"El número del contacte està buit"</string>
+     <string name="call_recording_setting_title">"S\'està enregistrant la trucada"</string>
+     <string name="automatic_recording_title">"Enregistrament automàtic"</string>
+     <string name="dialog_phone_permission_deny">"Per a utilitzar el marcatge IP, \n activeu els permisos del telèfon."</string>
+     <string name="search_description">"Cerca registre de trucades"</string>
+     <string name="call_log_add_to_blacklist">"AFEGIR A LA LLISTA NEGRA"</string>
+     <string name="make_video_call_menu">"Fes una videotrucada"</string>
+
+</resources>

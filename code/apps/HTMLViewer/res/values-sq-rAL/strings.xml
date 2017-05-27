@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">Shikuesi HTML</string>
+<string name="storage_permission_missed_hint">"Mungon leja e kërkuar e memories. Nuk mund të bëhet normalisht. Ju lutem kontrolloni parametrat e lejeve."</string>
+<string name="dialog_dismiss">Hiq</string>
+</resources>

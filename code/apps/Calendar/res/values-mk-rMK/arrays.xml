@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="reminder_methods_labels">
+<item>Известување</item>
+<item>Е-пошта</item>
+<item>SMS</item>
+<item>Будилник</item>
+</string-array>
+<string-array name="reminder_minutes_labels">
+<item>0 минути</item>
+<item>1 минута</item>
+<item>5 минути</item>
+<item>10 минути</item>
+<item>15 минути</item>
+<item>20 минути</item>
+<item>25 минути</item>
+<item>30 минути</item>
+<item>45 минути</item>
+<item>1 час</item>
+<item>2 часа</item>
+<item>3 часа</item>
+<item>12 часа</item>
+<item>24 часа</item>
+<item>2 дена</item>
+<item>"1 недела"</item>
+</string-array>
+<string-array name="preferences_default_reminder_labels">
+<item>Тивко</item>
+<item>0 минути</item>
+<item>1 минута</item>
+<item>5 минути</item>
+<item>10 минути</item>
+<item>15 минути</item>
+<item>20 минути</item>
+<item>25 минути</item>
+<item>30 минути</item>
+<item>45 минути</item>
+<item>1 час</item>
+<item>2 часа</item>
+<item>3 часа</item>
+<item>12 часа</item>
+<item>24 часа</item>
+<item>2 дена</item>
+<item>"1 недела"</item>
+</string-array>
+<string-array name="preferences_week_start_day_labels">
+<item>Локална стандардна вредност</item>
+<item>Сабота</item>
+<item>Недела</item>
+<item>Понеделник</item>
+</string-array>
+<string-array name="availability">
+<item>Зафатени</item>
+<item>Достапен</item>
+<item>Начелен</item>
+</string-array>
+<string-array name="visibility">
+<item>Стандардни опции</item>
+<item>Приватно</item>
+<item>Јавно</item>
+</string-array>
+<string-array name="ordinal_labels">
+<item>прв</item>
+<item>секунда</item>
+<item>трет</item>
+<item>четврти</item>
+<item>последни</item>
+</string-array>
+<string-array name="response_labels1">
+<item>Нема одговор</item>
+<item>Да</item>
+<item>Можеби</item>
+<item>Не</item>
+</string-array>
+<string-array name="delete_repeating_labels">
+<item>Само овој настан</item>
+<item>Овој и идни настани</item>
+<item>Сите настани</item>
+</string-array>
+<string-array name="delete_repeating_labels_no_selected">
+<item>"Ова &amp; идни настани"</item>
+<item>Сите настани</item>
+</string-array>
+<string-array name="change_response_labels">
+<item>Само овој настан</item>
+<item>Сите настани во серија</item>
+</string-array>
+<string-array name="buttons_list">
+<item>ден</item>
+<item>недела</item>
+<item> "Месец"</item>
+<item> "Дневен ред"</item>
+</string-array>
+<string-array name="preferences_skip_reminders_labels">
+<item>Само ако е одбиено</item>
+<item>Ако одбиете или не одговорите</item>
+</string-array>
+<string-array name="recurrence_freq">
+<item>ПОВТОРИ ДНЕВНО</item>
+<item>ПОВТОРИ НЕДЕЛНО</item>
+<item>ПОВТОРИ МЕСЕЧНО</item>
+<item>ПОВТОРИ ГОДИШНО</item>
+</string-array>
+<string-array name="repeat_by_nth_sun">
+<item>секоја прва недела</item>
+<item>секоја втора недела</item>
+<item>секоја трета недела</item>
+<item>секоја четврта недела</item>
+<item>секоја последна недела</item>
+</string-array>
+<string-array name="repeat_by_nth_mon">
+<item>секој прв понеделник</item>
+<item>секој втор понеделник</item>
+<item>секој трети понеделник</item>
+<item>секој четврти понеделник</item>
+<item>секој последен понеделник</item>
+</string-array>
+<string-array name="repeat_by_nth_tues">
+<item>секој прв вторник</item>
+<item>секој втор вторник</item>
+<item>секој трети вторник</item>
+<item>секој четврти вторник</item>
+<item>секој последен вторник</item>
+</string-array>
+<string-array name="repeat_by_nth_wed">
+<item>секоја прва среда</item>
+<item>секоја втора среда</item>
+<item>секоја трета среда</item>
+<item>секоја четврта среда</item>
+<item>секоја последна среда</item>
+</string-array>
+<string-array name="repeat_by_nth_thurs">
+<item>секој прв четврток</item>
+<item>секој втор четврток</item>
+<item>секој трети четврток</item>
+<item>секој четврти четврток</item>
+<item>секој последен четврток</item>
+</string-array>
+<string-array name="repeat_by_nth_fri">
+<item>секој прв петок</item>
+<item>секој втор петок</item>
+<item>секој трети петок</item>
+<item>секој четврти петок</item>
+<item>секој последен петок</item>
+</string-array>
+<string-array name="repeat_by_nth_sat">
+<item>секоја прва сабота</item>
+<item>секоја втора сабота</item>
+<item>секоја трета сабота</item>
+<item>секоја четврта сабота</item>
+<item>секоја последна сабота</item>
+</string-array>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Effects xmlns:launcher="http://schemas.android.com/apk/res-auto">
+    <Effect
+        launcher:effectName="@string/effect_normal_text"
+        launcher:effectIcon="@drawable/ic_effect_classics"
+        launcher:effectIndex="0" />
+    <Effect
+        launcher:effectName="@string/effect_cross_text"
+        launcher:effectIcon="@drawable/ic_effect_cross"
+        launcher:effectIndex="1" />
+    <Effect
+        launcher:effectName="@string/effect_page_text"
+        launcher:effectIcon="@drawable/ic_effect_page"
+        launcher:effectIndex="2" />
+    <Effect
+        launcher:effectName="@string/effect_cube_in_text"
+        launcher:effectIcon="@drawable/ic_effect_cube_in"
+        launcher:effectIndex="3" />
+    <Effect
+        launcher:effectName="@string/effect_cube_out_text"
+        launcher:effectIcon="@drawable/ic_effect_cube_out"
+        launcher:effectIndex="4" />
+    <Effect
+        launcher:effectName="@string/effect_carousel_left_text"
+        launcher:effectIcon="@drawable/ic_effect_carousel_left"
+        launcher:effectIndex="5" />
+    <Effect
+        launcher:effectName="@string/effect_carousel_right_text"
+        launcher:effectIcon="@drawable/ic_effect_carousel_right"
+        launcher:effectIndex="6" />
+    <Effect
+        launcher:effectName="@string/effect_layer_text"
+        launcher:effectIcon="@drawable/ic_effect_layer"
+        launcher:effectIndex="7" />
+    <Effect
+        launcher:effectName="@string/effect_fade_text"
+        launcher:effectIcon="@drawable/ic_effect_fade"
+        launcher:effectIndex="8" />
+</Effects>

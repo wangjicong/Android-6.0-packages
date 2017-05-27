@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- bug 478514: Add for MmsFolderView Feature Begin -->
+    <dimen name="view_height">12dp</dimen>
+    <dimen name="contextmenu_list_item_height">48dp</dimen>
+    <dimen name="contextmenu_text_size">16sp</dimen>
+    <dimen name="contextmenu_text_padding">25dp</dimen>
+    <dimen name="actionbar_menu_text_size">18sp</dimen>
+    <!-- bug 478514: Add for MmsFolderView Feature End -->
+
+    <!-- Sprd add for sms merge forward begin -->
+    <dimen name="text_size_empty_list">20dp</dimen>
+    <!-- Sprd add for sms merge forward end -->
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2010,2011 Thundersoft Corporation
+  All rights Reserved
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="3dip"
+    android:layout_marginBottom="@dimen/sns_margin"
+    android:background="@drawable/sns_btn_background">
+    <TextView
+        android:id="@+id/sns_item_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:drawablePadding="5dip"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/sns_padding"
+        android:textColor="@color/sns_text"
+        android:textSize="@dimen/sns_item_text_size" 
+        android:duplicateParentState="true"/>
+    <TextView
+        android:id="@+id/sns_item_bind"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:drawablePadding="5dip"
+        android:drawableRight="@drawable/sns_ic_arrow"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/sns_padding"
+        android:textSize="@dimen/sns_button_text_size"
+        android:textColor="@color/sns_text"
+        android:duplicateParentState="true"/>
+</RelativeLayout>

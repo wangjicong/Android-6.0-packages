@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.messaging.smil.view.SmileditPar  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_edit"
+    android:layout_width="match_parent"
+    android:background="@drawable/swipe_shadow"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+</com.android.messaging.smil.view.SmileditPar>

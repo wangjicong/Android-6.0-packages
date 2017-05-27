@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Signatur"</string>
+<string name="pref_title_sms_retry_times">"Aktivera SMS försök igen"</string>
+<string name="preference_name">"Vanlig fras"</string>
+<string name="select">"Markerade"</string>
+<string name="item_cancel">"Avbryt"</string>
+<string name="item_delete">"Ta bort"</string>
+<string name="save_as_teltype">"För telefon"</string>
+<string name="save_as_mmstype">"För SMS"</string>
+<string name="type_to_pharser">"Skriv vanlig fras"</string>
+<string name="add">"Lägg till"</string>
+<string name="edit">"Redigera"</string>
+<string name="delete">"Ta bort"</string>
+<string name="finish">"Slutför"</string>
+<string name="cancel">"Avbryt"</string>
+<string name="add_pharser">"Lägg till vanlig fras"</string>
+<string name="edit_pharser">"Redigera vanlig fras"</string>
+<string name="pharser_can_modify">"Anpassad fras"</string>
+<string name="pharser_cannot_modify">"Fixa frasen"</string>
+<string name="select_item">"Du har valt"</string>
+<string name="select_commmon_phrase">"Välj vanlig fras"</string>
+<string name="common_phrase_empty">"Inga vanliga fraser"</string>
+<string name="action_add_phrase">"Sätt in vanlig fras"</string>
+<string name="pref_other_settings_title">"Övrigt"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Ring min kontorstelefon, tack."</item>
+<item>"Kontakta mig, tack."</item>
+<item>"Berätta var din plats är."</item>
+<item>"Ring min mobiltelefon senare, tack."</item>
+<item>"jag var ute, gå hem så ringer jag dig."</item>
+<item>"Jag kör men kommer att svara senare."</item>
+<item>"Jag ute och kör och kan omedelbart nås."</item>
+<item>"Trafikstoppning, tyvärr."</item>
+<item>"Jag ringer upp dig senare."</item>
+<item>"Jag sitter på ett möte och svarar dig senare."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Kan inte prata nu. Läget?"</item>
+<item>"Jag ringer tillbaka alldeles strax."</item>
+<item>"Jag ringer dig senare."</item>
+<item>"Kan inte prata nu. Ring senare!"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Ring mig eller skicka ett SMS till mig senare."</item>
+</string-array>
+</resources>

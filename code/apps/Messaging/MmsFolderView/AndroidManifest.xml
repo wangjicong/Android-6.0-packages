@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.mmsfolderview"
+    android:sharedUserId="com.android.messaging.plugins"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="23" />
+
+    <!-- Application holds CPU wakelock while working in background -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <!-- Application needs SMS/MMS permissions -->
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_MMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_WAP_PUSH"/>
+    <!-- Application needs access to MMS network -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <!-- Application needs CONTACT permissions -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <!-- Application needs to read profiles for the user itself from CP2 -->
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+    <!-- SPED: add for  permission -->
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+    <uses-permission android:name="android.permission.READ_MESSAGES_ATTACHMENT"/>
+    <!-- Optional features -->
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+
+    <!-- android:theme="@style/BugleTheme"  android:supportsRtl="true" android:process="com.android.messaging" -->
+    <application
+        android:name="com.android.mmsfolderview.BugleApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/folder_view_app_name"
+        android:theme="@style/CustomTheme" >
+        <activity
+            android:name="com.android.mmsfolderview.ui.SortMsgListActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/folder_view_app_name"
+            android:launchMode="singleTop"
+            android:theme="@style/CustomTheme.SortMsgListActivity" >
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.mmsfolderview.ui.SearchActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/search" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <!-- Search Suggestions Provider -->
+        <provider
+            android:name=".data.SuggestionsProvider"
+            android:authorities="com.android.mmsfolderview.data.SuggestionsProvider"
+            android:exported="true"
+            android:readPermission="android.permission.READ_SMS" >
+            <path-permission
+                android:pathPrefix="/search_suggest_query"
+                android:readPermission="android.permission.GLOBAL_SEARCH" />
+            <path-permission
+                android:pathPrefix="/search_suggest_shortcut"
+                android:readPermission="android.permission.GLOBAL_SEARCH" />
+        </provider>
+    </application>
+
+</manifest>

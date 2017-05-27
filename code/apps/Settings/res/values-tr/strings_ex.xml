@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB ayarları"</string>
+<string name="usb_charge_only">""Yalnızca şarj" "</string>
+<string name="usb_charge_only_summary">"USB bağlıyken sadece şarj modunu kullanın"</string>
+<string name="usb_charge_only_storage_active_subtext">"Sadece USB depolama kullanımdayken şarj  edilemiyor"</string>
+<string name="usb_charge_only_notification">"Sadece şarj olarak bağlandı"</string>
+<string name="usb_storage">"USB bellek"</string>
+<string name="usb_storage_summary">"USB yığın depolamasını etkinleştir"</string>
+<string name="ums_settings">"UMS Ayarları"</string>
+<string name="ums_mounted_setting">"ums  bilgisayara tanıtılıyor , lütfen bekleyiniz..."</string>
+<string name="ums_unmounted_setting">"ums bilgisayardan siliniyor, lütfen bekleyin..."</string>
+<string name="usb_virtual_drive">"USB sanal sürücü"</string>
+<string name="usb_virtual_drive_summary">"USB sanal sürücüsünü etkinleştir"</string>
+<string name="remember_choice">"Seçimimi hatırla"</string>
+<string name="remember_choice_summary">"Seçimimi hatırla ve seçilen fonksiyonu bir sonraki seferde otomatik olarak başlat "</string>
+<string name="stand_by_set_changed_prompt">"SIM aktivasyon durumu değiştirilecek, lütfen devam edip etmeyeceğinizi seçiniz  "</string>
+<string name="not_stand_by">"YASAK"</string>
+<string name="primary_card_switching">"Ayarlıyor\uff0clütfen bekleyin..."</string>
+<string name="toggle_data_change_message">"Veri bağlantısı sim karta aktarıldı <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, veri hacmi ve karşılıklı yüklemeler üretecektir, lütfen not edin."</string>
+<string name="select_primary_card">"Birincil kartı seçiniz"</string>
+<string name="whether_switch_primary_card">"Lütfen birincil karttan bu karta geçmek istediğinizi doğrulayın? \n (Hücresel veri ayrıca karta geçirilecek.)"</string>
+<string name="attention">"Dikkat"</string>
+<string name="bt_softap_cannot_coexist">"Softap etkinleştirildiğinde veya açıldığında, bluetooth çalışmayabilir, bluetooth\'u kullanmak isterseniz lütfen softap\'in devre dışı olduğundan emin olun."</string>
+<string name="softap_bt_cannot_coexist">"Bluetooth etkinleştirilince veya açılırken, softap çalışamaz, softapı kullanmak istiyorsanız, lütfen bluetooth\'un devre dışı bırakıldığından emin olun."</string>
+<string name="softap_need_mobile_data_enabled">"Taşınabilir Wi-Fi erişim alanı, mobil veri bağlantısı gerektirebilir, ek maliyet üretebilir."</string>
+<string-array name="light_color_picker">
+<item>"Yeşil"</item>
+<item>"Mavi"</item>
+<item>"Çivit mavisi"</item>
+<item>"Mor"</item>
+<item>"Pembe"</item>
+<item>"Kırmızı"</item>
+<item>"Sarı"</item>
+</string-array>
+</resources>

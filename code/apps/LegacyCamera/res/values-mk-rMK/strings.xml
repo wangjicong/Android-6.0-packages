@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">Грешка на фотоапаратот</string>
+<string name="cannot_connect_camera">Не може да се поврзе со фотоапаратот</string>
+<string name="camera_disabled">Фотоапаратот е исклучен поради безбедносни политики.</string>
+<string name="camera_label">Камера</string>
+<string name="video_camera_label">Камера за снимање</string>
+<string name="gallery_camera_bucket_name">Слики од камера</string>
+<string name="gallery_camera_videos_bucket_name">Видеа од камера</string>
+<string name="wait">Ве молиме почекајте...</string>
+<string name="no_storage" product="nosdcard">Вклучете USB пред да го употребите фотоапаратот.</string>
+<string name="no_storage" product="default">Внесете SD картичка пред да го употребувате фотоапаратот</string>
+<string name="not_enough_space" product="nosdcard">Вашето USB e преполно</string>
+<string name="not_enough_space" product="default">SD картичката е полна. </string>
+<string name="preparing_sd" product="nosdcard">Подготовка на USB…</string>
+<string name="preparing_sd" product="default">Ја подготвувам SD картичката...</string>
+<string name="access_sd_fail" product="nosdcard">Не може да се пристапи до USB.</string>
+<string name="access_sd_fail" product="default">Не може да се пристапи до SD картичката.</string>
+<string name="confirm_restore_title">Обнови ги стандардните поставки</string>
+<string name="confirm_restore_message">Обнови ги зададените поставки на фотоапаратот?</string>
+<string name="review_play">Пушти</string>
+<string name="review_cancel">Откажи</string>
+<string name="review_ok">Готово</string>
+<string name="review_retake">ПОВТОРНО СНИМИ</string>
+<string name="camera_gallery_photos_text">Галерија</string>
+<string name="switch_camera_id">Вклучи фотоапарат</string>
+<string name="time_lapse_title">Забрзано снимање</string>
+<string name="pref_camera_id_title">Одбери фотоапарат</string>
+<string name="pref_camera_id_entry_back">Назад</string>
+<string name="pref_camera_id_entry_front">Предна</string>
+<string name="pref_camera_recordlocation_title">Локација на склад</string>
+<string name="pref_camera_recordlocation_entry_off">ИСКЛ.</string>
+<string name="pref_camera_recordlocation_entry_on">ВКЛ.</string>
+<string name="pref_video_quality_title">Квалитет на видеото</string>
+<string name="pref_video_time_lapse_frame_interval_title">Интервал на забрзано снимање</string>
+<string name="pref_camera_settings_category">Поставки за камера</string>
+<string name="pref_camcorder_settings_category">Параметри на камера за снимање</string>
+<string name="pref_camera_picturesize_title">Големина на слика</string>
+<string name="pref_camera_picturesize_entry_2592x1936">5М пиксели</string>
+<string name="pref_camera_picturesize_entry_2048x1536">3М пиксели</string>
+<string name="pref_camera_picturesize_entry_1600x1200">2М пиксели</string>
+<string name="pref_camera_picturesize_entry_1280x960">1.3М пиксели</string>
+<string name="pref_camera_picturesize_entry_1024x768">1М пиксели</string>
+<string name="pref_camera_focusmode_title">фокусен режим</string>
+<string name="pref_camera_focusmode_entry_auto">Автоматски</string>
+<string name="pref_camera_focusmode_entry_infinity">Бесконечност</string>
+<string name="pref_camera_focusmode_entry_macro">Mакро</string>
+<string name="pref_camera_flashmode_title">Режим на блиц</string>
+<string name="pref_camera_flashmode_entry_auto">Автоматски</string>
+<string name="pref_camera_flashmode_entry_on">ВКЛ.</string>
+<string name="pref_camera_flashmode_entry_off">ИСКЛ.</string>
+<string name="pref_camera_whitebalance_title">Баланс на белина</string>
+<string name="pref_camera_whitebalance_entry_auto">Автоматски</string>
+<string name="pref_camera_whitebalance_entry_incandescent">Светло</string>
+<string name="pref_camera_whitebalance_entry_daylight">Дневна светлина</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">Флуоресцентно</string>
+<string name="pref_camera_whitebalance_entry_cloudy">Облачно</string>
+<string name="pref_camera_scenemode_title">Режим на пејзаж</string>
+<string name="pref_camera_scenemode_entry_auto">Автоматски</string>
+<string name="pref_camera_scenemode_entry_action">Движење</string>
+<string name="pref_camera_scenemode_entry_night">Ноќ</string>
+<string name="pref_camera_scenemode_entry_sunset">Зајдисонце</string>
+<string name="pref_camera_scenemode_entry_party">Забава</string>
+<string name="not_selectable_in_scene_mode">Не може да се избере во режим на пејзаж.</string>
+<string name="pref_restore_title">Поставки за камера</string>
+<string name="pref_restore_detail">Обнови ги стандардните поставки</string>
+<string name="pref_exposure_title">Експозиција</string>
+<string name="dialog_ok">Во ред</string>
+<string name="spaceIsLow_content" product="nosdcard">Вашето USB снемува простор. Променете ги параметрите за квалитет или избришете некои слики или други датотеки.</string>
+<string name="spaceIsLow_content" product="default">Вашата SD картичка снемува простор. Променете ги параметрите за квалитет или избришете некои слики или други датотеки</string>
+<string name="video_reach_size_limit">Ограничувањето на големината е достигнато</string>
+<string name="switch_to_camera_label">Префрли се на Камера</string>
+<string name="switch_to_video_label">Префрли на камера за снимање</string>
+<string name="switch_to_panorama_label">Префрли на панорама</string>
+<string name="share_picture_via">Сподели слика преку</string>
+<string name="share_video_via">Сподели видео преку</string>
+<string name="no_picture_to_share">Нема слика за споделување.</string>
+<string name="no_video_to_share">Нема видео за споделување.</string>
+<string name="pano_too_fast_prompt">Премногу брзо.</string>
+<string name="pano_dialog_prepare_preview">Подготовка на панорама</string>
+<string name="pano_dialog_panorama_failed">Панорамата не може да се зачува.</string>
+<string name="pano_dialog_title">Панорама</string>
+<string name="pano_capture_indication">Снимање панорама</string>
+<string name="pano_review_saving_indication_str">Зачувувам...</string>
+<string name="tap_to_focus">Допри за фокусирање</string>
+<string name="pref_video_effect_title">Ефекти</string>
+<string name="effect_none">Тивко</string>
+<string name="effect_goofy_face_squeeze">Стисок</string>
+<string name="effect_goofy_face_big_eyes">Големи очи</string>
+<string name="effect_goofy_face_big_mouth">Голема уста</string>
+<string name="effect_goofy_face_small_mouth">Мала уста</string>
+<string name="effect_goofy_face_big_nose">Голем нос</string>
+<string name="effect_goofy_face_small_eyes">Мали очи</string>
+<string name="effect_backdropper_space">Ефект на вселена</string>
+<string name="effect_backdropper_sunset">Зајдисонце</string>
+<string name="effect_backdropper_gallery">Одбери сопствен ефект</string>
+<string name="bg_replacement_message">Спуштете ја направата и излезете од приказот</string>
+<string name="not_selectable_in_effect">Не може да се избира кога ефектот е уклучен.</string>
+<string name="video_snapshot_hint">Сликајте додека камерата снима со тоа што ќе го допрете делот од екранот каде што пишува преглед.</string>
+<string name="disable_video_snapshot_hint">Видео блиц-извештајот е исклучен кога специјалните ефекти се вклучени.</string>
+<string name="clear_effects">Избриши ги ефектите</string>
+<string name="effect_silly_faces">Ефект на будалести фаци</string>
+<string name="effect_background">ЗАДНИНА</string>
+<string name="accessibility_shutter_button">Копче за сликање</string>
+<string name="accessibility_review_thumbnail">Последна слика</string>
+<string name="accessibility_camera_picker">Префрлање на фотоапаратот напред и назад</string>
+<string name="accessibility_mode_picker">Избирач за фотоапарат, камера за снимање и панорама</string>
+<string name="accessibility_second_level_indicators">Повеќе приспособувања</string>
+<string name="accessibility_back_to_first_level">Затвори приспособувања</string>
+<string name="accessibility_zoom_control">Копче за зумирање</string>
+<string name="accessibility_decrement">Намали %1$s</string>
+<string name="accessibility_increment">Зголеми %1$s</string>
+<string name="accessibility_switch">%1$s  префрли</string>
+</resources>

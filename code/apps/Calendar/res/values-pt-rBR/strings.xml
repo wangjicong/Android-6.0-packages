@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">"Agenda"</string>
+<string name="what_label">"Qual"</string>
+<string name="where_label">"Onde"</string>
+<string name="when_label">"Quando"</string>
+<string name="timezone_label">"Fuso horário"</string>
+<string name="attendees_label">"Hóspedes"</string>
+<string name="today">"Hoje"</string>
+<string name="tomorrow">"Amanhã"</string>
+<string name="today_at_time_fmt">"Hoje, às <xliff:g id="TIME_INTERVAL">%s</xliff:g>"</string>
+<string name="tomorrow_at_time_fmt">"Amanhã, às <xliff:g id="TIME_INTERVAL">%s</xliff:g>"</string>
+<string name="date_time_fmt">"<xliff:g id="DATE">%s</xliff:g>, <xliff:g id="TIME_INTERVAL">%s</xliff:g>"</string>
+<string name="repeats_label">"Repetição"</string>
+<string name="no_title_label">"(Sem título)"</string>
+<plurals name="Nminutes">
+<item quantity="one">"1 minuto"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> mins"</item>
+</plurals>
+<plurals name="Nmins">
+<item quantity="one">"1 min"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> mins"</item>
+</plurals>
+<plurals name="Nhours">
+<item quantity="one">"1 hora"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> horas"</item>
+</plurals>
+<plurals name="Ndays">
+<item quantity="one">"1 dia"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> dias"</item>
+</plurals>
+<plurals name="weekN">
+<item quantity="other">"SEMANA <xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<string name="calendar_refresh">"Atualizar"</string>
+<string name="select_date">"Selecionar Data"</string>
+<string name="show_day_view">"Mostrar o dia"</string>
+<string name="agenda_view">"Agenda"</string>
+<string name="day_view">"dia"</string>
+<string name="week_view">"semana"</string>
+<string name="month_view">"Mês"</string>
+<string name="event_view">"Ver evento"</string>
+<string name="event_create">"Novo evento"</string>
+<string name="event_edit">"Editar evento"</string>
+<string name="event_delete">"Apagar evento"</string>
+<string name="goto_today">"Hoje"</string>
+<string name="menu_preferences">"Configurações"</string>
+<string name="menu_select_visible_calendars">"Calendários para display"</string>
+<string name="search">"Pesquisar"</string>
+<string name="hide_controls">"Esconder os controles"</string>
+<string name="show_controls">"Mostrar os controles"</string>
+<string name="select_visible_calendars_title">"Calendários para display"</string>
+<string name="synced">"sincronizado"</string>
+<string name="not_synced">"não sincronizado"</string>
+<string name="acct_not_synced">"Esta conta não é sendo sincronizado, portanto, seus calendários não podem ser atualizados."</string>
+<string name="accounts">"Contas &amp; sincronização"</string>
+<string name="select_synced_calendars_title">"Calendários para sincronizar"</string>
+<string name="select_synced_calendars_button">"Calendários para sincronizar"</string>
+<string name="hint_what">"Nome do evento"</string>
+<string name="hint_where">"Localização"</string>
+<string name="hint_description">"Descrição"</string>
+<string name="hint_attendees">"Hóspedes"</string>
+<string name="creating_event">"Evento criado."</string>
+<string name="saving_event">"Evento guardado."</string>
+<string name="empty_event">"Evento vázio não criado."</string>
+<string name="creating_event_with_guest">"As invitações serão enviadas."</string>
+<string name="saving_event_with_guest">"As atualizações serão enviadas."</string>
+<string name="rsvp_accepted">"Respondido sim."</string>
+<string name="rsvp_tentative">"Respondido talvez."</string>
+<string name="rsvp_declined">"Respondido não."</string>
+<string name="create_event_dialog_save">"Salvar"</string>
+<string name="alert_title">"Notificações de calendário"</string>
+<string name="event_info_title">"Ver evento"</string>
+<string name="event_info_title_invite">"Convite para reunião"</string>
+<string name="edit_event_to_label">"Para"</string>
+<string name="edit_event_from_label">"De"</string>
+<string name="edit_event_all_day_label">"Todo o dia"</string>
+<string name="edit_event_calendar_label">"Agenda"</string>
+<string name="edit_event_show_all">"Mostrar todos"</string>
+<string name="description_label">"Descrição"</string>
+<string name="presence_label">"Mostrar-me como"</string>
+<string name="privacy_label">"Privacidade"</string>
+<string name="reminders_label">"Adicionar lembrança"</string>
+<string name="no_syncable_calendars">"Nenhum calendário"</string>
+<string name="no_calendars_found">"Antes de você pode adicionar um evento, você deve adicionar pelo menos uma conta de Calendário para o seu aparelho e fazer um calendário visível. Tocar Adicionar Conta para adicionar uma conta (se você adicinou uma conta, espere por acabar a sincronização e tente de novo). Ou tocar Cancelar e assegura que pelo meno um calendário é visível."</string>
+<string name="create_an_account_desc">"Calendário funciona melhor com uma Conta de Google.\n\n\u2022 Acessa-o de qualquer explorador de web\n\n\u2022 Volte para os seus eventos seguramente"</string>
+<string name="add_account">"Adicionar conta"</string>
+<string name="view_event_calendar_label">"Calendário:"</string>
+<string name="view_event_organizer_label">"Organizador:"</string>
+<string name="choose_event_color_label">"Escolher a cor de evento"</string>
+<string name="event_color_picker_dialog_title">"Cor de Evento"</string>
+<string name="event_color_set_to_default">"Ajustado para default cor de calendário"</string>
+<string name="calendar_color_picker_dialog_title">"Cor de Calendário"</string>
+<string name="calendar_square_color_picker_description">"Apanhador de cor"</string>
+<string name="view_event_response_label">"Atender?"</string>
+<string name="response_yes">"Sim"</string>
+<string name="response_maybe">"Talvez"</string>
+<string name="response_no">"Não"</string>
+<string name="email_guests_label">"Email convidados"</string>
+<string name="email_organizer_label">"Organizador de Email"</string>
+<string name="email_picker_label">"Email com"</string>
+<string name="event_not_found">"Evento não procurado."</string>
+<string name="map_label">"Mapa"</string>
+<string name="call_label">"Chamar"</string>
+<string name="quick_response_settings">"Respostas rápidas"</string>
+<string name="quick_response_settings_summary">"Editar as default respostas quando está mandando email para os convidados"</string>
+<string name="quick_response_settings_title">"Edite respostas rápidas"</string>
+<string name="quick_response_settings_edit_title">"Resposta rápida"</string>
+<string name="quick_response_dialog_title">"Escolher rápida resposta"</string>
+<string name="quick_response_email_failed">"Falha procurar um programa de email"</string>
+<string-array name="quick_response_defaults">
+<item>"Rodando só uns minutos mais tarde."</item>
+<item>"Está lá em cerca de 10 minutos."</item>
+<item>"Vá começar sem mim."</item>
+<item>"Desculpe, não posso fazer isso. Vamos marcar de novo."</item>
+</string-array>
+<string name="quick_response_custom_msg">"Escrever por si próprio\u2026"</string>
+<string name="event_info_organizer">"Organizador:"</string>
+<string name="event_info_reminders_label">"Lembretes"</string>
+<string name="agenda_today">"Hoje, <xliff:g id="data">%1$s</xliff:g>"</string>
+<string name="agenda_yesterday">"ONTEM, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="agenda_tomorrow">"AMANHA, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="loading">"Carregando..."</string>
+<string name="show_older_events">"Toque para ver os eventos antes de <xliff:g id="oldest_search_range">%1$s</xliff:g>"</string>
+<string name="show_newer_events">"Toque para ver os eventos depois de <xliff:g id="newest_search_range">%1$s</xliff:g>"</string>
+<string name="search_title">"Buscar meus calendários"</string>
+<string name="edit_event_label">"Detalhes"</string>
+<string name="edit_label">"Editar"</string>
+<string name="delete_label">"Apagar"</string>
+<string name="save_label">"Concluído"</string>
+<string name="discard_label">"Cancelar"</string>
+<string name="snooze_all_label">"Todos em soneca"</string>
+<string name="dismiss_all_label">"Rejeitar todos"</string>
+<string name="snooze_label">"Soneca"</string>
+<string name="does_not_repeat">"Evento único"</string>
+<string name="endByDate">"; until <xliff:g id="date">%s</xliff:g>"</string>
+<plurals name="endByCount">
+<item quantity="one">"; para uma vez"</item>
+<item quantity="other">"; para <xliff:g id="number">%d</xliff:g> vezes"</item>
+</plurals>
+<plurals name="daily">
+<item quantity="one">"Diariamente"</item>
+<item quantity="other">"Cada <xliff:g id="number">%d</xliff:g> dias"</item>
+</plurals>
+<string name="every_weekday">"Cada dia da semana (Seg\u2013Sex)"</string>
+<plurals name="weekly">
+<item quantity="one">"Semanal em <xliff:g id="days_of_week">%2$s</xliff:g>"</item>
+<item quantity="other">"Cada <xliff:g id="number">%1$d</xliff:g> semanas em <xliff:g id="days_of_week">%2$s</xliff:g>"</item>
+</plurals>
+<string name="monthly">"Mensal"</string>
+<string name="yearly_plain">"Anual"</string>
+<string name="monthly_on_day">"Mensalmente (no dia <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+<string name="yearly">"Anualmente (em <xliff:g id="dates">%s</xliff:g>)"</string>
+<string name="custom" product="tablet">"Personalizado (não pode personalizar no tablete)"</string>
+<string name="custom" product="default">"Personalizado (não pode personalizar no telefone)"</string>
+<string name="modify_event">"Mudar apenas este evento"</string>
+<string name="modify_all">"Mudar todos os eventos em séries"</string>
+<string name="modify_all_following">"Mudar este e todos os eventos futuros"</string>
+<string name="new_event_dialog_label">"Novo evento"</string>
+<string name="new_event_dialog_option">"Novo evento"</string>
+<string name="delete_this_event_title">"Deletar este evento?"</string>
+<string name="delete_recurring_event_title">"Deletar <xliff:g id="eventtitle">%s</xliff:g>?"</string>
+<string name="change_response_title">"Mudar a resposta"</string>
+<string name="menu_general_preferences">"Ajustes gerais"</string>
+<string name="menu_about_preferences">"Sobre Calendário"</string>
+<string name="preferences_title">"Configurações"</string>
+<string name="preferences_general_title">"Definição de exibição do calendário"</string>
+<string name="preferences_reminder_title">"Notificações \u0026 lembranças"</string>
+<string name="preferences_hide_declined_title">"Esconder recusou eventos"</string>
+<string name="preferences_week_start_day_title">"Semana inicia em"</string>
+<string name="preferences_week_start_day_dialog">"Semana inicia em"</string>
+<string name="preferences_clear_search_history_title">"Limpar histórico de pesquisa"</string>
+<string name="preferences_clear_search_history_summary">"Remover todas as bucas que pegou"</string>
+<string name="search_history_cleared">"História de busca limpada."</string>
+<string name="preferences_alerts_title">"Notificações"</string>
+<string name="preferences_alerts_vibrateWhen_title">"Vibração"</string>
+<string name="preferences_alerts_ringtone_title">"Som"</string>
+<string name="preferences_alerts_popup_title">"Aparecer notificação"</string>
+<string name="preferences_default_reminder_title">"Hora de lembrança padrão"</string>
+<string name="preferences_default_reminder_dialog">"Hora de lembrança padrão"</string>
+<string name="preferences_use_home_tz_title">"Usar a zona de tempo de casa"</string>
+<string name="preferences_use_home_tz_descrip">"Exibe calendários e horários dos eventos em seu fuso horário quando viaja"</string>
+<string name="preferences_home_tz_title">"Fuso horário local"</string>
+<string name="preferences_show_week_num_title">"Mostrar número de semana"</string>
+<string name="preferences_about_title">"Sobre"</string>
+<string name="preferences_build_version">"Versão de estabelecimento"</string>
+<string name="gadget_title">"Agenda"</string>
+<string name="gadget_no_events">"Não há eventos de calendário futuros"</string>
+<string name="preferences_experimental_category">"Experimental"</string>
+<string name="preferences_reminders_category">"Lembretes"</string>
+<string name="preferences_reminders_responded_label">"Saltar Lembretes"</string>
+<string name="preferences_reminders_responded_dialog">"Saltar Lembretes"</string>
+<string name="preferences_reminders_quiet_hours_label">"Horas tranquilas"</string>
+<string name="preferences_reminders_quiet_hours_description">"Lembretes de evento de silêncio durante o tempo específico."</string>
+<string name="preferences_reminders_quiet_hours_start">"Horas calmas tempo inicial"</string>
+<string name="preferences_reminders_quiet_hours_end">"Horas calmas tempo final"</string>
+<string name="preferences_debug_category">"Depuração"</string>
+<string name="copy_db">"Enviar base de dados"</string>
+<string name="directory_searching_fmt">"Pesquisando <xliff:g id="domain">%s</xliff:g>\u2026"</string>
+<string name="accessibility_remove_attendee">"Remover participantes"</string>
+<string name="accessibility_pick_start_date">"Data Inicial"</string>
+<string name="accessibility_pick_start_time">"Tempo Inicial"</string>
+<string name="accessibility_pick_end_date">"Data Final"</string>
+<string name="accessibility_pick_end_time">"Tempo Final"</string>
+<string name="accessibility_pick_time_zone">"Fuso horário"</string>
+<string name="accessibility_pick_recurrence">"Repetir evento"</string>
+<string name="accessibility_add_reminder">"Adicionar lembrança"</string>
+<string name="accessibility_remove_reminder">"Remover lembrete"</string>
+<string name="accessibility_add_attendee">"Adicionar participante"</string>
+<string name="accessibility_sync_cal">"Calendário de sincronização"</string>
+<string name="accessibility_all_day">"Todos os eventos do dia"</string>
+<string name="accessibility_repeats">"Repetição"</string>
+<string name="accessibility_reminder_time">"Tempo de lembrança"</string>
+<string name="accessibility_reminder_type">"Tipo de lembrança"</string>
+<string name="accessibility_reminder_showmeas">"Mostrar-me como"</string>
+<string name="accessibility_reminder_privacy">"Privacidade"</string>
+<string name="acessibility_cal_notification">"Notificação de Calendário"</string>
+<string name="acessibility_snooze_notification">"Notificação de Despertador"</string>
+<string name="accessibility_email_notification">"Email convidados"</string>
+<string name="day_view_new_event_hint">"+ Novo evento"</string>
+<string name="template_announce_item_index">"Evento <xliff:g id="item_index">%1$s</xliff:g> de <xliff:g id="item_count">%2$s</xliff:g>."</string>
+<plurals name="Nevents">
+<item quantity="one">"1 evento"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> eventos"</item>
+</plurals>
+<plurals name="N_remaining_events">
+<item quantity="one">"+1 evento"</item>
+<item quantity="other">"+<xliff:g id="count">%d</xliff:g> eventos"</item>
+</plurals>
+<string name="acessibility_selected_marker_description">"Evento selecionado"</string>
+<string name="do_not_check">"NÃO verifique -&gt;"</string>
+<string name="recurrence_dialog_title">"Repetir"</string>
+<string name="recurrence_dialog_title_never">"Nunca repetir"</string>
+<plurals name="recurrence_interval_daily">
+<item quantity="one">"Cada <xliff:g id="count">%d</xliff:g> dia"</item>
+<item quantity="other">"Cada <xliff:g id="count">%d</xliff:g> dias"</item>
+</plurals>
+<plurals name="recurrence_interval_weekly">
+<item quantity="one">"Cada <xliff:g id="count">%d</xliff:g> semana"</item>
+<item quantity="other">"Cada <xliff:g id="count">%d</xliff:g> semanas"</item>
+</plurals>
+<plurals name="recurrence_interval_monthly">
+<item quantity="one">"Cada <xliff:g id="count">%d</xliff:g> mês"</item>
+<item quantity="other">"Cada <xliff:g id="count">%d</xliff:g> meses"</item>
+</plurals>
+<plurals name="recurrence_interval_yearly">
+<item quantity="one">"Cada <xliff:g id="count">%d</xliff:g> ano"</item>
+<item quantity="other">"Cada <xliff:g id="count">%d</xliff:g> anos"</item>
+</plurals>
+<string name="recurrence_month_pattern_by_day">"no mesmo dia cada mês"</string>
+<string name="recurrence_end_continously">"Para sempre"</string>
+<string name="recurrence_end_date_label">"Até uma data"</string>
+<string name="recurrence_end_date">"Até <xliff:g id="date">%s</xliff:g>"</string>
+<string name="recurrence_end_count_label">"Para um número de eventos"</string>
+<plurals name="recurrence_end_count">
+<item quantity="one">"Para <xliff:g id="event_count">%d</xliff:g> evento"</item>
+<item quantity="other">"Pra <xliff:g id="event_count">%d</xliff:g> eventos"</item>
+</plurals>
+<string name="acessibility_recurrence_choose_end_date_description">"mudar a data final"</string>
+<string name="email_format_err">"Erro de formato de endereço de email de cliente!"</string>
+<string name="local_account">"Conta local"</string>
+<string name="can_not_synced">"Não pode sincronizar"</string>
+<string name="menu_share">"Compartilhar"</string>
+<string name="send_calendar">"Compartilhar evento via"</string>
+<string name="no_way_to_share_calendar">"Nenhuma aplicação disponível para compartilhar o evento de calendário."</string>
+<string name="ringtone_default_message">"Desculpe, o arquivo de melodia não play, já ajustou o arquivo de som default como uma melodia"</string>
+<string name="select_date_out_range">"Data da sua escolha fora de escala, a escala correta é 1970-2037."</string>
+<string name="title_too_long">"A entrada é tão longa"</string>
+<string name="type_vcalendar">"Agenda"</string>
+<string name="import_vcalendar">"Importar Calendário?"</string>
+<string name="parse_fail">"Falha analisar arquivo!"</string>
+<string name="import_error">"Falha importar actividade!"</string>
+<string name="import_waiting">"Importando, favor espere..."</string>
+<string name="import_ok">"Evento(s) importado com sucesso!"</string>
+<string name="import_type_error">"O tipo de conta para importar as actividades não existe neste calendário corrente"</string>
+<string name="no_exist_accounts">"Sem conta de calendário existe. Favor adicione uma conta!"</string>
+<string name="application_stop">"A aplicação que pode tratar esta operação não é procurada"</string>
+<string name="error_permissions">"A aplicação não tem permissões criticais necessárias para rodar. Favor verifique os ajustes das suas permissões."</string>
+<string name="dialog_dismiss">"Descartar"</string>
+<string name="toast_calendar_internal_error">"Um erro internal ocorrido no calendário!"</string>
+<string name="not_save_event">"A data final não é permitida para guardar esta actividade"</string>
+</resources>

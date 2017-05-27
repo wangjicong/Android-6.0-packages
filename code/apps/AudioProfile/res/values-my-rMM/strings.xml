@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="audio_profiles">အသံပ႐ိုဖိုင္မ်ား</string>
+<string name="predefined_audio_profiles">ၾကိဳတင္သတ္မွတ္ထားသည့္ အသံပ႐ိုဖုိင္မ်ား</string>
+<string name="user_defined_audio_profiles">အသံုးျပဳသူကိုယ္ပိုင္အသံပ႐ိုဖိုင္မ်ား</string>
+<string-array name="profile_display_name">
+<item>အေထြေထြ</item>
+<item>အသံတိတ္</item>
+<item>တုန္ခါပါ</item>
+<item>အထြက္စာပံုး</item>
+</string-array>
+<string name="standard_string">အေထြေထြ</string>
+<string name="silent_string">အသံတိတ္</string>
+<string name="vibrate_string">တုန္ခါပါ</string>
+<string name="outdoor_string">အထြက္စာပံုး</string>
+<string name="outdoor_summary">အျမင့္ဆံုးအသံႏွင့္တုန္ခါမႈ</string>
+<string name="add_profile">ထည့္ပါ</string>
+<string name="use_profile">အသံုးျပဳျခင္း</string>
+<string name="edit_profile">တည္းျဖတ္ပါ</string>
+<string name="rename_profile">နာမည္အသစ္ေပး</string>
+<string name="reset_profile">"ျပန္ထား႐ွိပါ"</string>
+<string name="delete_profile">"ဖ်က္ပါ"</string>
+<string name="empty_name_dialog">အမည္တြင္ဗလာျဖစ္၍မရပါ</string>
+<string name="duplicate_display_name_dialog">အမည္႐ွိျပီးသားျဖစ္ေနသည္</string>
+<string name="add_profile_msg">ပ႐ိုဖုိင္အမည္အသစ္ထည့္သြင္းပါ</string>
+<string name="rename_profile_msg">ပ႐ိုဖုိင္အမည္အသစ္ထည့္သြင္းပါ</string>
+<string name="delete_profile_msg">"အခ်က္အလက္ကို ဖ်က္မွာလား <xliff:g id="name">%s</xliff:g>?"</string>
+<string name="reset_profile_msg">အသံပ႐ိုဖိုင္အဆင္အျပင္မ်ားအားလံုးအား မူလပံုစံသို႔ ျပန္လည္ထား႐ွိျပီးျဖစ္သည္။</string>
+<string name="incoming_call_volume_title">"ဖုန်းမည်သံ &amp; အကြောင်းကြားချက်များ"</string>
+<string name="alarm_volume_title">နာရီေခၚသံ</string>
+<string name="dlg_ok">"OK"</string>
+<string name="dlg_cancel">"မလုပ္ပါ"</string>
+<string name="sound_settings">အသံအဆင္အျပင္မ်ား</string>
+<string name="sound_category_calls_and_notification_title">ဖုန္းျမည္ေနဆဲ</string>
+<string name="ringtone_title">ဖုန္းတီးလံုး</string>
+<string name="sound_category_notification_title">သတိေပးခ်က္မ်ား</string>
+<string name="notification_sound_title">"ဒီေဖါ့ သတိေပးခ်က္"</string>
+<string name="all_volume_title">အသံ</string>
+<string name="notification_sound_dialog_title">သတိေပးခ်က္တီးလံုးေ႐ြးခ်ယ္ပါ</string>
+<string name="sound_category_feedback_title">စစ္စတမ္</string>
+<string name="dtmf_tone_enable_title">ထိသည့္အသံမ်ားၾကားႏိုင္မႈ</string>
+<string name="sound_effects_enable_title">အသံၾကားႏိုင္မႈေ႐ြးခ်ယ္ခ်က္</string>
+<string name="lock_sounds_enable_title">စကရင္ေသာ့ခတ္ျခင္းအသံမ်ား</string>
+<string name="haptic_feedback_enable_title">တုန္ခါမႈအသံုးျပဳျခင္း</string>
+<string name="revert_ring_vol">ဖုန္းေခၚဆိုမႈအသံမွာ ဤပ႐ိုဖိုင္တြင္ သုညမျဖစ္သင့္ပါ၊ ယင္းကို ျပန္ေျပာင္းမည္။</string>
+<string name="input_limit">အသြင္းဆိုင္ရာကန္႔သတ္ခ်က္သို႔ ေရာက္႐ွိ</string>
+<string name="ringtone_default_message">"Sorry, the ringtone file does not play, have set the default sound file as a ringtone"</string>
+<string name="sim_ringtone_title">"SIM <xliff:g id="SIM_LOCK_STRING">%1$s</xliff:g> ဖုန္း ျမည္သံ"</string>
+<string name="ringtone_not_exist_message">"ေဆာရီး, ဖုန္းျမည္သံဖိုင္ မရွိပါ"</string>
+    <string name="vibrate_title">"တုန္ခါမႈ"</string>
+     <string name="vibrate_summary">ေခၚဆိုမႈမ်ားအတြက္ တုန္ခါျခင္း တံု႔ျပန္မႈ</string>
+     <string name="dial_pad_tones_title">ဖုန္းခြက္ႏွိပ္သံ</string>
+     <string name="screen_locking_sounds_title">ဖန္သားျပင္ ေသာ့ခတ္သံမာ်း</string>
+     <string name="charging_sounds_title">"အားသွင်းရာ၌မြည်သည့်အသံများ"</string>
+     <string name="media_volume_titles">"သီခ်င္း,ဗီဒီယို,ဂိန္းမ်ား,တျခားမီဒီယာ"</string>
+     <string name="ring_volume_title">ဖုန္းျမည္သံ</string>
+     <string name="notification_volume_title">"အခ်က္ေပးခ်က္မ်ား"</string>
+     <string name="sound_improvement">"အသံ တိုးတက္မွဳ"</string>
+     <string name="sound_improvement_select">"ေဘ့စ္သံျမွင့္"</string>
+     <string name="sound_improvement_summary">"နားၾကပ္အတြက္ အသံ တိုးတက္မွဳ"</string>
+
+</resources>

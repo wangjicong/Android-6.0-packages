@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadtrum -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/smart_controls">
+
+        <com.android.settings.widget.SmartSwitchPreference
+                android:key="smart_wake"
+                android:title="@string/smart_wake"
+                android:summary="@string/smart_wake_summary"
+                android:persistent="false" />
+
+        <PreferenceScreen
+                android:key="smart_motion"
+                android:title="@string/smart_motion"
+                android:fragment="com.sprd.settings.smartcontrols.SmartMotionFragment"
+                android:summary="@string/smart_motion_summary" />
+
+        <PreferenceScreen
+                android:key="pocket_mode"
+                android:title="@string/pocket_mode"
+                android:fragment="com.sprd.settings.smartcontrols.PocketModeFragment"
+                android:summary="@string/pocket_mode_summary" />
+
+</PreferenceScreen>

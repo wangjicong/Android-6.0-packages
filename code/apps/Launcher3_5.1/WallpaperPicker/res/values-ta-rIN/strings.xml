@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpaper_instructions">வால் பேப்பர் அமைக்கவும்</string>
+<string name="image_load_fail">"படத்தை ஏற்ற முடியவில்லை"</string>
+<string name="wallpaper_load_fail">"வால்பேப்பராக படிமத்தை ஏற்ற முடியவில்லை"</string>
+<plurals name="number_of_items_selected">
+<item quantity="zero">%1$d தேர்வு செய்யப்பட்டது</item>
+<item quantity="one">%1$d தேர்வு செய்யப்பட்டது</item>
+</plurals>
+<plurals name="number_of_items_selected">
+<item quantity="other">%1$d தேர்வு செய்யப்பட்டது</item>
+</plurals>
+<string name="wallpaper_accessibility_name">"வால்பேப்பர் %2$d இல் %1$d"</string>
+<string name="announce_selection">"<xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g> தேர்ந்தெடுக்கப்பட்டது"</string>
+<string name="wallpaper_delete">அழிக்கவும்</string>
+<string name="pick_image">"படத்தை தேர்ந்தெடுக்கவும்"</string>
+<string name="pick_wallpaper">சுவர் ஒட்டிகள்</string>
+<string name="crop_wallpaper">"வால்பேப்பரை வெட்டு"</string>
+</resources>

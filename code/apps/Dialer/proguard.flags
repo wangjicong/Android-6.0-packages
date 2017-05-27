@@ -1,0 +1,26 @@
+# Xml files containing onClick (menus and layouts) require that proguard not
+# remove their handlers.
+-keepclassmembers class * extends android.app.Activity {
+  public void *(android.view.View);
+  public void *(android.view.MenuItem);
+}
+
+# Any class or method annotated with NeededForTesting or NeededForReflection.
+-keep @com.android.contacts.common.testing.NeededForTesting class *
+-keepclassmembers class * {
+@com.android.contacts.common.testing.NeededForTesting *;
+@com.android.dialer.NeededForReflection *;
+}
+-keep class com.android.dialer.DialerApplication {*;}
+-keep class com.android.incallui.CallCardFragment {*;}
+-keep class com.android.dialer.R
+-keepclassmembers class **.R$* {
+public static <fields>;
+}
+-keep class com.android.dialer.R$string
+-keep class com.android.dialer.R$id
+
+-keepclassmembers class com.sprd.dialer.plugins.FdnNumberHelper {
+public void notifyAllListeners();
+}
+-verbose

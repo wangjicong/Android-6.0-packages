@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"waka 1"</string>
+<plurals name="Nsongs">
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> wakoki"</item>
+</plurals>
+<plurals name="Nsongscomp">
+<item quantity="other">"<xliff:g id="count_for_artist">%2$d</xliff:g> of <xliff:g id="total_count">%1$d</xliff:g> wakoki"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"ma\'ajiyar hotuna 1"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> alban"</item>
+</plurals>
+<string name="goto_start">"Dakin karatu"</string>
+<string name="party_shuffle">"Party shuffle"</string>
+<string name="party_shuffle_off">"An kashe Party Shuffle"</string>
+<string name="delete_item">"Goge"</string>
+<string name="shuffle_all">"Zagaya duka"</string>
+<string name="play_all">"Kunna duka"</string>
+<string name="delete_artist_desc">"Share da\'imi duk wakokin na <xliff:g id="artist">%s</xliff:g> daga katin SD?"</string>
+<string name="delete_artist_desc_nosdcard">"Share duk wakokin dindindin na <xliff:g id="artist">%s</xliff:g> daga ma\'ajiyar USB?"</string>
+<string name="delete_album_desc">"Share da\'imi duk album \"<xliff:g id="album">%s</xliff:g>\" daga katin SD?"</string>
+<string name="delete_album_desc_nosdcard">"Share duk album din dindindin \"<xliff:g id="album">%s</xliff:g>\" daga ma\'adanar USB?"</string>
+<string name="delete_song_desc">"Share da\'imi \"<xliff:g id="song">%s</xliff:g>\" daga katin SD?"</string>
+<string name="delete_song_desc_nosdcard">"share na dindindin \"<xliff:g id="song">%s</xliff:g>\" daga ma\'adanar USB?"</string>
+<string name="delete_confirm_button_text">"YA YI"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"an soke waka 1."</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> an kara wakoki."</item>
+</plurals>
+<string name="scanning">"Ana tace SD card\u2026"</string>
+<string name="scanning_nosdcard">"Ana tace ma\'adanar USB\u2026"</string>
+<string name="nowplaying_title">"Yana cikin aiki"</string>
+<string name="partyshuffle_title">"Party shuffle"</string>
+<string name="artists_title">"Gwanayen waka"</string>
+<string name="albums_menu">"Littattafan hoto"</string>
+<string name="albums_title">"Littattafan hoto"</string>
+<string name="tracks_menu">"Wakoki"</string>
+<string name="tracks_title">"Wakoki"</string>
+<string name="playlists_menu">"Jerin wakoki"</string>
+<string name="playlists_title">"Jerin wakoki"</string>
+<string name="videos_title">"Bidiyo"</string>
+<string name="all_title">"Duk kafar sadarwa"</string>
+<string name="browse_menu">"Gwanayen waka"</string>
+<string name="search_title">"Bincika"</string>
+<string name="no_tracks_title">"Babu wakoki"</string>
+<string name="no_videos_title">"Babu bidiyo"</string>
+<string name="no_playlists_title">"Babu jerin wakoki/kida"</string>
+<string name="delete_playlist_menu">"Goge"</string>
+<string name="edit_playlist_menu">"Gyara"</string>
+<string name="rename_playlist_menu">"Sake suna"</string>
+<string name="playlist_deleted_message">"An goge jerin wakoki."</string>
+<string name="playlist_renamed_message">"An canja sunan jerin wakoki."</string>
+<string name="recentlyadded">"Wanda aka shigar kwanan nan"</string>
+<string name="recentlyadded_title">"Wanda aka shigar kwanan nan"</string>
+<string name="podcasts_listitem">"Podcast"</string>
+<string name="podcasts_title">"Podcast"</string>
+<string name="sdcard_missing_title">"Babu katin SD"</string>
+<string name="sdcard_missing_title_nosdcard">"Babu ma\'adanar USB"</string>
+<string name="sdcard_missing_message">"Wayarka ba ta da katin SD da aka soka."</string>
+<string name="sdcard_missing_message_nosdcard">"Wayarka ba ta da ma\'adanar USB."</string>
+<string name="sdcard_busy_title">"An kasa samun SD card"</string>
+<string name="sdcard_busy_title_nosdcard">"Babu ma\'adanar USB."</string>
+<string name="sdcard_busy_message">"Katinka na SD na aiki."</string>
+<string name="sdcard_busy_message_nosdcard">"Ma\'adanarka na USB na aiki."</string>
+<string name="sdcard_error_title">"Matsala a SD card"</string>
+<string name="sdcard_error_title_nosdcard">"Kuskuren ma\'adanar USB"</string>
+<string name="sdcard_error_message">"An gamu da kure kan katin SD naka."</string>
+<string name="sdcard_error_message_nosdcard">"An ci karo da matsala a kan ma\'adar USB din ka."</string>
+<string name="unknown_artist_name">"Bakon mawaki"</string>
+<string name="unknown_album_name">"Bakon mazubin wakoki"</string>
+<string name="shuffle_on_notif">"An kunna zagaye."</string>
+<string name="shuffle_off_notif">"An kashe zagaye."</string>
+<string name="repeat_off_notif">"An kashe Maimaita."</string>
+<string name="repeat_current_notif">"Maimaita wakar da ke kai."</string>
+<string name="repeat_all_notif">"Maimaita duk wakoki."</string>
+<string name="ringtone_menu">"Yi amfani da shi a matsayin sautin kiran waya"</string>
+<string name="ringtone_menu_short">"Yi amfani da shi a matsayin sautin kira"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" saita a matsayin sautin kiran waya."</string>
+<string name="play_selection">"Kunna"</string>
+<string name="add_to_playlist">"Kara wa jerin rerawa"</string>
+<string name="queue">"Jerin wakoki na yanzu"</string>
+<string name="new_playlist">"Sabo"</string>
+<string name="new_playlist_name_template">"Sabon jerin waka <xliff:g id="number">%d</xliff:g>"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">"an kara waka 1 ga jerin wakoki."</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> wakokin da aka kara a jerin wakoki."</item>
+</plurals>
+<string name="emptyplaylist">"Babu komai a jakar jerin wakoki"</string>
+<string name="create_playlist_create_text">"Adana"</string>
+<string name="create_playlist_overwrite_text">"Rubutawa fiye da ka\'ida"</string>
+<string name="service_start_error_title">"Matsalar koma-baya"</string>
+<string name="service_start_error_msg">"Wannan wakar ba za a iya kunna ta ba."</string>
+<string name="service_start_error_button">"YA YI"</string>
+<string-array name="weeklist">
+<item>"1 sati"</item>
+<item>"Mako 2"</item>
+<item>"Mako 3"</item>
+<item>"Mako 4"</item>
+<item>"Mako 5"</item>
+<item>"Mako 6"</item>
+<item>"Mako 7"</item>
+<item>"Mako 8"</item>
+<item>"Mako 9"</item>
+<item>"Mako 10"</item>
+<item>"Mako 11"</item>
+<item>"Mako 12"</item>
+</string-array>
+<string name="weekpicker_set">"An yi"</string>
+<string name="weekpicker_title">"Saita lokaci"</string>
+<string name="save_as_playlist">"Ajiye a matsayin jein wakoki/kade kade"</string>
+<string name="clear_playlist">"Share jerin wakoki"</string>
+<string name="musicbrowserlabel">"Waka"</string>
+<string name="musicshortcutlabel">"Jerin wakoki"</string>
+<string name="mediaplaybacklabel">"Waka"</string>
+<string name="videobrowserlabel">"Bidiyo"</string>
+<string name="mediapickerlabel">"Waka"</string>
+<string name="playback_failed">"Mai kunnawar bai aiki da irin wannan fayilin sauti."</string>
+<string name="cancel">"Soke"</string>
+<string name="remove_from_playlist">"Cire daga jerin wakoki/kade kade"</string>
+<string name="streamloadingtext">"Hadawa na <xliff:g id="host">%s</xliff:g>\u2026"</string>
+<string name="mediasearch">"Binciko <xliff:g id="term" example="Beethoven">%s</xliff:g> yin amfani:"</string>
+<string name="working_artists">"Gwanayen waka\u2026"</string>
+<string name="working_albums">"Alban\u2026"</string>
+<string name="working_songs">"Wakoki\u2026"</string>
+<string name="working_playlists">"Jerin wakoki\u2026"</string>
+<string name="loading">"Ana daura wa\u2026"</string>
+<string name="sort_by_track">"Makunsan waka"</string>
+<string name="sort_by_album">"Littattafan hoto"</string>
+<string name="sort_by_artist">"Gwanayen waka"</string>
+<string name="music_picker_title">"Zabi irin kidan"</string>
+<string name="search_settings_description">"Gwanayen waka, littafin hotuna, da tafarkuna"</string>
+<string name="search_hint">"Bincika ma\'adanar wakoki"</string>
+<string name="fast_scroll_alphabet">"\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+<string name="widget_initial_text">"Taba ka zabi kidan."</string>
+<string name="effectspanel">"Masarrafan sauti"</string>
+<string name="no_play">"Yanzu ba zai iya kunnuwa ba!"</string>
+<string name="activity_title_delete">"Cire wakokin"</string>
+<string name="activity_title">"Kara waka"</string>
+<string name="add_music">"Kara waka"</string>
+<string name="music_selected_all">"Zabi duk"</string>
+<string name="confirm_add">"Kara"</string>
+<string name="cancel_add">"Soke"</string>
+<string name="delete_all_music">"Cire"</string>
+<string name="confirm_delete">"Cire"</string>
+<string name="music_selected_all_delete">"Zabi holokon mabudi"</string>
+<string name="music_cancle_selected_all">"Kar ka zabi komai"</string>
+<string name="being_add">Ana kara shi, dan tsaya…</string>
+<string name="remove_track">"ana cirewa, tsaya ..."</string>
+<string name="invalid">"Wannan mahangar bayanai ba za ta budu ba"</string>
+<string name="from_library">"Kara kida/waka daga dakin karatu"</string>
+<string name="from_folder">"Kara kida/waka daga makunshi"</string>
+<string name="lyrics_edit_title">"Gyara salon"</string>
+<string name="nolrc">Ba alamu ko fayil din ba daidai ba</string>
+<string name="del_track">"Ana share kayayyaki, dan dakata..."</string>
+<string name="ringtone_title_sim1">"Sautin kiran waya a SIM1"</string>
+<string name="ringtone_title_sim2">"Sautin kiran waya a SIM2"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"  saita a matsayin sautin kiran wayar SIM1."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\"  saita a matsayin sautin kiran wayar SIM2."</string>
+<string name="ring_set_fail">Yi hakuri ba za a iya kunna wakar ba. Ka zabi wata wakar a matsayin sautin kiran waya.</string>
+<string name="ring_set_silent_vibrate">"Sautin kira na asali ba ya aiki a tsarin yanzu"</string>
+<string name="please_insert_sim_card">"\'\'Saka akalla katin SIM\'\'"</string>
+<string name="create_playlist_warning">Ba za a iya amfani da sunan da ba a dade da karawa ba.</string>
+<string name="overwrite_playlist_alert">"Bayanan jerin mai wasa na “<xliff:g id="name">%s</xliff:g>” za a share."</string>
+<string name="playlist_created_message">"An kirkiro Jerin kida."</string>
+<string name="overwrite_playlist_alert_rename">"Bayanan jerin kida a cikin “<xliff:g id="NAME">%s</xliff:g>” za a kula da su."</string>
+<string name="delete_artist">"Share da\'imi duk wakoki na \"<xliff:g id="artist">%s</xliff:g>\" daga na\'urar?"</string>
+<string name="delete_album">"Share da\'imi duk album \"<xliff:g id="album">%s</xliff:g>\" daga na\'urar?"</string>
+<string name="delete_song">"Share da\'imi \"<xliff:g id="song">%s</xliff:g>\" daga na\'urar?"</string>
+<string name="display_music">"Waka"</string>
+<string name="quit">"Fita"</string>
+<string name="delete_playlist_message">Ka tabbata kana so ka goge jerin playlist %1$s？</string>
+<string name="delete_all_playlist">Share duk jerin wasa</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">Wakar na nan a jerin wasa.</item>
+<item quantity="other">Wakokin suna nan a jerin wasa.</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 waka aka kara,"</item>
+<item quantity="other">"<xliff:g id="number" misali="27">%d</xliff:g> wakokin da aka kara,"</item>
+</plurals>
+<plurals name="NNNsongAlreadyExist">
+<item quantity="one">"1 waka tuni ke cikin jerin wakoki."</item>
+<item quantity="other">"<xliff:g id="number" misali="27">%d</xliff:g> wakokin suna nan dama a jerin."</item>
+</plurals>
+<string name="length_limited">Sunan har zuwa makura</string>
+<string name="no_search_result">Ba a ga wakoki ba</string>
+<string name="search_title_hint">"Mawaka, Wakoki ko Albam"</string>
+<string name="error_permissions">"Manhajar ba ta da tabbataccen izinin da ake bukata don tafiyarwa. Duba saitukan izinin ka."</string>
+<string name="dialog_dismiss">"Sallama"</string>
+<string name="toast_fileexplorer_internal_error">"Matsala ta ciki ta auku a cikin Kida!"</string>
+</resources>

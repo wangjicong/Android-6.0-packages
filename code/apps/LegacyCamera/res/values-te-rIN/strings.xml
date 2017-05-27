@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">కెమెరా లోపం</string>
+<string name="cannot_connect_camera">"కెమెరా కనెక్ట్ కాలేదు."</string>
+<string name="camera_disabled">"భద్రతా విధానాలు కారణంగా కెమెరా ఆపివేయబడింది."</string>
+<string name="camera_label">కెమెరా</string>
+<string name="video_camera_label">క్యామ్ కోర్డర్</string>
+<string name="gallery_camera_bucket_name">కెమెరా చిత్రములు</string>
+<string name="gallery_camera_videos_bucket_name">కెమెరా వీడియోలు</string>
+<string name="wait">దయచేసి వేచివుండండి\u2026</string>
+<string name="no_storage" product="nosdcard">కెమెరా ఉపయోగించే ముందు USB నిల్వ మౌంట్ చెయ్యండి.</string>
+<string name="no_storage" product="default">కెమెరాను ఉపయోగించే ముందు ఒక SD కార్డును ఇన్సర్ట్ చేయండి.</string>
+<string name="not_enough_space" product="nosdcard">మీ USB నిల్వ నిండింది.</string>
+<string name="not_enough_space" product="default">మీ SD కార్డు నిండింది.</string>
+<string name="preparing_sd" product="nosdcard">USB నిల్వ  సిద్ధమౌతోంది \u2026</string>
+<string name="preparing_sd" product="default">SD కార్డు సిద్ధమౌతోంది \u2026</string>
+<string name="access_sd_fail" product="nosdcard">"యుఎస్ బి నిల్వ పొందటంలో విఫలం."</string>
+<string name="access_sd_fail" product="default">"ఎస్ డి కార్డు యాక్సెస్ విఫలం."</string>
+<string name="confirm_restore_title">డిఫాల్ట్ లను పునరుద్ధరించు</string>
+<string name="confirm_restore_message">కెమెరా డిఫాల్ట్ సెట్టింగులు రిస్టోర్ చేయాలా ?</string>
+<string name="review_play">"ప్లే"</string>
+<string name="review_cancel">రద్దు</string>
+<string name="review_ok">జరిగినది</string>
+<string name="review_retake">రీటేక్</string>
+<string name="camera_gallery_photos_text">గ్యాలరీ</string>
+<string name="switch_camera_id">కెమెరా స్విచ్</string>
+<string name="time_lapse_title">సమయం ముగిసిపోయింది రికార్డింగ్</string>
+<string name="pref_camera_id_title">కెమెరా ఎంచుకో  </string>
+<string name="pref_camera_id_entry_back">వెనుకకు</string>
+<string name="pref_camera_id_entry_front">ముందు</string>
+<string name="pref_camera_recordlocation_title">స్టోర్ స్థానం</string>
+<string name="pref_camera_recordlocation_entry_off">ఆపు</string>
+<string name="pref_camera_recordlocation_entry_on">ఆన్</string>
+<string name="pref_video_quality_title">వీడియో నాణ్యత</string>
+<string name="pref_video_time_lapse_frame_interval_title">సమయం ముగిసిపోయింది విరామం</string>
+<string name="pref_camera_settings_category">"కెమెరా చిత్రాలు"</string>
+<string name="pref_camcorder_settings_category">"క్యామ్ కోర్డర్ సెట్టింగులు"</string>
+<string name="pref_camera_picturesize_title">చిత్రం పరిమాణం</string>
+<string name="pref_camera_picturesize_entry_2592x1936">5M పిక్సెల్స్</string>
+<string name="pref_camera_picturesize_entry_2048x1536">3M పిక్సల్స్</string>
+<string name="pref_camera_picturesize_entry_1600x1200">2M పిక్సెల్స్</string>
+<string name="pref_camera_picturesize_entry_1280x960">1.3M పిక్సెల్స్</string>
+<string name="pref_camera_picturesize_entry_1024x768">1M పిక్సెల్స్</string>
+<string name="pref_camera_focusmode_title">విధానం దృష్టి</string>
+<string name="pref_camera_focusmode_entry_auto">స్వీయ</string>
+<string name="pref_camera_focusmode_entry_infinity">అనంతం</string>
+<string name="pref_camera_focusmode_entry_macro">మాక్రో</string>
+<string name="pref_camera_flashmode_title">ఫ్లాష్ మోడ్</string>
+<string name="pref_camera_flashmode_entry_auto">స్వీయ</string>
+<string name="pref_camera_flashmode_entry_on">ఆన్</string>
+<string name="pref_camera_flashmode_entry_off">ఆపు</string>
+<string name="pref_camera_whitebalance_title">వైట్ బాలెన్స్</string>
+<string name="pref_camera_whitebalance_entry_auto">స్వీయ</string>
+<string name="pref_camera_whitebalance_entry_incandescent">మండే</string>
+<string name="pref_camera_whitebalance_entry_daylight">"పగటి వెలుతురు"</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">ఫ్లోరోసెంట్</string>
+<string name="pref_camera_whitebalance_entry_cloudy">"మేఘావృతమై ఉంది"</string>
+<string name="pref_camera_scenemode_title">నైట్ మోడ్</string>
+<string name="pref_camera_scenemode_entry_auto">స్వీయ</string>
+<string name="pref_camera_scenemode_entry_action">క్రియ</string>
+<string name="pref_camera_scenemode_entry_night">రాత్రి</string>
+<string name="pref_camera_scenemode_entry_sunset">సూర్యాస్తమయం</string>
+<string name="pref_camera_scenemode_entry_party">పార్టీ  </string>
+<string name="not_selectable_in_scene_mode">సన్నివేశం రీతిలో ఉన్నప్పుడు ఎంచుకోలేము.</string>
+<string name="pref_restore_title">"కెమెరా చిత్రాలు"</string>
+<string name="pref_restore_detail">డిఫాల్ట్ లను పునరుద్ధరించు</string>
+<string name="pref_exposure_title">"ఎక్స్‌పోజర్"</string>
+<string name="dialog_ok">సరి</string>
+<string name="spaceIsLow_content" product="nosdcard">మీ USB స్టోరేజ్ లో స్పేస్ లేదు. క్వాలిటీ సెట్టింగ్స్ ను మార్చండి లేదా కొన్ని ఇమేజ్ లేదా ఇతర ఫైల్స్ ను డిలీట్ చేయండి.</string>
+<string name="spaceIsLow_content" product="default">మీ SD కార్డ్ లో స్పేస్ పూర్తి అవుతూ ఉన్నది.క్వాలిటీ సెట్టింగ్స్ ను తీసివేయండి లేదా కొన్ని ఇమేజ్ లను లేదా ఇతర ఫైల్స్ ను డిలీట్ చేయండి.</string>
+<string name="video_reach_size_limit">సైజు పరిమితిని చేరుకున్నారు</string>
+<string name="switch_to_camera_label">కెమెరాకి మారండి</string>
+<string name="switch_to_video_label">వీడియోకి మారండి</string>
+<string name="switch_to_panorama_label">పనోరమాకు మారండి</string>
+<string name="share_picture_via">వాటా చిత్రం ద్వారా</string>
+<string name="share_video_via">ద్వారా పంచుకోండి వీడియో</string>
+<string name="no_picture_to_share">భాగస్వామ్య చిత్రం ఏదీ లేదు.</string>
+<string name="no_video_to_share">భాగస్వామ్యం చేయడానికి ఏ  వీడియో లేదు.</string>
+<string name="pano_too_fast_prompt">చాలా వేగంగా</string>
+<string name="pano_dialog_prepare_preview">పనోరమా సిద్ధమౌతోంది</string>
+<string name="pano_dialog_panorama_failed">"పనోరమాలో   సేవ్ చేయలేం."</string>
+<string name="pano_dialog_title">పనోరమా</string>
+<string name="pano_capture_indication">"పనోరమా బంధించడం"</string>
+<string name="pano_review_saving_indication_str">ను సేవ్ చేయడం\u2026</string>
+<string name="tap_to_focus">టచ్ తో ఫోకస్.</string>
+<string name="pref_video_effect_title">"ఎఫెక్టులు"</string>
+<string name="effect_none">ఏదీ కాదు</string>
+<string name="effect_goofy_face_squeeze">స్క్వీజ్</string>
+<string name="effect_goofy_face_big_eyes">పెద్ద కళ్లు</string>
+<string name="effect_goofy_face_big_mouth">పెద్ద నోరు</string>
+<string name="effect_goofy_face_small_mouth">చిన్న నోరు</string>
+<string name="effect_goofy_face_big_nose">"పెద్ద ముక్కు"</string>
+<string name="effect_goofy_face_small_eyes">చిన్న కళ్ళు</string>
+<string name="effect_backdropper_space">స్పేస్ లో</string>
+<string name="effect_backdropper_sunset">సూర్యాస్తమయం</string>
+<string name="effect_backdropper_gallery">మీ స్వంతంగా ఎంచుకోండి  </string>
+<string name="bg_replacement_message">మీ డివైజ్ ను డౌన్ గా సెట్ చేయండి \n  ఒక క్షణముపాటు వ్యూ నుంచి బయటకు రండి </string>
+<string name="not_selectable_in_effect">ఈ ఎఫెక్ట్ ఆన్ లో ఉన్నపుడు ఎంచుకోలేము  </string>
+<string name="video_snapshot_hint">వీడియో రికార్డింగ్ జరిగే సమయంలో ప్రివ్యూ స్క్రీన్ పైన టచ్ చేయడం ద్వారా ఒక ఫోటో తీసుకోవచ్చు.  </string>
+<string name="disable_video_snapshot_hint">ప్రత్యేక ప్రభావాలు ఉన్నప్పుడు వీడియో స్నాప్షాట్ నిలిపివేయబడింది.</string>
+<string name="clear_effects">"ప్రభావాలు క్లియర్ చేయండి"</string>
+<string name="effect_silly_faces">సిల్లీ ఫేసెస్</string>
+<string name="effect_background">"బ్యాక్ గ్రౌండ్"</string>
+<string name="accessibility_shutter_button">షట్టర్ బటన్</string>
+<string name="accessibility_review_thumbnail">ఇటీవలి తాజా ఫోటో</string>
+<string name="accessibility_camera_picker">ముందు మరియు వెనక కెమెరా స్విచ్</string>
+<string name="accessibility_mode_picker">కెమెరా, వీడియో, లేదా దృశ్యం సెలెక్టర్</string>
+<string name="accessibility_second_level_indicators">మరిన్ని సెట్టింగ్ నియంత్రణలు</string>
+<string name="accessibility_back_to_first_level">"సెట్టింగ్ నియంత్రణలు మూయండి"</string>
+<string name="accessibility_zoom_control">జూమ్ నియంత్రణ</string>
+<string name="accessibility_decrement">"%1$s తగ్గించు"</string>
+<string name="accessibility_increment">%1$s పెంచండి</string>
+<string name="accessibility_switch">"%2$s స్విచ్"</string>
+</resources>

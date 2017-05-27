@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB সেটিংস্"      </string>
+<string name="usb_charge_only">কেবলমাত্র চার্জ করুন</string>
+<string name="usb_charge_only_summary">যখন USB সংযুক্ত করা হয়, কেবলমাত্র চার্জ মোড ব্যবহার করুন</string>
+<string name="usb_charge_only_storage_active_subtext">যখন USB সঞ্চয়ের ব্যবহার হচ্ছে, কেবলমাত্র তখন চার্জ করা যায় না </string>
+<string name="usb_charge_only_notification">"কেবলমাত্র চার্জ হিসাবে সংযুক্ত"</string>
+<string name="usb_storage">"USB সঞ্চয়স্থান"</string>
+<string name="usb_storage_summary">"USB বিপুল সঞ্চয়স্থান সক্ষম করুন"</string>
+<string name="ums_settings">UMS সেটিংস</string>
+<string name="ums_mounted_setting">"এখন ums কে PC-তে স্থাপন করুন, অনুগ্রহ করে অপেক্ষা করুন..."      </string>
+<string name="ums_unmounted_setting">"এখন ums কে PC-তে স্থাপনচ্যুত করুন, অনুগ্রহ করে অপেক্ষা করুন..."      </string>
+<string name="usb_virtual_drive">USB যথার্থ ড্রাইভ</string>
+<string name="usb_virtual_drive_summary">USB যথার্থ ড্রাইভ সক্রিয় করুন</string>
+<string name="remember_choice">"আমার পছন্দ মনে রাখুন"</string>
+<string name="remember_choice_summary">"আমার পছন্দ মনে রাখুন এবং পরের বার স্বয়ংক্রিয়ভাবে স্মরণে রাখা কার্যপ্রক্রিয়া শুরু করুন"      </string>
+<string name="stand_by_set_changed_prompt">"Sim সক্রিয়তা অবস্থার পরিবর্তন হবে, অনুগ্রহ করে নিশ্চিত করুন চালিয়ে যেতে হবে কি না?"      </string>
+<string name="not_stand_by">"নিষিদ্ধ"</string>
+<string name="primary_card_switching">"সেট করা হচ্ছে\uff0cঅনুগ্রহ করে অপেক্ষা করুন..."</string>
+<string name="toggle_data_change_message">ডেটা সংযোগ sim কার্ডে স্থানান্তরিত হয়েছে<xliff:g id="NEW_DATA_CARD">%1$d</xliff:g> এটি সর্বব্যাপী এবং সারস্পরিক সম্পর্কযুক্ত চার্জে ডেটা উত্পন্ন করবে, অনুগ্রহ করে নোট করুন। </string>
+<string name="select_primary_card">"প্রাথমিক কার্ডটি বাছাই করুন"      </string>
+<string name="whether_switch_primary_card">অনুগ্রহ করে নিশ্চিত করুন আপনি প্রাথমিক কার্ড থেকে কি এই কার্ডে চালানা করতে চান?\n(সেলুলার ডেটাও এই কার্ডে স্থানান্তরিত হবে)</string>
+<string name="attention">মনোযোগ</string>
+<string name="bt_softap_cannot_coexist">"যখন সফট্অ্যাপ সক্রিয় আছে অথবা কার্যকর করা হচ্ছে, ব্লুটুথ কাজ করতে পারে না, যদি আপনি ব্লুটুথ ব্যবহার করতে চান, অনুগ্রহ করে নিশ্চিত করুন যেন সফট্অ্যাপটি যেন নিষ্ক্রিয় থাকে। "      </string>
+<string name="softap_bt_cannot_coexist">যখন ব্লুটুথ সক্রিয় করা হয়েছে বা চালু করা হয়েছে, সফট্যাপ কাজ করতে পারে না, যদি আপনি সফট্যাপ ব্যবহার করতে চান, অনুগ্রহ করে ব্লুটুথ নিষ্ক্রিয় করা হয়েছে কি না নিশ্চিত করুন।</string>
+<string name="softap_need_mobile_data_enabled">"বহনযোগ্য Wi-Fi হটস্পটের প্রযোজন মোবাইল ডেটা সংযোগ, এর কারণে অতিরিক্ত খরচ হতে পারে।"</string>
+<string-array name="light_color_picker">
+<item>"সবুজ"</item>
+<item>নীল</item>
+<item>"বেগুনি নীলবর্ণ"</item>
+<item>"বেগুনি"</item>
+<item>"গোলাপী"</item>
+<item>"লাল" </item>
+<item>"হলুদ" </item>
+</string-array>
+</resources>

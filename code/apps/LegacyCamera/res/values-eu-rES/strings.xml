@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">Kamera errorea</string>
+<string name="cannot_connect_camera">ezin izan da kamerara konektatu.</string>
+<string name="camera_disabled">Kamera desgaitu da segurtasun gidalerroengatik.</string>
+<string name="camera_label">Kamera</string>
+<string name="video_camera_label">Bideokamera</string>
+<string name="gallery_camera_bucket_name">Kamera argazkiak</string>
+<string name="gallery_camera_videos_bucket_name">Kamera bideoak</string>
+<string name="wait">Itxaron mesedez…</string>
+<string name="no_storage" product="nosdcard">Muntatu USB memoria kamera erabiltzen hasi baino lehen.</string>
+<string name="no_storage" product="default">Kamera erabiltzen hasi aurretik SD txartel bat txertatu.</string>
+<string name="not_enough_space" product="nosdcard">Zure USB memoria beteta dago.</string>
+<string name="not_enough_space" product="default">Zure SD txartela beteta dago.</string>
+<string name="preparing_sd" product="nosdcard">USB memoria prestatzen…</string>
+<string name="preparing_sd" product="default">SD txartela prestatzen…</string>
+<string name="access_sd_fail" product="nosdcard">Ezin izan da USB memoria atzitu.</string>
+<string name="access_sd_fail" product="default">Ezin izan da SD txartela atzitu.</string>
+<string name="confirm_restore_title">Leheneratu lehenespenak</string>
+<string name="confirm_restore_message">Leheneratu Kameraren lehenetsitako ezarpenak?</string>
+<string name="review_play">Erreproduzitu</string>
+<string name="review_cancel">Utzi</string>
+<string name="review_ok">Eginda</string>
+<string name="review_retake">BERRARTU</string>
+<string name="camera_gallery_photos_text">Galeria</string>
+<string name="switch_camera_id">Aldatu kamera</string>
+<string name="time_lapse_title">Igarotako denboraren erregistroa</string>
+<string name="pref_camera_id_title">Hatutatu kamera</string>
+<string name="pref_camera_id_entry_back">Atzera</string>
+<string name="pref_camera_id_entry_front">Aurreko</string>
+<string name="pref_camera_recordlocation_title">Biltegiratze kokapena</string>
+<string name="pref_camera_recordlocation_entry_off">Itzalita</string>
+<string name="pref_camera_recordlocation_entry_on">Piztuta</string>
+<string name="pref_video_quality_title">Bideoaren kalitatea</string>
+<string name="pref_video_time_lapse_frame_interval_title">Igarotako denboraren denbora tartea</string>
+<string name="pref_camera_settings_category">Kamera ezarpenak</string>
+<string name="pref_camcorder_settings_category">Bideokameraren ezarpenak</string>
+<string name="pref_camera_picturesize_title">Irudiaren tamaina</string>
+<string name="pref_camera_picturesize_entry_2592x1936">5M pixel</string>
+<string name="pref_camera_picturesize_entry_2048x1536">3M pixel</string>
+<string name="pref_camera_picturesize_entry_1600x1200">2M pixel</string>
+<string name="pref_camera_picturesize_entry_1280x960">1.3M pixel</string>
+<string name="pref_camera_picturesize_entry_1024x768">1M pixel</string>
+<string name="pref_camera_focusmode_title">Foku modua</string>
+<string name="pref_camera_focusmode_entry_auto">AUTOMATIKOA</string>
+<string name="pref_camera_focusmode_entry_infinity">Infinitua</string>
+<string name="pref_camera_focusmode_entry_macro">Makroa</string>
+<string name="pref_camera_flashmode_title">Flash modua</string>
+<string name="pref_camera_flashmode_entry_auto">AUTOMATIKOA</string>
+<string name="pref_camera_flashmode_entry_on">Piztuta</string>
+<string name="pref_camera_flashmode_entry_off">Itzalita</string>
+<string name="pref_camera_whitebalance_title">Zuri balantzea</string>
+<string name="pref_camera_whitebalance_entry_auto">AUTOMATIKOA</string>
+<string name="pref_camera_whitebalance_entry_incandescent">Goria</string>
+<string name="pref_camera_whitebalance_entry_daylight">Argi naturala</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">Fluoreszentea</string>
+<string name="pref_camera_whitebalance_entry_cloudy">Lainotsu</string>
+<string name="pref_camera_scenemode_title">Paisaia modua</string>
+<string name="pref_camera_scenemode_entry_auto">AUTOMATIKOA</string>
+<string name="pref_camera_scenemode_entry_action">Ekintza</string>
+<string name="pref_camera_scenemode_entry_night">Gaua</string>
+<string name="pref_camera_scenemode_entry_sunset">Ilunabarra</string>
+<string name="pref_camera_scenemode_entry_party">Festa</string>
+<string name="not_selectable_in_scene_mode">Paisai moduan ez dago hautagarri.</string>
+<string name="pref_restore_title">Kamera ezarpenak</string>
+<string name="pref_restore_detail">Leheneratu lehenespenak</string>
+<string name="pref_exposure_title">Esposizioa</string>
+<string name="dialog_ok">Ados</string>
+<string name="spaceIsLow_content" product="nosdcard">Zure USB memoria lekurik gabe gelditzen ari da. Aldatu kalitatearen ezarpena edo ezabatu argazki batzuk edo bestelako fitxategi batzuk.</string>
+<string name="spaceIsLow_content" product="default">Zure SD txartela lekurik gabe gelditzen ari da. Ezarpenen kalitatea aldatu edo zenbait irudi edo bestelako fitxategi ezabatu.</string>
+<string name="video_reach_size_limit">Tamaina mugara heldu da.</string>
+<string name="switch_to_camera_label">Kamerara aldatu</string>
+<string name="switch_to_video_label">Aldatu bideora</string>
+<string name="switch_to_panorama_label">Aldatu panoramikara</string>
+<string name="share_picture_via">Nola partekatu irudia</string>
+<string name="share_video_via">Nola partekatu bideoa</string>
+<string name="no_picture_to_share">Ez dago partekatzeko argazkirik</string>
+<string name="no_video_to_share">Ez dago bideorik partekatzeko.</string>
+<string name="pano_too_fast_prompt">Arinegi</string>
+<string name="pano_dialog_prepare_preview">Panorama prestatzen</string>
+<string name="pano_dialog_panorama_failed">Ezin izan da panorama gorde.</string>
+<string name="pano_dialog_title">Panorama</string>
+<string name="pano_capture_indication">Panorama kapturatzen</string>
+<string name="pano_review_saving_indication_str">Gordetzen\u2026</string>
+<string name="tap_to_focus">Ukitu fokua artzeko.</string>
+<string name="pref_video_effect_title">Efektuak</string>
+<string name="effect_none">Bat ere ez</string>
+<string name="effect_goofy_face_squeeze">Estutu</string>
+<string name="effect_goofy_face_big_eyes">Begi handiak</string>
+<string name="effect_goofy_face_big_mouth">Aho handia</string>
+<string name="effect_goofy_face_small_mouth">Aho txikia</string>
+<string name="effect_goofy_face_big_nose">Sudur handia</string>
+<string name="effect_goofy_face_small_eyes">Begi txikiak</string>
+<string name="effect_backdropper_space">Espazioan</string>
+<string name="effect_backdropper_sunset">Ilunabarra</string>
+<string name="effect_backdropper_gallery">Aukeratu zurea</string>
+<string name="bg_replacement_message">Beherantz begiratzen jarri zure gailua.\nBistatik urrundu momentu batez.</string>
+<string name="not_selectable_in_effect">Efektua piztuta dagoenean ez dago hautagarri.</string>
+<string name="video_snapshot_hint">Atera argazki bat bideo bat grabatzen ari zaren bitartean aurrebistako pantaila ukituz.</string>
+<string name="disable_video_snapshot_hint">Bideoaren egoera-irudia desgaitzen da efektu bereziak aktibatuta daudenean.</string>
+<string name="clear_effects">Garbitu efektuak</string>
+<string name="effect_silly_faces">AURPEGI INOZOAK</string>
+<string name="effect_background">ATZEKO PLANOA</string>
+<string name="accessibility_shutter_button">Obturadorearen botoia</string>
+<string name="accessibility_review_thumbnail">Azken argazkia</string>
+<string name="accessibility_camera_picker">Aurreko kamaratik eta atzeko kamerara eta alderantziz aldatu</string>
+<string name="accessibility_mode_picker">Kamera, bideo edo panorama hautatzailea</string>
+<string name="accessibility_second_level_indicators">Ezarpen aukera gehiago</string>
+<string name="accessibility_back_to_first_level">Itxi ezarpen kontrolak</string>
+<string name="accessibility_zoom_control">Zoomaren kontrola</string>
+<string name="accessibility_decrement">Txikiagotu %1$s</string>
+<string name="accessibility_increment">Aurreratu%1$s</string>
+<string name="accessibility_switch">%1$s aldatu</string>
+</resources>

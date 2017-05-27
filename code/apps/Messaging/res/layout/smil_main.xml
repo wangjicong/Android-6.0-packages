@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+    android:layout_width="match_parent"
+    android:id="@+id/smil_main_fragment"
+    android:name="com.android.messaging.smil.ui.SmilMainFragment"
+    android:layout_height="match_parent">
+</fragment>

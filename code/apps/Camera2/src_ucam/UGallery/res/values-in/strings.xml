@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name = "text_ugallery_name">UGallery</string>
+    <string name = "text_nav_to_album">Album</string>
+    <string name = "text_nav_to_gallery">galeri</string>
+    <string name = "text_image_empty">Tak ada File ditemukan.</string>
+    <string name = "text_del_image_empty">Tidak ada gambar untuk ditampilkan</string>
+    <string name = "text_no_more_pictures_first">Ini sudah gambar pertama</string>
+    <string name = "text_no_more_pictures_last">Ini sudah gambar terakhir</string>
+    <string name = "text_image_details">detail</string>
+    <string name = "text_details_dimension_x">"<xliff:g id="WIDTH">%1$d</xliff:g> x <xliff:g id="HEIGHT">%2$d</xliff:g>"</string>
+    <string name = "text_details_file_size">ukuran file:</string>
+    <string name = "text_details_image_resolution">resolusi:</string>
+    <string name = "text_details_image_make">pabrikan:</string>
+    <string name = "text_details_image_model">model:</string>
+    <string name = "text_details_image_whitebalance">whitebalance:</string>
+    <string name = "text_details_image_latitude">GPS Latitude:</string>
+    <string name = "text_details_image_longitude">GPS Longitude:</string>
+    <string name = "text_details_image_location">tempat:</string>
+    <string name = "text_details_duration">lamanya:</string>
+    <string name = "text_details_date_taken">tanggal diambil:</string>
+    <string name = "text_details_frame_rate">Frame rate:</string>
+    <string name = "text_details_bit_rate">Bit rate:</string>
+    <string name = "text_details_codec">Codec:</string>
+    <string name = "text_details_format">Format:</string>
+    <string name = "text_waiting">Please wait\u2026</string>
+    <string name = "text_gif_max_select_count">Paling banyak<xliff:g id="MAX_SELECT_COUNT">%s</xliff:g> pictures can be selected!</string>
+    <string name = "text_camera_bucket_name">Gambar kamera</string>
+    <string name = "text_no_sdcard">Tanpa kartu SD, silakan masukkan!</string>
+    <string name = "text_sdcar_no_space">Kartu SD telah penuh.</string>
+    <string name = "text_delete_image_title">Hapus Gambar</string>
+    <string name = "text_delete_multi_message">Apakah Anda yakin untuk menghapus gambar-gambar?</string>
+    <string name = "text_delete_single_message">Apakah Anda yakin untuk menghapus gambar ini?</string>
+    <string name = "picture_delete_ok">oke</string>
+    <string name = "picture_delete_cancel">membatalkan</string>
+    <string name="details_ok">oke</string>
+    <string name="camera_application_stopped">Kamera berhenti</string>
+    <string name="str_camera_crash">Aplikasi kamera bermasalah, silakan klik sini. </string>
+    <string name="str_receive">Aplikasi kamera bermasalah, silakan klik OK untuk mengirimkan laporan ini ke kami. </string>
+    <string name="sns_msg_network_unavailable">Network tak tersedia, silakan coba lagi nanti.</string>
+    <string name = "text_no_network_available">Network tak tersedia!</string>
+    <string name = "text_service_starting_notification">Men-download, silakan coba lagi nanti</string>
+    <string name="already_update">Telah versi terbaru</string>
+    <string name = "text_service_started_notification">Download latarbelakang</string>
+    <string name = "text_download_apk_success">Download berhasil</string>
+    <string name = "update_info">Versi baru utk update</string>
+    <string name = "update_ok">memperbarui</string>
+    <string name = "update_cancel">membatalkan</string>
+    <string name="market_software_missing">Silakan instal Android Market lebih dulu.</string>
+    <string name = "text_prompt_install_ucam_title">mendorong</string>
+    <string name = "text_function_sns_install_ucam">Berbagi SNS membutuhkan co-bekerja dengan UCam (Kamera Ultra). Silahkan download.</string>
+    <string name = "text_function_edit_install_ucam">Gambar editing membutuhkan co-bekerja dengan UCam (Kamera Ultra). Silahkan download.</string>
+    <string name = "text_settings_title">Pengaturan</string>
+    <string name="text_feedback_title">sakelar arus-balik</string>
+    <string name = "menu_info_version">Tentang kami</string>
+    <string name="hint_feedback_topic">Topik (wajib)</string>
+    <string name="hint_feedback_email">Email (Optional)</string>
+    <string name="hint_feedback_description">Deskripsi (wajib)</string>
+    <string name = "text_feedback_send_action">mengirim</string>
+    <string name="message_feedback_send_success">Umpan balik berhasil dikirim</string>
+    <string name="message_feedback_send_fail">Umpan balik yang dikirim gagal</string>
+    <string name = "menu_info_version_content_faq_url"><a href="http://www.u-camera.com/questions.php?lang=en_US">FAQ</a></string>
+    <string name = "menu_info_version_content_user_manual_url"><a href="http://forum.u-camera.com/index.php?topic=23.0">Manual Pengguna</a></string>
+    <string name = "text_cannot_play_gif">Gif file tidak dapat dimainkan!</string>
+    <string name = "text_not_installed_market_app">Tidak terpasang pasar, merekomendasikan untuk menginstal Google Play.</string>
+    <string name="crop_save_text">menyimpan</string>
+    <string name="crop_discard_text">membuang</string>
+    <string name="runningFaceDetection">Please wait\u2026</string>
+    <string name="wallpaper">Menyetel wallpaper, harap tunggu\u2026</string>
+    <string name="savingImage">Saving picture\u2026</string>
+    <string name="multiface_crop_help">Sentuh satu wajah untuk memulai.</string>
+    <string name = "text_activity_is_not_found">Aktivitas tak ditemukan</string>
+    <string name="all_videos" msgid="3380966619230896013">"Semua video"</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Tidak ada apl yang tersedia untuk berbagi video."</string>
+    <string name="setImage" msgid="7246975856983303047">"Setel gambar sebagai"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"Bagikan video melalui"</string>
+    <string name="rotate" msgid="460017689320955494">"Putar"</string>
+    <string name="rotate_left" msgid="5888273317282539839">"Putar ke kiri"</string>
+    <string name="rotate_right" msgid="6776325835923384839">"Putar ke kanan"</string>
+    <string name="slide_show" msgid="1965192737233824143">"Rangkai slide"</string>
+    <string name="ugallery_setas_wallpaper" msgid="797463183863414289">"Wallpaper"</string>
+    <string name="crop_label" msgid="521114301871349328">"Pangkas gambar"</string>
+</resources>

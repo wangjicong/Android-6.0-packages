@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP valinta-asetukset"</string>
+    <string name="ip_dial_menu">"IP valinta VALINTA"</string>
+    <string name="ip_dialing_title">"IP valinta"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Pikavalinta-asetus"</string>
+    <string name="no_fast_dial_number">"Pikavalintanumero ei ole asetettu."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"lähtevä"</string>
+     <string name="call_log_incoming_title">"saapuva"</string>
+     <string name="recentOutgoing_empty">"Ei ulosmeneviä puheluita."</string>
+     <string name="recentIncoming_empty">"Ei sisääntulevie puheluita."</string>
+     <string name="view_setting">"Näytä"</string>
+     <string name="item_all_calls">"Kaikkien soittojen lokit"</string>
+     <string name="item_sim_calls">"SIM%d soittolokit"</string>
+     <string name="unselect_all">"Poista kaikki valinnat"</string>
+     <string name="select_all_sprd">"Valitse kaikki"</string>
+     <string name="doneButton">"Valmis"</string>
+     <string name="cancel">"Peruuta"</string>
+     <string name="delete_selected_calls">"Haluatko varmasti poistaa valitut tiedot?"</string>
+     <string name="clearCallLogProgress_title">"Tyhjennetään puheluloki\u2026"</string>
+     <string name="delete_success">"Poistettu onnistuneesti"</string>
+     <string name="clear_all_call_log">"Tyhjennä kaikki lokit"</string>
+     <string name="clear_selected_call_log">"Tyhjennä valittu loki"</string>
+     <string name="select_all">"Valitse kaikki"</string>
+     <string name="unselect_all">"Poista kaikki valinnat"</string>
+     <string name="delete_all_calls_confirm">"Haluatko pyyhki kaikki omat tallennuksesi?"</string>
+     <string name="do_not_select">"Et valinnut poistettavaa nauhoitusta"</string>
+     <string name="delete_calls">"Poista"</string>
+     <string name="number_anr_isnull">"Yhteyshenkilö on tyhjä"</string>
+     <string name="call_recording_setting_title">"Puhelun tallennus"</string>
+     <string name="automatic_recording_title">"Automaattinen tallennus"</string>
+     <string name="dialog_phone_permission_deny">""Käyttääksesi IP-valintaa, \n käynnistä puhelimen lupa." "</string>
+     <string name="search_description">"Hae Soittoloki"</string>
+     <string name="call_log_add_to_blacklist">"LISÄÄ MUSTAAN LISTAAN"</string>
+     <string name="make_video_call_menu">"Soita videopuhelu"</string>
+
+</resources>

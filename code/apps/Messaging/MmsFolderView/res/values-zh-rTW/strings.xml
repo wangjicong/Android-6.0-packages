@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="folder_view_app_name">文件夾視圖</string>
+    <string name="action_settings">設置</string>
+    <string name="hello_world">Hi,早安，愚昧的人類!</string>
+    <string name="no_mms_plugin">沒有文件夾視圖插件</string>
+    <string name="menu_msg_list">"消息視圖"</string>
+    <string name="menu_search">"搜索"</string>
+    <string name="menu_preferences">"設置"</string>
+    <string name="menu_cell_broadcasts">"小區廣播"</string>
+    <string name="menu_sim_message">SIM卡簡訊</string>
+    <string name="folder_display_option">顯示選項</string>
+    <string name="folder_sortby">排序</string>
+    <string name="folder_delete_messages">刪除信息</string>
+    <string name="search_setting_description">"消息中的文字"</string>
+    <string name="search_max_length">搜索文本過長，將截取前512個字符作為關鍵字！</string>
+    <string name="search">信息搜索</string>
+    <string name="search_result">信息搜索結果</string>
+    <string name="muti_select_all">全選</string>
+    <string name="muti_select_none">取消全選</string>
+    <string name="msg_status_send_failed">"信息發送失敗 "</string>
+    <string name="sort_msg_list_empty_text">"您的信息將列在此處 "</string>
+    <string name="draft_message">"草稿 "</string>
+    <string name="folder_sortby">"排序"</string>
+    <string name="message_status_delivered_failed">"信息傳送失敗"</string>
+    <string name="user_not_exist">"用戶不存在!"</string>
+
+    <string-array name="sort_type">
+        <item>按時間降序</item>
+        <item>按時間升序</item>
+        <item>按號碼降序</item>
+        <item>按號碼順序</item>
+    </string-array>
+
+    <string name="folder_display_all">"顯示全部信息"</string>
+    <string name="folder_display_option">顯示選項</string>
+    <string name="delete_messages_confirmation_dialog_title">確認要刪除所選的信息？</string>
+    <string name="delete_message_fail">"刪除信息失敗!"</string>
+    <string name="have_select_message">"已選%1$d"</string>
+
+    <string name="sort_msg_list_menu_addtocontacts">添加到聯繫人</string>
+    <string name="sort_msg_list_menu_call">呼叫</string>
+    <string name="sort_msg_list_menu_editbeforecall">呼叫前編輯</string>
+    <string name="sort_msg_list_menu_videocall">視頻呼叫</string>
+
+    <string-array name="msg_list_context_menu">
+        <item>添加到聯繫人</item>
+        <item>呼叫</item>
+        <item>呼叫前編輯</item>
+        <item>視頻呼叫</item>
+    </string-array>
+
+    <string name="copy_message_text">"複製文字"</string>
+    <string name="has_add_to_contacts">電話本已存此聯繫人</string>
+    <string name="context_menu_copy_to_sim_memory">複製信息到SIM卡</string>
+    <string name="yes">"確定"</string>
+    <string name="no">"取消"</string>
+    <!-- add for SQL XML begin -->
+    <string name="position1">今天的訊息</string>
+    <string name="position2">今天之前的訊息</string>
+    <string name="position3">前3天到前5天</string>
+    <!-- add for SQL XML end -->
+
+    <string name="copy_sim_sms_to_phone">複製到手機記憶體</string>
+    <string name="copy_sms_to_sim">轉存信息到</string>
+    <string name="del_sim_sms">刪除</string>
+    <string name="menu_folder_view">文件夾視圖</string>
+    <string name="simsms_title">SIM卡簡訊</string>
+</resources>

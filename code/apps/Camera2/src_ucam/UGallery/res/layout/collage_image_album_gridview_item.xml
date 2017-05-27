@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2011 Thundersoft Corporation
+    All rights Reserved
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/collage_bg_photoes_status">
+
+    <ImageView
+        android:id="@+id/iv_home_icon"
+        android:layout_width="96dip"
+        android:layout_height="96dip"
+        android:src="@drawable/collage_bg_imageview"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop" />
+
+</RelativeLayout>

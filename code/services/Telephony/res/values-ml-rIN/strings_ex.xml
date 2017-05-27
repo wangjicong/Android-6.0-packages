@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"പുറത്തേക്കുള്ളതെല്ലാം"</string>
+    <string name="messageAO">"കോള്‍ വേര്‍തിരിക്കല്‍ പാസ്‍വേഡ് നല്കുക."</string>
+    <string name="sum_ao_enabled_indicator">"എല്ലാ കോളുകളും ഫോര്‍വേഡ് ചെയ്യുന്നു"</string>
+    <string name="sum_ao_enabled">"പ്രവര്‍ത്തനക്ഷമമാണ്"</string>
+    <string name="sum_ao_disabled">"പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു"</string>
+    <string name="enable_ao_forbidden">"പുറത്തേക്കുള്ള എല്ലാ കോളുകളും വേര്‍തിരിക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല."</string>
+    <string name="disable_ao_forbidden">"പുറത്തേക്കുള്ള എല്ലാ കോളുകളും വേര്‍തിരിക്കുന്നത് അപ്രാപ്തമാക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല."</string>
+    <string name="labelOI">"പുറത്തേക്കുള്ള അന്തര്‍ദ്ദേശീയം"</string>
+    <string name="messageOI">"കോള്‍ വേര്‍തിരിക്കല്‍ പാസ്‍വേഡ് നല്കുക."</string>
+    <string name="sum_oi_enabled">"പ്രവര്‍ത്തനക്ഷമമാണ്"</string>
+    <string name="sum_oi_disabled">"പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു"</string>
+    <string name="enable_oi_forbidden">"പുറത്തേക്കുള്ള അന്തര്‍ദ്ദേശീയ കോളുകള്‍ വേര്‍തിരിക്കുന്നത് പ്രാപ്തമാക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല."</string>
+    <string name="disable_oi_forbidden">"പുറത്തേക്കുള്ള അന്തര്‍ദ്ദേശീയ കോളുകള്‍ വേര്‍തിരിക്കുന്നത് അപ്രാപ്തമാക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല."</string>
+    <string name="labelOX">"പുറത്തേക്കുള്ള അന്തര്‍ദ്ദേശീയ റോമിങ്ങ്"</string>
+    <string name="messageOX">"കോള്‍ വേര്‍തിരിക്കല്‍ പാസ്‍വേഡ് നല്കുക."</string>
+    <string name="sum_ox_enabled">"പ്രവര്‍ത്തനക്ഷമമാണ്"</string>
+    <string name="sum_ox_disabled">"പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു"</string>
+    <string name="enable_ox_forbidden">"പുറത്തേക്കുള്ള അന്തര്‍ദ്ദേശീയ റോമിങ്ങ് കോളുകള്‍ വേര്‍തിരിക്കുന്നത് പ്രാപ്തമാക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല."</string>
+    <string name="disable_ox_forbidden">"പുറത്തേക്കുള്ള അന്തര്‍ദ്ദേശീയ റോമിങ്ങ് കോളുകള്‍ വേര്‍തിരിക്കുന്നത് അപ്രാപ്തമാക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല."</string>
+    <string name="labelAI">"എല്ലാ ഇന്‍കമിങ്ങുകളും"</string>
+    <string name="messageAI">"കോള്‍ വേര്‍തിരിക്കല്‍ പാസ്‍വേഡ് നല്കുക."</string>
+    <string name="sum_ai_enabled">"പ്രവര്‍ത്തനക്ഷമമാണ്"</string>
+    <string name="sum_ai_disabled">"പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു"</string>
+    <string name="enable_ai_forbidden">"എല്ലാ ഇന്‍കമിങ്ങ് കോളുകളും വേര്‍തിരിക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല ."</string>
+    <string name="disable_ai_forbidden">"എല്ലാ ഇന്‍കമിങ്ങ് കോളുകളും വേര്‍തിരിക്കുന്നത് അപ്രാപ്തമാക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല ."</string>
+    <string name="labelIR">"റോമിങ്ങ് വേളയിലെ ഇന്‍കമിങ്ങ് കോളുകള്‍"</string>
+    <string name="messageIR">"കോള്‍ വേര്‍തിരിക്കല്‍ പാസ്‍വേഡ് നല്കുക."</string>
+    <string name="sum_ir_enabled">"പ്രവര്‍ത്തനക്ഷമമാണ്"</string>
+    <string name="sum_ir_disabled">"പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു"</string>
+    <string name="enable_ir_forbidden">"റോമിങ്ങ് കോളുകളുടെ സമയത്ത് ഇന്‍കമിങ്ങ് കോളുകള്‍ വേര്‍തിരിക്കുന്നത് പ്രാപ്തമാക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല ."</string>
+    <string name="disable_ir_forbidden">"റോമിങ്ങ് കോളുകളുടെ സമയത്ത് ഇന്‍കമിങ്ങ് കോളുകള്‍ വേര്‍തിരിക്കുന്നത് അപ്രാപ്തമാക്കുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല ."</string>
+    <string name="labelAB">"എല്ലാം ഡിആക്ടിവേറ്റ് ചെയ്യുക"</string>
+    <string name="messageAB">"കോള്‍ വേര്‍തിരിക്കല്‍ പാസ്‍വേഡ് നല്കുക."</string>
+    <string name="sum_ab_enabled">"പ്രവര്‍ത്തനക്ഷമമാണ്"</string>
+    <string name="sum_ab_disabled">"പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു"</string>
+    <string name="enable_ab_forbidden">"എല്ലാം ഡിആക്ടിവേറ്റ് ചെയ്യുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല."</string>
+    <string name="disable_ab_forbidden">"എല്ലാം ആക്ടിവേറ്റ് ചെയ്യുന്നത് നിങ്ങളുടെ കാരിയര്‍ പിന്തുണയ്ക്കുന്നില്ല."</string>
+    <string name="labelChgPwd">"പാസ്വേര്‍ഡ് മാറ്റം വരുത്തുക"</string>
+    <string name="DlgChgPwd_oldpwd">"കോള്‍ വേര്‍തിരിക്കല്‍ പാസ്‍വേഡ് നല്കുക."</string>
+    <string name="DlgChgPwd_newpwd_first">"പുതിയ പാസ്‍വേഡ് നല്കുക"</string>
+    <string name="DlgChgPwd_newpwd_last">"പുതിയ പാസ്‍വേഡ് സ്ഥിരീകരിക്കുക"</string>
+    <string name="cb_pw_no_match">"പാസ്‍വേഡുകള്‍ യോജിക്കുന്നില്ല"</string>
+    <string name="cb_pw_error">"പാസ്‍വേഡ് തെറ്റാണ്"</string>
+    <string name="cb_pw_correct">"പാസ്‍വേഡ് മാറ്റിയിട്ടുണ്ട്"</string>
+    <string name="labelCB">"കോള്‍ തടയല്‍"</string>
+    <string name="call_barring_settings">"കോള്‍ വേര്‍തിരിക്കല്‍ ക്രമീകരണങ്ങള്‍"</string>
+    <string name="cb_error">"കോള്‍ വേര്‍തിരിക്കല്‍ നിരസിച്ചു"</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"നെറ്റ്‍വര്‍ക്ക് ഓണ്‍ അല്ല,നെറ്റ്‍വര്‍ക്ക് സ്റ്റാറ്റസ് സ്ഥാപിക്കാന്‍ നിങ്ങള്‍ ആഗ്രഹിക്കുന്നുണ്ടോ?"</string>
+     <string name="dialog_network_selection_title">"ശ്രദ്ധിക്കുക"</string>
+     <string name="dialog_network_selection_message">"മാനുവല്‍ തരെഞ്ഞെടുപ്പ് മോഡില്‍ മൊബൈല്‍ ഫോണ്‍ നിങ്ങള്‍ക്ക് വേണ്ടി മറ്റ് ഓപ്പറേറ്റര്‍മാരെ തെരഞ്ഞെടുക്കില്ല. ചിലപ്പോള്‍ തെരഞ്ഞെടുത്ത ഓപ്പറേറ്ററുടെ സേവനം നഷ്ടമാകുമ്പോള്‍ നിങ്ങള്‍ വീണ്ടും മാനുവല്‍ തെരഞ്ഞെടുപ്പ് നടത്തുകയോ അല്ലെങ്കില്‍ ഓട്ടോമാറ്റിക് തെരഞ്ഞെുപ്പ് മോഡിലേക്ക് പിന്‍മാറുകയോ വേണം. "ഓട്ടോമാറ്റിക്കായി തെരഞ്ഞെടുക്കുക" ഉപയോഗിക്കാന്‍ നിങ്ങളെ ഞങ്ങള്‍ ശുപാര്‍ശ ചെയ്യുന്നു. നെറ്റ്‍വര്‍ക്ക് മാനുവലായി തെരഞ്ഞെടുക്കാന്‍ നിങ്ങളാവശ്യപ്പെടുന്നുണ്ടോ?</string>
+     <string name="network_unknown">"അജ്ഞാതം"</string>
+     <string name="network_inhibit">"വിലക്കപ്പെട്ടത്"</string>
+     <string name="ip_dialing_title">"IP ഡയലിങ്ങ്"</string>
+     <string name="ip_dialing_list_title">"IP ഡയല്‍ ലിസ്റ്റ്"</string>
+     <string name="ip_no_number">"IP ഉപസര്‍ഗ്ഗത്തിന്റെ അഭാവം"</string>
+     <string name="ip_no_number_msg">"IP ഉപസര്‍ഗ്ഗം ഫോണില്‍ സൂക്ഷിക്കില്ല."</string>
+     <string name="ip_number_empty_loading">"IP ഡയല്‍ ലിസ്റ്റ് ശൂന്യമാണ്."</string>
+     <string name="remove">"നീക്കം ചെയ്യുക"</string>
+     <string name="ip_number_is_too_long">"IPഡയല്‍ അക്കങ്ങള്‍20എണ്ണത്തില്‍ കൂടുതല്‍ ആവരുത്."</string>
+     <string name="add_ip_number_str">"പുതിയത്"</string>
+     <string name="ip_dialing_num_error">"10 IP നമ്പറുകളേ സൂക്ഷിക്കാനാവൂ"</string>
+     <string name="ip_dialing_num_repeat">"നമ്പര്‍ ആവര്‍ത്തിക്കുക, ചേര്‍ക്കല്‍ പരാജയപ്പെട്ടു"</string>
+     <string name="menu_selected_all">എല്ലാം തെരഞ്ഞെടുക്കുക</string>
+     <string name="menu_select_none">"എല്ലാം അണ്‍സെലക്ട് ചെയ്യുക"</string>
+     <string name="doneButton">ചെയ്തു കഴിഞ്ഞു</string>
+     <string name="cancel">"റദ്ദാക്കുക"</string>
+     <string name="uplmn_setting_title">"മുൻഗണനകൾ"</string>
+     <string name="uplmn_setting">"UPLMN സെറ്റിംഗ്സ്"</string>
+     <string name="uplmn_index">"സൂചിക (0ല്‍ നിന്ന് തുടങ്ങുക):"</string>
+     <string name="uplmn_id">"ഐ.ഡി. നമ്പര്‍:"</string>
+     <string name="uplmn_type">"ടൈപ്പ് ചെയ്യുക (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">"ദയവായി USIM ഇട്ട് വീണ്ടും ശ്രമിക്കുക"</string>
+     <string name="index_error_uplmn">"സൂചിക ശൂന്യമാണ്. വീണ്ടും ശ്രമിക്കുക!"</string>
+     <string name="type_is_emplty_error_uplmn">"ടൈപ്പ് ശൂന്യമാണ്. വീണ്ടും ശ്രമിക്കുക!"</string>
+     <string name="number_too_short_uplmn">"Id നമ്പര്‍ വളരെ ചെറുതാണ്. വീണ്ടും ശ്രമിക്കുക!"</string>
+     <string name="type_is_wrong_uplmn">"ടൈപ്പ് 1 അല്ലെങ്കില്‍ 0 ആകണം.വീണ്ടും ശ്രമിക്കുക!"</string>
+     <string name="fail_uplmn">"പരാജയപ്പെട്ടു, വീണ്ടും ശ്രമിക്കുക."</string>
+     <string name="set_uplmn_unsuccessful">"uplmn സ്ഥാപിക്കല്‍ വിജയകരമല്ല!"</string>
+     <string name="menu_new_uplmn">"പുതിയ UPLMN"</string>
+     <string name="menu_delete_uplmn">"UPLMN ഇല്ലാതാക്കുക"</string>
+     <string name="uplmn_exceeds_capacity">"എണ്ണം സമ്മിന്‍റെ പരിധിയില്‍ കവിഞ്ഞു!"</string>
+     <string name="delete">"നീക്കം ചെയ്യുക"</string>
+     <string name="delete_uplmn_successfully">"uplmn വിജയകരമായി ഇല്ലാതാക്കി"</string>
+     <string name="id_is_wrong_uplmn">"ഐ.ഡി. ഒരു നമ്പറോടു കൂടി സെറ്റ് ചെയ്യണം!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"നെറ്റ്വര്‍ക്ക് മോഡ് തെരഞ്ഞെടുക്കുക"</string>
+     <string name="lte_service_switch">"ക്രമീകരിക്കുന്നു,ദയവായി കാത്തിരിക്കുക..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2Gമള്‍ട്ടി മോഡ്"</item>
+        <item>"3G/2Gഅനുയോജ്യ മോഡ്"</item>
+        <item>"2G ഒണ്‍ലി മോഡ്"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2Gമള്‍ട്ടി മോഡ്"</item>
+        <item>"3G/2Gഅനുയോജ്യ മോഡ്"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"GSM മാത്രം"</item>
+        <item>"WCDMA മാത്രം"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (ഓട്ടോ)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"വേഗത്തിലുള്ള ഡയല്‍ ക്രമീകരണം"</string>
+     <string name="delete_fastdial">"ഫാസ്റ്റ് ഡയല്‍ ഇല്ലാതാക്കുക"</string>
+     <string name="update_fastdial">"ഫാസ്റ്റ് ഡയല്‍ പുതുക്കുക"</string>
+     <string name="no_sim_text">"ദയവായി SIM കാര്‍ഡ് ഇടുക അല്ലെങ്കില്‍ തുറക്കുക"</string>
+     <string name="network_not_on">"നെറ്റ്‍വര്‍ക്ക് ഓണ്‍ അല്ല,നെറ്റ്‍വര്‍ക്ക് സ്റ്റാറ്റസ് സ്ഥാപിക്കാന്‍ നിങ്ങള്‍ ആഗ്രഹിക്കുന്നുണ്ടോ?"</string>
+     <string name="one_key_locked_notification">"ഈ ടൈപ്പ് അണ്‍ലോക്ക് ചെയ്തു,നിങ്ങള്‍ക്ക് ഇത് ലോക്ക് ചെയ്യണോ?"</string>
+     <string name="one_key_unlocked_notification">"ഈ ടൈപ്പ് ലോക്ക് ചെയ്തു,നിങ്ങള്‍ക്ക് ഇത് അണ്‍ലോക്ക് ചെയ്യണോ?"</string>
+     <string name="one_key_unlocked">"അണ്‍ലോക്ക്"</string>
+     <string name="one_key_locked">"ലോക്ക്"</string>
+     <string name="one_key_operation_success">"പ്രവര്‍ത്തനം വിജയകരം, ഇപ്പോള്‍ റീബൂട്ട് ചെയ്യേണ്ടതുണ്ട്."</string>
+     <string name="one_key_operation_unsuccess">"പ്രവര്‍ത്തനം വിജയകരമല്ല, നിങ്ങള്‍ക്ക് വീണ്ടും ശ്രമിക്കാം!"</string>
+     <string name="one_key_query_unsuccess">"അന്വേഷണ സിം ലോക്ക് ടൈപ്പ് പരാജയം!"</string>
+     <string name="one_key_simlock_setting">"സിംലോക്ക് ക്രമീകരണം"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"നെറ്റ്‍വര്‍ക്ക് ലോക്ക്"</item>
+        <item>"നെറ്റ്‍വര്‍ക്ക്സബ്സെറ്റ് ലോക്ക്"</item>
+        <item>"സേവനദാതാവ് ലോക്ക്"</item>
+        <item>"കോര്‍പ്പറേറ്റ് ലോക്ക്"</item>
+        <item>"SIM ലോക്ക്"</item>
+    </string-array>
+     <string name="callin_barring_settings">"ഇന്‍കമിങ്ങ് കോള്‍ വേര്‍തിരിക്കല്‍ ക്രമീകരണം"</string>
+     <string name="callout_barring_settings">"ഔട്ട്ഗോയിങ്ങ് കോള്‍ വേര്‍തിരിക്കല്‍ ക്രമീകരണം"</string>
+     <string name="labelCOUT">"ഔട്ട്ഗോയിങ്ങ് കോള്‍ വേര്‍തിരിക്കല്‍"</string>
+     <string name="labelCIN">"ഇന്‍കമിങ്ങ് വേര്‍തിരിക്കല്‍"</string>
+     <string name="no_sim_text">"ദയവായി SIM കാര്‍ഡ് ഇടുക അല്ലെങ്കില്‍ തുറക്കുക"</string>
+     <string name="sim_lock_none">" SIM ലോക്ക് ചെയ്തിട്ടില്ല."</string>
+     <string name="sim_lock_try_later">"ദയവായി ഇത് പിന്നീട് ശ്രമിക്കുക."</string>
+     <string name="edit_and_save_fdn">"FDN നമ്പര്‍ എഡിറ്റ് ചെയ്യുക"</string>
+     <string name="call_fdn_number_by_sim">"ഫോണ്‍ ചെയ്യുക"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"VT കോള്‍"</string>
+     <string name="airplane_changed_on">"ഫ്ലൈറ്റ് മോഡ് ഓണാക്കി."</string>
+     <string name="number_empty">"നമ്പര്‍ ശൂന്യമാണ്"</string>
+     <string name="unblock_pin2">"PIN2 തടസ്സം ഒഴിവാക്കുക"</string>
+     <string name="sum_fdn_unblock_pin2">"SIM കാര്‍ഡ് തടസം ഒഴിവാക്കാന്‍ PUK2നല്കുക"</string>
+     <string name="pin2_Label">"പിന്‍2 (<xliff:g>%s</xliff:g> അവശേഷിക്കുന്ന ശ്രമം(ങ്ങള്‍))"</string>
+     <string name="oldPin2_Label">"പഴയ പിന്‍2 (<xliff:g>%s</xliff:g> അവശേഷിക്കുന്ന ശ്രമം(ങ്ങള്‍))"</string>
+     <string name="puk2_code_label">"PUK2 കോഡ് ടൈപ്പ് ചെയ്യുക (<xliff:g>%s</xliff:g> അവശേഷിക്കുന്ന ശ്രമം(ങ്ങള്‍))"</string>
+     <string name="promptWordOne">"നിലനിൽക്കുക&#160;"</string>
+     <string name="promptWordTwo">"&#160;തവണ"</string>
+     <string name="adn_full">"FDN ലിസ്റ്റ് പൂര്‍ണ്ണമാണ്"</string>
+     <string name="no_available_phone_accounts">"കോളിംഗ് അക്കൌണ്ടുകള്‍ ലഭ്യമല്ല"</string>
+     <string name="lnd_list">"LND ലിസ്റ്റ്"</string>
+     <string name="sdn_list">"SDN ലിസ്റ്റ്"</string>
+     <string name="sim_list_title">"ദയവായി SIM കാര്‍ഡ് തെരഞ്ഞെടുക്കുക"</string>
+     <string name="wait_message">"ദയവായി കാത്തിരിക്കുക..."</string>
+     <string name="menu_call">"കോണ്‍ടാക്ടിനെ കോള്‍ ചെയ്യുക"</string>
+     <string name="lnd_no_contact_record">"SIM കാര്‍ഡില്‍ LND റെക്കോഡുകളില്ല."</string>
+     <string name="sdn_no_contact_number">"ഈ SIM കാര്‍ഡ് SDN നമ്പറിനെ പിന്തുണയ്ക്കുന്നില്ല."</string>
+     <string name="remove">"നീക്കം ചെയ്യുക"</string>
+     <string name="delete_selected_contents">"തെരഞ്ഞെടുത്ത ഉള്ളടക്കം താങ്കള്‍ക്ക് ഇല്ലാതാക്കണോ?"</string>
+     <string name="sim_notready_can_not_delete">"എന്തുകൊണ്ടെന്നാല്‍ SIM കാര്‍ഡ് തയ്യാറല്ല, അതിനാല്‍ ഇല്ലാതാക്കാനാവില്ല."</string>
+     <string name="contact_del_failed">"നീക്കം ചെയ്യാനായില്ല"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"വോയ്‌സ്‌മെയിൽ സജ്ജീകരിക്കുന്നതിന്, മെനു &gt; ക്രമീകരണങ്ങൾ എന്നതിലേക്ക് പോകുക."</string>
+     <string name="simlock_unlocked">"സിംലോക്ക് അണ്‍ലോക്ക് ചെയ്തിരിക്കുന്നു."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"WCDMA മാത്രം"</item>
+        <item>"GSM മാത്രം"</item>
+        <item>"സ്വയം"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"GSM മാത്രം"</item>
+    </string-array>
+</resources>

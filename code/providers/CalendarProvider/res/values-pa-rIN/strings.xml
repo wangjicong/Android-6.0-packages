@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">ਕੈਲੇਂਡਰ ਸਟੋਰੇਜ</string>
+<string name="calendar_default_name">ਡਿਫੌਲਟ</string>
+<string name="calendar_info">ਕੈਲੇਂਡਰ ਜਾਣਕਾਰੀ</string>
+<string name="calendar_info_error">"ਅਸ਼ੁੱਧੀ"</string>
+<string name="calendar_info_no_calendars">ਕੋਈ ਕਲੈਂਡਰ ਨਹੀਂ</string>
+<string name="calendar_info_events">"ਇਵੈਂਟਾਂ: <xliff:g id = "events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"ਇਵੈਂਟਾਂ: <xliff:g id = "events">%1$d</xliff:g>, ਅਸੁਰੱਖਿਅਤ: <xliff:g id = "dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"ਕੈਲੰਡਰ"</string>
+<string name="debug_tool_delete_button">ਹੁਣ ਮਿਟਾਓ</string>
+<string name="debug_tool_start_button">ਸ਼ੁਰੂ ਕਰੋ</string>
+<string name="debug_tool_message">ਤੁਸੀਂ ਇਹ ਕਰਨ ਵਾਲੇ ਹੋ 1) SD ਕਾਰਡ/USB ਸਟੋਰੇਜ ਤੇ ਤੁਹਾਡੇ ਕੈਲੰਡਰ ਡੇਟਾਬੇਸ ਦੀ ਕਾਪੀ ਬਣਾਉਣਾ, ਜੋ ਕਿਸੇ ਵੀ ਅਨੁਪ੍ਰਯੋਗ ਵੱਲੋਂ ਪੜ੍ਹਨਯੋਗ ਹੈ, ਅਤੇ 2) ਇਸਨੂੰ ਈਮੇਲ ਕਰਨਾ। ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਇਸਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਕਾਪੀ ਕਰ ਲਓ ਜਾਂ ਈਮੇਲ ਪ੍ਰਾਪਤ ਹੋ ਜਾਵੇ, ਤਾਂ ਕਾਪੀ ਨੂੰ ਡਿਵਾਈਸ ਤੋਂ ਮਿਟਾਉਣਾ ਯਾਦ ਰੱਖੋ।</string>
+<string name="debug_tool_email_sender_picker">ਤੁਹਾਡੀ ਫਾਈਲ ਭੇਜਣ ਲਈ ਇੱਕ ਪ੍ਰੋਗਰਾਮ ਚੁਣੋ</string>
+<string name="debug_tool_email_subject">ਕੈਲੰਡਰ Db ਅਟੈਚ ਕੀਤਾ</string>
+<string name="debug_tool_email_body">ਅਟੈਚ ਕੀਤਾ ਮੇਰੀਆਂ ਸਾਰੀਆਂ ਨਿਰਧਾਰਿਤ ਮੁਲਾਕਾਤਾਂ ਅਤੇ ਨਿਜੀ ਜਾਣਕਾਰੀ ਵਾਲਾ ਮੇਰਾ ਕੈਲੰਡਰ ਡੇਟਾਬੇਸ ਹੈ। ਸਾਵਧਾਨੀ ਨਾਲ ਸੰਭਾਲੋ।</string>
+<string name="no_title_label">(ਕੋਈ ਸਿਰਲੇਖ ਨਹੀਂ)</string>
+</resources>

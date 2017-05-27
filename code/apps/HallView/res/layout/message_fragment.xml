@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/white_circle_bg" android:layout_width="@dimen/hall_view_width" android:layout_height="@dimen/hall_view_width"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@+id/iv_title_bg" android:background="#ffffa726" android:layout_width="@dimen/hall_view_width" android:layout_height="90.0dip" android:scaleType="centerCrop" android:layout_centerHorizontal="true" />
+    <TextView android:textSize="24.0sp" android:textStyle="bold" android:textColor="#fff9f9f9" android:gravity="center" android:id="@+id/tv_message_Title" android:layout_width="@dimen/hall_view_width" android:layout_height="70.0dip" android:layout_marginTop="20.0dip" android:text="@string/new_message" android:layout_centerHorizontal="true" />
+    <View android:id="@+id/deliver" android:background="#ffe8e8e8" android:layout_width="@dimen/hall_view_width" android:layout_height="1.0dip" android:layout_below="@id/tv_message_Title" />
+    <RelativeLayout android:id="@+id/rl_message_list_container" android:layout_width="@dimen/hall_view_width" android:layout_height="fill_parent" android:layout_below="@id/deliver">
+        <ListView android:id="@+id/lv_message_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="#ffe8e8e8" android:dividerHeight="0.5dip" />
+		<TextView android:id="@+id/tv_empty"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:textSize="18.0sp"
+			android:textColor="#ff000000"
+			android:text="@string/loading"
+			android:gravity="center"/>
+    </RelativeLayout>
+    <ScrollView android:id="@+id/rl_message_detail_container" android:paddingLeft="20.0dip" android:paddingTop="10.0dip" android:paddingRight="20.0dip" android:paddingBottom="20.0dip" android:visibility="gone" android:layout_width="@dimen/hall_view_width" android:layout_height="fill_parent" android:layout_marginBottom="30.0dip" android:layout_below="@id/deliver">
+        <TextView android:textSize="18.0sp" android:textColor="#ff000000" android:id="@+id/tv_message_detail" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </ScrollView>
+    <View android:background="@drawable/sms_override" android:layout_width="@dimen/hall_view_width" android:layout_height="@dimen/hall_view_width" />
+</RelativeLayout>

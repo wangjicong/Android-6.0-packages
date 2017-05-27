@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+        android:title="@string/network_preference_settings">
+
+    <PreferenceCategory android:title="@string/network_type_choosen"
+            android:key="network_type_list">
+    </PreferenceCategory>
+
+    <ListPreference
+        android:key="network_type_select"
+        android:title="@string/network_type_choosen"
+        android:persistent="false"
+        android:entries="@array/network_type"
+        android:entryValues="@array/network_type_values"
+      />
+
+</PreferenceScreen> 

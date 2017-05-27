@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+ <!-- SPRD: Label for the USB Settings @{ -->
+    <string name="usb_settings">USB 设定 </string>
+    <string name="usb_storage">USB 存储 </string>
+    <string name="usb_storage_summary">启用USB大容量存储 </string>
+    <string name="usb_charge_only">仅充电</string>
+    <string name="usb_charge_only_summary">当USB连接时，仅使用充电功能</string>
+    <string name="usb_charge_only_storage_active_subtext">使用USB存储设备时无法使用仅充电功能</string>
+    <string name="remember_choice">记住我的选择</string>
+    <string name="remember_choice_summary">记住我选择的功能，下次自动启动</string>
+    <string name="ums_settings">"UMS 设置"</string>
+    <string name="ums_mounted_setting">"正在将U盘挂载到PC上，请稍等..."</string>
+    <string name="ums_unmounted_setting">"正在将U盘从PC上卸载，请稍等..."</string>
+    <string name="usb_virtual_drive">"USB 虚拟光驱"</string>
+    <string name="usb_virtual_drive_summary">"启用USB虚拟光驱"</string>
+    <string name="usb_charge_only_notification">作为仅充电连接</string>
+    <!-- @} -->
+
+    <!-- SPRD: add option to enable/disable sim card @{ -->
+    <string name="stand_by_set_changed_prompt">"此操作将改变SIM卡的激活状态，是否继续？"</string>
+    <string name="not_stand_by">"未启用"</string>
+    <string name="primary_card_switching">设置中，请等待...</string>
+    <string name="toggle_data_change_message">网络数据连接切换至卡<xliff:g id="d">%1$d</xliff:g>, 将可能产生数据流量和相关费用, 请知悉。</string>
+    <!-- @} -->
+    <string name="whether_switch_primary_card">确认要将主卡切换到此卡?\n(移动数据网络也会切到此卡。)</string>
+    <string name="select_primary_card">"主卡选择"</string>
+    <string name="attention">注意</string>
+
+    <!-- SPRD: Label for the WIFI/BT Settings @{ -->
+    <string name="bt_softap_cannot_coexist">"便携式WLAN热点开启时蓝牙不可用，如果您想使用蓝牙请关闭便携式WLAN热点。""</string>
+    <string name="softap_bt_cannot_coexist">"蓝牙开启时便携式WLAN热点不可用，如果您想使用便携式WLAN热点请关闭蓝牙。"</string>
+    <string name="softap_need_mobile_data_enabled">"便携式WLAN热点需开启移动数据连接，可能会产生额外费用。"</string>
+    <!-- @} -->
+    <!-- SPRD: Add for SignalCluster colorful. @{ -->
+    <string-array name="light_color_picker">
+        <item>绿色</item>
+        <item>蓝色</item>
+        <item>靛青色</item>
+        <item>紫色</item>
+        <item>粉红色</item>
+        <item>红色</item>
+        <item>黄色</item>
+    </string-array>
+    <!-- @} -->
+    <string name="heartbeats_settings">省电管理</string>
+    <string name="heartbeats_settings_summary">调整省电保护列表，打开将消耗更多电量</string>
+	<!-- smartwake settings up150723-->
+	<string name="smartwake_settings">智能唤醒</string>
+	<string name="gesture_smartwake">手势智能唤醒</string>
+	<string name="smartwake_feature_selection">功能选择</string>
+	<string name="smartwake_change_music">左右滑动切歌</string>
+	<string name="smartwake_double_click">双击亮屏</string>
+	<string name="smartwake_up">上滑</string>
+	<string name="smartwake_down">下滑</string>
+	<string name="smartwake_c">画C</string>
+	<string name="smartwake_e">画e</string>
+	<string name="smartwake_m">画M</string>
+	<string name="smartwake_o">画O</string>
+	<string name="smartwake_s">画S</string>
+	<string name="smartwake_v">画V</string>
+	<string name="smartwake_w">画W</string>
+	<string name="smartwake_z">画Z</string>
+	<string name="gesture_smartwake_summaryOn">开</string>
+	<string name="gesture_smartwake_summaryOff">关</string>
+	<string name="gesture_music">音乐</string>
+	<string name="gesture_camera">拍照</string>
+	<string name="gesture_dial">拨号</string>
+	<string name="gesture_video">视频</string>
+	<string name="gesture_browser">浏览器</string>
+	<string name="gesture_google_play">谷歌商店</string>
+	<string name="gesture_message">短信</string>
+	<string name="gesture_calc">计算器</string>
+	<string name="gesture_calendar">日历</string>
+	<string name="gesture_fileexplorer">文件浏览器</string>
+	<string name="gesture_gallery">图库</string>
+	<string name="gesture_settings">设置</string>	
+	<string name="gesture_unlock">解锁</string>
+	<string name="gesture_email">邮箱</string>
+    <!-- SPRD: Add for always online feature @{ -->
+    <string name="data_always_online">"移动数据始终在线"</string>
+    <!-- SPRD: Add for sim language @{ -->
+    <string name="edit_sim_lang">"SIM卡中的语言"</string>
+    <string name="edit_sim_lang_more">"编辑SIM卡中的语言"</string>
+    <!-- @} -->
+    <!-- SPRD: Add for bug 543820 Toggle master card reminder @{ -->
+    <string name="select_primary_slot_description">(主卡支持WCDMA/GSM模式，副卡仅支持GSM。)</string>
+    <string name="select_primary_slot_description_4g">(主卡支持4G/3G/2G服务，副卡仅支持2G服务。)</string>
+    <!-- @} -->
+</resources>

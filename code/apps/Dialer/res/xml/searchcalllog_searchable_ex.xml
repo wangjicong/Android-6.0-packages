@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchable xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/recentCallsIconLabel"
+    android:hint="@string/search_description"
+    android:searchMode="queryRewriteFromText"
+
+    android:includeInGlobalSearch="@*android:bool/config_voice_capable"
+    android:queryAfterZeroResults="true"
+    android:searchSuggestAuthority="call_log"
+    android:searchSuggestIntentAction="android.intent.action.VIEW"
+    android:searchSuggestIntentData="content://call_log/calls"
+    android:searchSettingsDescription="@string/search_description"
+    android:searchSuggestSelection=" ?">
+</searchable>

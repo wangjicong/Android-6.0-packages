@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"การตั้งค่าโทรสายIP"</string>
+    <string name="ip_dial_menu">โทรIP</string>
+    <string name="ip_dialing_title">การโทรออกของ IP</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"การตั้งค่าโทรสายด่วน"</string>
+    <string name="no_fast_dial_number">"หมายเลขโทรด่วนไม่ได้ตั้งค่า."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"ขาออก"</string>
+     <string name="call_log_incoming_title">"ขาเข้า"</string>
+     <string name="recentOutgoing_empty">"คุณไม่มีการโทรออก."</string>
+     <string name="recentIncoming_empty">"คุณไม่มีการโทรเข้า."</string>
+     <string name="view_setting">"มุมมอง"</string>
+     <string name="item_all_calls">"บันทึกการโทรทั้งหมด "</string>
+     <string name="item_sim_calls">"SIM%d บันทึกการโทร"</string>
+     <string name="unselect_all">ไม่เลือกท้ั้งหมด</string>
+     <string name="select_all_sprd">เลือกทั้งหมด</string>
+     <string name="doneButton">เรียบร้อย</string>
+     <string name="cancel">ยกเลิก</string>
+     <string name="delete_selected_calls">"คุณแน่ใจที่จะลบที่เลือกบันทึกได้หรือไม่"</string>
+     <string name="clearCallLogProgress_title">"เรียกล้างบันทึก \u2026"</string>
+     <string name="delete_success">"ลบสำเร็จแล้ว"</string>
+     <string name="clear_all_call_log">"ลบบันทึกการโทร"</string>
+     <string name="clear_selected_call_log">"ล้างที่เลือกบันทึกการโทร "</string>
+     <string name="select_all">เลือกทั้งหมด</string>
+     <string name="unselect_all">"ยกเลิกการเลือกทั้งหมด"</string>
+     <string name="delete_all_calls_confirm">"คุณต้องการที่จะลบของคุณทั้งหมดหรือไม่ "</string>
+     <string name="do_not_select">"คุณไม่ได้เลือกลบ"</string>
+     <string name="delete_calls">ลบ</string>
+     <string name="number_anr_isnull">"หมายเลขติดต่อว่างเปล่า"</string>
+     <string name="call_recording_setting_title">"บันทึกการโทร"</string>
+     <string name="automatic_recording_title">"บันทึกอัตโนมัติ"</string>
+     <string name="dialog_phone_permission_deny">"ที่จะใช้สายโทรศัพท์ IP, \n เปิดรับอนุญาตโทรศัพท์."</string>
+     <string name="search_description">"ค้นหาเรียกเข้าสู่ระบบ"</string>
+     <string name="call_log_add_to_blacklist">"เพิ่มบัญชีดำ"</string>
+     <string name="make_video_call_menu">"ใช้แฮงเอาท์วิดีโอ"</string>
+
+</resources>

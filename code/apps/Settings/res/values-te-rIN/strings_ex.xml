@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB సెట్టింగులు"</string>
+<string name="usb_charge_only">"చార్జ్ మాత్రమే"</string>
+<string name="usb_charge_only_summary">"USB కనెక్ట్ అయి ఉన్నప్పుడు ఛార్జ్ ఓన్లీ మోడ్ ను మాత్రమే వాడండి"</string>
+<string name="usb_charge_only_storage_active_subtext">"USB స్టోరేజ్ వాడబడుతూ ఉన్నప్పుడు మాత్రమే ఛార్జ్ చేయలేము"</string>
+<string name="usb_charge_only_notification">"చార్జ్‌గా మాత్రమే కనెక్ట్ అయింది"</string>
+<string name="usb_storage">USB స్టోరేజ్</string>
+<string name="usb_storage_summary">"USB భారీ నిల్వను ప్రారంభించు"</string>
+<string name="ums_settings">"UMS సెట్టింగ్స్"</string>
+<string name="ums_mounted_setting">"ఇప్పుడు umsను సిస్టంకు జతచేయండి,దయచేసి ఆగండి ..". </string>
+<string name="ums_unmounted_setting">"ఇప్పుడు సిస్టం నుండి umsను విడదీయండి, దయచేసి ఆగండి ..." </string>
+<string name="usb_virtual_drive">"USB వర్చువల్ డ్రైవ్"</string>
+<string name="usb_virtual_drive_summary">"USB వర్చువల్ డ్రైవ్ ను ఎనేబుల్ చేయండి"</string>
+<string name="remember_choice">"నా ఎంపికను గుర్తుంచుకో"</string>
+<string name="remember_choice_summary">"నా యొక్క ఎంపికను గుర్తుపెట్టుకో, మరియు ఇంకొకసారి ఆటోమేటిక్కుగా గుర్తుపెట్టుకోబడిన  చర్యను ప్రారంభించుము" </string>
+<string name="stand_by_set_changed_prompt">"సిమ్ యొక్క యాక్టివేషన్ స్థితి మార్చబడుతుంది,ఒకవేళ కొనసాగించాలంటే దయచేసి నిర్ధారించండి?" </string>
+<string name="not_stand_by">"వదలివేయబడిన"</string>
+<string name="primary_card_switching">"సెట్టింగ్\uff0cదయచేసి వేచి ఉండండి..."</string>
+<string name="toggle_data_change_message">"డేటా కనెక్షన్ <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, సిమ్ కార్డ్ కు స్విచ్ అయ్యాయి, ఇది పుట్ మరియు కొరిలేటివ్ ఛార్జ్ ల ద్వారా డేటా ప్రొడ్యూస్ చేస్తుంది. దయచేసి నోట్ చేసుకోండి"</string>
+<string name="select_primary_card">"ప్రాధమిక కార్డును ఎంపిక చేసుకోండి"</string>
+<string name="whether_switch_primary_card">"ప్రైమరీ కార్డు నుండి ఈ కార్డుకు మార్చాలా దయచేసి ధృవీకరించండి?\n(సెల్యులర్ డేటా కూడా కార్డుకు మార్చబడుతుంది.)"</string>
+<string name="attention">"శ్రద్ధ పెట్టండి"</string>
+<string name="bt_softap_cannot_coexist">"సాఫ్ట్ టాప్ ప్రారంభించినప్పుడు లేదా పనిచేస్తునప్పుడు, బ్లూటూత్ పనిచేయదు, మీరు బ్లూటూతును ఉపయోగించాలని అనుకుంటే, దయచేసి సాఫ్ట్ టాప్ ప్రారంభించబడి ఉందని నిర్ధారించుకోండి." </string>
+<string name="softap_bt_cannot_coexist">"బ్లూ టూత్ ఎనేబుల్ చేయబడి ఉన్నా లేదా ఆన్ చేయబడి ఉన్నాsoftap పని చేయదు. మీరు softap  ను వాడాలి అని అనుకుంటే దయచేసి బ్లూ టూత్ డిజేబుల్ చేయబడి ఉన్నది అని ధృవీకరించుకోండి."</string>
+<string name="softap_need_mobile_data_enabled">"పార్తిబుల్ Wi-Fi హాట్ స్పాటుకు మొబైల్ డాటా అనుసంధానం అవసరం,అదనపు ఖర్చును కలిగించవచ్చు."</string>
+<string-array name="light_color_picker">
+<item>"ఆకుపచ్చ రంగు"</item>
+<item>"బ్లూ"</item>
+<item>"నీలిరంగు"</item>
+<item>"వంగ రంగు"</item>
+<item>"గులాబీ"</item>
+<item>"ఎరుపు"</item>
+<item>"పసుపుపచ్చ"</item>
+</string-array>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2012,2013 Thundersoft Corporation
+    All rights Reserved
+
+     Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ucomm.sns</string>
+    <string name="sns_label_share">Paylaş</string>
+    <string name="sns_label_account_setup">Hesap ayarları</string>
+    <string name="sns_label_more_share">Diğer paylaşım</string>
+    <string name="sns_label_bind">Bağlan</string>
+    <string name="sns_label_unbind">Bağlantıyı kes</string>
+    <string name="sns_label_hide_location">Yer bilgisi gizli</string>
+    <string name="sns_msg_getting_location">Yer bilgisi alınıyor…</string>
+    <string name="sns_msg_please_choose_share_account">Paylaşılacak hesabı seçin.</string>
+    <string name="sns_msg_missing_share_pic">Lütfen resmi seçmek için küçük resme dokunun, ve paylaşın</string>
+    <string name="sns_msg_fail_login">Giriş başarısız, lütfen daha sonra tekrar deneyin.</string>
+    <string name="sns_msg_connecting">Bağlanıyor…</string>
+    <string name="sns_msg_loading">Yükleniyor…</string>
+    <string name="sns_msg_network_unavailable">Ağ kullanılabilir değil, lütfen daha sonra tekrar deneyin.</string>
+    <string name="sns_msg_from_ucam">UCam\'den</string>
+    <string name="sns_title_account_settings">Hesap ayarları</string>
+    <string name="sns_title_share_to">Paylaş…</string>
+    <string name="sns_title_share">Paylaş</string>
+    <string name="sns_title_sync">Eşitleniyor</string>
+    <string name="sns_title_login">Giriş yap</string>
+    <string name="sns_title_privacy">Gizlilik Bildirimi</string>
+    <string name="sns_msg_privacy">Kullanıcılarının gizliliğine saygı göstermek, UCam\'in politikasıdır. \n
+            UCam, SNS sitelerine erişmek için "OAuth" gibi güvenlik protokollerini kullanır, bu nedenle hesap bilgilerinize doğrudan erişimi yoktur. \n
+        UCam, herhangi bir yasa, yönetmelik, mahkeme celbi ya da mahkeme çağrısı durumu olmadıkça; polis veya devlet yetkilileri usulüne uygun olarak istemedikçe, bu bildiride tanımlananların dışında sizin yazılı izniniz olmadan hiç bir hesap bilginizi paylaşmaz ya da yayınlamaz.</string>
+    <string name="sns_ucam_share">#UCam Fotoğraf Paylaşımı#</string>
+    <string name="sns_toast_location_error">Yer bilgisi alınamadı</string>
+    <string name="text_activity_is_not_found">Uygun bir uygulama bulunamadı</string>
+    <string name = "text_edit_share_title">Bu işlem için kullan.</string>
+    <string name = "edit_operation_failure_tip">İşlem başarısız.</string>
+    <string name="sns_label_line_share">LINE</string>
+    <string name="sns_msg_no_install_line_app">LINE uygulaması yüklenmedi.</string>
+
+    <string name="sohu400">Aynı durum 5 dakika içinde tekrar kabul edilemez.</string>
+    <string name="sns_share_type_time">Hemen paylaş</string>
+    <string name="sns_share_type_onekey">Paylaşım etiketi</string>
+    <string name="sns_share_select_hint">Fotoğrafı değiştirmek için lütfen buraya tıklayınız.</string>
+    <string name="text_image_share_damage">Fotoğraf paylaşılamıyor.</string>
+    <string name="sns_share_failed">Paylaşım başarısız oldu!</string>
+</resources>

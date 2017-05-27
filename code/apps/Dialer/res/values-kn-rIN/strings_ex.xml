@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IPಡಯಲ್ ಜೋಡಣೆ"</string>
+    <string name="ip_dial_menu">"IP ಡಯಲ್"</string>
+    <string name="ip_dialing_title">"IP ಡಯಲಿಂಗ್"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">" ವೇಗದ ಡಯಲ್ ಜೋಡಣೆ"</string>
+    <string name="no_fast_dial_number">"ವೇಗದ ಡಯಲ್ ಸಂಖ್ಯೆ ಜೋಡಣೆಯಾಗಿಲ್ಲ""</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"ಹೊರಹೋಗುತ್ತಿರುವ"</string>
+     <string name="call_log_incoming_title">"ಒಳಬರುತ್ತಿರುವ"</string>
+     <string name="recentOutgoing_empty">"ನೀವು ಹೊರಹೋಗುವ ಕರೆಗಳನ್ನು ಹೊಂದಿಲ್ಲ."</string>
+     <string name="recentIncoming_empty">"ನೀವು ಒಳಬರುವ ಕರೆಗಳನ್ನು ಹೊಂದಿಲ್ಲ."</string>
+     <string name="view_setting">"ನೋಡಿ"</string>
+     <string name="item_all_calls">"ಎಲ್ಲಾ ಕರೆ ಪಟ್ಟಿ"</string>
+     <string name="item_sim_calls">"SIM%d ಕರೆ ಪಟ್ಟಿಗಳು"</string>
+     <string name="unselect_all">"ಎಲ್ಲ ಆಯ್ಕೆಗಳನ್ನು ರದ್ದು ಮಾಡಿ"</string>
+     <string name="select_all_sprd">ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ</string>
+     <string name="doneButton">"ಆಯ್ತು"</string>
+     <string name="cancel">"ರದ್ದು"</string>
+     <string name="delete_selected_calls">"ನೀವು ಆಯ್ದುಕೊಂಡಿರುವ ದಾಖಲೆಗಳನ್ನು ಅಳಿಸಬೇಕೆಂದು ಖಚಿತವಾಗಿ ಬಯಸುರುವಿರಾ?"</string>
+     <string name="clearCallLogProgress_title">"ಕರೆ ಲಾಗ್ ನಿರಭ್ರಗೊಳಿಸಲಾಗುತ್ತದೆ\u2026"</string>
+     <string name="delete_success">"ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ"</string>
+     <string name="clear_all_call_log">"ಎಲ್ಲ ಕರ್ ಪಟ್ಟಿಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ"</string>
+     <string name="clear_selected_call_log">"ಆಯ್ಕೆ ಮಾಡಿರುವ ಕರೆ ಪಟ್ಟಿಯನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
+     <string name="select_all">ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆ ಮಾಡಿ</string>
+     <string name="unselect_all">"ಎಲ್ಲವನ್ನೂ ಡಿಸೆಲೆಕ್ಟ್ ಮಾಡಿ"</string>
+     <string name="delete_all_calls_confirm">"ನಿಮ್ಮ ಎಲ್ಲಾ ದಾಖಲೆಗಳನ್ನು ಅಳಿಸಿಹಾಕ ಬಯಸುವಿರೇ?"</string>
+     <string name="do_not_select">"ನೀವು ದಾಖಲೆಯನ್ನು ಮಾಡಲು ಅಳಿಸು ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕಾಗಿಲ್ಲ"</string>
+     <string name="delete_calls">"ಅಳಿಸಿ"</string>
+     <string name="number_anr_isnull">"ಸಂಪರ್ಕ ಸಂಖ್ಯೆ ಖಾಲಿಯಾಗಿದೆ"</string>
+     <string name="call_recording_setting_title">"ಕರೆಯ ಧ್ವನಿಮುದ್ರಿಸುವುದು" </string>
+     <string name="automatic_recording_title">"ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಧ್ವನಿಮುದ್ರಿಸುವುದು" </string>
+     <string name="dialog_phone_permission_deny">"IP ಡಯಲ್ ಬಳಸಲು,\n ಫೋನ್ ಅನುಮತಿಯನ್ನು ಆನ್ ಮಾಡಿ."</string>
+     <string name="search_description">"ಕರೆಪಟ್ಟಿ ಹುಡುಕಿ"</string>
+     <string name="call_log_add_to_blacklist">"ಕಪ್ಪುಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"</string>
+     <string name="make_video_call_menu">"ವೀಡಿಯೊ ಕರೆ ಮಾಡಿ"</string>
+
+</resources>

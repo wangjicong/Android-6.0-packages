@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="application_name">လန္ခ်ာ3</string>
+    <string name="home">အိမ္</string>
+    <string name="uid_name">အဲန္းဒရိုက္ Core ေအပီပီမ်ား</string>
+    <string name="folder_name"></string>
+    <string name="activity_not_found">အပလီေကးရွင္း ထည့္သြင္းခ်င္းမလုပ္ရေသးပါ</string>
+    <string name="activity_not_available">အက္ပ္ မရွိပါ</string>
+    <string name="safemode_shortcut_error">ေဒါင္းလုဒ္လုပ္ထားသည့္ အက္ပ္ကုိ လံုျခံဳေရးမုဒ္တြင္ ပိတ္ထားသည္</string>
+    <string name="safemode_widget_error">လံုျခံဳေရးမုဒ္တြင္ ဝစ္ဂ်စ္မ်ားကုိ ပိတ္ထားသည္</string>
+    <string name="widgets_tab_label">ဝွစ္ဂ်စ္မ်ား</string>
+    <string name="widget_adder">ဝွစ္ဂ်စ္မ်ား</string>
+    <string name="toggle_weight_watcher">"မွတ္ဥာဏ္ေနရာ ေဖါ ္ျပ"</string>
+    <string name="long_press_widget_to_add">ထိ  ဖိကိုင္ျပီး ဝွစ္ဂ်စ္တခုကိုယူပါ.</string>
+    <string name="widget_dims_format">"%1$d \u00d7 %2$d"</string>
+    <string name="external_drop_widget_error">မူလဖန္သားျပင္တြင္တြင္ အိုင္တမ္မ်ားကို ဆြဲ၍ မရႏိုင္ပါ.</string>
+    <string name="external_drop_widget_pick_title">ဖန္တီးမည့္ ဝွစ္ဂ်စ္ကိုေရြးပါ</string>
+    <string name="rename_folder_label">ဖိုဒါအမည္</string>
+    <string name="rename_folder_title">ဖိုဒါကို နာမည္ျပန္ေပးမည္</string>
+    <string name="rename_action">အုိေက</string>
+    <string name="cancel_action">ပယ္ဖ်က္ပါ</string>
+    <string name="menu_item_add_item">ပင္မ ဖန္သားျပင္သို႔ေပါင္းထည့္မည္</string>
+    <string name="group_applications">အပလီေကးရွင္းမ်ား</string>
+    <string name="group_shortcuts">ေရွာ့ကပ္မ်ား</string>
+    <string name="group_widgets">ဝွစ္ဂ်စ္မ်ား</string>
+    <string name="completely_out_of_space">သင့္မူလမ်က္ႏွာျပင္တြင္ အခန္းမ်ား မရွိေတာ့ပါ</string>
+    <string name="out_of_space">ဤပင္မ ဖန္သားျပင္တြင္ ေနရာလြတ္မရွိပါ</string>
+    <string name="hotseat_out_of_space">စိတ္ႀကိဳက္လင္ဗန္းထဲတြင္ ေနာက္ထပ္အခန္းမ်ား မရွိပါ</string>
+    <string name="invalid_hotseat_item">ဤဝစ္ဂ်စ္သည္ စိတ္ႀကိဳက္လင္ဗန္းအတြက္ ႀကီးလြန္းေနသည္</string>
+    <string name="shortcut_installed">ျဖတ္လမ္း \"<xliff:g id="name" example="Browser">%s</xliff:g>\" ဖန္တီးျပီး</string>
+    <string name="shortcut_uninstalled">ျဖတ္လမ္း \"<xliff:g id="name" example="Browser">%s</xliff:g>\" ဖယ္႐ွားျပီးျဖစ္သည္</string>
+    <string name="shortcut_duplicate">ျဖတ္လမ္း \"<xliff:g id="name" example="Browser">%s</xliff:g>\" မွာ ႐ွိျပီးသားျဖစ္သည္</string>
+    <string name="title_select_shortcut">ေရွာ့ကတ္ ကိုေရြးပါ</string>
+    <string name="title_select_application">အပလီေကးရွင္း ေရြးခ်ယ္ပါ</string>
+    <string name="all_apps_button_label">အပလီေကးရွင္းမ်ား</string>
+    <string name="all_apps_home_button_label">အိမ္</string>
+    <string name="delete_zone_label_workspace">ဖယ္႐ွားပါ</string>
+    <string name="delete_zone_label_all_apps">ပယ္ဖ်က္မည္</string>
+    <string name="delete_target_label">ဖယ္႐ွားပါ</string>
+    <string name="delete_target_uninstall_label">ပယ္ဖ်က္မည္</string>
+    <string name="info_target_label">အက္ပ္အခ်က္အလက္</string>
+    <string name="accessibility_all_apps_button">အပလီေကးရွင္းမ်ား</string>
+    <string name="accessibility_delete_button">ဖယ္႐ွားပါ</string>
+    <string name="delete_zone_label_all_apps_system_app">"ပယ္ဖ်က္ျခင္းကိုအပ္ဒိတ္လုပ္မည္"</string>
+    <string name="cab_menu_delete_app">"အပလီေကးရွင္း ပယ္ဖ်က္မည္"</string>
+    <string name="cab_menu_app_info">"ပ႐ိုဂရမ္အေသးစိတ္"</string>
+    <string name="cab_app_selection_text">"ပ႐ိုဂရမ္ 1 ခုေ႐ြးျပီး"</string>
+    <string name="cab_widget_selection_text">"၀ွစ္ဂ်စ္ တစ္ခု ကို ေရြးခ်ယ္ျပီး"</string>
+    <string name="cab_folder_selection_text">"ဖုိင္တြဲ1 ခုေ႐ြးျပီး"</string>
+    <string name="cab_shortcut_selection_text">"ေရွာ႔ကတ္ 1 ခုေရြးထားသည္"</string>
+    <string name="permlab_install_shortcut">ေရွာ့ကတ္ မ်ားသြင္းပါ</string>
+    <string name="permdesc_install_shortcut">"သံုးစြဲသူ ေနွာင့္ယွက္မႈမရွိဘဲ ေရွာ့ကတ္မ်ားထည့္ရန္ ေအပီပီကိုခြင့္ျပဳပါ."</string>
+    <string name="permlab_uninstall_shortcut">ေရွာ႔ကတ္ သြင္းထားျခင္းျဖဳတ္မည္</string>
+    <string name="permdesc_uninstall_shortcut">"သံုးစြဲသူ ေနွာင့္ယွက္မွုမရွိဘဲ ေရွာ့ကတ္မ်ားဖယ္ရွားရန္ ေအပီပီကိုခြင့္ျပဳပါ."</string>
+    <string name="permlab_read_settings">ပင္မ အျပင္အဆင္မ်ားႏွင့္ ေရွာ့ကတ္ မ်ားဖတ္ပါ</string>
+    <string name="permdesc_read_settings">"မူလလ္ုက္ကာတြင္ ဆက္တင္မ်ားနွင့္ ေရွာ့ကပ္မ်ား ဖတ္ရန္ ေအပီပီဖြင့္ပါ."</string>
+    <string name="permlab_write_settings">ပင္မ အျပင္အဆင္မ်ားႏွင့္ ေရွာ့ကတ္ မ်ားေရးပါ</string>
+    <string name="permdesc_write_settings">"မူလမ်က္ႏွာျပင္တြင္ အျပင္အဆင္မ်ားနွင့္ ေရွာ့ကတ္ မ်ား ေျပာင္းရန္ ေအပီပီကိုခြင့္ျပဳပါ."</string>
+    <string name="gadget_error_text">3ွစ္ဂ်စ္မ်ား ဖြင့္ရာတြင္ ျပႆနာရွိေနသည္</string>
+    <string name="gadget_setup_text">"အသံေမးလ္အဆင္အျပင္မ်ား"</string>
+    <string name="uninstall_system_app_text">"ဤ စစ္စတမ္ အပလီေကးရွင္း ထည့္သြင္း၍မရပါ။"</string>
+    <string name="dream_name">ေရာ့ကတ္ လန္ခ်ာ</string>
+    <string name="folder_hint_text">"အမည္မေပးထားေသာဖိုင္တြဲ"</string>
+    <string name="workspace_description_format">မူလဖန္သားျပင္%1$d</string>
+    <string name="default_scroll_format">"စာမ်က္ႏွာ %2$d ႐ွိ %1$d"</string>
+    <string name="workspace_scroll_format">"မူလဖန္သားျပင္ %1$d ၏ %2$d"</string>
+    <string name="apps_customize_apps_scroll_format">"ပ႐ိုဂရမ္စာမ်က္ႏွာ %2$d ႐ွိ %1$d"</string>
+    <string name="apps_customize_widgets_scroll_format">"၀ွစ္ဂ်စ္မ်ား စာမ်က္ႏွာ%2$d အနက္ %1$d"</string>
+    <string name="first_run_cling_title">ၾကိဳဆိုပါ၏</string>
+    <string name="first_run_cling_description">"ကိုယ့္အိမ္လိုသေဘာထားပါ"</string>
+    <string name="first_run_cling_custom_content_hint"></string>
+    <string name="first_run_cling_search_bar_hint"></string>
+    <string name="first_run_cling_create_screens_hint">"အပလီေကးရွင္းမ်ားနွင့္ ဖိုင္တြဲမ်ားအတြက္ ဖန္သားျပင္မ်ားဖန္တီးပါ"</string>
+    <string name="migration_cling_title">သင့္အက္ပ္အုိင္ကြန္ကုိ ေကာ္ပီကူးပါ</string>
+    <string name="migration_cling_description">သင့္ မူလဖန္သားျပင္အေဟာင္းမွ အုိင္ကြန္မ်ားႏွင့္ ဖုိင္တြဲမ်ားကုိ တင္သြင္းမလား?</string>
+    <string name="migration_cling_copy_apps">ေကာ္ပီ အုိင္ကြန္မ်ား</string>
+    <string name="migration_cling_use_default">လန္းဆန္းမႈ စတင္ပါ</string>
+    <string name="workspace_cling_title">"သင္၏ေနရာလြတ္ကို စုစည္းပါ"</string>
+    <string name="workspace_cling_move_item">"ပိုစတာ ,ဝွစ္ဂ်စ္မ်ားနွင့္ အျပင္အဆင္မ်ားအား စီမံရန္ ေနာက္ခံကို ထိ ဖိကိုင္ပါ."</string>
+    <string name="workspace_cling_longpress_title">ေနာက္ခံအခင္းအက်င္း၊ ဝစ္ဂ်စ္မ်ား၊ ႏွင့္ ဆက္တင္မ်ား</string>
+    <string name="workspace_cling_longpress_description">စိတ္ၾကိဳက္သတ္မွတ္ရန္ ေနာက္ခံကုိ ထိၿပီးကုိင္ထားပါ</string>
+    <string name="workspace_cling_longpress_dismiss">အဲဒါရျပီ</string>
+    <string name="folder_cling_title">"ဖိုင္တြဲတစ္ခုျဖစ္ေနသည္"</string>
+    <string name="folder_cling_create_folder">"ဤကဲ့သို႔တစ္္ခုဖန္တီးရန္,ေအပီပီကို ထိ  ဖိကိုင္ပါ, ထို႔ေနာက္ တျခားသို႔ေရႊ႕ပါ."</string>
+    <string name="cling_dismiss">အုိေက</string>
+    <string name="folder_opened">ဖိုင္ဖြင့္ထားသည္။  <xliff:g id="width" example="5">%1$d</xliff:g> by <xliff:g id="height" example="3">%2$d</xliff:g></string>
+    <string name="folder_tap_to_close">"စာတြဲဖိုင္ပိတ္ရန္ထိပါ"</string>
+    <string name="folder_tap_to_rename">"အမည္ျပန္ေပးျခင္းကို သိမ္းရန္ ထိပါ"</string>
+    <string name="folder_closed">"ဖိုင္တြဲပိတ္ျပီး"</string>
+    <string name="folder_renamed">"<xliff:g id="name" example="Games">%1$s</xliff:g>သို႔ ဖိုင္တြဲအမည္ျပန္ေပးျပီးျပီ "</string>
+    <string name="folder_name_format">"ဖိုင္တြဲ: <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+    <string name="widget_button_text">ဝွစ္ဂ်စ္မ်ား</string>
+    <string name="wallpaper_button_text">ပိုစတာမ်ား</string>
+    <string name="settings_button_text"> ဆက္တင္မ်ား</string>
+    <string name="package_state_enqueued">ေစာင့္ေနသည္</string>
+    <string name="package_state_downloading">ေဒါင္းလုဒ္လုပ္ေနဆဲ</string>
+    <string name="package_state_installing">ထည့္သြင္းေနသည္</string>
+    <string name="package_state_unknown">"မသိ"</string>
+    <string name="package_state_error">ျပန္လည္မရယူထားပါ</string>
+    <string name="abandoned_clean_all">အားလံုးကုိ ဖယ္ရွားပါ</string>
+    <string name="abandoned_clean_this">ဖယ္႐ွားပါ</string>
+    <string name="abandoned_search">႐ွာေဖြခ်က</string>
+    <string name="abandoned_promises_title">ဤအက္ပ္ကုိ မထည့္သြင္းထားပါ</string>
+    <string name="abandoned_promise_explanation">ဤအုိင္ကြန္အတါက္ အက္ပ္ကုိ မထည့္သြင္းထားပါ။
+        ၎ကုိ ဖယ္ရွားႏုိင္ပါသည္ (သုိ႕) အက္ပ္ကုိ ရွာၿပီး ကုိယ္တုိင္ ထည့္သြင္းႏုိင္ပါသည္။
+    </string>
+    <string name="circular_sliding">ဒက္စ္ေတာ့ လွည့္</string>
+
+    <string name="input_too_long">ထည့္သြင္းေသာအခ်က္အလက္အရမ္းရွည္ပါသည္</string>
+
+    <string name="dummy_custom_cling_error_message">အမွား- စိတ္ႀကိဳက္ လုပ္ေဆာင္မည့္ပမာဏ ပံုစံကုိ ရရွိၿပီးျဖစ္သည္၊ သုိ႔ေသာ္ စိတ္ႀကိဳက္ ကလင္းကုိ ထပ္ေရးပစ္ျခင္း မရွိပါ။</string>
+    <string name="ooredoo_card_notify">ေက်းဇူးျပဳ၍အူရီဒူးဆင္းကတ္ကိုSIM 1 ေနရာတြင္ထည့္ပါ။</string>
+</resources>

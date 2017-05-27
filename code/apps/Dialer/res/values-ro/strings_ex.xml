@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Setări apel IP"</string>
+    <string name="ip_dial_menu">"apel IP"</string>
+    <string name="ip_dialing_title">"Apelare IP"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Setări apel rapid"</string>
+    <string name="no_fast_dial_number">"Numărul de apelare rapidă nu a fost stabilit"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">Expediate</string>
+     <string name="call_log_incoming_title">"Primire apel"</string>
+     <string name="recentOutgoing_empty">"Nu aveți apeluri formate."</string>
+     <string name="recentIncoming_empty">"Nu aveți apeluri primite."</string>
+     <string name="view_setting">"Vizualizare"</string>
+     <string name="item_all_calls">Jurnalul tuturor apelurilor</string>
+     <string name="item_sim_calls">"Registru apeluri SIM%d"</string>
+     <string name="unselect_all">Deselectare toate</string>
+     <string name="select_all_sprd">Selectare toate</string>
+     <string name="doneButton">Terminat</string>
+     <string name="cancel">Anulare</string>
+     <string name="delete_selected_calls">"Sigur doriți să ștergeți înregistrările selectate?"</string>
+     <string name="clearCallLogProgress_title">"Golire jurnal apeluri\u2026"</string>
+     <string name="delete_success">"Ștergere reușită"</string>
+     <string name="clear_all_call_log">"Şterge toate jurnalele de apeluri"</string>
+     <string name="clear_selected_call_log">"Şterge registrul de apeluri selectat"</string>
+     <string name="select_all">Selectare toate</string>
+     <string name="unselect_all">"Deselectează totul"</string>
+     <string name="delete_all_calls_confirm">"Confirmaţi că doriţi să ştergeţi înregistrările selectate?"</string>
+     <string name="do_not_select">"Nu aţi selectat o înregistrare pentru ştergere"</string>
+     <string name="delete_calls">Ştergere</string>
+     <string name="number_anr_isnull">"Numărul de contact este necompletat"</string>
+     <string name="call_recording_setting_title">"Înregistrare apel"</string>
+     <string name="automatic_recording_title">"Înregistrare automată"</string>
+     <string name="dialog_phone_permission_deny">"Pentru a folosi apelarea IP,\n activați permisiunea telefon."</string>
+     <string name="search_description">cautati Jurnalul de apeluri </string>
+     <string name="call_log_add_to_blacklist">"Adaugă la lista neagră"</string>
+     <string name="make_video_call_menu">"Inițiați un apel video"</string>
+
+</resources>

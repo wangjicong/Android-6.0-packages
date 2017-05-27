@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2015 SPRD Passpoint R1 Feature
+-->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:fadeScrollbars="false">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="8dip">
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    style="@style/wifi_item" >
+                <EditText android:id="@+id/priority"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_edit_content"
+                        android:hint="@string/passpoint_priority_hint"
+                        android:maxLength="32"
+                        android:singleLine="true"
+                        android:inputType="number" />
+                <EditText android:id="@+id/domain"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_edit_content"
+                        android:hint="@string/passpoint_domain_hint"
+                        android:maxLength="32"
+                        android:singleLine="true"
+                        android:inputType="textNoSuggestions" />
+                <EditText android:id="@+id/realm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_edit_content"
+                        android:hint="@string/passpoint_realm_hint"
+                        android:maxLength="32"
+                        android:singleLine="true"
+                        android:inputType="textNoSuggestions" />
+                <EditText android:id="@+id/roam"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_edit_content"
+                        android:hint="@string/passpoint_roam_hint"
+                        android:maxLength="32"
+                        android:singleLine="true"
+                        android:inputType="textNoSuggestions" />
+                <EditText android:id="@+id/username"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_edit_content"
+                        android:hint="@string/passpoint_username_hint"
+                        android:maxLength="32"
+                        android:singleLine="true"
+                        android:inputType="textNoSuggestions" />
+                 <EditText android:id="@+id/password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_edit_content"
+                        android:hint="@string/passpoint_password_hint"
+                        android:maxLength="64"
+                        android:singleLine="true"
+                        android:password="true"
+                        android:inputType="textNoSuggestions" />
+                <CheckBox android:id="@+id/show_password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_content"
+                        android:textSize="14sp"
+                        android:text="@string/wifi_show_password" />
+          </LinearLayout>
+
+           <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    style="@style/wifi_item" >
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:minEms="16"
+                        style="@style/wifi_item_label"
+                        android:text="@string/passpoint_eap_security" />
+
+                <Spinner android:id="@+id/eap_method"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_content"
+                        android:prompt="@string/passpoint_eap_security"
+                        android:entries="@array/passpoint_eap_security" />
+            </LinearLayout>
+
+        <LinearLayout android:id="@+id/security_fields"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/wifi_section"
+                android:visibility="visible">
+
+            <!-- EAP-TLS -->
+            <LinearLayout android:id="@+id/eap_tls"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item"
+                        android:visibility="gone">
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_label"
+                        android:text="@string/eap_tls_ca_certificate" />
+                <Spinner android:id="@+id/tls_ca_cert"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_content"
+                        android:prompt="@string/eap_tls_ca_certificate" />
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_label"
+                        android:text="@string/eap_tls_user_certificate" />
+                <Spinner android:id="@+id/tls_user_cert"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_content"
+                        android:prompt="@string/eap_tls_user_certificate" />
+            </LinearLayout>
+            <!-- EAP-TLS -->
+
+            <!-- EAP-TTLS -->
+            <LinearLayout android:id="@+id/eap_ttls"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item"
+                        android:visibility="gone">
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_label"
+                        android:text="@string/eap_ttls_sec_auth" />
+                <Spinner android:id="@+id/ttls_sec_auth"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_content"
+                        android:prompt="@string/eap_ttls_sec_auth"
+                        android:entries="@array/wifi_phase2_entries" />
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_label"
+                        android:text="@string/eap_ttls_ca_certificate" />
+                <Spinner android:id="@+id/ttls_ca_cert"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_content"
+                        android:prompt="@string/eap_ttls_ca_certificate" />
+            </LinearLayout>
+            <!-- EAP-TTLS -->
+
+            <!-- EAP-SIM/AKA -->
+            <LinearLayout android:id="@+id/eap_sim"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item"
+                        android:visibility="gone">
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_label"
+                        android:text="@string/eap_sim_selection" />
+                <Spinner android:id="@+id/sim_select"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_content"
+                        android:prompt="@string/eap_sim_selection" />
+            </LinearLayout>
+            <!-- EAP-SIM/AKA -->
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

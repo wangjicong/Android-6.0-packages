@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"إعدادات USB"</string>
+<string name="usb_charge_only">"الشحن فقط"</string>
+<string name="usb_charge_only_summary">"استخدام وضعية الشحن فقط عند توصيل USB"</string>
+<string name="usb_charge_only_storage_active_subtext">"لا يمكن الشحن فقط عند استخدام تخزين USB"</string>
+<string name="usb_charge_only_notification">"التوصيل كشاحن فقط"</string>
+<string name="usb_storage">"‏وحدة تخزين USB"</string>
+<string name="usb_storage_summary">"‏تمكين تخزين USB كبير السعة"</string>
+<string name="ums_settings">"إعدادات نظام المراسلة الموحد UMS"</string>
+<string name="ums_mounted_setting">"تركيب ums إلى PC الآن، من فضلك الانتظار..."</string>
+<string name="ums_unmounted_setting">"إزالة تركيب ums من PC الآن، من فضلك الانتظار..."</string>
+<string name="usb_virtual_drive">"محرك USB الافتراضي"</string>
+<string name="usb_virtual_drive_summary">"تمكين محرك USB الافتراضي"</string>
+<string name="remember_choice">"تذكر اختياري"</string>
+<string name="remember_choice_summary">"تذكر خياري و ابدأ بالوظيفة المتذكرة تلقائيا في المرة التالية"</string>
+<string name="stand_by_set_changed_prompt">"سوف تتغير حالة تفعيل Sim, من فضلك قم التأكيد للمواصلة؟"</string>
+<string name="not_stand_by">"ممنوع"</string>
+<string name="primary_card_switching">"إعداد \uff0cيرجى الانتظار..."</string>
+<string name="toggle_data_change_message">"انتقل اتصال البيانات إلى بطاقة SIM <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>، ستقوم بنقل البيانات وفرض الرسوم المقابلة لذلك، يرجى الانتباه."</string>
+<string name="select_primary_card">"إختر البطاقة الأساسية"</string>
+<string name="whether_switch_primary_card">"يرجى التأكيد إذا كنت ترغب بنقل البطاقة الأساسية لتصبح هذه البطاقة؟\n(سيتم نقل البيانات الخليوية كذلك إلى هذه البطاقة.)"</string>
+<string name="attention">"اهتمام"</string>
+<string name="bt_softap_cannot_coexist">"عندما يتم تفعيل softab أو يكون مفتوح ، فإن البلوتوث لا يمكن أن يعمل. إذا أردت إستخدام البلوتوث فمن فضلك قم بإطفاء softab."</string>
+<string name="softap_bt_cannot_coexist">"عند تمكين البلوتوث أو تشغيله، فلا يمكن أن تعمل softap، إذا أردت استخدام softap، يرجى التأكد من أن البلوتوث معطل."</string>
+<string name="softap_need_mobile_data_enabled">"تحتاج Wi-Fi إلى اتصال بيانات الموبايل، قد يزيد هذا من التكلفة."</string>
+<string-array name="light_color_picker">
+<item>"أخضر"</item>
+<item>"أزرق"</item>
+<item>"نيلي"</item>
+<item>"أرجواني"</item>
+<item>"قرنفلي"</item>
+<item>"أحمر"</item>
+<item>"أصفر"</item>
+</string-array>
+</resources>

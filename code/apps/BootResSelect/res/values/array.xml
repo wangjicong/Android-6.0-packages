@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="animlist" translatable="false">
+		<item>@string/animation_sound_1</item>
+		<item>@string/animation_sound_2</item>
+		<item>@string/animation_sound_3</item>
+		<item>@string/animation_sound_4</item>
+		<item>@string/animation_sound_5</item>
+		<item>@string/animation_sound_6</item>
+		<item>@string/animation_sound_7</item>
+		<item>@string/animation_sound_8</item>
+		<item>@string/animation_sound_9</item>
+	</string-array>
+</resources>

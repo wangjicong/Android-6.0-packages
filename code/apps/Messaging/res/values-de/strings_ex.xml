@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Signatur"</string>
+<string name="pref_title_sms_retry_times">Erneuten SMS-Versuch aktivieren</string>
+<string name="preference_name">"Gängige Redewendung"</string>
+<string name="select">"Ausgewählt"</string>
+<string name="item_cancel">Abbrechen</string>
+<string name="item_delete">Löschen</string>
+<string name="save_as_teltype">"Über Telefon"</string>
+<string name="save_as_mmstype">"Über SMS"</string>
+<string name="type_to_pharser">"Allgemeinen Satz eingeben"</string>
+<string name="add">"Hinzufügen"</string>
+<string name="edit">Bearbeiten</string>
+<string name="delete">Löschen</string>
+<string name="finish">"Fertig"</string>
+<string name="cancel">Abbrechen</string>
+<string name="add_pharser">"Allgemeinen Satz hinzufügen"</string>
+<string name="edit_pharser">"Gängige Redewendung bearbeiten"</string>
+<string name="pharser_can_modify">"Benutzerdefinierter allgemeiner Satz"</string>
+<string name="pharser_cannot_modify">"Allgemeinen Satz korrigieren"</string>
+<string name="select_item">"Sie haben gewählt"</string>
+<string name="select_commmon_phrase">Redewendung auswählen</string>
+<string name="common_phrase_empty">"Keine gängigen Redewendungen"</string>
+<string name="action_add_phrase">"Allgemeinen Satz einfügen"</string>
+<string name="pref_other_settings_title">"Sonstige"</string>
+<string-array name="fixed_mms_phrase">
+<item>Bitte rufen Sie mich im Büro an, danke.</item>
+<item>Bite kontaktieren Sie mich, danke.</item>
+<item>Bitte teilen Sie mir Ihren Aufenthaltsort mit.</item>
+<item>Bitte rufen Sie mich später auf meinem Handy an, danke.</item>
+<item>Ich bin abwesend. Ich rufe ich Sie zurück, sobald ich wieder da bin.</item>
+<item>"Ich fahre gerade und werde später antworten."</item>
+<item>"Ich bin auf dem Weg und komme gleich an."</item>
+<item>Entschuldigung, ich stecke im Stau fest, es wird noch etwas dauern.</item>
+<item>Ich rufe später zurück.</item>
+<item>Ich bin in einer Besprechung.Ich antworte später.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Kann jetzt nicht sprechen. Was gibt\'s?"</item>
+<item>"Ich rufe gleich zurück."</item>
+<item>"Ich rufe später zurück."</item>
+<item>"Kann jetzt nicht sprechen. Später?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Bitte rufen Sie mich später an oder schreiben Sie mir später."</item>
+</string-array>
+</resources>

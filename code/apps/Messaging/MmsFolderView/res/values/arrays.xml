@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="box_sort_menu_items">
+        <item>Inbox</item>
+        <item>Sent</item>
+        <item>Outbox</item>
+        <item>Drafts</item>
+    </string-array>
+</resources>

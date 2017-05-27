@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP-Wahl-Einstellung"</string>
+    <string name="ip_dial_menu">"IP-WAHL"</string>
+    <string name="ip_dialing_title">IP-Einwahl</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Schnellwahl-Einstellung"</string>
+    <string name="no_fast_dial_number">"Keine Schnellwahlnummer eingestellt."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"Ausgehend"</string>
+     <string name="call_log_incoming_title">"Eingehend"</string>
+     <string name="recentOutgoing_empty">"Sie haben keine ausgehenden Anrufe."</string>
+     <string name="recentIncoming_empty">"Sie haben keine eingehenden Anrufe."</string>
+     <string name="view_setting">"Ansicht"</string>
+     <string name="item_all_calls">"Alle Anrufprotokolle"</string>
+     <string name="item_sim_calls">"SIM%d-Anrufprotokolle"</string>
+     <string name="unselect_all">Auswahl aufheben</string>
+     <string name="select_all_sprd">"Alles auswählen"</string>
+     <string name="doneButton">Fertig</string>
+     <string name="cancel">Abbrechen</string>
+     <string name="delete_selected_calls">"Sind Sie sicher, dass Sie die ausgewählten Aufnahmen löschen wollen?"</string>
+     <string name="clearCallLogProgress_title">"Bereinigung von Anrufprotokoll\u2026"</string>
+     <string name="delete_success">"Erfolgreich gelöscht"</string>
+     <string name="clear_all_call_log">"Alle Anrufprotokolle löschen"</string>
+     <string name="clear_selected_call_log">"Ausgewählte Anrufprotokolle löschen"</string>
+     <string name="select_all">"Alles auswählen"</string>
+     <string name="unselect_all">"Gesamte Auswahl aufheben"</string>
+     <string name="delete_all_calls_confirm">"Wollen Sie alle Ihre eigenen Aufnahmen löschen?"</string>
+     <string name="do_not_select">"Sie haben keine Aufnahme zum Löschen ausgewählt"</string>
+     <string name="delete_calls">Löschen</string>
+     <string name="number_anr_isnull">"Die Kontaktnummer ist leer"</string>
+     <string name="call_recording_setting_title">"Anrufaufnahme"</string>
+     <string name="automatic_recording_title">"Automatische Aufnahme"</string>
+     <string name="dialog_phone_permission_deny">"Um die IP-Wahl zu verwenden,\n schalten Sie die Telefonberechtigung ein."</string>
+     <string name="search_description">"Anrufprotokoll suchen"</string>
+     <string name="call_log_add_to_blacklist">"Zur Sperrliste hinzufügen"</string>
+     <string name="make_video_call_menu">"Videoanruf starten"</string>
+
+</resources>

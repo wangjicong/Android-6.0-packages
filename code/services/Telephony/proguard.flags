@@ -1,0 +1,13 @@
+-verbose
+-keepclassmembers class **.R$* {
+public static <fields>;
+}
+-keep class com.android.phone.R {*;}
+-keep class com.android.phone.R$array
+-keep class com.sprd.phone.TeleServicePluginsHelper {*;}
+-keep class com.android.phone.R$xml
+-keepclassmembers class **.R$* {
+    public static <fields>;
+}
+-keep class com.android.phone.R$drawable
+-keep class com.android.phone.R$string

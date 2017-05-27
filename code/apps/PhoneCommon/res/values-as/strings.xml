@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_dialpad_overflow">"অধিক বিকল্প"</string>
+<string name="description_delete_button">"বেকস্পেচ"</string>
+<string name="description_image_button_plus">"যোগ"</string>
+<string name="description_voicemail_button">"ভয়েচমেইল"</string>
+<string name="default_notification_description">"ডিফল্ট চাউণ্ড (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="callFailed_userBusy">"লাইন ব্যস্ত"</string>
+<string name="callFailed_congestion">"নেটৱৰ্ক ব্যস্ত"</string>
+<string name="callFailed_timedOut">"কোনো সঁহাৰি নাই, সময় পাৰ হৈ গ’ল"</string>
+<string name="callFailed_server_unreachable">"চাৰ্ভাৰ ঢুকি পাব নোৱাৰি"</string>
+<string name="callFailed_number_unreachable">"নম্বৰ ঢুকি পাব নোৱাৰি"</string>
+<string name="callFailed_invalid_credentials">"অশুদ্ধ ব্যৱহাৰকৰ্তা নাম বা পাছৱৰ্ড।"</string>
+<string name="callFailed_out_of_network">"নেটৱৰ্ক কলৰ বাহির"</string>
+<string name="callFailed_server_error">"চাৰ্ভাৰ ত্ৰুটি। পিছত পুনৰ চেষ্টা কৰিব।"</string>
+<string name="callFailed_noSignal">"কোনো ছিগনেল নাই"</string>
+<string name="callFailed_limitExceeded">"ACM সীমা অতিক্ৰম কৰিছে"</string>
+<string name="callFailed_powerOff">"ৰেডিঅ অফ"</string>
+<string name="callFailed_simError">"SIM নাই বা SIM ত্ৰুটি"</string>
+<string name="callFailed_outOfService">"চেলুলাৰ নেটৱৰ্ক উপলব্ধ নহয়"</string>
+<string name="callFailed_fdn_only">"FDN ৰ দ্বাৰা বাহিৰলৈ যোৱা কলসমূহ নিষিদ্ধ কৰা হৈছে"</string>
+<string name="callFailed_cb_enabled">"কল বাৰিং অন থাকিলে বহিৰ্গামী কল কৰিব নোৱাৰি।"</string>
+<string name="callFailed_dsac_restricted">"প্ৰবেশাধিকাৰ নিয়ন্ত্ৰণৰ দ্বাৰা কল প্ৰতিবন্ধিত কৰা হৈছে।"</string>
+<string name="callFailed_dsac_restricted_emergency">"প্ৰবেশাধিকাৰ নিয়ন্ত্ৰণৰ দ্বাৰা জৰুৰী কল প্ৰতিবন্ধিত কৰা হৈছে।"</string>
+<string name="callFailed_dsac_restricted_normal">"প্ৰবেশাধিকাৰ নিয়ন্ত্ৰণৰ দ্বাৰা সাধাৰণ কল প্ৰতিবন্ধিত কৰা হৈছে।"</string>
+<string name="callFailed_unobtainable_number">"অবৈধ নম্বৰ"</string>
+<string name="incall_error_missing_voicemail_number">"ভইচমেইল নম্বৰ অজ্ঞাত।"</string>
+<string name="ringtone_silent">"নাই"</string>
+<string name="ringtone_unknown">"অজ্ঞাত ৰিংটোন"</string>
+</resources>

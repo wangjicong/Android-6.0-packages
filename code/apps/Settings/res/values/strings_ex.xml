@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- SPRD: add for usb function @{ -->
+    <string name="usb_settings">USB settings </string>
+    <string name="usb_charge_only">Charge only</string>
+    <string name="usb_charge_only_summary">Use charge only mode when USB connected</string>
+    <string name="usb_charge_only_storage_active_subtext">Can\'t charge only when USB storage in use</string>
+    <string name="usb_charge_only_notification">Connected as charge only</string>
+    <string name="usb_storage">USB storage </string>
+    <string name="usb_storage_summary">Enable USB mass storage </string>
+    <string name="ums_settings">"UMS Settings"</string>
+    <string name="ums_mounted_setting">"Mount ums to PC now, please wait..."</string>
+    <string name="ums_unmounted_setting">"Unmount ums from PC now, please wait..."</string>
+    <string name="usb_virtual_drive">"USB virtual drive"</string>
+    <string name="usb_virtual_drive_summary">"Enable USB virtual drive"</string>
+    <string name="remember_choice">Remember my choice</string>
+    <string name="remember_choice_summary">Remember my choice and start the remembered function automatically next time</string>
+    <!-- @} -->
+
+    <!-- SPRD: add option to enable/disable sim card @{ -->
+    <string name="stand_by_set_changed_prompt">"Sim activation state will be changed, please confirm whether to continue?"</string>
+    <string name="not_stand_by">"Forbidden"</string>
+    <string name="primary_card_switching">Setting\uff0cplease wait...</string>
+    <string name="toggle_data_change_message">Data connection has switched to sim card <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, it will produce data throughput and correlative charges, please note.</string>
+    <!-- @} -->
+    <string name="select_primary_card">"Select primary card"</string>
+    <string name="whether_switch_primary_card">Please confirm whether to switch primary card to this card?\n(Cellular data will also get shifted to the card.)</string>
+    <string name="attention">Attention</string>
+
+    <!-- SPRD: add for WIFI/BT function @{ -->
+    <string name="bt_softap_cannot_coexist">"When softap is enabled or is turning on, the bluetooth can not work, if you want to use the bluetooth, please make sure that the softap is disabled."</string>
+    <string name="softap_bt_cannot_coexist">"When bluetooth is enabled or is turning on, the softap can not work, if you want to use the softap, please make sure that the bluetooth is disabled."</string>
+    <string name="softap_need_mobile_data_enabled">"Portable Wi-Fi hotspot needs mobile data connect,may produce additional costs."</string>
+    <!-- @} -->
+    <!-- SPRD: Add for SignalCluster colorful. @{ -->
+    <string-array name="light_color_picker">
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Indigo</item>
+        <item>Purple</item>
+        <item>Pink</item>
+        <item>Red</item>
+        <item>Yellow</item>
+    </string-array>
+    <!-- @} -->
+    <string name="heartbeats_settings">HeartBeat Sync Settings</string>
+    <string name="heartbeats_settings_summary">The managed list of PowerGuru, battery life shrink when openning</string>
+    <!-- SPRD: Add for always online feature @{ -->
+    <string name="data_always_online">Mobile data always online</string>
+    <!-- SPRD: Add traffic class Info in APN editor. @{ -->
+    <string name="traffic_class">Traffic Class</string>
+    <!-- SPRD: Add for sim language @{ -->
+    <string name="edit_sim_lang">"Languages in SIM card"</string>
+    <string name="edit_sim_lang_more">"Edit languages in SIM card"</string>
+	<!-- smartwake settings up150115-->
+	<string name="smartwake_settings">Smart wake up</string>
+	<string name="gesture_smartwake">Gesture smart wake up</string>
+	<string name="smartwake_feature_selection">Feature Selection</string>
+	<string name="smartwake_change_music">Left/Right glide for switch music</string>
+	<string name="smartwake_double_click">Double tap for wake up screen</string>
+	<string name="smartwake_up">Up glide</string>
+	<string name="smartwake_down">Down glide</string>
+	<string name="smartwake_c">Draw C</string>
+	<string name="smartwake_e">Draw e</string>
+	<string name="smartwake_m">Draw M</string>
+	<string name="smartwake_o">Draw O</string>
+	<string name="smartwake_s">Draw S</string>
+	<string name="smartwake_v">Draw V</string>
+	<string name="smartwake_w">Draw W</string>
+	<string name="smartwake_z">Draw Z</string>
+	<string name="gesture_smartwake_summaryOn">On</string>
+	<string name="gesture_smartwake_summaryOff">Off</string>
+	<string name="gesture_music">Music</string>
+	<string name="gesture_camera">Camera</string>
+	<string name="gesture_dial">Dialpad</string>
+	<string name="gesture_video">Video</string>
+	<string name="gesture_browser">Browser</string>
+	<string name="gesture_google_play">Play store</string>
+	<string name="gesture_message">Message</string>
+	<string name="gesture_calc">Calc</string>
+	<string name="gesture_calendar">Calendar</string>
+	<string name="gesture_fileexplorer">File manager</string>
+	<string name="gesture_gallery">Gallery</string>
+	<string name="gesture_settings">Settings</string>	
+	<string name="gesture_unlock">Unlock</string>
+	<string name="gesture_email">Email</string>
+	<string name="gesture_bbm">BBM</string>
+    <!-- @} -->
+    <!-- SPRD: Add for bug 543820 Toggle master card reminder @{ -->
+    <string name="select_primary_slot_description">(Primary card supports WCDMA/GSM mode, secondary
+card only supports GSM mode.)</string>
+    <string name="select_primary_slot_description_4g">(Primary card supports 4G/3G/2G service, secon
+dary card only supports 2G service. )</string>
+    <!-- @} -->
+    <!-- SUN:jicong.wang add for sp time edit -->
+    <string name="sunvov_sp_time_edit_title" translatable="false">SP安装生效通话时间设置</string>
+    <string name="sunvov_sp_time_edit_hint" translatable="false">请输入大于2的整数</string>
+    <string name="sunvov_sp_time_edit_cancel" translatable="false">取消</string>
+    <string name="sunvov_sp_time_edit_save" translatable="false">保存</string> 
+    <string name="sunvov_sp_time_input_error" translatable="false">不能以0开头，请重新输入参数</string>
+    <string name="sunvov_sp_input_null" translatable="false">请输入时间参数后再保存</string>    
+    <string name="sunvov_sp_setting_successed" translatable="false">设置成功</string>       
+    <!-- SUN:jicong.wang add for sp time edit -->    
+</resources>

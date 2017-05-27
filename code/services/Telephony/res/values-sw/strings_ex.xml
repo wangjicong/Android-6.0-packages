@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">Zote zinazotoka</string>
+    <string name="messageAO">Ingiza paswadi ya simu zilizozuliwa.</string>
+    <string name="sum_ao_enabled_indicator">"Utumaji mbele simu zote"</string>
+    <string name="sum_ao_enabled">"Imewezeshwa"</string>
+    <string name="sum_ao_disabled">"Imelemazwa"</string>
+    <string name="enable_ao_forbidden">Keriya yako hakiingiliani na kuwezesha kuzuia simu zote zinazotoka.</string>
+    <string name="disable_ao_forbidden">Keriya yako hakiingiliani na kutokuwezesha kuzuia simu zote zinazotoka.</string>
+    <string name="labelOI">Zinazotoka kimataifa</string>
+    <string name="messageOI">Ingiza paswadi ya simu zilizozuliwa.</string>
+    <string name="sum_oi_enabled">"Imewezeshwa"</string>
+    <string name="sum_oi_disabled">"Imelemazwa"</string>
+    <string name="enable_oi_forbidden">"Mtoa huduma wako hahimili kuwezesha uzuiaji simu za kitaifa zinazotoka."</string>
+    <string name="disable_oi_forbidden">Keriya yako hakiingiliani na kutokuwezesha kuzuia simu za kimataifa zinazotoka.</string>
+    <string name="labelOX">Zinazotoka kimataifa roaming</string>
+    <string name="messageOX">Ingiza paswadi ya simu zilizozuliwa.</string>
+    <string name="sum_ox_enabled">"Imewezeshwa"</string>
+    <string name="sum_ox_disabled">"Imelemazwa"</string>
+    <string name="enable_ox_forbidden">Keriya yako hakiingiliani na kuwezesha kuzuia simu za kimataifa za roaming zinazotoka.</string>
+    <string name="disable_ox_forbidden">Keriya yako hakiingiliani na kutokuwezesha kuzuia simu za kimataifa za roaming zinazotoka.</string>
+    <string name="labelAI">Simu zote zinazoingia</string>
+    <string name="messageAI">Ingiza paswadi ya simu zilizozuliwa.</string>
+    <string name="sum_ai_enabled">"Imewezeshwa"</string>
+    <string name="sum_ai_disabled">"Imelemazwa"</string>
+    <string name="enable_ai_forbidden">"Keriya yako hakiingiliani na kuwezesha kuzuia simu zote zinazoingia."</string>
+    <string name="disable_ai_forbidden">Keriya yako hakiingiliani na kutokuwezesha kuzuia simu zote zinazoingia.</string>
+    <string name="labelIR">Simu zinazoingia wakati wa urandaji</string>
+    <string name="messageIR">Ingiza paswadi ya simu zilizozuliwa.</string>
+    <string name="sum_ir_enabled">"Imewezeshwa"</string>
+    <string name="sum_ir_disabled">"Imelemazwa"</string>
+    <string name="enable_ir_forbidden">"Keriya yako hakiingiliani na kuwezesha kuzuia simu zinazoingia wakati wa kupiga simu za roaming."</string>
+    <string name="disable_ir_forbidden">Keriya yako hakiingiliani na kutokuwezesha kuzuia simu za kimataifa zinazoingia wakati wa simu za roaming.</string>
+    <string name="labelAB">Lemaza zote</string>
+    <string name="messageAB">Ingiza paswadi ya simu zilizozuliwa.</string>
+    <string name="sum_ab_enabled">"Imewezeshwa"</string>
+    <string name="sum_ab_disabled">"Imelemazwa"</string>
+    <string name="enable_ab_forbidden">Keriya yako hakiingiliani na kutokushamsha zote. </string>
+    <string name="disable_ab_forbidden">Keriya yako hakiingiliani na kushamsha zote.</string>
+    <string name="labelChgPwd">Badilisha nenosiri</string>
+    <string name="DlgChgPwd_oldpwd">Ingiza paswadi ya simu zilizozuliwa.</string>
+    <string name="DlgChgPwd_newpwd_first">Ingiza paswadi mpya</string>
+    <string name="DlgChgPwd_newpwd_last">Thibitisha nywila mpya:</string>
+    <string name="cb_pw_no_match">"Paswadi hazilingani"</string>
+    <string name="cb_pw_error">"Paswadi haiko sahihi"</string>
+    <string name="cb_pw_correct">"Paswadi imebadilishwa"</string>
+    <string name="labelCB">"Kuzuia upigaji simu"</string>
+    <string name="call_barring_settings">Vipimo vya wito wa simu wa kuzuia</string>
+    <string name="cb_error">Wito wa simu wa kuzuia umekataliwa</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">""Mtandao haijawezeshwa, Je, unataka kuseti hali ya mtandao?"</string>
+     <string name="dialog_network_selection_title">"Makini"</string>
+     <string name="dialog_network_selection_message">""Rununu hawezi kuchagua watoa huduma wengine ikiwa kwa hali ya kuchagua kwa mkono.Wakati mwingine unafaa kuchagua kwa mikono tena au kubadilisha kwa hali ya uteuzi moja kwa moja wakati umepoteza huduma ya mtoa huduma uliochagua."Tunapendekeza utumie". Chaguo moja kwa moja". Unataka kuchagua mtandao kwa mikono?"</string>
+     <string name="network_unknown">Haijulikani</string>
+     <string name="network_inhibit">"IMEKATAZWA"</string>
+     <string name="ip_dialing_title">"Upigaji IP"</string>
+     <string name="ip_dialing_list_title">Orodha ya Ubonyezaji IP</string>
+     <string name="ip_no_number">"Ukosefu wa kiambishi awali cha IP"</string>
+     <string name="ip_no_number_msg">"Kiambishi awali cha IP hakijahifadhiwa kwenye simu."</string>
+     <string name="ip_number_empty_loading">"Orodha ya upigaji IP ni tupu."</string>
+     <string name="remove">"Ondoa"</string>
+     <string name="ip_number_is_too_long">"Nambari za upigaji IP haziwezi kuwa kubwa kuliko 20."</string>
+     <string name="add_ip_number_str">Mpya</string>
+     <string name="ip_dialing_num_error">Inaweza hifadhi nambari 10 pekee za IP</string>
+     <string name="ip_dialing_num_repeat">Rudia namba, uongezi umefeli</string>
+     <string name="menu_selected_all">Chagua Zote</string>
+     <string name="menu_select_none">Usichague zote</string>
+     <string name="doneButton">Umemaliza</string>
+     <string name="cancel">"Ghairi"</string>
+     <string name="uplmn_setting_title">"Mapendeleo"</string>
+     <string name="uplmn_setting">"Mapangilio ya UPLMN"</string>
+     <string name="uplmn_index">"Kielezo (kuanza kutoka 0):"</string>
+     <string name="uplmn_id">"Id namba:"</string>
+     <string name="uplmn_type">"Aina (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">Tafadhali ingiza kadi ya USIM na jaribu tena</string>
+     <string name="index_error_uplmn">"Faharasa ni tupu. Jaribu tena!"</string>
+     <string name="type_is_emplty_error_uplmn">"Aina ni tupu. Jaribu tena!"</string>
+     <string name="number_too_short_uplmn">"Namba ya Id ni fupi mno. Jaribu tena!"</string>
+     <string name="type_is_wrong_uplmn">"Aina yafaa kuwa 1 au 0. Jaribu tena!"</string>
+     <string name="fail_uplmn">"Imefeli na ujaribu tena."</string>
+     <string name="set_uplmn_unsuccessful">"Kuweka uplmn kumefeli!"</string>
+     <string name="menu_new_uplmn">"UPLMA kamwe"</string>
+     <string name="menu_delete_uplmn">"Futa UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"Hesabu imezidi uwezo wa sim!"</string>
+     <string name="delete">"Futa"</string>
+     <string name="delete_uplmn_successfully">"Futa uplmn mafanikio"</string>
+     <string name="id_is_wrong_uplmn">"ID lazima iwekwe na namba!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Chagua modi ya mtandao"</string>
+     <string name="lte_service_switch">"Inapanga，tafadhali subiri..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"Modi ya wingi ya 4G/3G/2G"</item>
+        <item>"Modi ya 3G/2G pekee"</item>
+        <item>"Hali ya 2G peke"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"Modi ya wingi ya 4G/3G/2G"</item>
+        <item>"Modi ya 3G/2G pekee"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>GSM pekee</item>
+        <item>WCDMA pekee</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE / WCDMA / GSM (Auto)"</item>
+    </string-array>
+     <string name="fast_dial_settings">ukarabati wa ubonyezaji haraka</string>
+     <string name="delete_fastdial">futa simu iliyopigwa kwanza</string>
+     <string name="update_fastdial">Tengeneza upya upigaji simu wa haraka</string>
+     <string name="no_sim_text">"Tafadhali  Iingiza ama zindua kadi ya SIM"</string>
+     <string name="network_not_on">""Mtandao haijawezeshwa, Je, unataka kuseti hali ya mtandao?"</string>
+     <string name="one_key_locked_notification">"Aina hii imefugwa,  unataka kuifungua?"</string>
+     <string name="one_key_unlocked_notification">"Aina hii imefunguliwa, unataka kufungua?"</string>
+     <string name="one_key_unlocked">"Fungua"</string>
+     <string name="one_key_locked">"Emoji ya kufuli"</string>
+     <string name="one_key_operation_success">"Operesheni imefanikiwa, unahitaji kuwasha upya sasa."</string>
+     <string name="one_key_operation_unsuccess">"Operesheni haijafanikiwa, unaweza jaribu tena!"</string>
+     <string name="one_key_query_unsuccess">"Kudadisi aina ya simlock imefeli!"</string>
+     <string name="one_key_simlock_setting">"Mpangilio ya SIMLOCK "</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Kufunga mtandao"</item>
+        <item>"Kufunga NetworkSubset"</item>
+        <item>"Kufunga ServiceProvider"</item>
+        <item>"Kufunga Corporate"</item>
+        <item>"Kufunga SIM"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Mapangilio ya kuzuia simu inayoingia"</string>
+     <string name="callout_barring_settings">"Mapangilio ya kuzuia simu inayotoka"</string>
+     <string name="labelCOUT">"kuzuia simu inayotoka"</string>
+     <string name="labelCIN">"kuzuia inayoingia"</string>
+     <string name="no_sim_text">"Tafadhali  Iingiza ama zindua kadi ya SIM"</string>
+     <string name="sim_lock_none">"Hakuna SIM imefungwa."</string>
+     <string name="sim_lock_try_later">"Tafadhali jaribu baadaye."</string>
+     <string name="edit_and_save_fdn">Hariri namabri ya Fdn</string>
+     <string name="call_fdn_number_by_sim">"Piga Simu"</string>
+     <string name="vt_call_fdn_numberr_by_sim">Simu ya VT</string>
+     <string name="airplane_changed_on">"Hali ya ndegeni imewashwa."</string>
+     <string name="number_empty">"Nambari ni tupu"</string>
+     <string name="unblock_pin2">"Fungua PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Ingiza PUK"</string>
+     <string name="pin2_Label">"PIN2 (Imesalia mara <xliff:g>%s</xliff:g>)"</string>
+     <string name="oldPin2_Label">"PIN2 nzee (Imesalia mara <xliff:g>%s</xliff:g>)"</string>
+     <string name="puk2_code_label">"Andika msimbo wa PUK2 (Imesalia mara <xliff:g>%s</xliff:g>)"</string>
+     <string name="promptWordOne">"acha&#160;"</string>
+     <string name="promptWordTwo">"&#160; mara" </string>
+     <string name="adn_full">"Orodha ya FDN imejaa"</string>
+     <string name="no_available_phone_accounts">"Hakuna maakaunti ya kupiga simu"</string>
+     <string name="lnd_list">"Orodha ya LND"</string>
+     <string name="sdn_list">Orodha ya SDN</string>
+     <string name="sim_list_title">Tafadhali chagua kadi ya SIM</string>
+     <string name="wait_message">Tafadhali subiri…</string>
+     <string name="menu_call">"Wasiliani wa simu"</string>
+     <string name="lnd_no_contact_record">Hakuna rekodi ya LND kwenye kadi hii ya SIM.</string>
+     <string name="sdn_no_contact_number">Kadi hii ya SIM haihimili namba ya SND</string>
+     <string name="remove">"Ondoa"</string>
+     <string name="delete_selected_contents">Wataka kufuta yaliyochaguliwa?</string>
+     <string name="sim_notready_can_not_delete">Kwa sababu kadi ya sim haiko tayari, kwa hivyo haiwezi futa.</string>
+     <string name="contact_del_failed">Ufutaji umefeli</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Ili kusanidi ujumbe wa sauti, nenda kwa Menyu &gt; Mipangilio."</string>
+     <string name="simlock_unlocked">"Simlock imefunguliwa."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>WCDMA pekee</item>
+        <item>GSM pekee</item>
+        <item>"Otomati"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>GSM pekee</item>
+    </string-array>
+</resources>

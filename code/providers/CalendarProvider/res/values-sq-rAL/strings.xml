@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">Memoria e kalendarit</string>
+<string name="calendar_default_name">standarde</string>
+<string name="calendar_info">Informacione kalendari</string>
+<string name="calendar_info_error">Gabim</string>
+<string name="calendar_info_no_calendars">Asnjë kalendar</string>
+<string name="calendar_info_events">"Eventet: <xliff:g id = "events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"Eventet: <xliff:g id = "events">%1$d</xliff:g>, Të paruajtur: <xliff:g id = "dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">Kalendari</string>
+<string name="debug_tool_delete_button">Fshi tani</string>
+<string name="debug_tool_start_button">Fillo</string>
+<string name="debug_tool_message">Je duke 1) bërë një kopje të databazës të kalendarit tënd në kartën SD/memories USB, e cila është e lexueshme nga çdo aplikacion, dhe 2) duke e dërguar me email. Mos harro ta fshish këtë kopje sapo ta kesh kopjuar nga pajisja ose të jetë marrë email-i.</string>
+<string name="debug_tool_email_sender_picker">Zgjidh një program për të dërguar skedarin tënd.</string>
+<string name="debug_tool_email_subject">Kalendari Db janë bashkëlidhur</string>
+<string name="debug_tool_email_body">Bashkëngjitur gjendet databaza e kalendarit tim, së bashku me të gjitha të dhënat e kontaktit. Përdore me kujdes.  </string>
+<string name="no_title_label">(Pa titull)</string>
+</resources>

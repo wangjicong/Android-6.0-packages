@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">излезен</string>
+<string name="call_log_incoming_title">дојдовно</string>
+<string name="recentOutgoing_empty">"Немате излезни повици."</string>
+<string name="recentIncoming_empty">"Немате дојдовни повици."</string>
+<string name="view_setting">Прегледај</string>
+<string name="item_all_calls">Сите листи на повици</string>
+<string name="item_sim_calls">SIM%d листа на повици</string>
+<string name="unselect_all">"Поништете го изборот"</string>
+<string name="select_all_sprd">Избери сè</string>
+<string name="doneButton">Готово</string>
+<string name="cancel">Откажи</string>
+<string name="delete_selected_calls">"Дали сте сигурни дека сакате да ги избришете избраните записи?"</string>
+<string name="clearCallLogProgress_title">Го бришам извештајот за повици...</string>
+<string name="delete_success">Бришењето е успешно</string>
+<string name="clear_all_call_log">Избриши ја листата за повици</string>
+<string name="clear_selected_call_log">Избриши избрана листа на повици</string>
+<string name="select_all">Избери сè</string>
+<string name="unselect_all">Поништи обележување</string>
+<string name="delete_all_calls_confirm">Сакате ли да ги избришете сите податоци?</string>
+<string name="do_not_select">Не избрабте податоци за бришење</string>
+<string name="delete_calls">Избриши</string>
+<string name="number_anr_isnull">Бројот за контакт е празен</string>
+<string name="call_recording_setting_title">"Снимање на повици"</string>
+<string name="automatic_recording_title">"Автоматско снимање"</string>
+<string name="ip_dialing_list_title">IP нагодување за бирање</string>
+<string name="ip_dial_menu">IP бирање</string>
+<string name="ip_dialing_title">IP бирање</string>
+<string name="dialog_phone_permission_deny">"За да користите IP бирање,\n вклучете ја Телефонската дозвола."</string>
+<string name="search_description">Пребарај ја листата на повици</string>
+<string name="fast_dial_title">Брзо вртење</string>
+<string name="no_fast_dial_number">Бројот за брзо вретење не е поставен.</string>
+<string name="call_log_add_to_blacklist">"Додај на црна листа"</string>
+<string name="make_video_call_menu">Направи видео повик</string>
+</resources>

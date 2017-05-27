@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015 Created by SpreadSt-->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+         android:layout_width="300sp"
+         android:layout_height="wrap_content">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dip"
+            android:orientation="vertical"
+            style="@style/wifi_item">
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:minEms="16"
+                        style="@style/wifi_item_label"
+                        android:text="@string/hotspot_wps_mode" />
+
+                <Spinner android:id="@+id/hotspot_wps_mode"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_content"
+                        android:prompt="@string/hotspot_wps_mode"
+                        android:entries="@array/hotspot_wps_mode" />
+
+                <TextView
+                        android:id="@+id/hotspot_wps_pin"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_label"
+                        android:text="@string/hotspot_wps_pin"
+                        android:visibility="gone" />
+
+                <EditText android:id="@+id/pin_number"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        style="@style/wifi_item_edit_content"
+                        android:singleLine="true"
+                        android:inputType="number"
+                        android:visibility="gone" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Paraksts"</string>
+<string name="pref_title_sms_retry_times">"Iespējot SMS atkārtošanu"</string>
+<string name="preference_name">"Izplatīta frāze"</string>
+<string name="select">"Izvēlēts"</string>
+<string name="item_cancel">"Atcelt"</string>
+<string name="item_delete">"Dzēst"</string>
+<string name="save_as_teltype">"Telefonam"</string>
+<string name="save_as_mmstype">"Priekš Sms"</string>
+<string name="type_to_pharser">"Ierakstiet izplatītu frāzi"</string>
+<string name="add">"Pievienot"</string>
+<string name="edit">"Rediģēt"</string>
+<string name="delete">"Dzēst"</string>
+<string name="finish">"Pabeigt"</string>
+<string name="cancel">"Atcelt"</string>
+<string name="add_pharser">"Pievienot izplatītu frāzi"</string>
+<string name="edit_pharser">"Rediģēt izplatīto frāzi"</string>
+<string name="pharser_can_modify">"Pielāgota frāze"</string>
+<string name="pharser_cannot_modify">"Labot frāzi"</string>
+<string name="select_item">"Jūs esat izvēlējies"</string>
+<string name="select_commmon_phrase">"Izvēlieties izplatītu frāzi"</string>
+<string name="common_phrase_empty">"Nav izplatītu frāžu"</string>
+<string name="action_add_phrase">"Ievadiet izplatītu frāzi"</string>
+<string name="pref_other_settings_title">"Cits"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Lūdzu, zvaniet uz manu darba telefonu, paldies."</item>
+<item>"Lūdu, sazinieties ar mani, paldies."</item>
+<item>"Lūdzu, pasakiet man jūsu atrašanās vietu."</item>
+<item>"Lūdzu, zvaniet uz manu mobilo telefonu vēlāk, paldies."</item>
+<item>"Es biju ārā, dodos mājās un pazvanīšu jums."</item>
+<item>"Es šobrīd braucu un atbildēšu vēlāk."</item>
+<item>"Es izbraucu uz ceļa, nekavējoties jūs sasniegšu."</item>
+<item>"Sastrēgums, sazināšos vēlāk, atvainojos."</item>
+<item>"Atzvanīšu vēlāk"</item>
+<item>"Esmu sanāksmē, atbildēšu vēlāk."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Nevaru runāt. Kas gadījās?"</item>
+<item>"Tūlīt atzvanīšu."</item>
+<item>"Piezvanīšu vēlāk."</item>
+<item>"Nevaru runāt. Vai piezvanīsi vēlāk?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Lūdzu, zvaniet vai atsūtiet man sms vēlāk."</item>
+</string-array>
+</resources>

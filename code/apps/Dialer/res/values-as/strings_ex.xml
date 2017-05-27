@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"আউটগ\'য়িং"</string>
+<string name="call_log_incoming_title">"ইনকামিং"</string>
+<string name="recentOutgoing_empty">"আপোনাৰ কোনো আউটগোয়িং কল নাই।"</string>
+<string name="recentIncoming_empty">"আপোনাৰ কোনো ইনকামিং কল নাই।"</string>
+<string name="view_setting">"চাওক"</string>
+<string name="item_all_calls">"সকলো কল ল\'গ"</string>
+<string name="item_sim_calls">"SIM%d কল ল\'গ"</string>
+<string name="unselect_all">"আটাইবোৰৰ নিৰ্বাচন প্ৰত্যাহাৰ কৰক"</string>
+<string name="select_all_sprd">"আটাইবোৰ নিৰ্ধাৰণ কৰক"</string>
+<string name="doneButton">"হৈ গৈছে"</string>
+<string name="cancel">"নাকচ"</string>
+<string name="delete_selected_calls">"আপুনি এই চয়নিত ৰেকৰ্ডবোৰ বিলোপ কৰিবলৈ নিশ্চিতনে?"</string>
+<string name="clearCallLogProgress_title">"কল লগ পৰিস্কাৰ কৰি থকা হৈছে\u2026"</string>
+<string name="delete_success">"সফলতাৰে বিলোপ কৰা হৈছে"</string>
+<string name="clear_all_call_log">"সকলো কল ল\'গ চাফা কৰক"</string>
+<string name="clear_selected_call_log">"নির্বাচিত কল ল\'গ চাফা কৰক"</string>
+<string name="select_all">"আটাইবোৰ নিৰ্ধাৰণ কৰক"</string>
+<string name="unselect_all">"আটাইবোৰ নিৰ্বাচন নাকচ"</string>
+<string name="delete_all_calls_confirm">"আপোনাৰ সকলো তথ্য মচি পেলাবলৈ আপুনি বিচাৰে নে ?"</string>
+<string name="do_not_select">"আপুনি বিলোপ কৰিবলৈ ৰেকৰ্ড বাছনি কৰা নাই"</string>
+<string name="delete_calls">"মচি দিয়া"</string>
+<string name="number_anr_isnull">"সম্পৰ্ক নম্বৰটো খালী"</string>
+<string name="call_recording_setting_title">"কল ৰেকৰ্ডিং"</string>
+<string name="automatic_recording_title">"স্বয়ংক্ৰিয় ৰেকৰ্ডিং"</string>
+<string name="ip_dialing_list_title">"IP ডায়েল ছেটিং"</string>
+<string name="ip_dial_menu">"IP ডায়েল"</string>
+<string name="ip_dialing_title">"IP ডায়েলিং"</string>
+<string name="dialog_phone_permission_deny">""IP ডায়েল ব্যৱহাৰ কৰিবলৈ,\n ফোনৰ অনুমতি অন কৰক।"</string>
+<string name="search_description">"কল লগ বিচাৰক"</string>
+<string name="fast_dial_title">"ফাষ্ট ডায়েল"</string>
+<string name="no_fast_dial_number">"দ্ৰুত ডায়েল নম্বৰ ছেট কৰা নাই।"</string>
+<string name="call_log_add_to_blacklist">"ব্লেকলিষ্ট যোগ কৰক"</string>
+<string name="make_video_call_menu">"এটা ভিডিঅ\' কল কৰক"</string>
+</resources>

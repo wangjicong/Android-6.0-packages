@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <int name="smsToMmsTextThreshold" value="10"/>
+        <boolean name="prefer_2g_bool" value="false"/>
+    </carrier_config>
+    <carrier_config>
+        <string name="vmnumber">901</string>
+        <string name="roamingvm">901</string>
+    </carrier_config>
+    <carrier_config spn="GiffGaff">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">GiffGaff</string>
+        <string name="vmnumber">443</string>
+    </carrier_config>
+    <carrier_config spn="TESCO">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">TESCO</string>
+        <string name="vmnumber">905</string>
+        <string name="roamingvm">905</string>
+    </carrier_config>
+</carrier_config_list>

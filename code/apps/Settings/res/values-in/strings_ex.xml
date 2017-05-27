@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Pengaturan USB"</string>
+<string name="usb_charge_only">"Hanya Mengisi"</string>
+<string name="usb_charge_only_summary">"Gunakan modus hanya mengisi ketika USB terhubung"</string>
+<string name="usb_charge_only_storage_active_subtext">"Tidak dapat hanya mengisi ketika penyimpanan USB digunakan"</string>
+<string name="usb_charge_only_notification">"Hanya terhubung sebagai pengisian"</string>
+<string name="usb_storage">"Penyimpanan USB"</string>
+<string name="usb_storage_summary">"Aktifkan penyimpanan massal USB"</string>
+<string name="ums_settings">"Pengaturan UMS"</string>
+<string name="ums_mounted_setting">"Pasang ums untuk PC sekarang, silahkan tunggu..."</string>
+<string name="ums_unmounted_setting">"Tidak pasang ums dari PC sekarang, silahkan tunggu..."</string>
+<string name="usb_virtual_drive">"USB virtual drive"</string>
+<string name="usb_virtual_drive_summary">"Bolehkan USB virtual drive"</string>
+<string name="remember_choice">"Ingat pilihan saya"</string>
+<string name="remember_choice_summary">"Mengingat pilihan saya dan memulai mengingat fungsi otomatis waktu berikutnya"</string>
+<string name="stand_by_set_changed_prompt">"Kedudukan aktifasi Sim akan berubah, silahkan memastikan apakah mau melanjutkan?" </string>
+<string name="not_stand_by">DILARANG</string>
+<string name="primary_card_switching">"Pengaturan silahkan tunggu..."</string>
+<string name="toggle_data_change_message">"Koneksi data telah beralih ke sim card <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, itu akan menghasilkan throughput data dan biaya korelatif, silahkan dicatat."</string>
+<string name="select_primary_card">"Pilih kartu utama"</string>
+<string name="whether_switch_primary_card">"Silahkan konfirmasi apakah akan mengalihkan kartu utama ke kartu ini?\n(data selular akan juga dapat memindahkan ke kartu.)"</string>
+<string name="attention">Peringatan</string>
+<string name="bt_softap_cannot_coexist">"Ketika portabe hotspot WLAN diaktifkan atau nyala, bluetooth tidak dapat bekerja, jika anda ingin menggunakan bluetooth, silahkan yakinkan bahwa portable hotspot WLAN anda tidak aktif."</string>
+<string name="softap_bt_cannot_coexist">"Ketika bluetooth diaktifkan atau menyala,Sooftap tidak dapat bekerja,jika Anda ingin menggunakan Softap ini, pastikan bahwa bluetooth dinonaktifkan."</string>
+<string name="softap_need_mobile_data_enabled">"Wi-Fi portable memerlukan sambungan data telepon, dapat menghasilkan biaya tambahan.</string>
+<string-array name="light_color_picker">
+<item>"Hijau"</item>
+<item>"Biru"</item>
+<item>"Nila"</item>
+<item>"Ungu"</item>
+<item>"Merah Muda"</item>
+<item>"Merah"</item>
+<item>"Kuning"</item>
+</string-array>
+
+<string name="smartwake_settings">Smart Wakeup</string>
+<string name="gesture_smartwake">Smart Wakeup</string>
+<string name="smartwake_change_music">Geser kekiri dan kekanan pada musik</string>
+<string name="smartwake_double_click">Ketuk dua kali layar untuk menghidupkan layar</string>
+<string name="smartwake_up">Geser keatas</string>
+<string name="smartwake_down">Geser kebawah</string>
+<string name="smartwake_c">Smart Wakeup c</string>
+<string name="smartwake_e">Smart Wakeup e</string>
+<string name="smartwake_m">Smart Wakeup m</string>
+<string name="smartwake_o">Smart Wakeup o</string>
+<string name="smartwake_s">Smart Wakeup s</string>
+<string name="smartwake_v">Smart Wakeup v</string>
+<string name="smartwake_w">Smart Wakeup w</string>
+<string name="smartwake_z">Smart Wakeup z</string>
+
+<string name="smartwake_feature_selection">Fungsi</string>
+<string name="gesture_smartwake_summaryOff">Tidak ada</string>
+<string name="gesture_music">Musik</string>
+<string name="gesture_camera">Kamera</string>
+<string name="gesture_dial">Panggilan</string>
+<string name="gesture_message">Pesan</string>
+<string name="gesture_calc">Kalkulator</string>
+<string name="gesture_calendar">Kalender</string>
+<string name="gesture_settings">Pengatutan</string>	
+<string name="gesture_unlock">Buka kunci layar</string>
+
+</resources>

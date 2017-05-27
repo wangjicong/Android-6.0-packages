@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="pref_title_sms_retry_times">開啟重試機制</string>
+    <string name="preference_name">常用短語</string>
+    <string name="action_wireless_alerts">"無線災害示警"</string>
+    <string name="conversation_deleteAll_failed">"請稍後再試"</string>
+    <string name="share_noimgae_exceeded">含有非圖片文件，不能分享！</string>
+    <string name="exceed_text_length_limitation">已達到文本長度上限。</string>
+    <string name="pref_other_settings_title">其他</string>
+    <string name="add">新增</string>
+    <string name="add_pharser">新增常用短語</string>
+    <string name="type_to_pharser">輸入常用短語</string>
+    <string name="save_as_teltype">電話使用</string>
+    <string name="save_as_mmstype">簡訊使用</string>
+    <string name="positive">确定</string>
+    <string name="edit_pharser">編輯常用短語</string>
+    <string name="select_commmon_phrase">選擇常用短語</string>
+    <string name="edit">編輯</string>
+    <string name="item_delete">刪除</string>
+    <string name="cancel">取消</string>
+    <string name="item_cancel">取消</string>
+    <string name="delete">刪除</string>
+    <string name="finish">完成</string>
+    <string name="pharser_can_modify">可編輯常用短語</string>
+    <string name="pharser_cannot_modify">固定常用短語</string>
+    <string name="select_item">已經選中</string>
+    <string name="common_phrase_empty">沒有常用短語</string>
+    <string name="action_add_phrase">插入常用短語</string>
+    <string name="empty_pharser_not_save">"空短語不能保存！"</string>
+    <string name="exit_pharser_dialog_title">提示</string>
+    <string name="exit_pharser_dialog_content">是否保存常用短語?</string>
+    <string name="permission_read_messages_attachment_desc">允許應用訪問簡訊附件</string>
+    <string name="share_video_exceeded">您選擇的影片大小超過上限！</string>
+    <string name="share_audio_exceeded">您選擇的音頻大小超過上限！</string>
+    <string name="share_image_exceeded">您選擇的圖片大小超過上限！</string>
+    <string name="share_muimgae_exceeded">超過上限值圖片將不分享！</string>
+    
+    <string name="drm_no_application_open">無法打開文件</string>
+    <string name="drm_consume_title">消費DRM權限</string>
+    <string name="drm_consume_hint">您的操作將會消費DRM權限</string>
+    <string name="ok_drm_rights_consume">"確定"</string>
+    <string name="cancel_drm_rights_consume">"取消"</string>
+    <string name="orgdrm_no_share">"该文件不支持分享"</string>
+    <string name="drm_can_not_processed">" Drm文件不能被操作"</string>
+
+    <string name="protect_information">"保護信息"</string>
+    <string name="drm_file_path">目錄：%1$s</string>
+    <string name="drm_file_name">文件名：%1$s</string>
+    <string name="drm_rights_validity">數字版權：有效</string>
+    <string name="drm_rights_invalidity">數字版權：無效</string>
+    <string name="drm_rights_status_transfer">保護狀態：允許被轉發</string>
+    <string name="drm_rights_status_untransfer">保護狀態：不允許被轉發</string>
+    <string name="drm_start_time">開始：%1$s</string>
+    <string name="drm_end_time">結束：%1$s</string>
+    <string name="drm_expiration_time">到期時間：%1$s</string>
+    <string name="drm_remain_times">剩餘使用次數：%1$s</string>
+    <string name="drm_no_info">"無信息"</string>
+    <string name="drm_unlimited_rights">"無限制"</string>
+    <string name="drm_rights_unknown">"未知"</string>
+    <string name="drm_inactive_rights">版權未激活</string>
+    <string name="drm_shared_not_drmdownload">請將文件移動到DrmDownload目錄，然後分享</string>
+
+    <string name="signature_title">簽名</string>
+    <string name="warning">警告</string>
+    <string name="attachment_exceeded">您選擇的附件大小超過上限！</string>
+    <string name="attachment_size">您選擇的附件大小爲：</string>
+    <string name="mms_size">彩信大小爲：</string>
+    <string name="select">選中</string>
+
+    <string-array name="fixed_mms_phrase">
+        <item>請打我辦公室電話，謝謝。</item>
+        <item>請與我聯繫，謝謝。</item>
+        <item>請告訴我你的位置。</item>
+        <item>請稍晚打我手機，謝謝。</item>
+        <item>我在外面，回家給你電話。</item>
+        <item>我在開車，稍後回覆。</item>
+        <item>我在來的路上，馬上到。</item>
+        <item>堵車，晚些到，抱歉。</item>
+        <item>稍後給你電話。</item>
+        <item>我在開會稍後回覆。</item>
+    </string-array>
+    <string-array name="fixed_both_phrase">
+        <item>請稍後打給我或發信息給我。</item>
+    </string-array>
+
+    <string name="permission_read_messages_attachment_label">訪問簡訊附件</string>
+
+
+    <!-- Add by SPRD for Bug:521086 2016.01.15 Start -->
+    <string name="share_unsupported_type">"不支持的類型，不能被分享！"</string>
+    <!-- Add by SPRD for Bug:521086 2016.01.15 End -->
+
+    <!-- Add by SPRD for Bug:521086 2016.01.15 Start -->
+    <string name="mms_validity_pref_title">多媒體訊息有效期</string>
+    <string name="sms_validity_pref_title">簡訊有效期</string>
+    <!-- Add by SPRD for Bug:521086 2016.01.15 End -->
+	<string name="delete_message">"刪除"</string>
+    <string name="select_vcard_button" >"點擊按鈕，您將進入聯繫人選擇界面"</string>
+    <string name="select_video_button" >"點擊按鈕，您將進入視頻選擇界面"</string>
+    <string name="select_audio_button" >"點擊按鈕，您將進入音頻選擇界面"</string>
+    <string name="select_vcalendar_button" >"點擊按鈕，您將進入日程選擇界面"</string>
+
+    <!-- Add by SPRD for Bug:521086 2016.02.02 Start -->
+    <string name="shared_image_number_exceed">"最多能分享%d張圖片，多餘的已被移除。"</string>
+    <!-- Add by SPRD for Bug:521086 2016.02.02 End -->
+
+    <string name="mms_delivery_reports_pref_title">彩信送達報告</string>
+    <string name="mms_delivery_reports_pref_summary">要求每次發送彩信後都返回送達報告</string>
+    <string name="enable_return_mms_delivery_reports_pref_title">允許返回彩信送達報告</string>
+    <string name="enable_return_mms_delivery_reports_pref_summary">每次收到信息後，允許自動返回彩信送達報告</string>
+    <string name="mms_read_reports_pref_title">彩信閱讀報告</string>
+    <string name="mms_read_reports_pref_summary">要求每次發送彩信後都返回已讀回執</string>
+    <string name="enable_return_mms_read_reports_pref_title">允許返回彩信已讀回執</string>
+    <string name="enable_return_mms_read_reports_pref_summary">每次收到信息後，允許自動返回彩信已讀回執</string>
+
+    <string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> 短信中心號碼"</string>
+    <string name="share_nofile_exceeded">超過簡訊上限!</string>
+    <!-- Add by SPRD for Bug:533642 Start -->
+    <string name="attach_vcalendar">"日程"</string>
+    <!-- Add by SPRD for Bug:533642  End -->
+    <string name="new_message">新資訊</string>
+    <string name="message_details_text">資訊詳情</string>
+    <string name="folder_reply">"回復"</string>
+    <string name="folder_forward">"轉發"</string>
+    <string name="min_zoom">已達到最小</string>
+    <string name="max_zoom">已達到最大</string>
+    <string name="copy_message_text">複製文字</string>
+
+    <!-- Add by SPRD for Bug:536746 Start -->
+    <string name="smsc_set_fails">短信中心號碼設定失败</string>
+    <string name="smsc_set_success">短信中心號碼設定成功</string>
+    <!-- Add by SPRD for Bug:536746 End -->
+    <string name="pref_title_manage_sim_smsc">管理短信中心號碼</string>
+    <string name="err_sent_no_sim">發送失敗，無SIM卡</string>
+    <string name="is_redirect_to">"是否跳轉到 %1$s ?"</string>
+	<string name="browser">瀏覽器</string>
+	<string name="email">郵箱</string>
+	<string name="telephone">電話</string>
+	<string name="map">地圖</string>
+
+    <string name="no_permissions">沒有電話撥打權限</string>
+
+   <!-- Add by SPRD for Bug:533513 2016.03.10 Start -->
+   <!-- SIGNATURE FUNC -->
+   <string name="message_signature_setting">"簽章設定"</string>
+   <string name="pref_signature_enable_title">"附加簽章"</string>
+   <string name="pref_signature_enabl_summary">"在您傳送的每則多媒體訊息後附加簽章"</string>
+   <string name="pref_signature_input_title">"編輯簽章"</string>
+   <string name="pref_signature_input_summary">"您還沒有簽章，點擊設定"</string>
+   <!-- Add by SPRD for Bug:533513 2016.03.10 End -->
+
+    <string name="action_sim_sms">SIM卡簡訊</string>
+    <!-- Add by SPRD for Bug:543263 2016.03.29 Start -->
+    <string name="no_sms_permissions">没有短信權限，無法播放音訊</string>
+    <!-- Add by SPRD for Bug:543263 2016.03.29 End -->
+
+    <string name="smil_subject_hint">"没有主题，请你编辑"</string>
+    <string name="smil_out_of_size">"超过彩信附件额度大小！"</string>
+    <string-array name="smil_choice_items">
+        <item>Smil 阅览</item>
+        <item>Smil 播放</item>
+    </string-array>
+    <string name="video_content_type">"视频 :"</string>
+    <string name="iamge_content_type">"图片 :"</string>
+    <string name="audio_content_type">"录音 :"</string>
+    <string name="vcard_content_type">"Vcard :"</string>
+    <string name="vcalendar_content_type">"Vcalendar :"</string>
+    <string name="subject_edit">"主题编辑"</string>
+    <string name="text_edit">"文本编辑"</string>
+    <string name="repalce_slide">"替换幻灯片"</string>
+    <string name="remove_slide">"移除幻灯片"</string>
+    <string name="insert_befor_slide">"前一页插入幻灯片"</string>
+    <string name="insert_after_slide">"后一页插入幻灯片"</string>
+    <string name="add_attachment">"添加附件"</string>
+    <string name="remove_attachment">"移除附件"</string>
+    <string name="repalce_attachment">"替换附件"</string>
+    <string name="hint_for_input">"请你编辑"</string>
+    <string name="hint_for_empty">"请您编辑当前幻灯片"</string>
+    <string name="goto_smil">"切换smil视图"</string>
+    <string name="smil_subject">"主题 :"</string>
+    <!-- Add by SPRD for Bug:543263 2016.03.29 End -->
+
+    <string name="smil_add_text">"添加文本附件成功"</string>
+    <string name="smil_empty_content">"内容为空，停止发送"</string>
+    <string name="exceed_participant_limit">"參與者數量超過限制（<xliff:g>%1$s</xliff:g>），請删除<xliff:g>%2$s</xliff:g>個。"</string>
+    <string name="dlg_save_attachment">"保存檔案中&#8230;"</string>
+    <plurals name="attachments_saved_dir">
+        <item quantity="one"><xliff:g id="quantity">%d</xliff:g>個附件檔案被存儲到\"<xliff:g id="dir">%s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="quantity">%d</xliff:g>個附件檔案被存儲到\"<xliff:g id="dir">%s</xliff:g>\"</item>
+    </plurals>
+
+    <!-- add for bug 556265 capacity of sim messages begin -->
+    <string name="capacity_sim_message_title">SIM卡容量</string>
+    <string name="capacity_sim_message_summary">當前條數/最大容量:%s</string>
+    <!-- add for bug 556265 capacity of sim messages end -->
+    <!-- Add by SPRD for bug553366 Start -->
+    <string name="sms_save_to_sim_pref_title">"簡訊優先存儲到sim卡設定"</string>
+    <string name="sms_sim_full_title">"SIM卡記憶體已滿"</string>
+    <string name="sms_sim_full_notification_ticker">"SIM卡記憶體已滿,建議您删除部分簡訊!"</string>
+    <string name="sms_sim_full_text">"SIM卡記憶體已滿,新簡訊將存儲到簡訊應用數據庫裡。如果要再次存儲到SIM卡，請删除SIM卡簡訊！"</string>
+    <!-- Add by SPRD for bug553366 End -->
+
+    <!-- Add by SPRD for bug 554677 -->
+    <string name="audio_record_retry">請關閉後臺錄音後重試。</string>
+    <!-- add for bug 555230 begin -->
+    <string name="contact_invalid">聯系人無效，請重新選擇有效的聯系人。</string>
+    <!-- add for bug 555230 begin -->
+
+    <!-- add for bug 558980 begin -->
+    <string name="message_size_counting">正在計算</string>
+    <!-- add for bug 558980 end -->
+
+   <!-- SPRD: Add for bug 562203 start -->
+   <string name="pref_encode_type_setting_title">"編碼方式設定"</string>
+   <string name="pref_encode_type_title">"編碼方式"</string>
+   <!-- SPRD: Add for bug 562203 end -->
+</resources>

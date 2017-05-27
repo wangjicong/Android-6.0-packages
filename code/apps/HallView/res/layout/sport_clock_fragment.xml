@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/sport_clock_bg" android:layout_width="@dimen/hall_view_width" android:layout_height="@dimen/hall_view_width"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:cricle="http://schemas.android.com/apk/res/com.wx.hallview"
+  xmlns:clock="http://schemas.android.com/apk/res/com.wx.hallview"
+  xmlns:round="http://schemas.android.com/apk/res/com.wx.hallview">
+    <com.wx.hallview.views.CircleLayout 
+      android:layout_width="190.0dip" 
+      android:layout_height="190.0dip" 
+      android:layout_centerInParent="true" 
+      round:circlelayout_radius="57.0dip">
+        <RelativeLayout 
+          android:gravity="center" 
+          android:background="@drawable/weather_bg" 
+          android:layout_width="74.0dip" 
+          android:layout_height="74.0dip">
+            <ImageView 
+              android:id="@+id/iv_sport_weather_icon" 
+              android:layout_width="34dp" 
+              android:layout_height="34dp" 
+              android:src="@drawable/clock_snow" />
+            <!-- qiuyaobo,remove weather,20160906,begin-->    
+            <!--<TextView android:textSize="15.0sp" 
+              android:textColor="#fffafafa" 
+              android:id="@+id/tv_sport_day_week" 
+              android:layout_width="wrap_content" 
+              android:layout_height="wrap_content" 
+              android:layout_marginLeft="35.0dip" 
+              android:layout_toRightOf="@id/iv_weather_icon" /> -->
+            <TextView android:textSize="15.0sp" 
+              android:textColor="#fffafafa" 
+              android:id="@+id/tv_sport_day_week" 
+              android:layout_width="wrap_content" 
+              android:layout_height="wrap_content" 
+              android:layout_centerHorizontal="true" />              
+            <!-- qiuyaobo,remove weather,20160906,begin-->    
+        </RelativeLayout>
+        <RelativeLayout 
+          android:background="@drawable/weak_bg" 
+          android:layout_width="@dimen/sport_clock_content_height" 
+          android:layout_height="@dimen/sport_clock_content_height">
+            <ImageView 
+              android:id="@+id/iv_sport_week" 
+              android:layout_width="wrap_content" 
+              android:layout_height="wrap_content" 
+              android:src="@drawable/sport_clock_week" 
+              android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <com.wx.hallview.views.ButteryWithProgress 
+          android:id="@+id/buttery_container" 
+          android:background="@drawable/buttery_bg" 
+          android:layout_width="@dimen/sport_clock_content_height" 
+          android:layout_height="@dimen/sport_clock_content_height">
+            <com.wx.hallview.views.RoundProgressBar 
+              android:id="@+id/progress_bar" 
+              android:layout_width="fill_parent" 
+              android:layout_height="fill_parent" 
+              round:RoundProgressBar_roundColor="#ff16274b"
+              round:RoundProgressBar_roundProgressColor="#ffe6e4ea" 
+              round:RoundProgressBar_roundWidth="2.0dip" 
+              round:RoundProgressBar_textColor="#ffd1d1d1" 
+              round:RoundProgressBar_textSize="12.0sp" 
+              round:RoundProgressBar_max="100" 
+              round:RoundProgressBar_textIsDisplayable="true" />
+            <com.wx.hallview.views.ButteryView 
+              android:id="@+id/buttery_view" 
+              android:background="@drawable/buttery" 
+              android:layout_width="15.0dip" 
+              android:layout_height="@dimen/buttery_height" 
+              android:layout_marginTop="22dip"
+              android:layout_centerHorizontal="true">
+                <View 
+                  android:background="#ffd8cdcc" 
+                  android:layout_width="7.5dip" 
+                  android:layout_height="1.0dip" 
+                  android:layout_marginBottom="4.0dip" 
+                  android:layout_alignParentBottom="true" 
+                  android:layout_centerHorizontal="true" />
+            </com.wx.hallview.views.ButteryView>
+        </com.wx.hallview.views.ButteryWithProgress>
+    </com.wx.hallview.views.CircleLayout>
+    <com.wx.hallview.views.MyQAnalogClock 
+      android:id="@+id/sport_clock" 
+      android:layout_width="@dimen/hall_view_width" 
+      android:layout_height="@dimen/hall_view_width" 
+      round:hour_image1="@drawable/sport_clock_hour" 
+      round:minute_image1="@drawable/sport_clock_minute" 
+      round:second_image1="@drawable/sport_clock_second" />
+    <View 
+      android:background="@drawable/sport_clock_center" 
+      android:layout_width="40.0dip" 
+      android:layout_height="40.0dip" 
+      android:layout_centerInParent="true" />
+</RelativeLayout>

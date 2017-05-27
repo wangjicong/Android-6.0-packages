@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="home">"Ekrani kryesor"</string>
+<string name="uid_name">"Aplikacionet qendrore Android"</string>
+<string name="activity_not_found">"Aplikacioni nuk është instaluar."</string>
+<string name="safemode_shortcut_error">"Aplikacioni i shkarkuar i çaktivizuar në metodën e Sigurt"</string>
+<string name="widgets_tab_label">"Widget-ë"</string>
+<string name="widget_adder">"Widget-ë"</string>
+<string name="toggle_weight_watcher">"Trego Mem"</string>
+<string name="long_press_widget_to_add">"Prekni &amp; dhe mbani për të marrë një widget."</string>
+<string name="market">"Bli"</string>
+<string name="widget_dims_format">"%1$d \u00d7 %2$d"</string>
+<string name="external_drop_widget_error">"Nuk mundi ta lëshojë në këtë ekran Kryesor."</string>
+<string name="external_drop_widget_pick_title">"Zgjidh widget-in për ta krijuar"</string>
+<string name="rename_folder_label">"Emri i folderit"</string>
+<string name="rename_folder_title">"Riemëro folderin"</string>
+<string name="rename_action">"OK"</string>
+<string name="cancel_action">"Anulo"</string>
+<string name="menu_item_add_item">"Shto në ekranin Kryesor"</string>
+<string name="group_applications">"Aplikacionet"</string>
+<string name="group_shortcuts">"Shkurtoret"</string>
+<string name="group_widgets">"Widget-ë"</string>
+<string name="completely_out_of_space">"Nuk ka më vend në ekranet e tu Kryesorë."</string>
+<string name="out_of_space">"Nuk ka më vend në këtë ekran Kryesor."</string>
+<string name="hotseat_out_of_space">"Nuk ka më hapësirë në sirtarin Të preferuarit"</string>
+<string name="invalid_hotseat_item">"Ky widget është shumë i madh për sirtarin Të preferuarit"</string>
+<string name="shortcut_installed">"Shkurtorja \"<xliff:g id="name" example="Browser">%s</xliff:g>\" u krijua."</string>
+<string name="shortcut_uninstalled">"Shkurtorja \"<xliff:g id="name" example="Browser">%s</xliff:g>\" është hequr."</string>
+<string name="shortcut_duplicate">"Shkurtorja \"<xliff:g id="name" example="Browser">%s</xliff:g>\" ekziston tashmë."</string>
+<string name="title_select_shortcut">"Zgjidh shkurtore"</string>
+<string name="title_select_application">"Zgjidh aplikacion"</string>
+<string name="all_apps_button_label">"Aplikacionet"</string>
+<string name="all_apps_home_button_label">"Ekrani kryesor"</string>
+<string name="delete_zone_label_workspace">"Hiq"</string>
+<string name="delete_zone_label_all_apps">"Çinstalo"</string>
+<string name="delete_target_label">"Hiq"</string>
+<string name="delete_target_uninstall_label">"Çinstalo"</string>
+<string name="info_target_label">"Të dhënat e aplikimit"</string>
+<string name="accessibility_search_button">"Kërko"</string>
+<string name="accessibility_voice_search_button">"Kërkim zanor"</string>
+<string name="accessibility_all_apps_button">"Aplikacionet"</string>
+<string name="accessibility_delete_button">"Hiq"</string>
+<string name="delete_zone_label_all_apps_system_app">"Përditësim çinstalimi"</string>
+<string name="cab_menu_delete_app">"Çinstalo aplikacionin"</string>
+<string name="cab_menu_app_info">"Detaje të aplikacionit"</string>
+<string name="cab_app_selection_text">"1 aplikacion u zgjodh"</string>
+<string name="cab_widget_selection_text">"1 widget u zgjodh"</string>
+<string name="cab_folder_selection_text">"1 folder u zgjodh"</string>
+<string name="cab_shortcut_selection_text">"1 shkurtore u zgjodh"</string>
+<string name="permlab_install_shortcut">"instalo shkurtore"</string>
+<string name="permdesc_install_shortcut">"Lejon një aplikacion të shtojë shkurtore pa ndërhyrjen e përdoruesit."</string>
+<string name="permlab_uninstall_shortcut">"çinstalo shkurtore"</string>
+<string name="permdesc_uninstall_shortcut">"Lejon aplikacionin të heqë shkurtoret pa ndërhyrjen e përdoruesit."</string>
+<string name="permlab_read_settings">"lexo cilësimet dhe shkurtoret në ekranin Kryesor"</string>
+<string name="permdesc_read_settings">"Lejon aplikacionin të lexojë parametrat dhe shkurtoret në Shtëpia."</string>
+<string name="permlab_write_settings">"shkruaj cilësimet dhe shkurtoret në ekranit Kryesor"</string>
+<string name="permdesc_write_settings">"Lejon aplikaiconin të ndryshojë parametrat dhe shkurtoret në Shtëpia."</string>
+<string name="gadget_error_text">"Problem në ngarkimin e widget-it"</string>
+<string name="gadget_setup_text">"Ndërtimi"</string>
+<string name="uninstall_system_app_text">"Ky është një aplikacion sistemi dhe nuk mund të çinstalohet."</string>
+<string name="dream_name">"Lëshuesi i Raketës"</string>
+<string name="folder_hint_text">"Folder pa emër"</string>
+<string name="workspace_description_format">"Ekrani kryesor %1$d"</string>
+<string name="default_scroll_format">"Faqe %1$d nga %2$d"</string>
+<string name="workspace_scroll_format">"Ekrani kryesor %1$d nga %2$d"</string>
+<string name="apps_customize_apps_scroll_format">"Aplikacionet  faqe %1$d nga %2$d"</string>
+<string name="apps_customize_widgets_scroll_format">"Faqja e widget-ëve %1$d nga %2$d"</string>
+<string name="first_run_cling_title">"Mirësevini"</string>
+<string name="first_run_cling_description">"Ndihuni si në shtëpinë tuaj."</string>
+<string name="first_run_cling_create_screens_hint">"Krijoni më shumë ekrane për aplikacione dhe foldera"</string>
+<string name="migration_cling_title">"Kopjoni ikonat e aplikacioneve"</string>
+<string name="migration_cling_description">"Importoni ikonat dhe folderat nga ekranet nga ekranet Shtëpia të vjetër?"</string>
+<string name="migration_cling_copy_apps">"KOPJO IKONAT"</string>
+<string name="migration_cling_use_default">"FILLO TË RI"</string>
+<string name="workspace_cling_title">"Organizoni hapësirën tuaj"</string>
+<string name="workspace_cling_move_item">"Prekni &amp; mbani sfondin për të menaxhuar figurën e murit, widgetët dhe parametrat."</string>
+<string name="workspace_cling_longpress_title">"Figurat e murit, widgetët, &amp; parametrat"</string>
+<string name="workspace_cling_longpress_description">"Prekni &amp; mbani sfondin për ta personalizuar"</string>
+<string name="workspace_cling_longpress_dismiss">"E KUPTOVA"</string>
+<string name="folder_cling_title">"Këtu është një folder"</string>
+<string name="folder_cling_create_folder">"Për të krijuar një si ky, prekni &amp; mbani një aplikacion, pastaj lëvizeni mbi një tjetër."</string>
+<string name="cling_dismiss">"OK"</string>
+<string name="folder_opened">"Folderi u hap, <xliff:g id="width" example="5">%1$d</xliff:g> nga <xliff:g id="height" example="3">%2$d</xliff:g>"</string>
+<string name="folder_tap_to_close">"Prek për të mbyllur folderin"</string>
+<string name="folder_tap_to_rename">"Prek për të ruajtur riemërimin"</string>
+<string name="folder_closed">"Folderi u mbyll"</string>
+<string name="folder_renamed">"Folderi u riemërua në <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="folder_name_format">"Folderi: <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="widget_button_text">"Widget-ë"</string>
+<string name="wallpaper_button_text">"Figurat e murit"</string>
+<string name="settings_button_text">"Cilësimet"</string>
+<string name="package_state_enqueued">"Duke pritur"</string>
+<string name="package_state_downloading">"Duke shkarkuar"</string>
+<string name="package_state_installing">"Duke instaluar"</string>
+<string name="package_state_unknown">"E panjohur"</string>
+<string name="package_state_error">"Nuk është rivendosur"</string>
+<string name="abandoned_clean_all">"Hiq të gjitha"</string>
+<string name="abandoned_clean_this">"Hiq"</string>
+<string name="abandoned_search">"Kërko"</string>
+<string name="abandoned_promises_title">"Ky aplikacion nuk është instaluar"</string>
+<string name="abandoned_promise_explanation">"Aplikacioni për këtë ikonë nuk është instaluar Ju mund ta hiqni, ose kërkoni aplikacionin dhe instaloni manualisht. ""</string>
+<string name="circular_sliding">"Cikli i desktopit"</string>
+    <string name="input_too_long">Hyrja është shumë e gjatë.</string>
+
+</resources>

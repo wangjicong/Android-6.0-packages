@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"Visi išeinantys"</string>
+    <string name="messageAO">"Įveskite skambučio draudimo slaptažodį."</string>
+    <string name="sum_ao_enabled_indicator">"Peradresuojami visi skambučiai"</string>
+    <string name="sum_ao_enabled">"Įgalinta"</string>
+    <string name="sum_ao_disabled">"Išjungta"</string>
+    <string name="enable_ao_forbidden">"Jūsų tiekėjas nepalaiko visų išeinančių skambučių draudimo įjungimo."</string>
+    <string name="disable_ao_forbidden">"Jūsų tiekėjas nepalaiko visų išeinančių skambučių draudimo išjungimo."</string>
+    <string name="labelOI">"Išeinantis tarptautinis"</string>
+    <string name="messageOI">"Įveskite skambučio draudimo slaptažodį."</string>
+    <string name="sum_oi_enabled">"Įgalinta"</string>
+    <string name="sum_oi_disabled">"Išjungta"</string>
+    <string name="enable_oi_forbidden">"Jūsų tiekėjas nepalaiko tarptautinių išeinančių skambučių draudimo įjungimo."</string>
+    <string name="disable_oi_forbidden">"Jūsų tiekėjas nepalaiko tarptautinių išeinančių skambučių draudimo išjungimo."</string>
+    <string name="labelOX">"Išeinantis tarptautinis tarptinklinis ryšys"</string>
+    <string name="messageOX">"Įveskite skambučio draudimo slaptažodį."</string>
+    <string name="sum_ox_enabled">"Įgalinta"</string>
+    <string name="sum_ox_disabled">"Išjungta"</string>
+    <string name="enable_ox_forbidden">"Jūsų tiekėjas nepalaiko tarptautinių tarptinklinio ryšio išeinančių skambučių draudimo įjungimo."</string>
+    <string name="disable_ox_forbidden">"Jūsų tiekėjas nepalaiko tarptautinių tarptinklinio ryšio išeinančių skambučių draudimo išjungimo."</string>
+    <string name="labelAI">"Visi įeinantys"</string>
+    <string name="messageAI">"Įveskite skambučio draudimo slaptažodį."</string>
+    <string name="sum_ai_enabled">"Įgalinta"</string>
+    <string name="sum_ai_disabled">"Išjungta"</string>
+    <string name="enable_ai_forbidden">"Jūsų tiekėjas nepalaiko visų įeinančių skambučių draudimo įjungimo."</string>
+    <string name="disable_ai_forbidden">"Jūsų tiekėjas nepalaiko visų įeinančių skambučių draudimo išjungimo."</string>
+    <string name="labelIR">"Tarptinklinio ryšio įeinantys skambučiai"</string>
+    <string name="messageIR">"Įveskite skambučio draudimo slaptažodį."</string>
+    <string name="sum_ir_enabled">"Įgalinta"</string>
+    <string name="sum_ir_disabled">"Išjungta"</string>
+    <string name="enable_ir_forbidden">"Jūsų tiekėjas nepalaiko tarptinklinio ryšio įeinančių skambučių draudimo įjungimo."</string>
+    <string name="disable_ir_forbidden">"Jūsų tiekėjas nepalaiko tarptinklinio ryšio įeinančių skambučių draudimo išjungimo."</string>
+    <string name="labelAB">"Išjungti visus"</string>
+    <string name="messageAB">"Įveskite skambučio draudimo slaptažodį."</string>
+    <string name="sum_ab_enabled">"Įgalinta"</string>
+    <string name="sum_ab_disabled">"Išjungta"</string>
+    <string name="enable_ab_forbidden">"Jūsų tiekėjas nepalaiko visų išjungimo."</string>
+    <string name="disable_ab_forbidden">"Jūsų tiekėjas nepalaiko visų aktyvavimo."</string>
+    <string name="labelChgPwd">"Keisti slaptažodį"</string>
+    <string name="DlgChgPwd_oldpwd">"Įveskite skambučio draudimo slaptažodį."</string>
+    <string name="DlgChgPwd_newpwd_first">"Įveskite naują slaptažodį"</string>
+    <string name="DlgChgPwd_newpwd_last">"Patvirtinti naują slaptažodį"</string>
+    <string name="cb_pw_no_match">"Slaptažodžiai nesutampa"</string>
+    <string name="cb_pw_error">"Neteisingas slaptažodis"</string>
+    <string name="cb_pw_correct">"Slaptažodis buvo pakeistas"</string>
+    <string name="labelCB">"Skambučio paleidimas"</string>
+    <string name="call_barring_settings">"Skambučių draudimo nustatymai"</string>
+    <string name="cb_error">"Skambučių draudimas atmestas"</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Tinklas neįjungtas, ar norite nustatyti tinklo būseną?"</string>
+     <string name="dialog_network_selection_title">"Dėmesio"</string>
+     <string name="dialog_network_selection_message">"Rankinio pasirinkimo režime, mobilusis telefonas nesirinks kitų operatorių. Kartais, kai dingsta pasirinkto operatoriaus paslauga, jūs turite vėl rinktis rankiniu būdu arba grįžti prie automatinio pasirinkimo režimo. Rekomenduojame naudoti "Rinktis automatiškai". Ar norite rinktis tinklą rankiniu būdu?"</string>
+     <string name="network_unknown">"Nežinomas"</string>
+     <string name="network_inhibit">"Uždrausta"</string>
+     <string name="ip_dialing_title">"Renkamas IP"</string>
+     <string name="ip_dialing_list_title">"IP rinkimo sąrašas"</string>
+     <string name="ip_no_number">"Trūksta IP prefikso"</string>
+     <string name="ip_no_number_msg">"IP prefiksas nenustatytas telefone."</string>
+     <string name="ip_number_empty_loading">"IP rinkimo sąrašas tuščias."</string>
+     <string name="remove">"Pašalinti"</string>
+     <string name="ip_number_is_too_long">"IP renkamų numerių negali būti daugiau nei 20."</string>
+     <string name="add_ip_number_str">"Naujiena"</string>
+     <string name="ip_dialing_num_error">"Galima išsaugoti tik 10 IP numerių"</string>
+     <string name="ip_dialing_num_repeat">"Pakartokite numerį,nepavyko pridėti"</string>
+     <string name="menu_selected_all">"Rinktis viską"</string>
+     <string name="menu_select_none">"Atšaukti visų pasirinkimą"</string>
+     <string name="doneButton">"Atlikta"</string>
+     <string name="cancel">"Atšaukti"</string>
+     <string name="uplmn_setting_title">"Nuostatos"</string>
+     <string name="uplmn_setting">"UPLMN Nustatymai"</string>
+     <string name="uplmn_index">"Įrašo nr. (pradedant nuo 0):"</string>
+     <string name="uplmn_id">"Id numeris:"</string>
+     <string name="uplmn_type">"Tipas (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">"Įdėkite USIM kortelę ir bandykite dar kartą"</string>
+     <string name="index_error_uplmn">"Indeksas yra tuščias. Bandykite dar kartą!"</string>
+     <string name="type_is_emplty_error_uplmn">"Tipas yra tuščias. Bandykite dar kartą!"</string>
+     <string name="number_too_short_uplmn">"Id numeris per trumpas. Bandykite dar kartą!"</string>
+     <string name="type_is_wrong_uplmn">"Tipas turėtų būti 1 arba 0. bandykite dar kartą!"</string>
+     <string name="fail_uplmn">"Nepavyko, bandykite dar kartą."</string>
+     <string name="set_uplmn_unsuccessful">"Nepavyko nustatyti uplmn!"</string>
+     <string name="menu_new_uplmn">"Naujas UPLMN"</string>
+     <string name="menu_delete_uplmn">"Ištrinti UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"Viršijama sim atmintis!"</string>
+     <string name="delete">"Ištrinti"</string>
+     <string name="delete_uplmn_successfully">"uplmn sėkmingai ištrintas"</string>
+     <string name="id_is_wrong_uplmn">"ID privalo būti skaičius!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Rinkitės tinklo režimą"</string>
+     <string name="lte_service_switch">"Nustatoma, prašom palaukti..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G Daugiafunkcinis režimas"</item>
+        <item>"3G/2G vienas režimas"</item>
+        <item>"Tik 2G Rėžimas"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G Daugiafunkcinis režimas"</item>
+        <item>"3G/2G vienas režimas"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"Tik GSM"</item>
+        <item>"Tik WCDMA"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Auto)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"Greito rinkimo nustatymai"</string>
+     <string name="delete_fastdial">"Ištrinti greitą rinkimą"</string>
+     <string name="update_fastdial">"Atnaujinti greitą rinkimą"</string>
+     <string name="no_sim_text">"Prašom įdėti arba paleisti SIM kortelę"</string>
+     <string name="network_not_on">"Tinklas neįjungtas, ar norite nustatyti tinklo būseną?"</string>
+     <string name="one_key_locked_notification">"Šis tipas yra ATRAKINTAS, Ar norite užrakinti?"</string>
+     <string name="one_key_unlocked_notification">"Šis tipas yra UŽRAKINTAS, Ar norite atrakinti?"</string>
+     <string name="one_key_unlocked">"Atblokuoti"</string>
+     <string name="one_key_locked">"Spyna"</string>
+     <string name="one_key_operation_success">"Operacija pavyko, reikia perkrauti įrenginį."</string>
+     <string name="one_key_operation_unsuccess">"Operacija nepavyko, galite bandyti dar kartą!"</string>
+     <string name="one_key_query_unsuccess">"Nepavyko gauti simlock tipo!"</string>
+     <string name="one_key_simlock_setting">"SIMLOCK Nustatymai"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Tinklo Užraktas"</item>
+        <item>"Potinklio Užraktas"</item>
+        <item>"Paslaugų Tiekėjo Užraktas"</item>
+        <item>"Įmonės Užraktas"</item>
+        <item>"SIM Užraktas"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Įeinančių skambučių draudimo nustatymai"</string>
+     <string name="callout_barring_settings">"Išeinančių skambučių draudimo nustatymai"</string>
+     <string name="labelCOUT">"Išeinančių skambučių draudimas"</string>
+     <string name="labelCIN">"Įeinančių skambučių draudimas"</string>
+     <string name="no_sim_text">"Prašom įdėti arba paleisti SIM kortelę"</string>
+     <string name="sim_lock_none">"Jokio SIM užrakto."</string>
+     <string name="sim_lock_try_later">"Pabandykite vėliau."</string>
+     <string name="edit_and_save_fdn">"Redaguoti FDN numerį"</string>
+     <string name="call_fdn_number_by_sim">"Skambinti"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"Vaizdo skambutis"</string>
+     <string name="airplane_changed_on">"Lėktuvo režimas įjungtas."</string>
+     <string name="number_empty">"Numeris yra tuščias"</string>
+     <string name="unblock_pin2">"Atblokuoti PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Įveskite PUK2 norėdami atblokuoti savo SIM kortelę"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> liko bandymų)"</string>
+     <string name="oldPin2_Label">"Senasis PIN2 (<xliff:g>%s</xliff:g> liko bandymų)"</string>
+     <string name="puk2_code_label">"Įveskite PUK2 kodą (<xliff:g>%s</xliff:g> likę bandymai)"</string>
+     <string name="promptWordOne">"Liko&#160;"</string>
+     <string name="promptWordTwo">"&#160;kartų(-ai)"</string>
+     <string name="adn_full">"FDN sąrašas yra pilnas"</string>
+     <string name="no_available_phone_accounts">"Nėra skambinimo paskyrų"</string>
+     <string name="lnd_list">"LND sąrašas"</string>
+     <string name="sdn_list">"SDN sąrašas"</string>
+     <string name="sim_list_title">"Pasirinkite SIM kortelę"</string>
+     <string name="wait_message">"Palaukite..."</string>
+     <string name="menu_call">"Skambinti adresatui"</string>
+     <string name="lnd_no_contact_record">"Šioje SIM kortelėje nėra LND įrašo."</string>
+     <string name="sdn_no_contact_number">"Ši SIM kortelė nepalaiko SDN numerio."</string>
+     <string name="remove">"Pašalinti"</string>
+     <string name="delete_selected_contents">"Ar norite ištrinti pasirinktą turinį?"</string>
+     <string name="sim_notready_can_not_delete">"Negalima ištrinti, nes sim kortelė neparuošta."</string>
+     <string name="contact_del_failed">"Nepavyko ištrinti"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Jei norite nustatyti balso paštą, eikite į „Meniu“ &gt; „Nustatymai“."</string>
+     <string name="simlock_unlocked">"Simlock atrakintas."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"Tik WCDMA"</item>
+        <item>"Tik GSM"</item>
+        <item>"automatinis"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"Tik GSM"</item>
+    </string-array>
+</resources>

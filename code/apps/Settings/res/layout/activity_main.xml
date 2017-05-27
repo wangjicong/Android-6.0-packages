@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--jiazhenl add for sales Tracker-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/Textview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    />
+    <EditText 
+        android:id="@+id/EditText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:layout_below="@id/Textview"
+        android:layout_margin="15dp"
+        />       
+        
+    <Button
+        android:id="@+id/Edit_Button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/EditText"
+        android:layout_centerInParent="true"
+        android:layout_margin="20dp"
+        />
+        
+    <Button
+        android:id="@+id/Del_Button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Edit_Button"
+        android:layout_centerInParent="true"
+        android:layout_margin="20dp"
+        />
+        
+    <TextView
+        android:id="@+id/Textview2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        
+    />
+</RelativeLayout>
+<!--jiazhenl add for sales Tracker-->

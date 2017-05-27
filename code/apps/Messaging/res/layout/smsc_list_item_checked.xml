@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeightSmall"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="horizontal" >
+
+    <TextView
+        android:id="@+id/smsc_number"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:hint="@string/smsc_list_empty_number"
+        android:paddingLeft="10dp"
+        android:singleLine="true"
+        android:text="@string/smsc_list_empty_number"
+        android:textAppearance="?android:attr/textAppearanceListItem" />
+
+    <RadioButton
+        android:id="@+id/check_smsc"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:checkMark="?android:attr/listChoiceIndicatorSingle"
+        android:gravity="center_vertical"
+        android:paddingRight="10dp" />
+
+</LinearLayout>

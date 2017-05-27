@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- <item
+        android:id="@+id/menu_set_save_path"
+        android:title="@string/menu_set_save_path"/> -->
+     <item
+        android:id="@+id/menu_select_more"
+        android:title="@string/menu_select_more"/>
+
+    <item
+        android:id="@+id/menu_select_type"
+        android:title="@string/menu_select_type"/>
+
+</menu>

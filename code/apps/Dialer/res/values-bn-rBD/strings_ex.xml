@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">""IP ডায়াল সেটিং"      "</string>
+    <string name="ip_dial_menu">IP ডায়াল নম্বর</string>
+    <string name="ip_dialing_title">আইপি ডায়ালিং</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">""দ্রুত ডায়াল সেটিং"      "</string>
+    <string name="no_fast_dial_number">""দ্রুত ডায়াল নম্বর সেট্ করা হয় নি।"      "</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">বহির্গামী</string>
+     <string name="call_log_incoming_title">"ইনকামিং"</string>
+     <string name="recentOutgoing_empty">"আপনার কোনো আউটগোয়িং কল নেই।"</string>
+     <string name="recentIncoming_empty">"আপনার কোনো ইনকামিং কল নেই।"</string>
+     <string name="view_setting">দেখা</string>
+     <string name="item_all_calls">"সমস্ত কল লগসমূহ"</string>
+     <string name="item_sim_calls">"SIM%d কল লগসমূহ"</string>
+     <string name="unselect_all">সব অনিবাচন</string>
+     <string name="select_all_sprd">সব নির্বাচন করুন</string>
+     <string name="doneButton">সম্পন্ন</string>
+     <string name="cancel">বাতিল</string>
+     <string name="delete_selected_calls">আপনি কি নিশ্চিত করে নির্বাচিত রেকর্ডগুলি মুছে ফেলতে চান?</string>
+     <string name="clearCallLogProgress_title">কল লগ পরিস্কার হচ্ছে\u2026</string>
+     <string name="delete_success">সাফল্যের সাথে মুছে ফেলা হয়েছে</string>
+     <string name="clear_all_call_log">" সব কল লগ সাফ"</string>
+     <string name="clear_selected_call_log">"নির্বাচিত কল লগ সাফ"</string>
+     <string name="select_all">সব নির্বাচন করুন</string>
+     <string name="unselect_all">সব অনিবাচন</string>
+     <string name="delete_all_calls_confirm">"আপনি আপনার সব রেকর্ড মুছে ফেলতে চান?"</string>
+     <string name="do_not_select">আপনি মুছে ফেলতে রেকর্ড বাছাই করেন নি</string>
+     <string name="delete_calls">মুছে দিন</string>
+     <string name="number_anr_isnull">যোগাযোগের নম্বর খালি আছে</string>
+     <string name="call_recording_setting_title">কল রেকর্ডিং করা</string>
+     <string name="automatic_recording_title">স্বয়ংক্রিয়ভাবে রেকর্ডিং হওয়া</string>
+     <string name="dialog_phone_permission_deny">"IP ডায়াল ব্যবহার করতে,\n ফোনের অনুমতি চালু করুন।"</string>
+     <string name="search_description">খোঁজো কল লগ</string>
+     <string name="call_log_add_to_blacklist">"কালোতালিকায় যোগ করুন"</string>
+     <string name="make_video_call_menu">"ভিডিও কল করুন"</string>
+
+</resources>

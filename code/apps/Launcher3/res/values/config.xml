@@ -1,0 +1,135 @@
+<resources>
+<!-- Dynamic Grid -->
+    <!-- Out of 100, the percent of space the overview bar should try and take vertically. -->
+    <integer name="config_dynamic_grid_overview_icon_zone_percentage">20</integer>
+    <!-- Out of 100, the percent to shrink the workspace during overview mode. -->
+    <integer name="config_dynamic_grid_overview_scale_percentage">80</integer>
+
+<!-- Miscellaneous -->
+    <bool name="config_largeHeap">true</bool>
+    <bool name="is_tablet">false</bool>
+    <bool name="is_large_tablet">false</bool>
+    <bool name="allow_rotation">false</bool>
+
+    <!-- Max number of page indicators to show -->
+    <integer name="config_maxNumberOfPageIndicatorsToShow">21</integer>
+
+    <!-- App data backup and restore. To enble backup, register with an android backup service.
+         http://developer.android.com/guide/topics/data/backup.html#BackupKey -->
+    <bool name="enable_backup">false</bool>
+
+<!-- DragController -->
+    <integer name="config_flingToDeleteMinVelocity">-1500</integer>
+    <item type="id" name="drag_event_parity" />
+
+<!-- AllApps & Launcher transitions -->
+    <!-- The alpha of the AppsCustomize bg in spring loaded mode -->
+    <integer name="config_workspaceScrimAlpha">55</integer>
+    <integer name="config_allAppsTransitionTime">100</integer>
+    <integer name="config_overviewTransitionTime">250</integer>
+
+    <!-- Out of 100, the percent to shrink the workspace during spring loaded mode. -->
+    <integer name="config_workspaceSpringLoadShrinkPercentage">80</integer>
+
+    <!-- Fade/zoom in/out duration & scale in a Launcher overlay transition.
+         Note: This should be less than the config_overlayTransitionTime as they happen together. -->
+    <integer name="config_overlayRevealTime">220</integer>
+    <integer name="config_overlayTransitionTime">300</integer>
+    <integer name="config_overlayItemsAlphaStagger">60</integer>
+
+    <!-- This constant stores the ratio of the all apps button drawable which
+         is used for internal (baked-in) padding -->
+    <integer name="config_allAppsButtonPaddingPercent">17</integer>
+
+    <integer name="config_workspaceDefaultScreen">1</integer>
+
+<!-- Workspace -->
+    <!-- The duration (in ms) of the fade animation on the object outlines, used when
+         we are dragging objects around on the home screen. -->
+    <integer name="config_dragOutlineFadeTime">900</integer>
+
+    <!-- The alpha value at which to show the most recent drop visualization outline. -->
+    <integer name="config_dragOutlineMaxAlpha">128</integer>
+
+    <!-- Parameters controlling the animation for when an item is dropped on the home screen,
+         and it animates from its old position to the new one. -->
+    <integer name="config_dropAnimMinDuration">100</integer>
+    <integer name="config_dropAnimMaxDuration">500</integer>
+
+    <!-- The duration of the UserFolder opening and closing animation -->
+    <integer name="config_folderExpandDuration">120</integer>
+    <integer name="config_materialFolderExpandDuration">200</integer>
+    <integer name="config_materialFolderExpandStagger">60</integer>
+
+    <!-- The distance at which the animation should take the max duration -->
+    <integer name="config_dropAnimMaxDist">800</integer>
+
+<!-- Hotseat -->
+    <bool name="hotseat_transpose_layout_with_orientation">true</bool>
+
+    <!-- Memory debugging, including a memory dump icon -->
+    <bool name="debug_memory_enabled">false</bool>
+
+    <!-- Name of a subclass of com.android.launcher3.AppFilter used to
+         filter the activities shown in the launcher. Can be empty. -->
+    <string name="app_filter_class" translatable="false"></string>
+
+    <!-- Name of a subclass of com.android.launcher3.BuildInfo used to
+         get build information. Can be empty. -->
+    <string name="build_info_class" translatable="false"></string>
+
+<!-- Accessibility actions -->
+    <item type="id" name="action_remove" />
+    <item type="id" name="action_uninstall" />
+    <item type="id" name="action_info" />
+    <item type="id" name="action_add_to_workspace" />
+    <item type="id" name="action_move" />
+    <item type="id" name="action_move_to_workspace" />
+    <item type="id" name="action_move_screen_backwards" />
+    <item type="id" name="action_move_screen_forwards" />
+    <item type="id" name="action_resize" />
+
+    <string name="feature_launcher_drm" translatable="false">addon.sprd.launcher3.drm.AddonLauncherDrmUtils</string>
+
+    <string name="feature_cmcc_app" translatable="false">addon.sprd.launcher3.cmcc.SprdCmccWorkspaceAddon</string>
+    <string name="feature_cucc_app" translatable="false">addon.sprd.launcher3.cucc.SprdCuccWorkspaceAddon</string>
+
+    <string name="folder_isenable" translatable="false">plugins.sprd.Folder.AddonFolderPlugins</string>
+    <string name="folder_dbinfo" translatable="false">plugins.sprd.Folder.AddonAppFolderDbInfo</string>
+    <string name="folder_icon" translatable="false">plugins.sprd.Folder.FolderIconPluginAddon</string>
+    <string name="launcher_utils_addon" translatable="false">plugins.sprd.Folder.LauncherUtilsAddon</string>
+    <string name="launcher_app_state_utils_addon" translatable="false">plugins.sprd.Folder.LauncherAppStateUtilsAddon</string>
+    <string name="launcher_backup_agent_helper_utils_addon" translatable="false">plugins.sprd.Folder.LauncherBackupAgentHelperUtilsAddon</string>
+    <string name="all_apps_gridadapter_utils_addon" translatable="false">plugins.sprd.Folder.AllAppsGridAdapterUtilsAddon</string>
+    <string name="allapps_recycler_view_utils_addon" translatable="false">plugins.sprd.Folder.AllAppsRecyclerViewUtilsAddon</string>
+    <string name="feature_jio_workspace" translatable="false">plugins.sprd.Folder.AddonPluginWorkspace</string>
+    <string name="feature_jio_allappscontainerview" translatable="false">plugins.sprd.Folder.AddonAllAppsContainerView</string>
+    <string name="launcher_clings_volte_utils_addon" translatable="false">plugins.sprd.Folder.LauncherClingsVolteUtilsAddon</string>
+    <string name="launcher_model_utils_addon" translatable="false">plugins.sprd.Folder.LauncherModelUtilsAddon</string>
+    <string name="jio_folder_AlphabeticalAppsList" translatable="false">plugins.sprd.Folder.AddonAlphabeticalAppsList</string>
+    <string name="unread_info_manager" translatable="false">plugins.sprd.unreadinfo.UnreadInfoManagerAddon</string>
+
+    <!-- Customzie App List -->
+    <string name="app_list_customizer" translatable="false">com.android.launcher3.VolteAppListCustomizer</string>
+    <bool name="uncustomized_app_sort_by_installed_time">true</bool><!-- Circular Sliding -->
+    <!-- SPRD: bug371310 2014-11-19 Feature circular sliding. -->
+    <integer name="config_circular_sliding_layout_top_margin">9</integer>
+    <integer name="config_circular_sliding_layout_left_margin">15</integer>
+    <!-- SUN:jicong.wang add for search enable -->
+    <bool name="disable_allapp_search_bar">false</bool>
+    <!-- SUN:jicong.wang add for search enable @} -->
+    
+    <!-- SUN:jicong.wang add for page CircularSlidingStatus {@ -->
+    <bool name="def_circular_slideing_status">true</bool>
+    <!-- SUN:jicong.wang add for page CircularSlidingStatus @} -->
+    
+    <!-- SUN:jicong.wang add for QsbBar -->
+    <string name="sun_def_qsbbar_config" translatable="false"></string>
+    <!-- SUN:jicong.wang add for QsbBar -->    
+    <!-- SUN:jicong.wang add for custom icon size {@ -->
+    <string name="sunvov_icon_size" translatable="false">ignore</string>
+    <!-- SUN:jicong.wang add for custom icon size @} -->    
+    <!-- SUN:jicong.wang add for hotseat shortcut icon size same start {@ -->
+    <bool name="sunvov_hotseat_shortcut_icon_size_same">false</bool>    
+    <!-- SUN:jicong.wang add for hotseat shortcut icon size same start @} -->
+</resources>

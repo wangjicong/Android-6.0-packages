@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="automatic_recording_key"
+        android:title="@string/automatic_recording_title"
+        android:persistent="true"
+        android:defaultValue="false" />
+
+</PreferenceScreen>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2013 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+-->
+
+
+<!--
+     In-call onscreen touch UI elements, used on some platforms.
+
+     This layout is a fullscreen overlay, drawn on top of the
+     non-touch-sensitive parts of the in-call UI (i.e. the call card).
+
+     The top-level View here is a InCallTouchUi (FrameLayout) with 2 children:
+       (1) inCallControls: the widgets visible while a regular call (or calls) is in progress
+       (2) incomingCallWidget: the UI displayed while an incoming call is ringing
+     In usual cases, one of these is visible at any given moment.
+     One exception is when incomingCallWidget is fading-out. At that moment, we show
+     inCallControls beneath incomingCallWidget for smoother transition.
+-->
+
+
+<!-- Main cluster of onscreen buttons on the lower part of the screen. -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ViewStub
+        android:id="@+id/conferenceStub"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/conference_list_fragment_sprd"
+        android:orientation="vertical" >
+    </ViewStub>
+
+</FrameLayout>

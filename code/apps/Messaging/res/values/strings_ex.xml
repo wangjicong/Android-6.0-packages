@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="signature_title">Signature</string>
+    <string name="pref_title_sms_retry_times">Enable SMS retry</string>
+    <!-- add for bug 504075 -->
+    <string name="conversation_deleteAll_failed">please try again later.</string>
+    <!-- SPRD: modified for bug 503091 begin -->
+    <string name="warning">Warning</string>
+    <!-- Modify by SPRD for Bug:536150  2016.02.29 Start -->
+    <string name="attachment_exceeded">The attachment you selected exceeded!</string>
+    <!-- Modify by SPRD for Bug:536150  2016.02.29 End -->
+    <!-- SPRD: modified for bug 503091 end -->
+    <string name="attachment_size">The size of attachment is : </string>
+    <string name="mms_size">The size of MMS is : </string>
+
+    <!-- Sprd add for common message begin -->
+    <!-- Permissions label for reading messages attachments -->
+    <string name="permission_read_messages_attachment_label">Read messages attachments</string>
+    <!-- Permissions description for reading messages attachments -->
+    <string name="permission_read_messages_attachment_desc">Allows the app to read your messages
+        attachments</string>
+    <string name="preference_name">Common Phrase</string>
+    <string name="select">Selected</string>
+    <string name="item_cancel">Cancel</string>
+    <string name="item_delete">Delete</string>
+    <string name="save_as_teltype">For Phone</string>
+    <string name="save_as_mmstype">For Sms</string>
+    <string name="type_to_pharser">Type common phrase</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="finish">Finish</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_pharser">Add common phrase</string>
+    <string name="edit_pharser">Edit common phrase</string>
+    <string name="exit_pharser_dialog_title">Prompt</string>
+    <string name="exit_pharser_dialog_content">Whether to save frequently used phrases?</string>
+    <string name="pharser_can_modify">Customized phrase</string>
+    <string name="pharser_cannot_modify">Fix phrase</string>
+    <string name="empty_pharser_not_save">"Null phrase can't be save !"</string>
+    <string name="select_item">You have chosen</string>
+    <string name="select_commmon_phrase">Select common phrase</string>
+    <string name="common_phrase_empty">No common phrases</string>
+    <string name="action_add_phrase">Insert common phrase</string>
+    <string name="pref_other_settings_title">Other</string>
+    <string name="phrase_pref_key">common_phrase_prefs</string>
+    <string name="action_wireless_alerts">"Cell Broadcasts"</string>
+    <string name="positive">positive</string>
+    <string name="wap_push_message_dialog_title">"Wap Push Message"</string>
+    <string name="open_website">Open website</string>
+    <string name="activity_not_found">Not found a suitable application</string>
+
+    <string-array name="fixed_mms_phrase">
+        <item>Please call my office phone, thank you.</item>
+        <item>Please contact me, thank you.</item>
+        <item>Please tell me your location.</item>
+        <item>Please call my cell phone later, thank you.</item>
+        <item>I was out, go home and give you a call.</item>
+        <item>I am driving and will respond later.</item>
+        <item>I come on the road, immediately be reached.</item>
+        <item>Traffic jams, later to, sorry.</item>
+        <item>Call you back later.</item>
+        <item>I\'m in a meeting, reply later.</item>
+    </string-array>
+    <string-array name="fixed_tel_phrase">
+<!--
+        <item>Can\'t talk now. What\'s up?</item>
+        <item>I\'ll call you right back.</item>
+        <item>I\'ll call you later.</item>
+        <item>Can\'t talk now. Call me later?</item>
+-->
+    </string-array>
+    <string-array name="fixed_both_phrase">
+        <item>Please call me or send sms to me later.</item>
+    </string-array>
+    <!-- Modify by SPRD for Bug:536150  2016.02.29 Start -->
+    <string name="share_video_exceeded">The video you selected exceeded!</string>
+    <string name="share_audio_exceeded">The audio you selected exceeded!</string>
+    <string name="share_image_exceeded">The picture you selected exceeded!</string>
+    <string name="share_muimgae_exceeded">Don,t share the picture exceeded!</string>
+    <!-- Modify by SPRD for Bug:536150  2016.02.29 End -->
+    <string name="share_noimgae_exceeded">Contain non-image files can not be shared!</string>
+    <string name="exceed_text_length_limitation">it exceeds the text length limitation.</string>
+
+    <!-- Sprd add for common message end -->
+    <string name="drm_no_application_open">Can not open file</string>
+
+
+    <string name="ok_drm_rights_consume">"OK"</string>
+    <string name="cancel_drm_rights_consume">"Cancel"</string>
+    <string name="orgdrm_no_share">" not support the sharing"</string>
+    <string name="drm_can_not_processed">" Drm File can not be processed"</string>
+    <string name="notification_drm">"DRM"</string>
+
+    <string name="protect_information">"Protect Information"</string>
+    <string name="drm_consume_title">"Consume Drm Rights"</string>
+    <string name="drm_consume_hint">"Your Operation will consume Drm Rights"</string>
+    <string name="drm_file_path">Path:%1$s</string>
+    <string name="drm_file_name">File Name:%1$s</string>
+    <string name="drm_rights_validity">Rights Validity:valid</string>
+    <string name="drm_rights_invalidity">Rights Validity:invalid</string>
+    <string name="drm_rights_status_transfer">Rights Status:allowed to be transfered</string>
+    <string name="drm_rights_status_untransfer">Rights Status:not allowed to be transfered</string>
+    <string name="drm_start_time">Start Time:%1$s</string>
+    <string name="drm_end_time">End Time:%1$s</string>
+    <string name="drm_expiration_time">Expiration Time:%1$s</string>
+    <string name="drm_remain_times">Remain Times:%1$s</string>
+    <string name="drm_no_info">"No Information"</string>
+    <string name="drm_unlimited_rights">"Unlimited"</string>
+    <string name="drm_rights_unknown">"Unknown"</string>
+    <string name="drm_inactive_rights">"Rights inactive"</string>
+    <string name="drm_shared_not_drmdownload">Move it to DrmDownload directory and then share it please</string>
+
+    <string name="share_nofile_exceeded">Over MMS Limit!</string>
+    <string name="no_few_participants">No participants</string>
+
+    <string name="mms_validity_pref_title">MMS validity setting</string>
+    <string name="sms_validity_pref_title">SMS validity setting</string>
+
+    <string name="attach_vcalendar">Calendar</string>
+    <string name="confirm_import_vcalendar">"Import this Vcalendar?"</string>
+    <string name="confirm_save_otherfiles">"Save this attachment?"</string>
+    <string name="confirm_import">yes</string>
+    <string name="cancel_import">no</string>
+    <string name="attach_other_file">Unknown file</string>
+    <string name="copy_to_sdcard_success">"Attachment saved to  "<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g></string>
+    <string name="copy_to_sdcard_fail">Couldn\'t save attachment.</string>
+    <string name="attach_sound" >audio</string>
+    <string name="select_vcard_button" >Click the button to enter the contact</string>
+    <string name="select_video_button" >Click the button to enter the video</string>
+    <string name="select_audio_button" >Click the button to enter the audio</string>
+    <string name="select_vcalendar_button" >Click the button to enter the calendar</string>
+
+    <!-- bug 478514: Add for MmsFolderView Feature Begin -->
+    <string name="no_mms_plugin">Has no folder view</string>
+    <string name="attachment_details">Attachment details</string>
+    <string name="context_menu_copy_to_sim_memory">Copy message to SIM</string>
+    <string name="copy_message_text">Copy text</string>
+    <string name="min_zoom">Has reached the minimum</string>
+    <string name="max_zoom">Has reached the maximum</string>
+    <string name="message_details_text">Message Details</string>
+    <string name="folder_reply">"Reply"</string>
+    <string name="new_message">New message</string>
+    <string name="folder_forward">"Forward"</string>
+    <string name="delete_message">"Delete"</string>
+    <string name="menu_resend">"Resend"</string>
+    <string name="save_all_attachments">"Save all attachments"</string>
+    <string name="host_app_name">Messaging</string>
+    <string name="need_messaging_is_default_app">"You must set the \"%1$s\" to sms default app"</string>
+    <string name="message_outgoing_successful">"Message send success"</string>
+    <string name="message_outgoing_failure">"Message not sent"</string>
+    <!-- bug 478514: Add for MmsFolderView Feature End -->
+
+    <!-- Add by SPRD for Bug:521086 2016.01.15 Start -->
+    <string name="share_unsupported_type">"Unsupported content type, cannot be sheared!"</string>
+    <!-- Add by SPRD for Bug:521086 2016.01.15 End -->
+
+    <!-- 489220 begin -->
+    <!-- Title for the preference for whether or not to request/show delivery reports for MMS -->
+    <string name="mms_delivery_reports_pref_title">MMS delivery reports</string>
+    <string name="mms_delivery_reports_pref_summary">Request a delivery report for each MMS you send</string>
+    <string name="mms_read_reports_pref_title">MMS read reports</string>
+    <string name="mms_read_reports_pref_summary">Request a read report for each MMS you send</string>
+    <string name="enable_return_mms_delivery_reports_pref_title">Enable Return MMS delivery reports</string>
+    <string name="enable_return_mms_delivery_reports_pref_summary">Enable Return Request a delivery report for each MMS you send</string>
+    <string name="enable_return_mms_read_reports_pref_title">Enable Return MMS read reports</string>
+    <string name="enable_return_mms_read_reports_pref_summary">Enable Return Request a read report for each MMS you send</string>
+
+    <string name="delivery_toast_body">Message received by %s.</string>
+    <string name="delivery_toast_body_expired">"Message is expired %s."</string>
+    <string name="delivery_toast_body_fail_rejected">Message rejected by %s.</string>
+    <string name="delivery_toast_body_fail">Message not received by %s.</string>
+    <string name="read_report_toast_body">Message read by %s.</string>
+    <string name="read_report_toast_body_fail">Message not read by %s.</string>
+    <!-- 489220 end -->
+    <!--add for bug 527803 begin -->
+    <string name="mimetype_null">"the mimetype is null,can't store the attchment"</string>
+    <!--add for bug 527803 end-->
+
+    <!-- Sprd add for Smsc begin-->
+    <string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> SMS Service Center"</string>
+    <!-- Settings item description for modifying Sim smcs screen -->
+    <string name="pref_title_manage_sim_smsc">SMS Service Center</string>
+    <string name="smsc_set_fails">Smsc Set fails</string>
+    <string name="smsc_set_success">Set successfully.</string>
+    <string name="smsc_update_success">Update successfully</string>
+    <string name="smsc_cannot_be_null">Smsc cannot be null!</string>
+    <string name="smsc_should_be_number">Smsc should be a number</string>
+    <string name="smsc_list">SMS center list</string>
+    <string name="smsc_list_empty">No SMS center numbers</string>
+    <string name="smsc_list_loading">Loading</string>
+    <string name="smsc_list_empty_number">Click to add new number</string>
+    <string name="smsc_list_empty_toast">Message not sent, no SMS center number</string>
+    <string name="smsc_list_empty_notify_des">Please add a new SMS center number</string>
+    <string name="smsc_list_empty_notify_title">No SMS center number</string>
+    <!-- Sprd add for Smsc end -->
+
+    <!-- Add by SPRD for Bug:521086 2016.02.02 Start -->
+    <string name="shared_image_number_exceed">"Maximum of shared images number is %d, the exceeds are removed."</string>
+    <!-- Add by SPRD for Bug:521086 2016.02.02 End -->
+
+    <string name="drm_unsupported_toast">"DRM file is not available. Please select another file."</string>
+
+    <string name="err_sent_no_sim">Message not sent, no SIM card.</string>
+    <string name="is_redirect_to">Is redirect to %1$s ?</string>
+	<string name="browser">Browser</string>
+	<string name="email">Email</string>
+	<string name="telephone">Telephone</string>
+	<string name="map">Map</string>
+
+    <string name="no_permissions">No Permissions</string>
+
+    <!-- Add by SPRD for Bug:533513 2016.03.10 Start -->
+    <!-- SIGNATURE FUNC -->
+    <string name="message_signature_setting">Signature Setting</string>
+    <string name="pref_signature_enable_title">Optional signature</string>
+    <string name="pref_signature_enabl_summary">Automatically append signature to every MMS message you send</string>
+    <string name="pref_signature_input_title">Edit signature</string>
+    <string name="pref_signature_input_summary">Enter here to set your signature</string>
+    <!-- Add by SPRD for Bug:533513 2016.03.10 End -->
+
+    <!-- Sprd add for sms merge forward begin -->
+    <string name="folder_loading">Loading..</string>
+    <string name="sms_merge_forward_empty">No SMS message to merge and forward.</string>
+    <string name="sms_forward">Forward</string>
+    <string name="sms_merge_dialog_title">Prompt</string>
+    <string name="sms_merge_dialog_content1">"You can only merge between %d SMS messages "</string>
+    <string name="sms_merge_dialog_content2">"and %d SMS messages. Please check it."</string>
+    <string name="messagelist_sender_self">Me</string>
+    <string name="sms_merge_forward">Merge and Forward</string>
+    <string name="muti_select_all">Select All</string>
+    <string name="menu_select_none">Cancel All</string>
+    <string name="sms_merge_dialog_content_exceed">"You merge forwarded message content over the %d limit, please check again!"</string>
+    <!-- Sprd add for sms merge forward end -->
+
+
+    <string name="action_sim_sms">Messages in SIM</string>
+
+    <!-- sprd #542214 start -->
+    <string name="sms_save_to_sim_pref_title">"sms has priority to save to sim"</string>
+    <string name="sms_sim_full_title">"sim is full"</string>
+    <string name="sms_sim_full_notification_ticker">"Low SMS storage. You may need to delete messages."</string>
+    <string name="sms_sim_full_text">"sim is full, the sms will be saved to messaging database. And please delete sms from sim if want to save to sim again。"</string>
+    <!-- sprd #542214 end -->
+
+    <!-- Add by SPRD for Bug:543263 2016.03.29 Start -->
+    <string name="no_sms_permissions">"No SMS permission, can't play audio."</string>
+    <!-- Add by SPRD for Bug:543263 2016.03.29 End -->
+
+    <string name="smil_subject_hint">"No mms subject,you can edit"</string>
+    <string name="smil_out_of_size">"out of memory"</string>
+    <string-array name="smil_choice_items">
+        <item>Smil Scan</item>
+        <item>Smil Playing</item>
+    </string-array>
+    <string name="video_content_type">"Video :"</string>
+    <string name="iamge_content_type">"Image :"</string>
+    <string name="audio_content_type">"Audio :"</string>
+    <string name="vcard_content_type">"Vcard :"</string>
+    <string name="vcalendar_content_type">"Vcalendar :"</string>
+    <!-- bug 495194 : add for search feature start -->
+    <string name="subject_edit">"Subject Edit"</string>
+    <string name="text_edit">"Text Editor"</string>
+    <string name="repalce_slide">"Replace Slide"</string>
+    <string name="remove_slide">"Remove Slide"</string>
+    <string name="insert_befor_slide">"Insert Before Slide"</string>
+    <string name="insert_after_slide">"Insert After Slide"</string>
+    <string name="add_attachment">"Add A Attachment"</string>  
+    <string name="remove_attachment">"Remove Attachment"</string>
+    <string name="repalce_attachment">"Replace Attachment"</string>
+    <string name="hint_for_input">"Please to edit"</string>
+    <string name="hint_for_empty">"Please to edit,Current position attachment is a empty attachment"</string>
+    <string name="goto_smil">"Go to smil"</string>
+    <string name="smil_subject">"Subject :"</string>
+
+    <!-- bug 495194 : add for search feature begin -->
+    <plurals name="search_results_title">
+        <item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> 条符合“<xliff:g id="SEARCH">%2$s</xliff:g>”的搜索结果"</item>
+        <item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> 条符合“<xliff:g id="SEARCH">%2$s</xliff:g>”的搜索结果"</item>
+    </plurals>
+    <string name="menu_search_text">Search</string>
+    <string name="search_label">Messaging</string>
+    <string name="search_hint">Search messaging</string>
+    <string name="search_max_length">Search sentence is too long, will limited to 512.</string>
+    <string name="search_setting_description">Text in your messages</string>
+    <string name="search">Messaging</string>
+    <string name="search_empty">No matches.</string>
+    <string name="search_history"><xliff:g id="count">%1$s</xliff:g> results for \"<xliff:g id="search">%2$s</xliff:g>\"</string>
+    <!-- bug 495194 : add for search feature end -->
+    <string name="can_not_add_same_picture">Can not be repeated to add the same picture</string>
+    <string name="smil_add_text">"Add a text attachment"</string>
+    <string name="smil_empty_content">"Empty Content , Stop to send !"</string>
+    <string name="exceed_participant_limit">"Quantity of participants exceeded limitation(<xliff:g>%1$s</xliff:g>), please delete <xliff:g>%2$s</xliff:g> ones."</string>
+    <string name="dlg_save_attachment">"save file&#8230;"</string>
+    <plurals name="attachments_saved_dir">
+        <item quantity="one"><xliff:g id="quantity">%d</xliff:g> attachment file saved to \"<xliff:g id="dir">%s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="quantity">%d</xliff:g> attachment files saved to \"<xliff:g id="dir">%s</xliff:g>\"</item>
+    </plurals>
+
+    <!-- add for bug 556265 capacity of sim messages begin -->
+    <string name="capacity_sim_message_title">SIM Capacity</string>
+    <string name="capacity_sim_message_summary">count/Max capacity:%s</string>
+    <!-- add for bug 556265 capacity of sim messages end -->
+
+    <!-- Add by SPRD for bug 554677 -->
+    <string name="audio_record_retry">Please close the background recording and try again.</string>
+    <!-- add for bug 555230 begin -->
+    <string name="contact_invalid">invalid contact,please choose the valid contact again.</string>
+    <!-- add for bug 555230 begin -->
+    <!-- add for bug 558980 begin -->
+    <string name="message_size_counting">Counting</string>
+    <!-- add for bug 558980 end -->
+
+    <!-- SPRD: Add for bug 562203 start -->
+    <string name="pref_encode_type_setting_title">"Encode type setting"</string>
+    <string name="pref_encode_type_title">"Encode type"</string>
+    <string name="pre_encode_type_default">0</string>
+    <!-- SPRD: Add for bug 562203 end -->
+</resources>

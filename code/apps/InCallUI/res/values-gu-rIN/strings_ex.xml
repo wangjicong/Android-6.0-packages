@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"મુખ્ય કાર્ડ"</string>
+<string name="vice_card_slot">"વાઇસ કાર્ડ"</string>
+<string name="record_time">"સમય રેકોર્ડ કરો:"</string>
+<string name="onscreenShowRecodText">"રેકોર્ડ"</string>
+<string name="recorderr">"રેકોર્ડિંગ સેવ થવામાં નિષ્ફળ ગયું!"</string>
+<string name="audio_db_artist_name">"તમારું રેકોર્ડીંગ્સ "</string>
+<string name="audio_db_album_name">"કોલ રેકોર્ડીંગ્સ"</string>
+<string name="audio_db_playlist_name">"માય રેકોર્ડંગ્સ"</string>
+<string name="app_name">"ફોન એપ્લીકેશન"</string>
+<string name="error_mediadb_new_record">"રેકોર્ડ કરેલો ઓડીયો સેવ કરવામાં અક્ષમ"</string>
+<string name="sdcard_access_error">SD કાર્ડમાં ઍક્સેસ કરી શકે તેમ નથી</string>
+<string name="no_sd_card">"SD કાર્ડ નથી અથવા અનમાઉન્ટેડ છે"</string>
+<string name="insert_sd_card">"કૃપા કરીને SD કાર્ડ નાખો"</string>
+<string name="storage_is_full">"સ્ટોરેજ ભરાઇ ગયું છે"</string>
+<string name="recording">"રેકોર્ડિંગ "</string>
+<string name="used_by_other_applications">"રેકોર્ડીંગ સાધન અન્ય કાર્યક્રમો દ્વારા ઉપયોગમાં છે, કૃપયા કાર્યક્રમને શટ ડાઉન કરો"</string>
+<string name="prompt_record_finish">"રેકોર્ડીંગ ફાઇલ સેવ થઇ છે "</string>
+<string name="ok">ઓકે</string>
+<string name="permission_no_record">"તમને કૉલ રેકોર્ડિંગની કોઇ પરવાનગી નથી."</string>
+<string name="hangup_hold_and_answer">"મુલતવી રાખેલો કોલ ઉપાડો અને જવાબ આપો"</string>
+<string name="hangup_active_and_answer">"એક્ટિવ કોલની વાતચીત પૂર્ણ કરો અને જવાબ આપો"</string>
+<string name="hangup_all_and_answer">"દરેક અધૂરા કોલ્સનો જવાબ આપો"</string>
+<string name="onActive">"કાર્યરત"</string>
+<string name="hold_current_call_and_answer">"હાલનો કૉલ પકડી રાખો અને જવાબ આપો"</string>
+<string name="hangup_current_call_and_answer">"હાલના કૉલને હેંગ અપ કરો અને જવાબ આપો"</string>
+</resources>

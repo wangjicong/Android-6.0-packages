@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB sätted"</string>
+<string name="usb_charge_only">"Lae ainult"</string>
+<string name="usb_charge_only_summary">"Kasuta ainult laadimise valikut kui USB on ühendatud"</string>
+<string name="usb_charge_only_storage_active_subtext">"Ei saa ainult laadida kui USB mälu on kasutusel"</string>
+<string name="usb_charge_only_notification">"Ühendatud ainult laadimiseks"</string>
+<string name="usb_storage">"USB-mäluseade"</string>
+<string name="usb_storage_summary">"USB massmälu lubamine"</string>
+<string name="ums_settings">"UMS Sätted"</string>
+<string name="ums_mounted_setting">"Tõstan praegu ums PC-le, palun oota..."</string>
+<string name="ums_unmounted_setting">"Võtan praegu ums  PC-lt maha, palun oota..."</string>
+<string name="usb_virtual_drive">"USB virtuaalketas"</string>
+<string name="usb_virtual_drive_summary">"Võimalda USB virtuaalketas"</string>
+<string name="remember_choice">"Jäta minu valik meelde"</string>
+<string name="remember_choice_summary">"Jäta mu valik meelde ja käivita valitud funktsioon järgmisel korral automaatselt"</string>
+<string name="stand_by_set_changed_prompt">"Sim aktiveerimisstaatust muudetakse, palun kinnita jätkamine?"</string>
+<string name="not_stand_by">"KEELATUD"</string>
+<string name="primary_card_switching">"Seadmine\uff0cplun oota..."</string>
+<string name="toggle_data_change_message">"Andmeühendus lülitus sim kaardile <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, pane tähele, et sellega kaasneb andmete läbilaskvus ning sellega seonduvad kulud."</string>
+<string name="select_primary_card">"Vali primaarne kaart"</string>
+<string name="whether_switch_primary_card">"Palun kinnita, kas vahetada primaarne kaart selle kaardi vastu?\n(Telefonis olevad andmed tõstetakse samuti kaardile.)"</string>
+<string name="attention">"Tähelepanu"</string>
+<string name="bt_softap_cannot_coexist">"Kui softap on aktiivne või on aktiveerimisel, siis bluetooth ei saa töös olla, kui soovid kasutada  bluetooth-i, tee kindlaks, et softap on deaktiveeritud."</string>
+<string name="softap_bt_cannot_coexist">"Kui bluetooth on lubatud või on käivitamisel, ligipääsupunkt ei tööta, kui soovid kasutada ligipääsupunkti, tee kindlaks, et bluetooth on keelatud."</string>
+<string name="softap_need_mobile_data_enabled">"Kaasaskantav Wi-Fi hotspot vajab rohkem andmeühendust, võib tekitada lisakulusid."</string>
+<string-array name="light_color_picker">
+<item>"Roheline"</item>
+<item>"Sinine"</item>
+<item>"Indigosinine"</item>
+<item>"lilla"</item>
+<item>"Roosa"</item>
+<item>"Punane"</item>
+<item>"Kollane"</item>
+</string-array>
+</resources>

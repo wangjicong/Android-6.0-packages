@@ -1,0 +1,25 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+    <!--
+  Copyright (C) 2010,2011 Thundersoft Corporation
+  All rights Reserved
+    -->
+    <item
+        android:drawable="@drawable/sns_ic_doing_1"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/sns_ic_doing_2"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/sns_ic_doing_3"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/sns_ic_doing_4"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/sns_ic_doing_5"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/sns_ic_doing_6"
+        android:duration="200"/>
+</animation-list>

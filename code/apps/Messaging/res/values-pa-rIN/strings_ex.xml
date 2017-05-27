@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"ਹਸਤਾਖਰ"</string>
+<string name="pref_title_sms_retry_times">SMS ਰੀਟ੍ਰਾਈ ਸਮਰਥਿਤ ਕਰੋ</string>
+<string name="preference_name">ਸਧਾਰਨ ਵਾਕਾਂਸ਼ </string>
+<string name="select">"ਚੁਣਿਆ"</string>
+<string name="item_cancel">ਰੱਦ ਕਰੋ</string>
+<string name="item_delete">ਮਿਟਾਓ</string>
+<string name="save_as_teltype">"ਫੋਨ ਲਈ"</string>
+<string name="save_as_mmstype">"Sms ਲਈ"</string>
+<string name="type_to_pharser">"ਸਧਾਰਨ ਵਾਕਾਂਸ਼ ਟਾਈਪ ਕਰੋ"</string>
+<string name="add">ਸ਼ਾਮਿਲ ਕਰੋ</string>
+<string name="edit">"ਸੰਪਾਦਿਤ ਕਰੋ"</string>
+<string name="delete">ਮਿਟਾਓ</string>
+<string name="finish">ਸਮਾਪਤ ਕਰੋ</string>
+<string name="cancel">ਰੱਦ ਕਰੋ</string>
+<string name="add_pharser">"ਸਧਾਰਨ ਵਾਕਾਂਸ਼ ਜੋੜੋ"</string>
+<string name="edit_pharser">ਸਧਾਰਨ ਵਾਕਾਂਸ਼ ਮਿਟਾਓ</string>
+<string name="pharser_can_modify">"ਅਨੁਕੂਲਿਤ ਵਾਕਾਂਸ਼"</string>
+<string name="pharser_cannot_modify">"ਵਾਕਾਂਸ਼ ਨਿਯਤ ਕਰੋ"</string>
+<string name="select_item">"ਤੁਸੀਂ ਚੋਣ ਕੀਤੀ ਹੈ"</string>
+<string name="select_commmon_phrase">ਸਧਾਰਨ ਵਾਕਾਂਸ਼ ਚੁਣੋ</string>
+<string name="common_phrase_empty">"ਕੋਈ ਸਧਾਰਨ ਵਾਕਾਂਸ਼ ਨਹੀਂ"</string>
+<string name="action_add_phrase">"ਸਧਾਰਨ ਵਾਕਾਂਸ਼ ਦਰਜ ਕਰੋ"</string>
+<string name="pref_other_settings_title">ਹੋਰ</string>
+<string-array name="fixed_mms_phrase">
+<item>ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੇ ਆਫਿਸ ਫੋਨ ਤੇ ਕਾਲ ਕਰੋ, ਤੁਹਾਡਾ ਧੰਨਵਾਦ।</item>
+<item>ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਸੰਪਰਕ ਕਰੋ, ਤੁਹਾਡਾ ਧੰਨਵਾਦ।</item>
+<item>ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਆਪਣਾ ਸਥਾਨ ਦੱਸੋ।</item>
+<item>ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਮੇਰੇ ਸੈਲ ਫੋਨ ਤੇ ਕਾਲ ਕਰੋ, ਤੁਹਾਡਾ ਧੰਨਵਾਦ।</item>
+<item>ਮੈਂ ਬਾਹਰ ਸੀ, ਘਰ ਜਾਓ ਅਤੇ ਮੈਂ ਤੁਹਾਨੂੰ ਇੱਕ ਕਾਲ ਕਰਾਂਗਾ।</item>
+<item>"ਮੈਂ ਡ੍ਰਾਈਵਿੰਗ ਕਰ ਰਿਹਾ ਹਾਂ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਜਵਾਬ ਦੇਵਾਂਗਾ।"</item>
+<item>"ਮੈਂ ਰਸਤੇ ਵਿੱਚ ਹਾਂ, ਜਲਦੀ ਪਹੁੰਚ ਜਾਵਾਂਗਾ।"</item>
+<item>ਟ੍ਰੈਫਿਕ ਜਾਮ, ਬਾਅਦ ਵਿੱਚ, ਮਾਫ ਕਰਨਾ।</item>
+<item>ਤੁਹਾਨੂੰ ਬਾਅਦ ਵਿੱਚ ਕਾਲ ਕਰਾਂਗਾ।</item>
+<item>ਮੈਂ ਇੱਕ ਮੀਟਿੰਗ ਵਿੱਚ ਹਾਂ, ਬਾਅਦ ਵਿੱਚ ਜਵਾਬ ਦੇਵਾਂਗਾ।</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>ਹੁਣ ਗੱਲ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਕੀ ਹੋ ਰਿਹਾ ਹੈ?</item>
+<item>ਮੈਂ ਤੁਹਾਨੂੰ ਥੋੜ੍ਹੀ ਦੇਰ ਵਿੱਚ ਹੀ ਕਾਲ ਕਰਾਂਗਾ।</item>
+<item>ਮੈਂ ਤੁਹਾਨੂੰ ਬਾਅਦ ਵਿੱਚ ਕਾਲ ਕਰਾਂਗਾ।</item>
+<item>ਹੁਣ ਗੱਲ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਕੀ ਤੁਸੀਂ ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਕਾਲ ਕਰ ਸਕਦੇ ਹੋ?</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ ਫੋਨ ਕਰੋ ਜਾਂ sms ਭੇਜੋ।"</item>
+</string-array>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@android:id/background"
+        android:layout_height="3dp"
+        android:drawable="@drawable/panel_now_playing_progress_bg">
+    </item>
+
+    <item android:id="@android:id/secondaryProgress">
+        <scale android:scaleWidth="100%"
+               android:layout_height="3dp"
+               android:drawable="@drawable/panel_now_playing_progress_bg" />
+    </item>
+
+    <!-- Can't actually use
+        android:drawable="@drawable/panel_now_playing_progress_bar"
+        here, so fake it with a similar looking gradient.
+    -->
+    <item android:id="@android:id/progress" >
+        <scale android:scaleWidth="100%"
+               android:layout_height="2dp"
+               android:drawable="@drawable/panel_now_playing_progress_bar" />
+    </item>
+
+
+
+</layer-list>
+

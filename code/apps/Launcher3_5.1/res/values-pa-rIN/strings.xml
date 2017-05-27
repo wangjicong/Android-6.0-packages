@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="home">"ਹੋਮ"</string>
+<string name="uid_name">ਐਨਡਰਾੱਇਡ ਕੋਰ ਅਨੁਪ੍ਰਯੋਗ</string>
+<string name="activity_not_found">ਅਨੁਪ੍ਰਯੋਗ ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ।</string>
+<string name="safemode_shortcut_error">"ਡਾਊਨਲੋਡ ਕੀਤਾ ਐਪ ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਿੱਚ ਅਸਮਰੱਥ ਕੀਤਾ"</string>
+<string name="widgets_tab_label">ਵਿਡਗੈਟਸ</string>
+<string name="widget_adder">ਵਿਡਗੈਟਸ</string>
+<string name="toggle_weight_watcher">"Mem ਦਿਖਾਓ"</string>
+<string name="long_press_widget_to_add">"ਇੱਕ ਵਿਜੇਟ ਚੁੱਕਣ ਲਈ ਛੋਹਵੋ ਅਤੇ ਫੜ੍ਹੋ।"</string>
+<string name="market">ਦੁਕਾਨ</string>
+<string name="widget_dims_format">"%1$d \u00d7 %2$d"</string>
+<string name="external_drop_widget_error">ਇਸ ਹੋਮ ਸਕ੍ਰੀਨ ਤੇ ਆਈਟਮਨ ਨੂੰ ਡ੍ਰੌਪ ਨਹੀਂ ਕਰ ਸਕਿਆ।</string>
+<string name="external_drop_widget_pick_title">ਇਹ ਬਣਾਉਣ ਲਈ ਵਿਜੇਟ ਚੁਣੋ</string>
+<string name="rename_folder_label">ਫੋਲਡਰ ਦਾ ਨਾਮ</string>
+<string name="rename_folder_title">ਫੋਲਡਰ ਦਾ ਦੁਬਾਰਾ ਨਾਮ ਦਿਉ</string>
+<string name="rename_action">OK</string>
+<string name="cancel_action">ਰੱਦ ਕਰੋ</string>
+<string name="menu_item_add_item">ਮੁੱਖ ਸਕਰੀਨ ਵਿੱਚ ਸ਼ਾਮਿਲ ਕਰੋ</string>
+<string name="group_applications">"ਅਨੁਪ੍ਰਯੋਗ"</string>
+<string name="group_shortcuts">ਸਾਰਟਕਟ </string>
+<string name="group_widgets">ਵਿਡਗੈਟਸ</string>
+<string name="completely_out_of_space">ਤੁਹਾਡੀ ਹੋਮ ਸਕ੍ਰੀਨ ਤੇ ਕੋਈ ਹੋਰ ਸਥਾਨ ਨਹੀਂ।</string>
+<string name="out_of_space">ਇਸ ਹੋਮ ਸਕਰੀਨ ਤੇ ਕੋਈ ਜ਼ਿਆਦਾ ਜਗ੍ਹਾ ਨਹੀਂ ਹੈ।</string>
+<string name="hotseat_out_of_space">"ਪਸੰਦੀਦਾ ਟ੍ਰੇ ਵਿੱਚ ਕੋਈ ਹੋਰ ਸਥਾਨ ਨਹੀਂ"</string>
+<string name="invalid_hotseat_item">"ਇਹ ਵਿਜੇਟ ਪਸੰਦੀਦਾ ਟ੍ਰੇ ਲਈ ਬਹੁਤ ਜ਼ਿਆਦਾ ਵੱਡਾ ਹੈ"</string>
+<string name="shortcut_installed">ਸ਼ਾਰਟਕਟ  \"<xliff:g id="name" example="Browser">%s</xliff:g>\" ਤਿਆਰ ਕੀਤਾ ਗਿਆ।</string>
+<string name="shortcut_uninstalled">ਸ਼ਾਰਟਕਟ \"<xliff:g id="name" example="Browser">%s</xliff:g>\" ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।</string>
+<string name="shortcut_duplicate">ਸ਼ਾਰਟਕਟ \"<xliff:g id="name" example="Browser">%s</xliff:g>\" ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਮੌਜੂਦ ਹੈ।</string>
+<string name="title_select_shortcut">ਸ਼ੌਰਟਕਟ ਚੁਣੋ</string>
+<string name="title_select_application">ਅਨੁਪ੍ਰਯੋਗ ਚੁਣੋ</string>
+<string name="all_apps_button_label">"ਅਨੁਪ੍ਰਯੋਗ"</string>
+<string name="all_apps_home_button_label">"ਹੋਮ"</string>
+<string name="delete_zone_label_workspace">ਹਟਾਓ</string>
+<string name="delete_zone_label_all_apps">ਅਸਥਾਪਿਤ ਕਰੋ</string>
+<string name="delete_target_label">ਹਟਾਓ</string>
+<string name="delete_target_uninstall_label">ਅਸਥਾਪਿਤ ਕਰੋ</string>
+<string name="info_target_label">ਅਨੁਪ੍ਰਯੋਗ ਜਾਣਕਾਰੀ</string>
+<string name="accessibility_search_button">ਖੋਜੋ</string>
+<string name="accessibility_voice_search_button">ਵਾੱਇਸ ਖੋਜ</string>
+<string name="accessibility_all_apps_button">"ਅਨੁਪ੍ਰਯੋਗ"</string>
+<string name="accessibility_delete_button">ਹਟਾਓ</string>
+<string name="delete_zone_label_all_apps_system_app">ਅਪਡੇਟ ਅਣ ਇੰਸਟਾਲ ਕਰੋ</string>
+<string name="cab_menu_delete_app">ਅਨੁਪ੍ਰਯੋਗ ਅਣ ਇੰਸਟਾਲ ਕਰੋ</string>
+<string name="cab_menu_app_info">ਅਨੁਪ੍ਰਯੋਗ ਵੇਰਵੇ</string>
+<string name="cab_app_selection_text">1 ਅਨੁਪ੍ਰਯੋਗ ਚੁਣਿਆ ਗਿਆ</string>
+<string name="cab_widget_selection_text">1 ਵਿਜੇਟ ਚੁਣਿਆ ਗਿਆ</string>
+<string name="cab_folder_selection_text">1 ਫੋਲਡਰ ਚੁਣਿਆ ਗਿਆ</string>
+<string name="cab_shortcut_selection_text">1 ਸ਼ੌਰਟਕਟ ਚੁਣਿਆ ਗਿਆ</string>
+<string name="permlab_install_shortcut">ਸ਼ਾਰਟਕਟਸ ਸਥਾਪਿਤ ਕਰੋ</string>
+<string name="permdesc_install_shortcut">ਇੱਕ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਉਪਯੋਗਕਰਤਾ ਦੀ ਜਾਣਕਾਰੀ ਤੋਂ ਬਿਨਾਂ ਸ਼ੌਰਟਕਟਸ ਜੋੜਨ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ</string>
+<string name="permlab_uninstall_shortcut">ਸ਼ਾਰਟਕਟਾਂ ਦੀ ਸਥਾਪਨਾ ਰੱਦ ਕਰੋ</string>
+<string name="permdesc_uninstall_shortcut">ਇੱਕ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਉਪਯੋਗਕਰਤਾ ਦੀ ਜਾਣਕਾਰੀ ਤੋਂ ਬਿਨਾਂ ਸ਼ੌਰਟਕਟਸ ਮਿਟਾਉਣ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ</string>
+<string name="permlab_read_settings">ਮੁੱਖ ਪੇਜ ਸੈਟਿੰਗਾਂ ਅਤੇ ਸ਼ਾਰਟਕੱਟ ਪੜ੍ਹੋ</string>
+<string name="permdesc_read_settings">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਹੋਮ ਵਿੱਚ ਸੈਟਿੰਗਸ ਅਤੇ ਸ਼ੌਰਟਕਟਸ ਪੜ੍ਹਨ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ।</string>
+<string name="permlab_write_settings">ਹੋਮ ਸੈਟਿੰਗਾਂ ਅਤੇ ਸ਼ਾਰਟਕੱਟ ਲਿਖੋ</string>
+<string name="permdesc_write_settings">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਹੋਮ ਵਿੱਚ ਸੈਟਿੰਗਸ ਅਤੇ ਸ਼ੌਰਟਕਟਸ ਬਦਲਣ ਦੀ ਅਨੁਮਤੀ ਦਿੰਦਾ ਹੈ।</string>
+<string name="gadget_error_text">ਵਿਡਗੈਟ ਲੋਡ ਕਰਨ ਵਿੱਚ ਸਮੱਸਿਆ</string>
+<string name="gadget_setup_text">ਸੈਟਅਪ</string>
+<string name="uninstall_system_app_text">ਇਹ ਇੱਕ ਸਿਸਟਮ ਅਨੁਪ੍ਰਯੋਗ ਹੈ ਅਤੇ ਅਣ ਇੰਸਟਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।</string>
+<string name="dream_name">"ਰੌਕੇਟ ਲਾਂਚਰ"</string>
+<string name="folder_hint_text">ਅਨਾਮ ਫੋਲਡਰ </string>
+<string name="workspace_description_format">ਹੋਮ ਸਕ੍ਰੀਨ %1$d</string>
+<string name="default_scroll_format">ਸਫਾ %2$d ਦਾ %1$d </string>
+<string name="workspace_scroll_format">ਹੋਮ ਸਕ੍ਰੀਨ %2$d ਦਾ %1$d </string>
+<string name="apps_customize_apps_scroll_format">ਅਨੁਪ੍ਰਯੋਗ ਸਫਾ %2$d ਦਾ %1$d </string>
+<string name="apps_customize_widgets_scroll_format">ਵਿਜੇਟ ਸਫਾ %2$d ਦਾ %1$d </string>
+<string name="first_run_cling_title">ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ</string>
+<string name="first_run_cling_description">"ਸਹਿਜ ਮਹਿਸੂਸ ਕਰੋ।"</string>
+<string name="first_run_cling_create_screens_hint">"ਅਨੁਪ੍ਰਯੋਗਾਂ ਅਤੇ ਫੋਲਡਰਾਂ ਲਈ ਹੋਰ ਸਕ੍ਰੀਨਾਂ ਬਣਾਓ"</string>
+<string name="migration_cling_title">"ਆਪਣੇ ਐਪ ਆਈਕਨ ਕਾਪੀ ਕਰੋ"</string>
+<string name="migration_cling_description">"ਕੀ ਆਪਣੀਆਂ ਪੁਰਾਣੀਆਂ ਹੋਮ ਸਕ੍ਰੀਨਾਂ ਵਿੱਚੋਂ ਆਈਕਨ ਅਤੇ ਫੋਲਡਰ ਆਯਾਤ ਕਰਨਾ ਹੈ?"</string>
+<string name="migration_cling_copy_apps">"ਆਈਕਨ ਕਾਪੀ ਕਰੋ"</string>
+<string name="migration_cling_use_default">"ਨਵਾਂ ਸ਼ੁਰੂ ਕਰੋ"</string>
+<string name="workspace_cling_title">"ਆਪਣਾ ਖਾਲੀ ਸਥਾਨ ਵਿਵਸਥਿਤ ਕਰੋ"</string>
+<string name="workspace_cling_move_item">"ਵਾਲਪੇਲਰ, ਵਿਜੇਟ ਅਤੇ ਸੈਟਿੰਗਸ ਵਿਵਸਥਿਤ ਕਰਨ ਲਈ ਪਿਛੋਕੜ ਛੋਹਵੋ ਅਤੇ ਫੜ੍ਹ ਕੇ ਰੱਖੋ।"</string>
+<string name="workspace_cling_longpress_title">"ਵਾਲਪੇਪਰ, ਵਿਜੇਟ, &amp; ਸੈਟਿੰਗਾਂ"</string>
+<string name="workspace_cling_longpress_description">"ਅਨੁਕੂਲ ਕਰਨ ਲਈ ਪਿਛੋਕੜ &amp; ਨੂੰ ਛੋਹਵੋ ਅਤੇ ਹੋਲਡ ਕਰੋ"</string>
+<string name="workspace_cling_longpress_dismiss">"ਸਮਝ ਲਿਆ"</string>
+<string name="folder_cling_title">"ਇੱਥੇ ਇੱਕ ਫੋਲਡਰ ਹੈ"</string>
+<string name="folder_cling_create_folder">"ਇਸ ਵਰਗਾ ਹੀ ਇੱਕ ਬਣਾਉਣ ਲਈ, ਇੱਕ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਛੋਹਵੋ ਅਤੇ ਫੜ੍ਹ ਕੇ ਰੱਖੋ, ਫਿਰ ਇਸਨੂੰ ਦੂਜੇ ਤੇ ਮੂਵ ਕਰੋ।"</string>
+<string name="cling_dismiss">OK</string>
+<string name="folder_opened">ਫੋਲਡਰ ਖੁਲ੍ਹ ਗਿਆ, <xliff:g id="height" example="3">%2$d</xliff:g> ਵੱਲੋਂ <xliff:g id="width" example="5">%1$d</xliff:g> </string>
+<string name="folder_tap_to_close">ਫੋਲਡਰ ਬੰਦ ਕਰਨ ਲਈ ਛੋਹਵੋ</string>
+<string name="folder_tap_to_rename">ਰੀਨੇਮ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਛੋਹਵੋ</string>
+<string name="folder_closed">ਫੋਲਡਰ ਬੰਦ ਹੋ ਗਿਆ</string>
+<string name="folder_renamed">ਫੋਲਡਰ <xliff:g id="name" example="Games">%1$s</xliff:g> ਵਿੱਚ ਰੀਨੇਮ ਹੋ ਗਿਆ।</string>
+<string name="folder_name_format">ਫੋਲਡਰ: <xliff:g id="name" example="Games">%1$s</xliff:g></string>
+<string name="widget_button_text">ਵਿਡਗੈਟਸ</string>
+<string name="wallpaper_button_text">ਵਾਲਪੇਪਰ</string>
+<string name="settings_button_text">ਸੈਟਿੰਗਸ</string>
+<string name="package_state_enqueued">"ਉਡੀਕ ਰਿਹਾ ਹੈ"</string>
+<string name="package_state_downloading">ਡਾਊਨਲੋਡ  ਕਰਨਾ</string>
+<string name="package_state_installing">"ਇੰਸਟੌਲ ਕਰ ਰਿਹਾ ਹੈ"</string>
+<string name="package_state_unknown">ਅਗਿਆਤ</string>
+<string name="package_state_error">"ਰੀਸਟੋਰ ਨਹੀਂ ਕੀਤਾ"</string>
+<string name="abandoned_clean_all">"ਸਾਰੇ ਮਿਟਾਓ"</string>
+<string name="abandoned_clean_this">ਹਟਾਓ</string>
+<string name="abandoned_search">ਖੋਜੋ</string>
+<string name="abandoned_promises_title">"ਇਹ ਐਪ ਇੰਸਟੌਲ ਨਹੀਂ ਕੀਤਾ ਹੈ"</string>
+<string name="abandoned_promise_explanation">"ਇਸ ਆਈਕਨ ਲਈ ਐਪ ਇੰਸਟੌਲ ਨਹੀਂ ਕੀਤਾ ਹੈ। ਤੁਸੀਂ ਇਸਨੂੰ ਮਿਟਾ ਸਕਦੇ ਹੋ ਜਾਂ ਐਪ ਖੋਜ ਸਕਦੇ ਹੋ ਅਤੇ ਇਸਨੂੰ ਮੈਨੂਅਲੀ ਇੰਸਟੌਲ ਕਰ ਸਕਦੇ ਹੋ। "</string>
+<string name="circular_sliding">ਡੈਸਕਟੌਪ ਸਾਈਕਲ</string>
+    <string name="input_too_long">"ਇਨਪੁਟ ਬਹੁਤ ਜ਼ਿਆਦਾ ਲੰਬਾ ਹੈ।"</string>
+
+</resources>

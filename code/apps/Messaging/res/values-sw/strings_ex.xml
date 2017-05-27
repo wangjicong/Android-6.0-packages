@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Sahihi"</string>
+<string name="pref_title_sms_retry_times">Wezesha Ujaribu Tena wa SMS</string>
+<string name="preference_name">Maneno ya kawaida</string>
+<string name="select">"Iliyochaguliwa"</string>
+<string name="item_cancel">"Ghairi"</string>
+<string name="item_delete">"Futa"</string>
+<string name="save_as_teltype">"Kwa Simu"</string>
+<string name="save_as_mmstype">"Kwa Sms"</string>
+<string name="type_to_pharser">"Chapa maneno ya kawaida"</string>
+<string name="add">Ongeza</string>
+<string name="edit">Hariri</string>
+<string name="delete">"Futa"</string>
+<string name="finish">"Maliza"</string>
+<string name="cancel">"Ghairi"</string>
+<string name="add_pharser">"Ongeza maneno ya kawaida"</string>
+<string name="edit_pharser">Hariri maneno ya kawaida</string>
+<string name="pharser_can_modify">"Maneno yaliogeuzwa kukufaa"</string>
+<string name="pharser_cannot_modify">"Rekebisha maneno"</string>
+<string name="select_item">"Umechagua"</string>
+<string name="select_commmon_phrase">Chagua sentensi ya kawaida</string>
+<string name="common_phrase_empty">"Hakuna vifungu vya kawaidi"</string>
+<string name="action_add_phrase">"Weka maneno ya kawaida"</string>
+<string name="pref_other_settings_title">"Nyingine"</string>
+<string-array name="fixed_mms_phrase">
+<item>Tafadhali piga simu kwenye ofisi yangu, asante.</item>
+<item>Tafadhali wasiliana nami, asante.</item>
+<item>Tafadhali niambie uliko.</item>
+<item>Tafadhali pigia simu yangu ya rununu baadaye, asante.</item>
+<item>Nilitoka nje,nenda nyumbani na nitakupigia.</item>
+<item>"Ninaendesha gari na nitakujibu baadaye."</item>
+<item>"Mimi nimekuja kwa njia, mara moja utanifikia."</item>
+<item>Misongamano ya magari, baadaye pia, samahani.</item>
+<item>Nitakupigia simu baadaye.</item>
+<item>Niko mkutanoni, nitajibu baadaye.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Siwezi kuongea sasa. Kuna nini?"</item>
+<item>"Nitakupigia sasa hivi."</item>
+<item>"Nitakupigia baadaye."</item>
+<item>"Siwezi kuongea sasa. Nipigie baadaye"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Tafadhali nipigie simu au nitumie sms baadaye."</item>
+</string-array>
+</resources>

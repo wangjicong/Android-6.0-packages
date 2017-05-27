@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Υπογραφή"</string>
+<string name="pref_title_sms_retry_times">Ενεργοποίηση επανάληψης SMS</string>
+<string name="preference_name">"Κοινή φράση"</string>
+<string name="select">"Επιλέχθηκε"</string>
+<string name="item_cancel">Ακύρωση</string>
+<string name="item_delete">Διαγραφή</string>
+<string name="save_as_teltype">"Για το τηλέφωνο"</string>
+<string name="save_as_mmstype">"Για τα Sms"</string>
+<string name="type_to_pharser">"Πληκτρολόγηση κοινής φράσης"</string>
+<string name="add">"Προσθήκη"</string>
+<string name="edit">Επεξεργασία</string>
+<string name="delete">Διαγραφή</string>
+<string name="finish">"Τέλος"</string>
+<string name="cancel">Ακύρωση</string>
+<string name="add_pharser">"Προσθήκη κοινής φράσης"</string>
+<string name="edit_pharser">"Επεξεργασία κοινής φράσης"</string>
+<string name="pharser_can_modify">"Προσαρμοσμένη φράση"</string>
+<string name="pharser_cannot_modify">"Διόρθωση φράσης"</string>
+<string name="select_item">"Έχετεεπιλέξει"</string>
+<string name="select_commmon_phrase">Επιλέξτε κοινή φράση</string>
+<string name="common_phrase_empty">"Καμία κοινή φράση"</string>
+<string name="action_add_phrase">"Εισαγωγή κοινής φράσης"</string>
+<string name="pref_other_settings_title">"Άλλο"</string>
+<string-array name="fixed_mms_phrase">
+<item>Παρακαλώ καλέστε το τηλέφωνο του γραφείου μου, σας ευχαριστώ.</item>
+<item>Παρακαλώ επικοινωνήστε μαζί μου, σας ευχαριστώ.</item>
+<item>Παρακαλώ πείτε μου την περιοχή σας.</item>
+<item>Παρακαλώ καλέστε στο κινητό μου αργότερα, σας ευχαριστώ.</item>
+<item>Απουσιάζω, θα επιστρέψω και θα σας καλέσω.</item>
+<item>"Αυτή τη στιγμή οδηγώ, θα επικοινωνήσω αργότερα."</item>
+<item>"Είμαι στο δρόμο, επικοινωνήστε μαζί μου."</item>
+<item>Κυκλοφοριακή συμφόρηση, αργότερα, συγγνώμη.</item>
+<item>Θα σε ξαναπάρω αργότερα.</item>
+<item>Είμαι σε συνάντηση, θα σας απαντήσω αργότερα.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Δεν μπορώ τώρα. Συμβαίνει κάτι;"</item>
+<item>"Θα σου τηλεφωνήσω αμέσως."</item>
+<item>"Θα σου τηλεφωνήσω αργότερα."</item>
+<item>"Δεν μπορώ τώρα. Πάρε με αργότερα."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Παρακαλώ καλέστε με ή στείλτε μου sms αργότερα.""</item>
+</string-array>
+</resources>

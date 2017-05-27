@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="telecommAppLabel" product="default">"ফোন কল ব্যৱস্থাপনা"</string>
+<string name="userCallActivityLabel" product="default">"ফোন"</string>
+<string name="unknown">"অজ্ঞাত"</string>
+<string name="notification_missedCallTitle">"মিচড কল।"</string>
+<string name="notification_missedCallsTitle">"মিছড কলসমূহ"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> মিছড কলসমূহ"</string>
+<string name="notification_missedCallTicker">"<xliff:g id="missed_call_from">%s</xliff:g> ৰ পৰা পোৱা মিছড কলসমূহ"</string>
+<string name="notification_missedCall_call_back">"কলবেক"</string>
+<string name="notification_missedCall_message">"বাৰ্তা"</string>
+<string name="accessibility_call_muted">"কল মিউট হৈছে"</string>
+<string name="accessibility_speakerphone_enabled">"স্পীকাৰ ফোন সক্ৰিয় হৈছে৷"</string>
+<string name="respond_via_sms_canned_response_1">"এতিয়া কথা পাতিব নোৱাৰো৷ কি কৰিছা?"</string>
+<string name="respond_via_sms_canned_response_2">"আপোনাক কিছু সময় পিছতে মই কলবেক কৰিম৷"</string>
+<string name="respond_via_sms_canned_response_3">"আপোনাক পিছত ফোন কৰিম"</string>
+<string name="respond_via_sms_canned_response_4">"এতিয়া কথা পাতিব নোৱাৰো৷ মোক পিছত ফোন কৰিব৷"</string>
+<string name="respond_via_sms_setting_title">"তাৎক্ষণিক সঁহাৰিসমূহ"</string>
+<string name="respond_via_sms_setting_title_2">"তাৎক্ষণিক সঁহাৰি সম্পাদনা কৰক"</string>
+<string name="respond_via_sms_edittext_dialog_title">"তাৎক্ষণিক সঁহাৰি"</string>
+<string name="respond_via_sms_confirmation_format">"<xliff:g id="phone_number">%s</xliff:g> লৈ মেছেজ পঠিওৱা হৈছে৷"</string>
+<string name="enable_account_preference_title">"ফোন একাউন্ট ছেটিং"</string>
+<string name="outgoing_call_not_allowed_user_restriction">"ডিভাইচৰ গৰাকীৰ দ্বাৰা কেৱল জৰুৰী কলবোৰৰ অনুমতি দিয়া হয়।"</string>
+<string name="outgoing_call_not_allowed_no_permission">"এই এপ্লিকেচনে ফোনৰ অনুমতি নোহোৱাকৈ আউটগোয়িং কল কৰিব নোৱাৰে।"</string>
+<string name="outgoing_call_error_no_phone_number_supplied">"এটা কল কৰিবলৈ, এটা বৈধ নম্বৰ ডায়েল কৰক।"</string>
+<string name="duplicate_video_call_not_allowed">"এই সময়ত কল যোগ কৰিব নোৱাৰি।"</string>
+<string name="video_call_not_allowed_if_tty_enabled">"অনুগ্ৰহ কৰি ভিডিঅ\' কল কৰিবলৈ TTY মোড অক্ষম কৰক।"</string>
+<string name="no_vm_number">"ভয়চমেইল নম্বৰ নাই হেৰাই আছে"</string>
+<string name="no_vm_number_msg">"SIM কাৰ্ডত কোনো ভয়চমেইল নম্বৰ সংৰক্ষিত হৈ থকা নাই৷"</string>
+<string name="add_vm_number_str">"নম্বৰ যোগ কৰক"</string>
+<string name="change_default_dialer_dialog_title">"ডিফল্ট ডায়লাৰ এপ্প সলনি কৰিব?"</string>
+<string name="change_default_dialer_with_previous_app_set_text">"<xliff:g id="new_app">%1$s</xliff:g> পৰিবর্তে <xliff:g id="current_app">%2$s</xliff:g> ডিফল্ট ডায়লাৰ এপ্প হিচাপে ব্যৱহাৰ কৰিব?"</string>
+<string name="change_default_dialer_no_previous_app_set_text">"<xliff:g id="new_app">%s</xliff:g> ডিফল্ট ডায়লাৰ এপ্প হিচাপে ব্যৱহাৰ কৰিব?"</string>
+</resources>

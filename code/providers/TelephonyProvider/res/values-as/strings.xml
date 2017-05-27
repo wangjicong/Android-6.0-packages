@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label" product="tablet">"মোবাইল নেটৱৰ্ক কনফিগাৰেচন"</string>
+<string name="app_label" product="default">"ফোন আৰু মেচেজিং সংগ্ৰহ"</string>
+</resources>

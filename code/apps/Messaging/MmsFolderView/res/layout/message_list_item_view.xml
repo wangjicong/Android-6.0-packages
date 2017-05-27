@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<com.android.mmsfolderview.ui.SortMsgListItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <!-- The background displayed when the conversation is swiped sideways -->
+
+    <LinearLayout
+        android:id="@+id/crossSwipeBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/swipe_shadow"
+        android:baselineAligned="false"
+        android:gravity="center_vertical|start"
+        android:orientation="horizontal"
+        android:padding="@dimen/conversation_list_item_view_padding"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/crossSwipeArchiveIconLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null"
+            android:gravity="center_vertical|left"
+            android:importantForAccessibility="no"
+            android:src="@drawable/ic_archive_small_dark"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/crossSwipeArchiveIconRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|right"
+            android:contentDescription="@null"
+            android:importantForAccessibility="no"
+            android:src="@drawable/ic_archive_small_dark"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/swipeableContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:importantForAccessibility="no" >
+
+        <LinearLayout
+            android:id="@+id/swipeableContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:clipToPadding="false"
+            android:duplicateParentState="true"
+            android:orientation="horizontal"
+            android:padding="@dimen/conversation_list_item_view_padding" >
+
+            <!-- Contact avatar on the left side of the view -->
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent" >
+
+                <com.android.mmsfolderview.ui.ContactIconView
+                    android:id="@+id/conversation_icon"
+                    android:layout_width="@dimen/conversation_list_contact_icon_size"
+                    android:layout_height="@dimen/conversation_list_contact_icon_size"
+                    android:background="@android:color/transparent"
+                    android:clickable="true"
+                    android:contentDescription="@null"
+                    android:importantForAccessibility="no"
+                    app:iconSize="large" />
+
+                <ImageView
+                    android:id="@+id/conversation_checkmark"
+                    android:layout_width="@dimen/conversation_list_contact_icon_size"
+                    android:layout_height="@dimen/conversation_list_contact_icon_size"
+                    android:background="@android:color/transparent"
+                    android:importantForAccessibility="no"
+                    android:src="@drawable/ic_checkmark_circle_blue"
+                    android:visibility="gone" />
+
+                <ImageView
+                    android:id="@+id/conversation_failed_status_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom|end"
+                    android:background="@android:color/transparent"
+                    android:contentDescription="@null"
+                    android:importantForAccessibility="no"
+                    android:src="@drawable/ic_failed_status_red"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+            <!-- The conversation name, message preview, etc -->
+
+            <LinearLayout
+                style="@style/ConversationListItemViewPaddingStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:id="@+id/conversation_notification_bell"
+                        style="@style/ConversationListNotificationBellPaddingStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:background="@android:color/transparent"
+                        android:contentDescription="@null"
+                        android:importantForAccessibility="no"
+                        android:src="@drawable/ic_notifications_off_small_light"
+                        android:visibility="gone" />
+
+                    <TextView
+                        android:id="@+id/conversation_name"
+                        style="@style/ConversationListItemViewConversationNameStyle"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:paddingBottom="2dp"
+                        android:singleLine="true" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/conversation_subject"
+                    style="@style/ConversationListItemViewTextStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:paddingBottom="3dp"
+                    android:singleLine="true"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/conversation_snippet"
+                    style="@style/ConversationListItemViewTextStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:paddingBottom="3dp" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:id="@+id/conversation_timestamp"
+                        style="@style/ConversationListItemViewTextStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:id="@+id/sim_name"
+                        style="@style/MessageSimIndicator"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:visibility="gone" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <!-- The attachment preview on the right side of the view -->
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top|end"
+                android:background="@android:color/transparent" >
+
+                <com.android.mmsfolderview.ui.AsyncImageView
+                    android:id="@+id/conversation_image_preview"
+                    style="@style/ConversationListItemViewPaddingStyle"
+                    android:layout_width="@dimen/conversation_list_image_preview_size"
+                    android:layout_height="@dimen/conversation_list_image_preview_size"
+                    android:background="@android:color/transparent"
+                    android:contentDescription="@string/message_image_content_description"
+                    android:scaleType="centerCrop"
+                    android:visibility="gone"
+                    app:cornerRadius="@dimen/conversation_list_image_preview_corner_radius" />
+
+                <com.android.mmsfolderview.ui.AudioAttachmentView
+                    android:id="@+id/audio_attachment_view"
+                    android:layout_width="@dimen/conversation_list_image_preview_size"
+                    android:layout_height="@dimen/conversation_list_image_preview_size"
+                    android:background="@android:color/transparent"
+                    android:visibility="gone"
+                    app:layoutMode="subcompact" />
+            </FrameLayout>
+        </LinearLayout>
+    </FrameLayout>
+
+</com.android.mmsfolderview.ui.SortMsgListItemView>

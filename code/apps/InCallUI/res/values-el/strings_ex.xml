@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Κύρια Κάρτα :"</string>
+<string name="vice_card_slot">"Εναλλακτική Κάρτα :"</string>
+<string name="record_time">"Χρόνος εγγραφής:"</string>
+<string name="onscreenShowRecodText">Εγγραφή</string>
+<string name="recorderr">"Αποτυχία αποθήκευσης της εγγραφής!"</string>
+<string name="audio_db_artist_name">"Οι ηχογραφήσεις σας"</string>
+<string name="audio_db_album_name">"Ηχογραφήσεις κλήσεων"</string>
+<string name="audio_db_playlist_name">Οι ηχογραφήσεις μου</string>
+<string name="app_name">"Εφαρμογή τηλεφώνου"</string>
+<string name="error_mediadb_new_record">Είναι αδύνατη η αποθήκευση της ηχογράφησης</string>
+<string name="sdcard_access_error">Αδυναμία πρόσβασης κάρτας sd</string>
+<string name="no_sd_card">Δεν υπάρχει κάρτα SD ή έχει ΑΦΑΙΡΕΘΕΙ</string>
+<string name="insert_sd_card">"Παρακαλώ εισάγετε την κάρτα SD."</string>
+<string name="storage_is_full">"Αποθηκευτικός χώρος πλήρης"</string>
+<string name="recording">"Εγγραφή "</string>
+<string name="used_by_other_applications">"Ο εξοπλισμός εγγραφής χρησιμοποιείται από άλλα προγράμματα, παρακαλούμε κλείστε το πρόγραμμα"</string>
+<string name="prompt_record_finish">"Το αρχείο καταγραφών έχει αποθηκευτεί στο"</string>
+<string name="ok">ΟΚ</string>
+<string name="permission_no_record">"Δεν έχετε καμία άδεια για καταγραφή κλήσεων"</string>
+<string name="hangup_hold_and_answer">"Διακόψτε την κλήση σε αναμονή και απαντήστε"</string>
+<string name="hangup_active_and_answer">"Διακόψτε την ενεργή κλήση και απαντήστε"</string>
+<string name="hangup_all_and_answer">"Διακόψτε όλες τις κλήσεις και απαντήστε"</string>
+<string name="onActive">"Ενεργή"</string>
+<string name="hold_current_call_and_answer">Κρατήστε την τρέχουσα κλήση και απαντήστε</string>
+<string name="hangup_current_call_and_answer">"Διακόψτε την τρέχουσα κλήση και απαντήστε"</string>
+</resources>

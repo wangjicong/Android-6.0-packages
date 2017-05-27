@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ucomm.sns</string>
+    <string name="sns_label_sina">Sina</string>
+    <string name="sns_label_sohu">Sohu</string>
+    <string name="sns_label_tencent">Tencent</string>
+    <string name="sns_label_qzone">QZone</string>
+    <string name="sns_label_renren">Renren</string>
+    <string name="sns_label_kaixin">Kaixin</string>
+    <string name="sns_label_facebook">Facebook</string>
+    <string name="sns_label_tumblr">Tumblr</string>
+    <string name="sns_label_flickr">Flickr</string>
+    <string name="sns_label_twitter">Twitter</string>
+    <string name="sns_label_mixi">Mixi</string>
+    <string name="sns_label_share">共有</string>
+    <string name="sns_label_account_setup">設定</string>
+    <string name="sns_label_more_share">さらに共有</string>
+    <string name="sns_label_bind">関連付け</string>
+    <string name="sns_label_unbind">関連付け解除</string>
+    <string name="sns_label_hide_location">位置情報を公開しない</string>
+    <string name="sns_msg_getting_location">位置情報取得中</string>
+    <string name="sns_msg_please_choose_share_account">共有したいアカウントを選択してください</string>
+    <string name="sns_msg_missing_share_pic">画像を選択するにはサムネイルをクリックしてください</string>
+    <string name="sns_msg_fail_login">ログイン失敗しました</string>
+    <string name="sns_msg_connecting">ログインしていません。次の画面でログインしてください。</string>
+    <string name="sns_msg_loading">読み取り中</string>
+    <string name="sns_msg_network_unavailable">ネットワークに接続できませんでした。 もう一度試してください</string>
+    <string name="sns_msg_from_ucam">Ucam作</string>
+    <string name="sns_title_account_settings">設定</string>
+    <string name="sns_title_share_to">共有先</string>
+    <string name="sns_title_share">共有</string>
+    <string name="sns_title_sync">共有</string>
+    <string name="sns_title_login">ログイン</string>
+    <string name="sns_title_privacy">個人情報保護について</string>
+    <string name="sns_title_print">印刷/プレビュー</string>
+    <string name="sns_msg_privacy">ユーザーのプライバシーを尊重するのが万 能カメラの基本的なポリシーです。\n
+Ucamでは、OAuth等のセキュリティプロトコルでSNSサイトにアクセスする為、ユーザーアカウント情報が漏洩する心配はありません。\n
+裁判所の発する令状その他裁判所の決定、命令または法令に基づき開示する場合を除き、万 能カメラに送信された個人情報は、他の目的への使用・第三者への開示を一切行わないことを固くここにお約束いたします。</string>
+    <string name="sns_ucam_link">"&lt;a href=\"http://www.u-camera.com\" &gt;万 能カメラ&lt;a&gt;</string>
+    <string name="sns_ucam_share">#万 能カメラ 写真の共有#</string>
+    <string name="sns_toast_location_error">位置情報を取得できません</string>
+    <string name = "text_activity_is_not_found">適切なアプリがありません</string>
+    <string name = "text_edit_share_title">下記の方法で開きます</string>
+    <string name="edit_operation_failure_tip">操作が失敗されました</string>
+    <string name="sns_label_line_share">LINEで送る</string>
+    <string name="sns_msg_no_install_line_app">LINEのプログラムはまだインストールされてません。</string>
+    <string name="text_image_share_damage">この画像は共有できません</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/breathing_light_title" >
+     <CheckBoxPreference android:key="breathing_light_low_battery"
+                android:title="@string/breathing_light_low_battery_title"
+                android:summary="@string/breathing_light_low_battery_summary"
+                android:defaultValue="true"/>
+     <CheckBoxPreference android:key="breathing_light_charging"
+                android:title="@string/breathing_light_charging_title"
+                android:summary="@string/breathing_light_charging_summary"
+                android:defaultValue="true"/>
+	<CheckBoxPreference android:key="breathing_light_notifications"
+                android:title="@string/breathing_light_notifications_title"
+                android:summary="@string/breathing_light_notifications_summary"
+                android:defaultValue="true"/>		
+    <CheckBoxPreference android:key="breathing_light_incoming_call"
+                android:title="@string/breathing_light_incoming_call_title"
+                android:summary="@string/breathing_light_incoming_call_summary"
+                android:defaultValue="true"/>
+    <CheckBoxPreference android:key="breathing_light_media"
+                android:title="@string/breathing_light_media_title"
+                android:summary="@string/breathing_light_media_summary"
+                android:defaultValue="true"/>
+</PreferenceScreen>

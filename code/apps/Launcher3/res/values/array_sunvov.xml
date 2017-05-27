@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--qiuyaobo,20161124,begin-->
+    <string-array name = "app_package">
+    	  <!--
+    		<item>com.net.ch.mplayers</item>
+    		<item>com.adups.fota</item>
+    		<item>cn.xender</item> 
+    		-->   
+    </string-array>
+
+    <string-array name = "app_classname">
+
+    </string-array>
+    
+    <string-array name = "app_icon">
+    		<!--
+    		<item>@drawable/app_icon_mplayers</item>
+    		<item>@drawable/app_icon_adups</item>
+    		<item>@drawable/app_icon_xender</item>
+    		-->
+    </string-array>
+    <!--qiuyaobo,20161124,end-->
+    
+</resources>

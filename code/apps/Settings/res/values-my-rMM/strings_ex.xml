@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB ဆက္တင္မ်ား"</string>
+<string name="usb_charge_only">အားသြင္းရန္သာ</string>
+<string name="usb_charge_only_summary">USB ခ်ိတ္ဆက္ထားပါက အားျဖည့္သည့္ပံုစံသာ ထားမည္</string>
+<string name="usb_charge_only_storage_active_subtext">USB သိုေလွာင္မႈ သံုးေနစဥ္တြင္သာ အားသြင္း၍မရပါ</string>
+<string name="usb_charge_only_notification">အားသြင္းျခင္းတစ္ခုတည္းအျဖစ္ ခ်ိတ္ဆက္ျပီး</string>
+<string name="usb_storage">USB သိုေလွာင္မႈ</string>
+<string name="usb_storage_summary">USB ပစၥည္းသိုေလွာင္မႈကို ဖြင့္မည္</string>
+<string name="ums_settings">"UMS အျပင္အဆင္"</string>
+<string name="ums_mounted_setting">"ums ကို PC သို႔ေမာင့္လုပ္ေနဆဲ၊ ေခတၱေစာင့္ဆိုင္းပါ..."</string>
+<string name="ums_unmounted_setting">"PC မွ ums ကိုေမာင့္ျဖဳတ္ေနသည္၊ ေခတၱေစာင့္ဆိုင္းပါ..."</string>
+<string name="usb_virtual_drive">"USB ပံုစံတူဒ႐ိုက္ဖ္"</string>
+<string name="usb_virtual_drive_summary">"USB ပံုစံတူဒ႐ိုက္ဖ္ကို ဖြင့္ပါ"</string>
+<string name="remember_choice">ကၽြႏု္ပ္၏ေ႐ြးခ်ယ္မႈကို မွတ္မိေစမည္</string>
+<string name="remember_choice_summary">ကၽြႏု္ပ္၏ေ႐ြးခ်ယ္မႈကို မွတ္မိေစျပီး ေနာက္တစ္ၾကိမ္တြင္ လုပ္ေဆာင္ခ်က္မ်ားကို အလုိအေလွ်ာက္မွမိေစပါ</string>
+<string name="stand_by_set_changed_prompt">"Sim ကုိအသက္သြင္းျခင္း အေျခအေန ေျပာင္းပါလိမ့္မည္၊ ေက်းဇူးျပဳ၍ ဆက္လက္လုပ္ေဆာင္ရန္ အတည္ျပဳမည္လား?"</string>
+<string name="not_stand_by">"တားျမစ္ထား"</string>
+<string name="primary_card_switching">"ဆက္တင္ \uff0c ေက်းဇူးျပဳ၍ ခဏေစာင့္..."</string>
+<string name="toggle_data_change_message">"sim ကဒ္ သို ့ေဒတာခ်ိတ္ဆက္ျပီး <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, လိုအပ္သည့္ အခကို ေပး၍ ေဒတာထုတ္လႊတ္ရန္,ေက်းဇူးျပဳ၍ သတိျပဳပါ."</string>
+<string name="select_primary_card">ပဏာမ ကဒ္ကိုေရြးျခယ္ပါ</string>
+<string name="whether_switch_primary_card">"ေက်းဇူးျပဳ၍ မူလကဒ္မွ ယခုကဒ္သို႕ ေျပာင္းမေျပာင္း အတည္ျပဳပါ ?\n(ဆဲလ္ေဒတာမ်ားလည္း ကဒ္သို႕ ေရႊ႕သြားလိမ့္မည္.)"</string>
+<string name="attention">သတိထားရန္</string>
+<string name="bt_softap_cannot_coexist">"ေဆာ့ဖ္တက္ပ္ ဖြင့္လွ်င္, ဘလူးတူသ္အလုပ္မလုပ္ပါ, ဘလူးတူသ္ သံုးလိုလွ်င္,ေက်းဇူးျပဳ၍ ေဆာ့ဖ္တက္ပ္ကို ပိတ္ပါ."</string>
+<string name="softap_bt_cannot_coexist">"ဘလူးတုသ္ကုိ ဖြင့္ထားသည့္အခါ (သုိ႕္) ပြင့္ေနသည့္အခါ၊ softap အလုပ္မလုပ္ႏုိင္ပါ၊ softap ကုိ အသံုးျပဳလုိပါက ဘလူးတုသ္ကုိ ပိတ္ထားေၾကာင္း ေသခ်ာပါေစ။"</string>
+<string name="softap_need_mobile_data_enabled">"ေပါ့ေတဘယ္လ္ Wi-Fi ေဟာ့စေပါ့ မိုဘိုင္းေဒတာခ်ိတ္ဆက္ရန္ လို, ထပ္ေဆာင္းေငြေပးရန္ လိုမည္."</string>
+<string-array name="light_color_picker">
+<item>အစိမ္း</item>
+<item>"အျပာေရာင္"</item>
+<item>"မဲနယ်"</item>
+<item>ခရမ္းေရာင္</item>
+<item>"ပန်းရောင်"</item>
+<item>"အနီ"</item>
+<item>"အ၀ါ"</item>
+</string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Tandatangan"</string>
+<string name="pref_title_sms_retry_times">Membolehkan Cuba Semula SMS</string>
+<string name="preference_name">"Frasa biasa"</string>
+<string name="select">"Dipilih"</string>
+<string name="item_cancel">Batal</string>
+<string name="item_delete">Hapus</string>
+<string name="save_as_teltype">"Untuk Telefon"</string>
+<string name="save_as_mmstype">"Untuk Sms"</string>
+<string name="type_to_pharser">"Taipkan frasa biasa"</string>
+<string name="add">tambah</string>
+<string name="edit">Edit</string>
+<string name="delete">Hapus</string>
+<string name="finish">"Selesai"</string>
+<string name="cancel">Batal</string>
+<string name="add_pharser">"Tambah frasa biasa"</string>
+<string name="edit_pharser">Edit ungkapan biasa</string>
+<string name="pharser_can_modify">"Frasa tersuai"</string>
+<string name="pharser_cannot_modify">"Baiki frasa"</string>
+<string name="select_item">"Anda telah memilih"</string>
+<string name="select_commmon_phrase">Pilih frasa biasa</string>
+<string name="common_phrase_empty">"Tidak frasa biasa"</string>
+<string name="action_add_phrase">"Masukkan frasa biasa"</string>
+<string name="pref_other_settings_title">"Lain-lain"</string>
+<string-array name="fixed_mms_phrase">
+<item>Sila hubungi telefon pejabat saya, terima kasih.</item>
+<item>Sila hubungi saya, terima kasih.</item>
+<item>Sila beritahu saya lokasi anda.</item>
+<item>Sila hubungi telefon bimbit saya kemudian, terima kasih.</item>
+<item>Saya keluar, pulang ke rumah dan akan menghubungi anda.</item>
+<item>"Saya sedang memandu dan akan membalas kemudian."</item>
+<item>"Saya dalam perjalanan, tiba sebentar lagi."</item>
+<item>Kesesakan lalu lintas, kemudian, maaf.</item>
+<item>Akan menghubungi awak semula kemudian.</item>
+<item>Saya dalam mesyuarat, membalas kemudian.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Sedang sibuk. Ada apa?"</item>
+<item>"Saya akn segera hubungi awak nanti."</item>
+<item>"Saya akan hubungi awak kemudian."</item>
+<item>"Sedang sibuk. Telefon saya nanti?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Sila hubungi atau hantar sms kepada saya kemudian."</item>
+</string-array>
+</resources>

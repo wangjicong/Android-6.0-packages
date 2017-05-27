@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Add for dynamic desk clock feature. -->
+    <color name="dynamic_clock_second_hand">#FFffae5f</color>
+    <color name="dynamic_clock_minute_hand">#FF455a64</color>
+    <color name="dynamic_clock_hour_hand">#FF455a64</color>
+    <!-- Add for dynamic desk calendar feature. -->
+    <color name="dynamic_calendar_week">@android:color/holo_red_dark</color>
+
+    <!-- Add for default home page feature. -->
+    <color name="default_home_page_color">#FF00FFFF</color>
+</resources>

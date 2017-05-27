@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ucomm.sns</string>
+    <string name="sns_label_sina">Sina</string>
+    <string name="sns_label_sohu">Sohu</string>
+    <string name="sns_label_tencent">Tencent</string>
+    <string name="sns_label_qzone">QZone</string>
+    <string name="sns_label_renren">Renren</string>
+    <string name="sns_label_kaixin">Kaixin</string>
+    <string name="sns_label_facebook">Facebook</string>
+    <string name="sns_label_tumblr">Tumblr</string>
+    <string name="sns_label_flickr">Flickr</string>
+    <string name="sns_label_twitter">Twitter</string>
+    <string name="sns_label_mixi">Mixi</string>
+    <string name="sns_label_share">Partager</string>
+    <string name="sns_label_account_setup">Compte</string>
+    <string name="sns_label_more_share">Plus de partage</string>
+    <string name="sns_label_bind">Attacher</string>
+    <string name="sns_label_unbind">Détacher</string>
+    <string name="sns_label_hide_location">Cacher l\'information de localisation</string>
+    <string name="sns_msg_getting_location">En train d\'obtenir l\'info de localisation</string>
+    <string name="sns_msg_please_choose_share_account">Sélectionner les comptes à partager</string>
+    <string name="sns_msg_missing_share_pic">S\'il vous plaît cliquer sur la vignette pour choisir l\'image, puis de partager</string>
+    <string name="sns_msg_fail_login">Défaillance d\'accès, essayer plus tard</string>
+    <string name="sns_msg_connecting">En cours de connexion</string>
+    <string name="sns_msg_loading">En cours de chargement</string>
+    <string name="sns_msg_network_unavailable">Pas de réseau disponible, essayer plus tard</string>
+    <string name="sns_msg_from_ucam">Venu de Ucam</string>
+    <string name="sns_title_account_settings">Compte</string>
+    <string name="sns_title_share_to">Partager à</string>
+    <string name="sns_title_share">Partager</string>
+    <string name="sns_title_sync">Synchronisation</string>
+    <string name="sns_title_login">Accès</string>
+    <string name="sns_title_privacy">Déclaration de confidentialité</string>
+    <string name="sns_msg_privacy">C\'est la politique de UCam pour respecter la
+        confidentialité de ses usagers. \n
+        Protocoles de sécurité d\'usager de UCam comme OAuthorisation pour accéder aux
+        sites SNS, par conséquent il ne sera pas directement liées à vos
+        informations de compte \n
+        Sauf tel que décrit dans la présente Déclaration, UCAM ne va pas publier
+        ou diffuser des informations de votre compte sans votre permission
+        écrite, à moins que\n
+        (i) se conformer à toute loi, règlement, une assignation ou une
+        ordonnance du tribunal, ; ou
+        (ii) répondre aux demandes d\'information dûment autorisées de la police et
+        les autorités gouvernementales.</string>
+    <string name="sns_ucam_link">"&lt;a href=\"http://www.u-camera.com\"
+        &gt;UCam&lt;a/&gt;</string>
+    <string name="sns_ucam_share">#UCam Partage de photo#</string>
+    <string name="sns_toast_location_error">Obtention de la localisation échouée</string>
+    <string name="text_activity_is_not_found">Activity non trouvé</string>
+    <string name="text_edit_share_title">Utiliser pour cette action</string>
+    <string name="edit_operation_failure_tip">L\'opération échouée</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="40dp" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="36dp"
+        android:paddingRight="36dp"
+        android:paddingTop="40dp"
+        android:text="@string/volte_folder_cling"
+        android:textColor="#FFFFFFFF"
+        android:textSize="26sp" />
+
+    <LinearLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:layout_weight="1"
+        android:orientation="vertical">
+            <Button
+                android:id="@+id/volte_cling_dismiss_longpress_info"
+                style="?android:attr/buttonBarButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end|bottom"
+                android:layout_marginBottom="40dp"
+                android:paddingLeft="24dp"
+                android:paddingRight="24dp"
+                android:paddingTop="40dp"
+                android:paddingBottom="40dp"
+                android:text="@string/volte_folder_cling_longpress_dismiss"
+                android:textColor="#FFFFFFFF"
+                android:textSize="24sp" />
+        </LinearLayout>
+</LinearLayout>

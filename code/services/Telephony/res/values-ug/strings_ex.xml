@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">بارلىق ئۇرۇلغان نۇمۇرلار</string>
+    <string name="messageAO">چاقىرىشىنى قۇلۇپلاش پارولىنى كىرگۈزۈڭ.</string>
+    <string name="sum_ao_enabled_indicator">بارلىق چاقىرىشنى ئالماشتۇرۇپ ئەۋەتىش</string>
+    <string name="sum_ao_enabled">؛ قوزغىتىلدى</string>
+    <string name="sum_ao_disabled">؛ توختىتىلدى</string>
+    <string name="enable_ao_forbidden">سىزنىڭ ئالاقە تورىڭىز بارلىق چاقىرىشىنى چەكلەشنى قوللىمايدۇ.</string>
+    <string name="disable_ao_forbidden">سىزنىڭ ئالاقە تورىڭىز بارلىق ئۇرغان تېلفۇننى چەكلەش ئىقتىدارىنى ئىتەلمەيدۇ.</string>
+    <string name="labelOI">خەلقئارالىق چاقىرىش</string>
+    <string name="messageOI">چاقىرىشىنى قۇلۇپلاش پارولىنى كىرگۈزۈڭ.</string>
+    <string name="sum_oi_enabled">؛ قوزغىتىلدى</string>
+    <string name="sum_oi_disabled">؛ توختىتىلدى</string>
+    <string name="enable_oi_forbidden">سىزنىڭ ئالاقە تورىڭىز خەلقئارالىق ئۇزۇن يوللۇق چاقىرىشنى چەكلەشنى قوللىمايدۇ.</string>
+    <string name="disable_oi_forbidden">سىزنىڭ ئالاقە تورىڭىز خەلقئارالىق چىققان تېلفۇننى چەكلەش ئىقتىدارىنى ئىتەلمەيدۇ.</string>
+    <string name="labelOX">خەلقئارالىق كەزمە چاقىرىش</string>
+    <string name="messageOX">چاقىرىشىنى قۇلۇپلاش پارولىنى كىرگۈزۈڭ.</string>
+    <string name="sum_ox_enabled">؛ قوزغىتىلدى</string>
+    <string name="sum_ox_disabled">؛ توختىتىلدى</string>
+    <string name="enable_ox_forbidden">سىزنىڭ ئالاقە تورىڭىز خەلقئارالىق كەزمە چاقىرىشنى چەكلەشنى قوللىمايدۇ.</string>
+    <string name="disable_ox_forbidden">سىزنىڭ ئالاقە تورىڭىز خەلقئارالىق كەزمە چاقىرىشنى چەكلەش ئىقتىدارىنى ئىتەلمەيدۇ.</string>
+    <string name="labelAI">بارلىق كەلگەن تېلفۇنلار</string>
+    <string name="messageAI">چاقىرىشىنى قۇلۇپلاش پارولىنى كىرگۈزۈڭ.</string>
+    <string name="sum_ai_enabled">؛ قوزغىتىلدى</string>
+    <string name="sum_ai_disabled">؛ توختىتىلدى</string>
+    <string name="enable_ai_forbidden">سىزنىڭ ئالاقە تورىڭىز بارلىق كەلگەن تېلفۇننى چەكلەشنى قوللىمايدۇ.</string>
+    <string name="disable_ai_forbidden">سىزنىڭ ئالاقە تورىڭىز بارلىق كەلگەن تېلفۇننى چەكلەش ئىقتىدارىنى ئىتەلمەيدۇ.</string>
+    <string name="labelIR">تىلفۇن كەلگەندە كەزمە </string>
+    <string name="messageIR">چاقىرىشىنى قۇلۇپلاش پارولىنى كىرگۈزۈڭ.</string>
+    <string name="sum_ir_enabled">؛ قوزغىتىلدى</string>
+    <string name="sum_ir_disabled">؛ توختىتىلدى</string>
+    <string name="enable_ir_forbidden">سىزنىڭ ئالاقە تورىڭىز كەزمە ھالەتتىە كەلگەن تېلفۇننى چەكلەشنى قوللىمايدۇ.</string>
+    <string name="disable_ir_forbidden">سىز كەزمە ھالەتتە سۆزلىشىۋاتقاندا،ئالاقە تورىڭىز كەلگەن تېلفۇننى چەكلەش ئىقتىدرىنى ئىتەلمەيدۇ.</string>
+    <string name="labelAB">ھەممىنى توختىتىش</string>
+    <string name="messageAB">چاقىرىشىنى قۇلۇپلاش پارولىنى كىرگۈزۈڭ.</string>
+    <string name="sum_ab_enabled">؛ قوزغىتىلدى</string>
+    <string name="sum_ab_disabled">؛ توختىتىلدى</string>
+    <string name="enable_ab_forbidden">سىزنىڭ ئالاقە تورىڭىز ھەممە ئقتىدارنى ئىتىۋىتىشنى قوللىمايدۇ.</string>
+    <string name="disable_ab_forbidden">سىزنىڭ ئالاقە تورىڭىز ھەممە ئقتىدارنى قوزغتىشنى قوللىمايدۇ.</string>
+    <string name="labelChgPwd">شىغىر ئۆزگەرتىش</string>
+    <string name="DlgChgPwd_oldpwd">چاقىرىشىنى قۇلۇپلاش پارولىنى كىرگۈزۈڭ.</string>
+    <string name="DlgChgPwd_newpwd_first">يىڭى پارۇلنى كىرگۈزۈڭ</string>
+    <string name="DlgChgPwd_newpwd_last">يېڭى شىغىرنى مۇقۇملاشتۇرۇش</string>
+    <string name="cb_pw_no_match">شىغىر ماس ئەمەس</string>
+    <string name="cb_pw_error">شىغىر خاتا</string>
+    <string name="cb_pw_correct">شىغىر ئۆزگەرتىلدى</string>
+    <string name="labelCB">چاقىرىش چەكلەنمەكتە</string>
+    <string name="call_barring_settings">چاقىرىشنى چەكلەش تەڭشىكى</string>
+    <string name="cb_error">چاقىرىشنى چەكلەش رەت قىلىندى</string>
+    <!-- SPRD: function call barring support. END-->
+
+</resources>

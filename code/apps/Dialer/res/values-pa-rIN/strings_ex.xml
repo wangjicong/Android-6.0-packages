@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP ਡਾਇਲ ਸੈਟਿੰਗ"</string>
+    <string name="ip_dial_menu">"IP ਡਾਇਲ"</string>
+    <string name="ip_dialing_title">IP ਡਾਇਲਿੰਗ</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"ਤੇਜ਼ ਡਾਇਲ ਸੈਟਿੰਗ"</string>
+    <string name="no_fast_dial_number">"ਤੇਜ਼ ਡਾਇਲ ਨੰਬਰ ਸੈਟ ਨਹੀਂ।"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"ਆਊਟਗੋਇੰਗ"</string>
+     <string name="call_log_incoming_title">"ਇਨਕਮਿੰਗ"</string>
+     <string name="recentOutgoing_empty">"ਤੁਹਾਡੀਆਂ ਕੋਈ ਆਉਟਗੋਇੰਗ ਕਾਲਾਂ ਨਹੀਂ ਹਨ।"</string>
+     <string name="recentIncoming_empty">"ਤੁਹਾਡੀਆਂ ਕੋਈ ਇਨਕਮਿੰਗ ਕਾਲਾਂ ਨਹੀਂ ਹਨ।"</string>
+     <string name="view_setting">"ਦੇਖੋ"</string>
+     <string name="item_all_calls">"ਸਾਰੇ ਕਾਲ ਲੌਗਸ"</string>
+     <string name="item_sim_calls">"SIM%d ਕਾਲ ਲੌਗਸ"</string>
+     <string name="unselect_all">ਸਾਰਿਆਂ ਨੂੰ ਅਨਸਲੈਕਟ ਕਰੋ</string>
+     <string name="select_all_sprd">"ਸਾਰੇ ਚੁਣੋ"</string>
+     <string name="doneButton">ਹੋ ਗਿਆ</string>
+     <string name="cancel">ਰੱਦ ਕਰੋ</string>
+     <string name="delete_selected_calls">"ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ ਤੇ ਚੁਣੇ ਗਏ ਰਿਕਾਰਡ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ"</string>
+     <string name="clearCallLogProgress_title">ਕਾਲ ਲੌਗ ਮਿਟਾ ਰਿਹਾ ਹੈ\u2026</string>
+     <string name="delete_success">"ਸਫਲਤਾਪੂਰਵਕ ਮਿਟਾਇਆ ਗਿਆ"</string>
+     <string name="clear_all_call_log">"ਸਾਰੇ ਕਾਲ ਲੌਗ ਮਿਟਾਓ"</string>
+     <string name="clear_selected_call_log">"ਚੁਣੇ ਗਏ ਕਾਲ ਲੌਗ ਮਿਟਾਓ"</string>
+     <string name="select_all">"ਸਾਰੇ ਚੁਣੋ"</string>
+     <string name="unselect_all">"ਸਾਰਿਆਂ ਨੂੰ ਅਚੋਣਵਾਂ ਕਰੋ"</string>
+     <string name="delete_all_calls_confirm">"ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਸਾਰੇ ਰਿਕਾਰਡਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+     <string name="do_not_select">"ਤੁਸੀਂ ਮਿਟਾਉਣ ਲਈ ਰਿਕਾਰਡ ਨਹੀਂ ਚੁਣਿਆ"</string>
+     <string name="delete_calls">ਮਿਟਾਓ</string>
+     <string name="number_anr_isnull">"ਸੰਪਰਕ ਨੰਬਰ ਰੁੱਝਾ ਹੋਇਆ ਹੈ"</string>
+     <string name="call_recording_setting_title">"ਕਾਲ ਰਿਕਾਰਡਿੰਗ"</string>
+     <string name="automatic_recording_title">"ਆਟੋਮੈਟਿਕ ਰਿਕਾਰਡਿੰਗ"</string>
+     <string name="dialog_phone_permission_deny">"IP ਡਾਇਲ ਵਰਤਣ ਲਈ,\n ਫੋਨ ਅਨੁਮਤੀ ਚਾਲੂ ਕਰੋ।"</string>
+     <string name="search_description">"ਕਾਲਲੌਗ ਖੋਜੋ"</string>
+     <string name="call_log_add_to_blacklist">"ਬਲੈਕਲਿਸਟ ਵਿੱਚ ਜੋੜੋ"</string>
+     <string name="make_video_call_menu">"ਵੀਡਿਓ ਕਾਲ ਕਰੋ"</string>
+
+</resources>

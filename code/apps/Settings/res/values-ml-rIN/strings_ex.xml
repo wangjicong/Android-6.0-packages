@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB ക്രമീകരണങ്ങള്‍"</string>
+<string name="usb_charge_only">"കേവല ചാര്‍ജ്ജ്"</string>
+<string name="usb_charge_only_summary">"USB കണക്ട് ചെയ്യുമ്പോള്‍ കേവല ചാര്‍ജ്ജ് മോഡ് ഉപയോഗിക്കുക"</string>
+<string name="usb_charge_only_storage_active_subtext">"USB സ്റ്റോറേജ് ഉപയോഗിച്ചു കൊണ്ടിരിക്കുമ്പോള്‍ കേവല ചാര്‍ജ്ജ് മോഡിലേക്ക് മാറാനാവില്ല"</string>
+<string name="usb_charge_only_notification">"ചാർജ് മാത്രമായിട്ടാണ് ബന്ധിപ്പിചിരിക്കുന്നത്"</string>
+<string name="usb_storage">"USB സ്റ്റോറേജ്"</string>
+<string name="usb_storage_summary">"USB മാസ് സ്റ്റോറേജ് പ്രവര്‍ത്തനക്ഷമമാക്കുക"</string>
+<string name="ums_settings">"UMS ക്രമീകരണങ്ങള്‍"</string>
+<string name="ums_mounted_setting">"ums PCയിലേക്ക് മൊണ്ട് ചെയ്യുന്നു, ദയവായി കാത്തിരിക്കുക..."</string>
+<string name="ums_unmounted_setting">"ums PCയില്‍നിന്ന് അണ്‍മൗണ്ട് ചെയ്യുന്നു, ദയവായി കാത്തിരിക്കുക..."</string>
+<string name="usb_virtual_drive">"USB വിര്‍ച്വല്‍ ഡ്രൈവ്"</string>
+<string name="usb_virtual_drive_summary">"USB വിര്‍ച്വല്‍ ഡ്രൈവ് പ്രവര്‍ത്തനക്ഷമമാക്കുക"</string>
+<string name="remember_choice">"എന്റെ തെരഞ്ഞെടുക്കല്‍ ഓര്‍ക്കുക"</string>
+<string name="remember_choice_summary">"എന്റെ ചോയ്സ് ഓര്‍ത്തു വച്ച് അടുത്ത തവണ ഓട്ടോമാറ്റിക് ആയി ഫങ്ഷന്‍ തുടങ്ങുക"</string>
+<string name="stand_by_set_changed_prompt">"Simആക്ടിവേഷന്‍ സ്ഥിതി മാറ്റം വരുന്നതാണ്,ദയവായി തുടരണോ എന്ന് ഉറപ്പിക്കുക?"</string>
+<string name="not_stand_by">"വിലക്കപ്പെട്ടത്"</string>
+<string name="primary_card_switching">"സെറ്റ് ചെയ്യുന്നു\uff0cദയവായി കാത്തിരിക്കുകക..."</string>
+<string name="toggle_data_change_message">"ഡാറ്റ കണക്ഷന്‍ സിമ്മിലേക്ക് സ്വിച്ച് ചെയ്തു <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>,നല്കലും പരസ്പരബന്ധിതവുമായ നിരക്കുകളിലൂടെ ഇത് ഡാറ്റ ഉത്പാദിപ്പിക്കും, ദയവായി ശ്രദ്ധിക്കുക." </string>
+<string name="select_primary_card">"പ്രധാന കാര്‍ഡ് തെരഞ്ഞെടുക്കുക"</string>
+<string name="whether_switch_primary_card">"പ്രൈമറി കാര്‍ഡ് ഈ കാര്‍ഡിലേക്ക് സ്വിച്ച് ചെയ്യണമോ എന്ന് ദയവായി സ്ഥിരീകരിക്കുക?\n( സെല്ലുലര്‍ ഡാറ്റയും കാര്‍ഡിലേക്ക് ഷിഫ്റ്റഅ ചെയ്യപ്പെടുന്നതാണ്.)"</string>
+<string name="attention">"ശ്രദ്ധിക്കുക"</string>
+<string name="bt_softap_cannot_coexist">"സൊഫ്റ്റ് ടാപ് പ്രവർത്തിക്കുമ്പോഴോ പ്രവർത്തന ക്ഷമമാകുംപോഴോ, ബ്ലൂടൂത്ത് പ്രവർത്തിക്കാൻ സാധിക്കില്ല, നിങ്ങൾക്ക് ബ്ലൂടൂത്ത് പ്രവർത്തിപ്പിക്കണമെങ്കിൽ, ദയവായി സൊഫ്റ്റ് ടാപ് പ്രവർത്തനക്ഷമമല്ലെന്ന് ഉറപ്പുവരുത്തുക."</string>
+<string name="softap_bt_cannot_coexist">" ബ്ലൂടൂത്ത് പ്രാപ്തമാക്കുമ്പോള്‍ അല്ലെങ്കില്‍ ഓണ്‍ ചെയ്യുമ്പോള്‍, സോഫ്റ്റ്ആപ്പ് പ്രവര്‍ത്തിക്കില്ല. നിങ്ങള്‍ക്ക് സോഫ്റ്റ്ആപ്പ് ഉപയോഗിക്കണമെങ്കില്‍ നിങ്ങളുടെ ബ്ലൂടൂത്ത് അപ്രാപ്തമാക്കിയെന്ന് ഉറപ്പാക്കുക" </string>
+<string name="softap_need_mobile_data_enabled">"പോര്‍ട്ടബിള്‍ വൈഫൈ ഹോട്ട്സ്പോട്ടിന് മൊബൈല്‍ ഡാറ്റ കണക്ഷന്‍ ആവശ്യമാണ്. അത് കൂടുതല്‍ ചെലവിന് ഇടയാക്കാം."</string>
+<string-array name="light_color_picker">
+<item>"പച്ച"</item>
+<item>"നീല"</item>
+<item>"ഇൻഡിഗോ"</item>
+<item>"പര്‍പ്പിള്‍"</item>
+<item>"പിങ്ക്"</item>
+<item>"ചുവപ്പ്"</item>
+<item>"മഞ്ഞ"</item>
+</string-array>
+</resources>

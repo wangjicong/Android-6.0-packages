@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB ছেটিংছ"</string>
+<string name="usb_charge_only">"কেৱল চাৰ্জ"</string>
+<string name="usb_charge_only_summary">"USB সংযোগ হ’লে কেৱল চাৰ্জ মোড ব্যৱহাৰ কৰিব"</string>
+<string name="usb_charge_only_storage_active_subtext">"USB সঞ্চয় ব্যৱহাৰ হৈ থাকোতে চাৰ্জ কৰিব নোৱাৰি"</string>
+<string name="usb_charge_only_notification">"কেৱল চাৰ্জ কৰা হিচাপে সংযোজিত হৈছে"</string>
+<string name="usb_storage">"USB ষ্ট্\'ৰেজ"</string>
+<string name="usb_storage_summary">" USB মাচ্ ষ্টোৰেজ সক্ৰিয় কৰক"</string>
+<string name="ums_settings">"UMS ছেটিংছ"</string>
+<string name="ums_mounted_setting">"এতিয়া কম্পিউটাৰত UMS মাউণ্ট কৰক, অপেক্ষা কৰক..."</string>
+<string name="ums_unmounted_setting">"এতিয়া কম্পিউটাৰৰ পৰা UMS আনমাউণ্ট কৰক, অপেক্ষা কৰক..."</string>
+<string name="usb_virtual_drive">"USB ভাৰ্চুৱেল ড্ৰাইভ"</string>
+<string name="usb_virtual_drive_summary">"USB ভাৰ্চুৱেল ড্ৰাইভ সক্ষম কৰক"</string>
+<string name="remember_choice">"মোৰ পচন্দ মনত ৰাখিব"</string>
+<string name="remember_choice_summary">"মোৰ পছন্দ মনত ৰাখক আৰু ক্ৰমে পিছৰবাৰ মনত ৰখা কাৰ্য্যপ্ৰণালী নিজে নিজে আৰম্ভ হওক।"</string>
+<string name="stand_by_set_changed_prompt">" চিম সক্ৰিয়কৰন অৱস্থা সলনি কৰা হ\'ব, কৰা যাওক নে অনুগ্ৰহ কৰি খাটাং কৰক?"</string>
+<string name="not_stand_by">"নিষিদ্ধ"</string>
+<string name="primary_card_switching">"ছেটিং\uff0cঅনুগ্ৰহ কৰি অপেক্ষা কৰক..."</string>
+<string name="toggle_data_change_message">"ডাটা সংযোগ sim কাৰ্ড <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, লৈ সলনি হৈছে, ই ডাটা থ্রুপুট আৰু সম্পৰ্কিত মাচুল উৎপাদন কৰিব, অনুগ্ৰহ কৰি মনত ৰাখিব।" </string>
+<string name="select_primary_card">"প্ৰাথমিক কাৰ্ড বাচনি কৰক"</string>
+<string name="whether_switch_primary_card">"অনুগ্ৰহ কৰি প্ৰাথমিক কাৰ্ড এই কাৰ্ডলৈ সলনি কৰিব নে নিশ্চিত কৰক?\n(চেলুলাৰ ডাটাও এই কাৰ্ডলৈ স্থানান্তৰ কৰা হ\'ব।)"</string>
+<string name="attention">"মনোযোগ"</string>
+<string name="bt_softap_cannot_coexist">"যেতিয়া softap সক্ষম বা অন থাকে, ব্লুটুথে কাম কৰিব নোৱাৰে, আপুনি যদি ব্লুটুথ ব্যৱহাৰ কৰিব বিচাৰে, অনুগ্ৰহ কৰি softap অক্ষম থকাটো নিশ্চিত কৰক।"</string>
+<string name="softap_bt_cannot_coexist">"যেতিয়া ব্লুটুথ সক্ষম বা অন থাকে, softapএ কাম কৰিব নোৱাৰে, আপুনি যদি softap ব্যৱহাৰ কৰিব বিচাৰে, অনুগ্ৰহ কৰি ব্লুটুথ অক্ষম থকাটো নিশ্চিত কৰক।""</string>
+<string name="softap_need_mobile_data_enabled">"প\'ৰ্টেবল ‌ৱাই-ফাই হটস্পটৰ বাবে মোবাইল তথ্য সংযোগ প্ৰয়োজন, ব্যয় সাপেক্ষ হ\'ব পাৰে"</string>
+<string-array name="light_color_picker">
+<item>"সেউজীয়া"</item>
+<item>"নীলা"</item>
+<item>"ৰঙা"</item>
+<item>"বেঙুনীয়া"</item>
+<item>"গোলাপী"</item>
+<item>"ৰঙা"</item>
+<item>"হালধীয়া"</item>
+</string-array>
+</resources>

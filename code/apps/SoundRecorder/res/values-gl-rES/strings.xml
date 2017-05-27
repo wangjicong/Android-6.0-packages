@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5955735546071433666">"Gravadora de son"</string>
+    <string name="record_your_message" msgid="1583671906691662148">"Gravar unha mensaxe"</string>
+    <string name="message_recorded" msgid="381539460921872233">"Mensaxe gravada"</string>
+    <string name="review_message" msgid="201616012287839474">"Revisar mensaxe"</string>
+    <string name="recording" msgid="4426791467211376099">"Gravando"</string>
+    <string name="recording_stopped" msgid="1580278719585249612">"Detívose a gravación"</string>
+    <string name="storage_is_full" msgid="416039755956726221">"O almacenamento está cheo"</string>
+    <string name="max_length_reached" msgid="6398215743584093353">"Alcanzouse a duración máxima"</string>
+    <string name="insert_sd_card" product="nosdcard" msgid="4609407750669086933">"Activar almacenamento USB"</string>
+    <string name="insert_sd_card" product="default" msgid="1007630222084726808">"Insire unha tarxeta SD"</string>
+    <string name="min_available" msgid="5493947690062988925">"<xliff:g id="MINUTES">%d</xliff:g> min dispoñibles"</string>
+    <string name="sec_available" msgid="2297020788861694399">"<xliff:g id="SECONDS">%d</xliff:g> s dispoñibles"</string>
+    <string name="accept" msgid="1888285552128743656">"Feito"</string>
+    <string name="discard" msgid="761613433029406319">"Descartar"</string>
+    <string name="button_ok" msgid="3004911343723076226">"Aceptar"</string>
+    <!-- no translation found for audio_db_title_format (7912182366970749312) -->
+    <skip />
+    <string name="audio_db_artist_name" msgid="961640229118120080">"As túas gravacións"</string>
+    <string name="audio_db_album_name" msgid="9072588113803264440">"Gravacións de audio"</string>
+    <string name="audio_db_playlist_name" msgid="5592939050047058162">"As miñas gravacións"</string>
+    <string name="error_sdcard_access" product="nosdcard" msgid="86629081075681774">"Non se pode acceder ao almacenamento USB."</string>
+    <string name="error_sdcard_access" product="default" msgid="5750308258096153274">"Non se pode acceder á tarxeta SD."</string>
+    <string name="error_app_internal" msgid="312884382388702022">"Erro interno da aplicación"</string>
+    <string name="error_mediadb_new_record" msgid="261714902333432462">"Non se puido gardar o audio gravado."</string>
+    <string name="recording_save">Rexistrando o gardado</string>
+     <string name="recording_nosave">Non se gardou o rexistro</string>
+     <string name="phone_message">Non pode acender o gravador de son mentres chama.</string>
+     <string name="min_and_time_available">Aprox. <xliff:g id="minutes">%d</xliff:g> min e <xliff:g id="seconds">%d</xliff:g> s dispoñibles</string>
+     <string name="press_record">Prensar informe</string>
+     <string name="save">Gardar</string>
+     <string name="select_file_type">Seleccionar o tipo de arquivos de rexistro</string>
+     <string name="record_amr">"Tipo AMR (baixa calidade"</string>
+     <string name="record_3gpp">"Tiop 3gpp (alta calidade)"</string>
+     <string name="button_cancel">cancelar</string>
+     <string name="path_save">Ruta por defecto gardada</string>
+     <string name="path_nosave">Ruta por defecto non gardada</string>
+     <string name="path_default">A ruta actual no é sobrescribible ou inválida, a súa ruta á ruta de almacenamento interno</string>
+     <string name="menu_set_save_path">Axustar ruta de memorización</string>
+     <string name="back">Volver...</string>
+     <string name="path_label">Seleccione a ruta para gardar</string>
+     <string name="pause">Pausa</string>
+     <string name="storage_is_not_enough">O almacenamento no é suficiente</string>
+     <string name="menu_recording_file_list">Rexistrando lista de arquivos</string>
+     <string name="recording_list_empty">Lista baleira</string>
+     <string name="menu_recording_list_select_all">Seleccionar todo</string>
+     <string name="menu_recording_list_delete">Borrar</string>
+     <string name="menu_recording_list_deselect_all">Deseleccione</string>
+     <string name="recording_file_delete_success">Rexistrando a eliminación</string>
+     <string name="recording_file_database_failed">Erro ó borrar o arquivo da base de datos</string>
+     <string name="recording_file_delete_failed">Erro ó borrar o arquivo o arquivo de rexistro</string>
+     <string name="confirm_del">¿Está seguro que desexa borrar os arquivos?</string>
+     <string name="button_delete">Borrar</string>
+     <string name="recording_file_delete_alert_title">Borrar</string>
+     <string name="recording_file_delete_alert_message">¿Seguro de borrar %1$s?</string>
+     <string name="recording_file_list">Rexistrando lista de arquivos</string>
+     <string name="less_than_one_second">1 segundo</string>
+     <string name="is_scanning">" O escáner de medios está escaneado, espere..."</string>
+     <string name="emptylist">A lista está baleiro.</string>
+     <string name="choose_file">"¡Primeiro elixa o rexistro do que desexa eliminar arquivos!"</string>
+     <string name="error_path">"¡O recorrido que seleccionou non existe, volva a reiniciar!"</string>
+     <string name="path_miss">"¡A ruta gardada no existe e non pode accederse a mesma!"</string>
+     <string name="low_memory">¡A memoria do teléfono é insuficiente, deterase o rexistro!</string>
+     <string name="record_error">"¡Rexistrando porque ocorreu unha excepción!"</string>
+     <string name="play_error">¡Deshabilouse o reprodutor de música, incapaz de abrir！</string>
+     <string name="dialog_title">Seleccionar</string>
+     <string name="dialog_message">"¿Desexa gardar o rexistro?"</string>
+     <string name="same_application_running">"O dispositivo de gravación está a ser usado por outro programa, peche este programa"</string>
+     <string name="recording_time_short">"O tempo restante é de menos de 1 segundo, non gardado"</string>
+     <string name="file_path_button">Ruta do arquivo</string>
+     <string name="file_name">"Nome do arquivo":</string>
+     <string name="file_path">"Ruta do arquivo:"</string>
+     <string name="rename">Renomear</string>
+     <string name="rename_save">Renomeado con éxito</string>
+     <string name="rename_nosave">Renomear avaría</string>
+     <string name="filename_is_not_modified">Nome do arquivo non está modificado</string>
+     <string name="duplicate_name">Duplicar o nome de arquivo</string>
+     <string name="soundpicker_label">Seleccione un arquivo de rexistro</string>
+     <string name="error_sdcard_path">A tarxeta SD non existe. Ruta de gardado por defecto se cambia a memoria interna.</string>
+     <string name="input_length_overstep">A entrada alcanzou a lonxitude máxima</string>
+     <string name="filename_empty_error">O nome de arquivo no está baleiro, garde o nome orixinal</string>
+     <string name="please_choose_files">Elixa os arquivos</string>
+     <string name="selected_files_count">"Elixiu (<xliff:g id="COUNT">%d</xliff:g>)"</string>
+     <string name="use_default_path">A ruta da memoria non existe, use a ruta por defecto</string>
+     <string name="stroage_not_mounted">O almacenamento non está montado</string>
+     <string name="special_char_exist">"Caracteres especiais <xliff:g id="COUNTS">%s</xliff:g> no se soportan"</string>
+     <string name="menu_select_more">Seleccionar máis</string>
+     <string name="menu_select_type">Axustar tipo de arquivo</string>
+     <string name="path_miss_nosave">"¡A ruta gardada non existe, non se gardou o rexistro！"</string>
+     <string name="dialog_dismiss">Descartar</string>
+     <string name="error_permissions">"A aplicación non ten permisos esenciais que se necesitan para a súa execución. Comproba a configuración dos permisos."</string>
+
+</resources>

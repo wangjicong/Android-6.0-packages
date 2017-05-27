@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config spn="Lycamobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Lycamobile</string>
+        <string name="vmnumber">200</string>
+        <string name="roamingvm">200</string>
+    </carrier_config>
+</carrier_config_list>

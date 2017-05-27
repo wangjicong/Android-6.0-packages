@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB அமைப்புகள்"</string>
+<string name="usb_charge_only">சார்ஜ் மட்டும்</string>
+<string name="usb_charge_only_summary">USB  இணைக்கப்படும்போது சார்ஜ் மட்டுமே மோடில் பயன்படுத்தவும்</string>
+<string name="usb_charge_only_storage_active_subtext">சார்ஜ் செய்ய முடியாது USB சேமிப்பகம் பயன்பாட்டில் இருக்கும்போது மட்டும்</string>
+<string name="usb_charge_only_notification">சார்ஜ் ஆக  மட்டும் இணைக்கப்பட்ட்து</string>
+<string name="usb_storage">USB அமைப்புக்கள்</string>
+<string name="usb_storage_summary">USB தொகுப்பு சேமிப்பகத்தினை ஏதுவாக்கவும்</string>
+<string name="ums_settings">"UMS அமைப்புக்கள்"</string>
+<string name="ums_mounted_setting">"இப்போது umsஐ PCக்கு பொருத்துகின்றது, தயவுசெய்து காத்திருக்கவும்..."</string>
+<string name="ums_unmounted_setting">"இப்போது PCயிலிருந்து umsஐ நீக்குகின்றது, தயவுசெய்து காத்திருக்கவும்..."</string>
+<string name="usb_virtual_drive">"USB நிகழ்நிலை டிரைவ்"</string>
+<string name="usb_virtual_drive_summary">”மாதிரி USB டிரைவினை செயல்பட வைக்கவும்”</string>
+<string name="remember_choice">எனது விருப்பத்தெரிவினை நினைவு கொள்க</string>
+<string name="remember_choice_summary">"எனது தேர்வை நினைவில் கொண்டு நினைவில் உள்ள செயல்பாட்டை அடுத்த முறை தானாகவே தொடங்கவும்"</string>
+<string name="stand_by_set_changed_prompt">"SIM செயல்படுத்தும் நிலை மாற்றப்படும், தயவுசெய்து தொடர வேண்டுமா என்பதை உறுதிசெய்யவும்?"</string>
+<string name="not_stand_by">"தடுக்கப்பட்டது"</string>
+<string name="primary_card_switching">""அமைக்கிறது\uff0cதயவுசெய்து காத்திருக்கவும்..."</string>
+<string name="toggle_data_change_message">தரவு இணைப்பு சிம் கார்டு மாற்றப்பட்டுள்ளது,<xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, அது தரவு வெளிப்பாட்டையும் ஒத்திசைவான கட்டணங்களையும் உண்டாக்கும், தயவு செய்து கவனத்தில் கொள்ளவும்.</string>
+<string name="select_primary_card">"முதன்மை கார்டைத் தேர்வுசெய்யவும்"</string>
+<string name="whether_switch_primary_card">""முதன்மை அட்டையை அந்த அட்டைக்கு மாற்றுவதா என்பதை தயவுசெய்து உறுதிப்படுத்தவும்?\n(செல்லுலார் தரவும் அட்டைக்கு மாற்றப்படும்.)"</string>
+<string name="attention">கவனம்</string>
+<string name="bt_softap_cannot_coexist">"சாஃப்டேப் செயல்பாட்டில் இருக்கும்போது அல்லது ஆன் செய்யப்படும்போது, ப்ளூடூத் வேலை செய்ய முடியாது, நீங்கள் ப்ளூடூத்தைப் பயன்படுத்த விரும்பினால், தயவுசெய்து சாஃப்டேப் செயலிழக்கப்பட்டுள்ளதை உறுதிசெய்யவும்."</string>
+<string name="softap_bt_cannot_coexist">ப்ளூடூத் இயலப்பட்டிருக்கும்போது அல்லது இயங்கத் துவங்குமபோது, சாஃப்ட்ஆப்பினால் செயல்படமுடியாது, சாஃப்ட்ஆபை பயன்படுத்த விரும்பினால், தயவு செய்து ப்ளூடூத் இயலச்செய்யப்படாமல் இருப்பதை உறுதி செய்யவும்.  </string>
+<string name="softap_need_mobile_data_enabled">"கையடக்க Wi-Fi ஹாட்ஸ்பாட்டுக்கு மொபைல் தரவு இணைப்பு தேவை, இது கூடுதல் கட்டணங்களை விளைவிக்கக்கூடும்."</string>
+<string-array name="light_color_picker">
+<item>"பச்சை"</item>
+<item>"நீலம்"</item>
+<item>"அடர் நீலம்"</item>
+<item>"ஊதா"</item>
+<item>"பிங்க்"</item>
+<item>"சிகப்பு"</item>
+<item>"மஞ்சள்"</item>
+</string-array>
+</resources>

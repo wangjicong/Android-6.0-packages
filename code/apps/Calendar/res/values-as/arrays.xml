@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="reminder_methods_labels">
+<item>"জাননীবাৰ্তা"</item>
+<item>"ই-মেইল"</item>
+<item>"SMS"</item>
+<item>"এলাৰ্ম"</item>
+</string-array>
+<string-array name="reminder_minutes_labels">
+<item>0 মিনিট</item>
+<item>1 মিনিট</item>
+<item>5 মিনিট</item>
+<item>10 মিনিট</item>
+<item>15 মিনিট</item>
+<item>20 মিনিট</item>
+<item>25 মিনিট</item>
+<item>30 মিনিট</item>
+<item>45 মিনিট</item>
+<item>1 ঘণ্টা</item>
+<item>2 ঘণ্টা</item>
+<item>3 ঘণ্টা</item>
+<item>12 ঘণ্টা</item>
+<item>24 ঘণ্টা</item>
+<item>2 দিন</item>
+<item>1 সপ্তাহ</item>
+</string-array>
+<string-array name="preferences_default_reminder_labels">
+<item>কিছু নাই</item>
+<item>0 মিনিট</item>
+<item>1 মিনিট</item>
+<item>5 মিনিট</item>
+<item>10 মিনিট</item>
+<item>15 মিনিট</item>
+<item>20 মিনিট</item>
+<item>25 মিনিট</item>
+<item>30 মিনিট</item>
+<item>45 মিনিট</item>
+<item>1 ঘণ্টা</item>
+<item>2 ঘণ্টা</item>
+<item>3 ঘণ্টা</item>
+<item>12 ঘণ্টা</item>
+<item>24 ঘণ্টা</item>
+<item>2 দিন</item>
+<item>1 সপ্তাহ</item>
+</string-array>
+<string-array name="preferences_week_start_day_labels">
+<item>"স্থানীয়ভাৱে ডিফল্ট"</item>
+<item>"শনিবাৰ"</item>
+<item>"ৰবিবাৰ"</item>
+<item>"সোমবাৰ"</item>
+</string-array>
+<string-array name="availability">
+<item>"ব্যস্ত"</item>
+<item>"উপলব্ধ"</item>
+<item>"আনুমানিক"</item>
+</string-array>
+<string-array name="visibility">
+<item>ডিফল্ট</item>
+<item>"ব্যক্তিগত"</item>
+<item>"ৰাজহুৱা"</item>
+</string-array>
+<string-array name="ordinal_labels">
+<item>"প্ৰথম"</item>
+<item>"দ্বিতীয়"</item>
+<item>"তৃতীয়"</item>
+<item>"চতুৰ্থ"</item>
+<item>"অন্তিম"</item>
+</string-array>
+<string-array name="response_labels1">
+<item>"কোনো সঁহাৰি নাই"</item>
+<item>"হয়"</item>
+<item>"হ’ব পাৰে"</item>
+<item>"নহয়"</item>
+</string-array>
+<string-array name="delete_repeating_labels">
+<item>"কেৱল এইটো অনুষ্ঠানত"</item>
+<item>"এইটো আৰু ভৱিষ্যৎৰ অনুষ্ঠানবোৰত"</item>
+<item>আটাইবোৰ অনুষ্ঠান</item>
+</string-array>
+<string-array name="delete_repeating_labels_no_selected">
+<item>"এইটো &amp; ভৱিষ্যতৰ অনুষ্ঠান"</item>
+<item>আটাইবোৰ অনুষ্ঠান</item>
+</string-array>
+<string-array name="change_response_labels">
+<item>"কেৱল এইটো অনুষ্ঠানত"</item>
+<item>এই শৃংখলাৰ আটাইবোৰ অনুষ্ঠানতে</item>
+</string-array>
+<string-array name="buttons_list">
+<item>"দিন"</item>
+<item>"সপ্তাহ"</item>
+<item>"মাহ"</item>
+<item>"কাৰ্যসূচী"</item>
+</string-array>
+<string-array name="preferences_skip_reminders_labels">
+<item>"কেৱল যদি নাকচ কৰে"</item>
+<item>"যদি নাকচ কৰে বা কোনো সঁহাৰি নজনায়"</item>
+</string-array>
+<string-array name="recurrence_freq">
+<item>"দৈনিক পুনৰাবৃত্তি কৰক"</item>
+<item>"সপ্তাহত পুনৰাবৃত্তি কৰক"</item>
+<item>"মাহিলী পুনৰাবৃত্তি কৰক"</item>
+<item>"বছৰি পুনৰাবৃত্তি কৰক"</item>
+</string-array>
+<string-array name="repeat_by_nth_sun">
+<item>"প্ৰতি প্ৰথম ৰবিবাৰে"</item>
+<item>"প্ৰতি দ্বিতীয় ৰবিবাৰে"</item>
+<item>"প্ৰতি তৃতীয় ৰবিবাৰে"</item>
+<item>"প্ৰতি চতুৰ্থ ৰবিবাৰে"</item>
+<item>"প্ৰতি অন্তিম ৰবিবাৰে"</item>
+</string-array>
+<string-array name="repeat_by_nth_mon">
+<item>"প্ৰতি প্ৰথম সোমবাৰে"</item>
+<item>"প্ৰতি দ্বিতীয় সোমবাৰে"</item>
+<item>"প্ৰতি তৃতীয় সোমবাৰে"</item>
+<item>"প্ৰতি চতুৰ্থ সোমবাৰে"</item>
+<item>"প্ৰতি অন্তিম সোমবাৰে"</item>
+</string-array>
+<string-array name="repeat_by_nth_tues">
+<item>"প্ৰতি প্ৰথম মংগলবাৰে"</item>
+<item>"প্ৰতি দ্বিতীয় মংগলবাৰে"</item>
+<item>"প্ৰতি তৃতীয় মংগলবাৰে"</item>
+<item>"প্ৰতি চতুৰ্থ মংগলবাৰে"</item>
+<item>"প্ৰতি অন্তিম মংগলবাৰে"</item>
+</string-array>
+<string-array name="repeat_by_nth_wed">
+<item>"প্ৰতি প্ৰথম বুধবাৰে"</item>
+<item>"প্ৰতি দ্বিতীয় বুধবাৰে"</item>
+<item>"প্ৰতি তৃতীয় বুধবাৰে"</item>
+<item>"প্ৰতি চতুৰ্থ বুধবাৰে"</item>
+<item>"প্ৰতি অন্তিম বুধবাৰে"</item>
+</string-array>
+<string-array name="repeat_by_nth_thurs">
+<item>"প্ৰতি প্ৰথম বৃহস্পতিবাৰে"</item>
+<item>"প্ৰতি দ্বিতীয় বৃহস্পতিবাৰে"</item>
+<item>"প্ৰতি তৃতীয় বৃহস্পতিবাৰে"</item>
+<item>"প্ৰতি চতুৰ্থ বৃহস্পতিবাৰে"</item>
+<item>"প্ৰতি অন্তিম বৃহস্পতিবাৰে"</item>
+</string-array>
+<string-array name="repeat_by_nth_fri">
+<item>"প্ৰতি প্ৰথম শুক্ৰবাৰে"</item>
+<item>"প্ৰতি দ্বিতীয় শুক্ৰবাৰে"</item>
+<item>"প্ৰতি তৃতীয় শুক্ৰবাৰে"</item>
+<item>"প্ৰতি চতুৰ্থ শুক্ৰবাৰে"</item>
+<item>"প্ৰতি অন্তিম শুক্ৰবাৰে"</item>
+</string-array>
+<string-array name="repeat_by_nth_sat">
+<item>"প্ৰতি প্ৰথম শনিবাৰে"</item>
+<item>"প্ৰতি দ্বিতীয় শনিবাৰে"</item>
+<item>"প্ৰতি তৃতীয় শনিবাৰে"</item>
+<item>"প্ৰতি চতুৰ্থ শনিবাৰে"</item>
+<item>"প্ৰতি অন্তিম শনিবাৰে"</item>
+</string-array>
+</resources>

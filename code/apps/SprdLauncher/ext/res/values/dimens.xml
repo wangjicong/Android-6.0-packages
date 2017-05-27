@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+<!-- Add for unread events feature. -->
+    <dimen name="unread_minWidth">20dp</dimen>
+    <dimen name="hotseat_unread_margin_top">5dp</dimen>
+    <dimen name="hotseat_unread_margin_right">0dp</dimen>
+    <dimen name="folder_unread_margin_top">5dp</dimen>
+    <dimen name="folder_unread_margin_right">4dp</dimen>
+    <dimen name="workspace_unread_margin_top">2dp</dimen>
+    <dimen name="workspace_unread_margin_right">8dp</dimen>
+    <dimen name="app_list_unread_margin_top">5dp</dimen>
+    <dimen name="app_list_unread_margin_right">4dp</dimen>
+    <dimen name="unread_text_margin">8dp</dimen>
+    <dimen name="unread_text_number_size">12sp</dimen>
+    <dimen name="unread_text_plus_size">8sp</dimen>
+
+    <!-- Add for dynamic desk clock feature. start-->
+    <dimen name="dynamic_clock_center_radius">2dp</dimen>
+    <dimen name="dynamic_clock_second_width">1dp</dimen>
+    <dimen name="dynamic_clock_minute_width">1dp</dimen>
+    <dimen name="dynamic_clock_hour_width">1dp</dimen>
+
+    <dimen name="dynamic_clock_center_radius_original">2dp</dimen>
+    <dimen name="dynamic_clock_second_width_original">1dp</dimen>
+    <dimen name="dynamic_clock_minute_width_original">2dp</dimen>
+    <dimen name="dynamic_clock_hour_width_original">2dp</dimen>
+    <!-- Add for dynamic desk clock feature. end-->
+
+    <dimen name="folder_icon_margin">2dp</dimen>
+    <dimen name="folder_icon_margin_padding">5dp</dimen>
+</resources>

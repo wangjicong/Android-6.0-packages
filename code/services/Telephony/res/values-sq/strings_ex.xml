@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">Të gjitha dalëset</string>
+    <string name="messageAO">Formo fjalëkalimin e mbartjes të thirrjes</string>
+    <string name="sum_ao_enabled_indicator">Duke përcjellë të gjitha telefonatat</string>
+    <string name="sum_ao_enabled">Aktivizuar</string>
+    <string name="sum_ao_disabled">Çaktivizuar</string>
+    <string name="enable_ao_forbidden">Rrjeti juaj nuk suporton aktivizimin e ndalimit të të gjitha thirrjeve dalëse.</string>
+    <string name="disable_ao_forbidden">Rrjeti juaj nuk suporton çaktivizimin e ndalimit të të gjitha thirrjeve dalëse.</string>
+    <string name="labelOI">Dalëse ndërkombëtare</string>
+    <string name="messageOI">Formo fjalëkalimin e mbartjes të thirrjes</string>
+    <string name="sum_oi_enabled">Aktivizuar</string>
+    <string name="sum_oi_disabled">Çaktivizuar</string>
+    <string name="enable_oi_forbidden">Rrjeti juaj nuk suporton aktivizimin e ndalimit të thirrjeve dalëse ndërkombëtare.</string>
+    <string name="disable_oi_forbidden">Rrjeti juaj nuk suporton çaktivizimin e ndalimit të thirrjeve dalëse ndërkombëtare.</string>
+    <string name="labelOX">Roaming dalës ndërkombëtar</string>
+    <string name="messageOX">Formo fjalëkalimin e mbartjes të thirrjes</string>
+    <string name="sum_ox_enabled">Aktivizuar</string>
+    <string name="sum_ox_disabled">Çaktivizuar</string>
+    <string name="enable_ox_forbidden">Rrjeti juaj nuk suporton aktivizimin e ndalimit të thirrjeve dalëse ndërkombëtare në roaming.</string>
+    <string name="disable_ox_forbidden">Rrjeti juaj nuk suporton çaktivizimin e ndalimit të thirrjeve dalëse ndërkombëtare në roaming.</string>
+    <string name="labelAI">Të gjitha hyrëset</string>
+    <string name="messageAI">Formo fjalëkalimin e mbartjes të thirrjes</string>
+    <string name="sum_ai_enabled">Aktivizuar</string>
+    <string name="sum_ai_disabled">Çaktivizuar</string>
+    <string name="enable_ai_forbidden">Rrjeti juaj nuk suporton aktivizimin e ndalimit të të gjitha thirrjeve hyrëse.</string>
+    <string name="disable_ai_forbidden">Rrjeti juaj nuk suporton çaktivizimin e ndalimit të të gjitha thirrjeve hyrëse.</string>
+    <string name="labelIR">Telefonatat hyrëse gjatë roamingut</string>
+    <string name="messageIR">Formo fjalëkalimin e mbartjes të thirrjes</string>
+    <string name="sum_ir_enabled">Aktivizuar</string>
+    <string name="sum_ir_disabled">Çaktivizuar</string>
+    <string name="enable_ir_forbidden">Rrjeti juaj nuk suporton aktivizimin e ndalimit të thirrjeve hyrëse kur jeni në thirrje roaming.</string>
+    <string name="disable_ir_forbidden">Rrjeti juaj nuk suporton çaktivizimin e ndalimit të thirrjeve hyrëse kur jeni në thirrje roaming.</string>
+    <string name="labelAB">Çaktivizo të gjitha</string>
+    <string name="messageAB">Formo fjalëkalimin e mbartjes të thirrjes</string>
+    <string name="sum_ab_enabled">Aktivizuar</string>
+    <string name="sum_ab_disabled">Çaktivizuar</string>
+    <string name="enable_ab_forbidden">Rrjeti juaj nuk suporton çaktivizimin e të gjithave.</string>
+    <string name="disable_ab_forbidden">Rrjeti juaj nuk suporton aktivizimin e të gjithave.</string>
+    <string name="labelChgPwd">Ndrysho fjalëkalimin</string>
+    <string name="DlgChgPwd_oldpwd">Formo fjalëkalimin e mbartjes të thirrjes</string>
+    <string name="DlgChgPwd_newpwd_first">Formo fjalëkalimin e ri</string>
+    <string name="DlgChgPwd_newpwd_last">Konfirmo fjalëkalimin e ri</string>
+    <string name="cb_pw_no_match">Fjalëkalimet nuk përputhen</string>
+    <string name="cb_pw_error">Fjalëkalimi është i gabuar</string>
+    <string name="cb_pw_correct">Fjalëkalimi është ndryshuar</string>
+    <string name="labelCB">Ndalimi i telefonatave</string>
+    <string name="call_barring_settings">Cilësimet e ndalimit të telefonatës</string>
+    <string name="cb_error">Mbartja e thirrjes u refuzua</string>
+    <!-- SPRD: function call barring support. END-->
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"İmza"</string>
+<string name="pref_title_sms_retry_times">SMS Yeniden Göndermeyi etkinleştir</string>
+<string name="preference_name">"Genel ifadeler"</string>
+<string name="select">"Seçildi"</string>
+<string name="item_cancel">İptal</string>
+<string name="item_delete">Sil</string>
+<string name="save_as_teltype">""Telefon için" "</string>
+<string name="save_as_mmstype">"Sms için"</string>
+<string name="type_to_pharser">"Ortak ifadeyi yazın"</string>
+<string name="add">"Ekle"</string>
+<string name="edit">Düzenle</string>
+<string name="delete">Sil</string>
+<string name="finish">"Son"</string>
+<string name="cancel">İptal</string>
+<string name="add_pharser">"Ortak ifade ekleyin"</string>
+<string name="edit_pharser">Genel İfadeleri Düzenle</string>
+<string name="pharser_can_modify">""Özelleştirilmiş ifade" "</string>
+<string name="pharser_cannot_modify">"Sabit ifade"</string>
+<string name="select_item">"Bunu seçtiniz"</string>
+<string name="select_commmon_phrase">Genel ifade seç</string>
+<string name="common_phrase_empty">"Genel ifadeler yok"</string>
+<string name="action_add_phrase">"Ortak ifade girin"</string>
+<string name="pref_other_settings_title">"Diğer"</string>
+<string-array name="fixed_mms_phrase">
+<item>Lütfen iş telefonumu arayın, teşekkürler.</item>
+<item>Lütfen beni arayın, teşekkürler.</item>
+<item>Lütfen bana konumunuzu söyleyin.</item>
+<item>Lütfen daha sonra cep telefonumu arayın, teşekkürler.</item>
+<item>Dışardaydım, eve gidince sizi arayacağım.</item>
+<item>"Araç kullanıyorum ve daha sonra yanıt vereceğim."</item>
+<item>"Yoldayım geliyorum, hemen ulaşılacağım."</item>
+<item>Trafik çok yoğun, sonra ararım, kusura bakmayın</item>
+<item>Daha sonra arayacağım.</item>
+<item>Toplantıdayım, daha sonra arayacağım.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Şimdi konuşamam. Konu nedir?"</item>
+<item>"Seni hemen geri arayacağım."</item>
+<item>"Seni daha sonra ararım."</item>
+<item>"Şimdi konuşamam. Daha sonra arar mısın?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Lütfen beni arayın veya daha sonra sms gönderin."</item>
+</string-array>
+</resources>

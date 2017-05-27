@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config spn="Vectone Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Vectone Mobile</string>
+        <string name="vmnumber">131</string>
+    </carrier_config>
+</carrier_config_list>

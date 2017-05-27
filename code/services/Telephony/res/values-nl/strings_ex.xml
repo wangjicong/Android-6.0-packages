@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">Alles uitgaande</string>
+    <string name="messageAO">Voer noemen blokkeerwachtwoord.</string>
+    <string name="sum_ao_enabled_indicator">"Alle oproepen doorschakelen"</string>
+    <string name="sum_ao_enabled">"Ingeschakeld"</string>
+    <string name="sum_ao_disabled">"Uitgeschakeld"</string>
+    <string name="enable_ao_forbidden">Uw provider ondersteunt het blokkeren van alle uitgaande oproepen niet.</string>
+    <string name="disable_ao_forbidden">Uw provider ondersteunt het uitschakelen van alle geblokkeerde uitgaande oproepen niet.</string>
+    <string name="labelOI">Uitgaande internationale</string>
+    <string name="messageOI">Voer noemen blokkeerwachtwoord.</string>
+    <string name="sum_oi_enabled">"Ingeschakeld"</string>
+    <string name="sum_oi_disabled">"Uitgeschakeld"</string>
+    <string name="enable_oi_forbidden">Uw provider ondersteunt het blokkeren van uitgaande internationale oproepen niet.</string>
+    <string name="disable_oi_forbidden">Uw provider ondersteunt het uitschakelen van alle geblokkeerde uitgaande internationale oproepen niet.</string>
+    <string name="labelOX">Uitgaande internationale roaming</string>
+    <string name="messageOX">Voer noemen blokkeerwachtwoord.</string>
+    <string name="sum_ox_enabled">"Ingeschakeld"</string>
+    <string name="sum_ox_disabled">"Uitgeschakeld"</string>
+    <string name="enable_ox_forbidden">Uw provider ondersteunt het blokkeren van uitgaande internationale roaming oproepen niet.</string>
+    <string name="disable_ox_forbidden">Uw provider ondersteunt het uitschakelen van alle geblokkeerde uitgaande internationale roaming-oproep.</string>
+    <string name="labelAI">Alles inkomende</string>
+    <string name="messageAI">Voer noemen blokkeerwachtwoord.</string>
+    <string name="sum_ai_enabled">"Ingeschakeld"</string>
+    <string name="sum_ai_disabled">"Uitgeschakeld"</string>
+    <string name="enable_ai_forbidden">Uw provider ondersteunt het blokkeren van alle binnenkomende oproepen niet.</string>
+    <string name="disable_ai_forbidden">Uw provider ondersteunt het uitschakelen van alle geblokkeerde binnenkomende oproepen niet.</string>
+    <string name="labelIR">Inkomende oproepen bij roaming</string>
+    <string name="messageIR">Voer noemen blokkeerwachtwoord.</string>
+    <string name="sum_ir_enabled">"Ingeschakeld"</string>
+    <string name="sum_ir_disabled">"Uitgeschakeld"</string>
+    <string name="enable_ir_forbidden">Uw provider ondersteunt het blokkeren van inkomende oproepen tijdens een roaming gesprek niet.</string>
+    <string name="disable_ir_forbidden">Uw provider ondersteunt het uitschakelen van alle geblokkeerde inkomende oproepen tijdens roaming gesprek niet.</string>
+    <string name="labelAB">Alles uitschakelen</string>
+    <string name="messageAB">Voer noemen blokkeerwachtwoord.</string>
+    <string name="sum_ab_enabled">"Ingeschakeld"</string>
+    <string name="sum_ab_disabled">"Uitgeschakeld"</string>
+    <string name="enable_ab_forbidden">Uw provider ondersteunt Alles deactiveren niet.</string>
+    <string name="disable_ab_forbidden">"Uw signaal ondersteunt niet alles inschakelen."</string>
+    <string name="labelChgPwd">"Wachtwoord wijzigen"</string>
+    <string name="DlgChgPwd_oldpwd">Voer noemen blokkeerwachtwoord.</string>
+    <string name="DlgChgPwd_newpwd_first">Voer het nieuwe wachtwoord</string>
+    <string name="DlgChgPwd_newpwd_last">Bevestig nieuw wachtwoord</string>
+    <string name="cb_pw_no_match">"Wachtwoorden komen niet overeen"</string>
+    <string name="cb_pw_error">"Wachtwoord is onjuist"</string>
+    <string name="cb_pw_correct">"Wachtwoord is gewijzigd"</string>
+    <string name="labelCB">"Oproep blokkeren"</string>
+    <string name="call_barring_settings">Instellingen voor Gesprek blokkeren</string>
+    <string name="cb_error">Oproepen blokkeren afgewezen</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">Netwerk staat niet aan, Wil je de netwerkstatus instellen?</string>
+     <string name="dialog_network_selection_title">"Attentie"</string>
+     <string name="dialog_network_selection_message">"Het mobieltje zal geen andere operatoren voor u selecteren in de handmatige selectie modus. Soms moet je de handmatige selectie opnieuw doen of terug veranderen naar automatische selectie modus wanneer u de service van de geselecteerde exploitant verloren bent. Wij raden u aan gebruik maken van automatisch kiezen". Wilt u het netwerk handmatig selecteren?"</string>
+     <string name="network_unknown">Onbekend</string>
+     <string name="network_inhibit">"VERBODEN"</string>
+     <string name="ip_dialing_title">"Ip bellen"</string>
+     <string name="ip_dialing_list_title">IP oproep lijst</string>
+     <string name="ip_no_number">"Geen IP voorkeuze"</string>
+     <string name="ip_no_number_msg">"IP voorkeuze is niet opgeslagen op de telefoon"</string>
+     <string name="ip_number_empty_loading">"De IP oproep lijst is leeg"</string>
+     <string name="remove">"Verwijder"</string>
+     <string name="ip_number_is_too_long">"IP inbelnummers kunnen niet groter zijn dan 20."</string>
+     <string name="add_ip_number_str">"Nieuw"</string>
+     <string name="ip_dialing_num_error">Kan maar 10 IP nummers opslaan</string>
+     <string name="ip_dialing_num_repeat">Herhaal nummer, toevoegen gefaald</string>
+     <string name="menu_selected_all">Kies alles</string>
+     <string name="menu_select_none">Alle selecties opheffen</string>
+     <string name="doneButton">Gereed</string>
+     <string name="cancel">Beëindig</string>
+     <string name="uplmn_setting_title">"Voorkeuren"</string>
+     <string name="uplmn_setting">"UPLMN Instellingen"</string>
+     <string name="uplmn_index">"Index (begint van 0):"</string>
+     <string name="uplmn_id">"ID nummer"</string>
+     <string name="uplmn_type">"Type (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">Plaats a.u.b. USIM kaart en probeer opnieuw</string>
+     <string name="index_error_uplmn">"Index is leeg. probeer opnieuw!"</string>
+     <string name="type_is_emplty_error_uplmn">"Type is leeg. probeer opnieuw!"</string>
+     <string name="number_too_short_uplmn">"Id nummer is te kort. probeer opnieuw!"</string>
+     <string name="type_is_wrong_uplmn">"Type moet 1 of 0 zijn. probeer opnieuw!"</string>
+     <string name="fail_uplmn">"Gefaald en probeer opnieuw."</string>
+     <string name="set_uplmn_unsuccessful">"Instellen uplmn niet succesvol!"</string>
+     <string name="menu_new_uplmn">"Nieuwe UPLMN"</string>
+     <string name="menu_delete_uplmn">"Verwijder UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"Aantal overschrijd de capaciteit van de sim!"</string>
+     <string name="delete">Verwijder</string>
+     <string name="delete_uplmn_successfully">"Verwijderen uplmn gelukt"</string>
+     <string name="id_is_wrong_uplmn">"De ID moet ingesteld worden met een nummer!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Selecteer netwerk"</string>
+     <string name="lte_service_switch">"Instellen, even geduld…"</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G Multi Modus"</item>
+        <item>"3G/2G enkel Modus"</item>
+        <item>"2G Enkel Modus"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G Multi Modus"</item>
+        <item>"3G/2G enkel Modus"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>Alleen GSM</item>
+        <item>Alleen WCDMA</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Auto)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"Vorige bel instellingen"</string>
+     <string name="delete_fastdial">"Verwijder snel bellen"</string>
+     <string name="update_fastdial">"Update snel bellen"</string>
+     <string name="no_sim_text">"Paats of start SIM kaart"</string>
+     <string name="network_not_on">Netwerk staat niet aan, Wil je de netwerkstatus instellen?</string>
+     <string name="one_key_locked_notification">"Dit type is ONTGRENDELD, Wilt u het vergrendelen?"</string>
+     <string name="one_key_unlocked_notification">"Dit type is VERGRENDELD, Wilt u het ontgrendelen?"</string>
+     <string name="one_key_unlocked">"Ontgrendelen"</string>
+     <string name="one_key_locked">"Slot"</string>
+     <string name="one_key_operation_success">"Werking gelukt, u moet nu herstarten"</string>
+     <string name="one_key_operation_unsuccess">"Werking mislukt, u kunt opnieuw proberen!"</string>
+     <string name="one_key_query_unsuccess">"Opvragen simvergendeling type mislukt!"</string>
+     <string name="one_key_simlock_setting">"SIMVERGRENDELING Instellingen"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Netwerk Vergrendeling"</item>
+        <item>"NetwerkSubset Vergrendeling"</item>
+        <item>"ServiceProvider Vergrendeling"</item>
+        <item>"Bedrijfsvergrendeling"</item>
+        <item>"SIM vergrendeling"</item>
+    </string-array>
+     <string name="callin_barring_settings">3inkomende oproep blokkeren instellingen"</string>
+     <string name="callout_barring_settings">"Uitgaande oproep blokkeren instellingen"</string>
+     <string name="labelCOUT">"Uitgaande oproep blokkeren"</string>
+     <string name="labelCIN">"Inkomend blokkeren"</string>
+     <string name="no_sim_text">"Paats of start SIM kaart"</string>
+     <string name="sim_lock_none">"Er werd geen SIM vergrendeld"</string>
+     <string name="sim_lock_try_later">"Probeer later opnieuw"</string>
+     <string name="edit_and_save_fdn">"Bewerk Fdn nummer"</string>
+     <string name="call_fdn_number_by_sim">"Oproep"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"VT oproep"</string>
+     <string name="airplane_changed_on">"Vliegtuigmodus ingeschakeld."</string>
+     <string name="number_empty">"Nummer is leeg"</string>
+     <string name="unblock_pin2">"Deblokkeer PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Voer de PUK2 in om uw SIM kaart te deblokkeren"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> overgebleven poging(en))"</string>
+     <string name="oldPin2_Label">"Oude PIN2 (<xliff:g>%s</xliff:g> overgebleven poging(en))"</string>
+     <string name="puk2_code_label">"Type PUK2 code (<xliff:g>%s</xliff:g> overgebleven poging(en))"</string>
+     <string name="promptWordOne">"Blijf&#160;"</string>
+     <string name="promptWordTwo">"&#160;maal"</string>
+     <string name="adn_full">"FDN lijst is vol"</string>
+     <string name="no_available_phone_accounts">"Geen oproep accounts beschikbaar"</string>
+     <string name="lnd_list">LND Lijst</string>
+     <string name="sdn_list">SDN Lijst</string>
+     <string name="sim_list_title">Kies a.u.b. SIM kaart</string>
+     <string name="wait_message">Wacht alstublieft...</string>
+     <string name="menu_call">"Oproep contact"</string>
+     <string name="lnd_no_contact_record">Geen LND rapport op deze SIM kaart.</string>
+     <string name="sdn_no_contact_number">Deze SIM kaart ondersteunt niet het SDN nummer.</string>
+     <string name="remove">"Verwijder"</string>
+     <string name="delete_selected_contents">Wilt u de gekozen inhoud verwijderen?</string>
+     <string name="sim_notready_can_not_delete">Omdat sim kaart niet gereed is, kunt u niet verwijderen.</string>
+     <string name="contact_del_failed">Verwijderen gefaald</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Voor het instellen van voicemail, gaat u naar \'Menu\' &gt; \'Instellingen\'."</string>
+     <string name="simlock_unlocked">"Simvergrendeling werd ontgrendeld"</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>Alleen WCDMA</item>
+        <item>Alleen GSM</item>
+        <item>"Automatisch"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>Alleen GSM</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB nastavení"</string>
+<string name="usb_charge_only">"Jen nabít"</string>
+<string name="usb_charge_only_summary">"Použít režim nabíjení, jen když je připojeno USB"</string>
+<string name="usb_charge_only_storage_active_subtext">"není možné nabíjet, jen když se používá paměť USB"</string>
+<string name="usb_charge_only_notification">"Připojeno jen jako náplň"</string>
+<string name="usb_storage">"Úložiště USB"</string>
+<string name="usb_storage_summary">"Povolit velkokapacitní úložiště USB"</string>
+<string name="ums_settings">"UMS nastavení"</string>
+<string name="ums_mounted_setting">"Namontovat teď ums do PC, prosím, čekejte..."</string>
+<string name="ums_unmounted_setting">"Odinstalovat ums teď z PC, prosím, čekejte..."</string>
+<string name="usb_virtual_drive">"USB virtuální disk"</string>
+<string name="usb_virtual_drive_summary">"Aktivovat USB virtuální disk"</string>
+<string name="remember_choice">"Zapamatovat moji volbu"</string>
+<string name="remember_choice_summary">"Pamatovat si mojí volbu a spustit zapamatovanou funkci automaticky dále"</string>
+<string name="stand_by_set_changed_prompt">"Stav aktivace sim se změní, prosím, potvrďte, jestli pokračovat?"</string>
+<string name="not_stand_by">"ZAKÁZÁNO"</string>
+<string name="primary_card_switching">"Nastavení\uff0cprosím, čekejte..."</string>
+<string name="toggle_data_change_message">"Datové připojení se přeplo na sim kartu <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, bude produkovat průchodnost dát a korelativní poplatky, prosím, všimněte si."</string>
+<string name="select_primary_card">"Zvolit primární kartu"</string>
+<string name="whether_switch_primary_card">"Prosím, potvrďte, jestli přepnout primární kartu na tuto kartu?\n(Celulární dáta se taky přesunou na kartu.)"</string>
+<string name="attention">"Pozor"</string>
+<string name="bt_softap_cannot_coexist">"Když je softap aktivované anebo se zapíná, bluetooth nemůže fungovat, když chcete používat bluetooth, prosím, zabezpečte, aby byl softap deaktivovaný."</string>
+<string name="softap_bt_cannot_coexist">"Když je aktivován bluetooth anebo se zapíná, softap nemůže pracovat, když chcete použít softap, prosím, zabezpečte, aby byl bluetooth deaktivován."</string>
+<string name="softap_need_mobile_data_enabled">"Přenosný Wi-Fi bod potřebuje připojení mobilních dát, mohou vzniknout dodateční náklady."</string>
+<string-array name="light_color_picker">
+<item>"Zelená"</item>
+<item>"Modrá"</item>
+<item>"Indigo"</item>
+<item>"Nachová"</item>
+<item>"Růžová"</item>
+<item>"Červená"</item>
+<item>"Žlutá"</item>
+</string-array>
+</resources>

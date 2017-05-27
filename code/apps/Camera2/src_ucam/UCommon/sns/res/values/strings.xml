@@ -1,0 +1,60 @@
+<resources>
+
+    <string name="app_name">ucomm.sns</string>
+    <string name="sns_label_sina">Sina</string>
+    <string name="sns_label_sohu">Sohu</string>
+    <string name="sns_label_tencent">Tencent</string>
+    <string name="sns_label_qzone">QZone</string>
+    <string name="sns_label_renren">Renren</string>
+    <string name="sns_label_kaixin">Kaixin</string>
+    <string name="sns_label_facebook">Facebook</string>
+    <string name="sns_label_tumblr">Tumblr</string>
+    <string name="sns_label_flickr">Flickr</string>
+    <string name="sns_label_twitter">Twitter</string>
+    <string name="sns_label_mixi">Mixi</string>
+    <string name="sns_label_qqvatar">QQVatar</string>
+    <string name="sns_label_friends">Friends</string>
+    <string name="sns_label_weixin">Wechat</string>
+    <string name="sns_label_qq">QQ Avatar</string>
+    <string name="sns_label_share">Share</string>
+    <string name="sns_label_account_setup">Accounts Setup</string>
+    <string name="sns_label_more_share">More share</string>
+    <string name="sns_label_bind">Bind</string>
+    <string name="sns_label_unbind">Unbind</string>
+    <string name="sns_label_hide_location">Hide location info</string>
+    <string name="sns_msg_getting_location">Getting location info…</string>
+    <string name="sns_msg_please_choose_share_account">Please select target accounts.</string>
+    <string name="sns_msg_missing_share_pic">Please click thumbnail to choose picture, then share</string>
+    <string name="sns_msg_fail_login">Fail login, please try again latter.</string>
+    <string name="sns_msg_connecting">Connecting…</string>
+    <string name="sns_msg_loading">Loading…</string>
+    <string name="sns_msg_network_unavailable">Network is unavailable, please try again later.</string>
+    <string name="sns_msg_weixin_notinstall">Weixin is not install, please first install Weixin.</string>
+    <string name="sns_msg_from_ucam">From UCam</string>
+    <string name="sns_title_account_settings">Account Settings</string>
+    <string name="sns_title_share_to">Share to:</string>
+    <string name="sns_title_share">Share</string>
+    <string name="sns_title_sync">Synchonizing</string>
+    <string name="sns_title_login">Login</string>
+    <string name="sns_title_privacy">Privacy Statement</string>
+    <string name="sns_title_print">Print/Preview</string>
+    <string name="sns_msg_privacy">It is UCam’s policy to respect the privacy of its users. \n
+            UCam uses security protocols such as OAuth to access SNS sites, therefore it will not directly related to your account information. \n
+            Except as described in this Statement, UCam will not publish or disseminate any of your account information without your written permission, unless to: \n
+            (i) comply with any law, regulation, subpoena, or court order; or
+            (ii) respond to duly authorized information requests of police and governmental authorities.</string>
+    <string name="sns_ucam_link">"&lt;a href=\"http://www.u-camera.com\" &gt;UCam&lt;a/&gt;</string>
+    <string name="sns_ucam_share">#UCam Picture Share#</string>
+    <string name="sns_toast_location_error">Get location failed</string>
+    <string name="text_activity_is_not_found">Not found suitable application</string>
+    <string name = "text_edit_share_title">Use for this action.</string>
+    <string name = "edit_operation_failure_tip">The operation failed.</string>
+    <string name="sns_label_line_share">LINE</string>
+    <string name="sns_msg_no_install_line_app">LINE program is not installed.</string>
+    <string name="sohu400">Same status is not acceptable within 5 minutes.</string>
+    <string name="sns_share_type_time">Direct Share</string>
+    <string name="sns_share_type_onekey">A key to Share</string>
+    <string name="sns_share_select_hint">Dear,click here\nto swap picture</string>
+    <string name="text_image_share_damage">Can not share this image</string>
+    <string name="sns_share_failed">Share Failed!</string>
+</resources>

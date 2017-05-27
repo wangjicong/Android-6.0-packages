@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="folder_view_app_name">Xem thư mục</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="no_mms_plugin">Không có plugin xem thư mục mms</string>
+    <string name="menu_msg_list">Chế độ xem tin nhắn</string>
+    <string name="menu_search">Tìm kiếm</string>
+    <string name="menu_preferences">"Cài đặt"</string>
+    <string name="menu_cell_broadcasts">Phát sóng di động</string>
+	<string name="menu_sim_message">Tin nhắn trong sim</string>
+    <string name="folder_display_option">Tuỳ chọn hiển thị</string>
+	<string name="folder_sortby">"Sắp xếp theo"</string>
+    <string name="folder_delete_messages">Xoá các tin nhắn</string>
+    <string name="folder_sms_merge_forward">Trộn lẫn và chuyển tiếp</string>
+    <string name="search_setting_description">Văn bản trong thư của bạn</string>
+    <string name="search_max_length">Tìm kiếm câu là quá dài, sẽ giới hạn đến 512.</string>
+    <string name="search">Tìm kiếm thư</string>
+    <string name="search_result">Tìm kêt quả</string>
+	<string name="muti_select_all">Chọn hết</string>
+    <string name="muti_select_none">Chọn Không</string>
+    <string name="msg_status_send_failed">"Không gửi tin nhắn"</string>
+    <string name="sort_msg_list_empty_text">Bạn sẽ thấy tin nhắn được kê ở đây</string>
+    <string name="folder_reply">"Đáp lại"</string>
+    <string name="draft_message">"Bản nháp "</string>
+    <string name="message_status_delivered_failed">"Đã gửi không thành công"</string>
+    <string name="user_not_exist">Người dùng không tồn tại.</string>
+
+    <string-array name="sort_type">
+        <item>Thời gian sớm nhất</item>
+        <item>Thời gian muộn nhất</item>
+        <item>Địa chỉ sớm nhất</item>
+        <item>Địa chỉ muộn nhất</item>
+    </string-array>
+
+    <string name="folder_display_all">Hiển thị các tin nhắn</string>
+	<string name="delete_messages_confirmation_dialog_title">Xoá các tin nhắn đã chọn?</string>
+    <string name="delete_message_fail">"Xóa tin đã chọn bại!"</string>
+	<string name="have_select_message">"Chọn %1$d"</string>
+	<string name="sort_msg_list_menu_addtocontacts">Thêm vào danh bạ</string>
+	<string name="sort_msg_list_menu_call">Gọi</string>
+    <string name="sort_msg_list_menu_editbeforecall">Sửa trước khi gọi</string>
+    <string name="sort_msg_list_menu_videocall">Cuộc gọi điện video</string>
+
+    <string-array name="msg_list_context_menu">
+        <item>Thêm vào liên lạc</item>
+        <item>Gọi</item>
+        <item>Chỉnh sửa trước cuộc gọi</item>
+        <item>Cuộc gọi điện video</item>
+    </string-array>
+
+    <string name="copy_message_text">Sao chép văn bản</string>
+    <string name="has_add_to_contacts">Đã được thêm vào địa chỉ liên hệ</string>
+    <string name="context_menu_copy_to_sim_memory">Sao chép tin nhắn vào SIM</string>
+    <string name="no">Hủy</string>
+    <string name="yes">được</string>
+
+    <!-- bug 489223: add for Custom XML SQL Query begin -->
+    <string name="position1">Bài viết hôm nay</string>
+    <string name="position2">Trước ngày hôm nay</string>
+    <string name="position3">Từ 3 đến 5 ngày trước</string>
+    <!-- bug 489223: add for Custom XML SQL Query end -->
+
+    <string name="copy_sim_sms_to_phone">Sao chép tin nhắn đến điện thoại</string>
+    <string name="copy_sms_to_sim">Sao chép tin nhắn đến</string>
+    <string name="del_sim_sms">Xóa bỏ</string>
+    <string name="menu_folder_view">Xem thư mục</string>
+</resources>

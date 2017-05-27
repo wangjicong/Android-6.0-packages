@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_number">"သို႕"</string>
+<string name="folder_inbox">"အငေသတၱာ"</string>
+<string name="folder_sent">"ပို႕သည္"</string>
+<string name="folder_drafts">"မူၾကမ္းမ်ား"</string>
+<string name="folder_empty">"ဤစာတြဲဖိုင္တြင္မက္ေဆ့ခ်္မ်ားမရွိ"</string>
+<string name="folder_display_all">"မက္ေဆ့ခ်္မ်ားအားလံုး ေဖါ ္ျပ"</string>
+<string name="folder_delete_messages">"မက္ေဆ့ခ်္မ်ားကို ပယ္ဖ်က္ပါ"</string>
+<string name="folder_loading">"တင္ေန.."</string>
+<string name="folder_reply">"အေၾကာင္းျပန္သည္"</string>
+<string name="folder_forward">"ေရွ႕သို႕သိမ္း"</string>
+<string name="no_msg_del">"မက္ေဆ့ခ်္မ်ားမပယ္ဖ်က္ထား"</string>
+<string name="exceed_slides_number_limitation">"ဆလိုက္မ်ားနံပါတ္သတ္မွတ္ခ်က္ေရာက္"</string>
+<string name="has_vcard_or_vcalendar_attachment">"ရွိျပီး <xliff:g id="TYPE">%1$s</xliff:g>, ေနာက္ထပ္တျခား ထည့္မရနိုင္"</string>
+<string name="folder_sortby">"တူတာျခင္း စုသည္"</string>
+<string name="OTAConfig_title">"OTA ဖြဲ ့စည္းမွဳဆက္တင္မ်ား"</string>
+<string name="OTAConfig_Message">"OTA ဖြဲ ့စည္းမွဳသိမ္းမွာေသခ်ာလား?"</string>
+<string name="OTAConfiy_Success">"OTA မက္ေဆ့ခ်္ဆက္တင္ေအာင္ျမင္"</string>
+<string name="OTAConfiy_Error">"OTA ဖြဲ ့စည္းမွဳက်ရွံဳး""</string>
+<string name="ota_pin_error">"OTA လံုျခံဳမွဳ က်ရွံဳး"</string>
+<string name="ota_retry">"စကား၀ွက္အမွား"</string>
+<string name="ota_pin_exception">"OTA ဖြဲ ့စည္းမွဳက်ရွံဳး：ပရိုဂဂမ္အမွား."</string>
+<string name="ota_mime_error">"OTA ဖြဲ ့စည္းမွဳက်ရွံဳး：မက္ေဆ့ခ်္ေဒတာအမွား."</string>
+<string name="ota_support_not">"OTA ဖြဲ ့စည္းမွဳက်ရွံဳး：<xliff:g id="OTATYPE">%1$s</xliff:g> မေထာက္ပံ့သည့္ပံုစံ."</string>
+<string name="pref_reply_path_title">"လမ္းေျကာင္းဆက္တင္မ်ား ျဖင့္ အေျကာင္းျပန္"</string>
+<string name="pref_title_reply_path">"လမ္းေျကာင္း ျဖင့္ အေျကာင္းျပန္"</string>
+<string name="pref_summary_reply_path">"ဌာနတူမွတစ္ဆင့္ အေျကာင္းျပန္"</string>
+<string name="cannot_add_picture_and_vcard">"ဆလိုက္တစ္ခုတြင္ လိပ္စာကဒ္ နွင့္ဓါတ္ပံု ထည့္မရနိုင္."</string>
+<string name="mms_setting">"Mms ဆက္တင္"</string>
+<string name="pref_title_font_size">"ေဖာင့္ဆိုဒ္ဆက္တင္"</string>
+<string name="font_size_setting">"ေဖာင့္ဆိုဒ္ဆက္တင္"</string>
+<string name="font_size">"ေဖာင့္ဆိုဒ္သည္: <xliff:g id="font_size_id">%1$s</xliff:g>"</string>
+<string name="menu_copy_to_sim_memory">"SIMသို ့ မက္ေဆ့ခ်္ မိတ္တူပြား "</string>
+<string name="menu_add_recipient_to_contacts">"ထည့္ပါ <xliff:g id="name">%s</xliff:g>ဆက္သြယ္သူသို ့"</string>
+<string name="action_done">"ၿပီးၿပီ"</string>
+<string name="message_signature_setting">"စာရင္းသြင္းျခင္းဆက္တင္"</string>
+<string name="pref_signature_enable_title">"ေရြးခ်ယ္ရန္စာရင္းသြင္းျခင္း"</string>
+<string name="pref_signature_enabl_summary">"သင္ပို ့သည့္ Mms မက္ေဆ့ခ်္တိုင္းသို ့ ေအာ္တို ျဖည့္စြက္စာရင္းသြင္း"</string>
+<string name="pref_signature_input_title">"စရင္းသြင္းျခင္းတည္းျဖတ္"</string>
+<string name="pref_signature_input_summary">"သင္၏စာရင္းသြင္းရန္ ဒီေနရာတြင္ထည့္"</string>
+<string name="pref_signature_input_limited">"စာရင္းသြင္းျခင္းသတ္မွတ္အဆင့္သို ့ေရာက္ျပီး"</string>
+<string name="pref_hint_signature_edittext">"ေက်းဇူးျပဳ၍ သင့္စာရင္းသြင္းမွဳထည့္"</string>
+<string name="toast_append_signature_failed">"Mmsသို ့ ျဖည့္စြက္စာရင္းသြင္းရန္ က်ရွံဳး, ဆလိုက္ဆိုဒ္ျပည့္ေနျပီ"</string>
+<string name="pageIndex">"စာမ်က္နွာ %s"</string>
+<string name="remove_subject">"ေခါင္းစဥ္ဖယ္ရွား"</string>
+<string name="toast_message_when_memory_full">"မွတ္ဥာဏ္ျပည့္ေနသည္, ေက်းဇူးျပဳ၍တစ္ခ်ိဳ့ဖယ္ျပီး စက္ျပန္ဖြင့္ပါ"</string>
+<string name="toast_save_classzero_message_failed">"ေနရာလပ္မက်န္, မက္ေဆ့ခ်္သိမ္းရန္က်ရွံဳး"</string>
+<string name="toast_shared_file_failed">"မေထာက္ပံ့သည့္မီဒီယာဖိုင္, ရွယ္ယာက်ရွံဳး."</string>
+<string name="message_too_many_recipients_picked">"ေဆာရီး, ပိုျပီးမထည့္နိုင္ <xliff:g id="COUNT">%1$s</xliff:g> အခ်ိန္အရ ဆက္သြယ္သူမ်ား""</string>
+<string name="pref_title_manage_sim_smsc">"SMS ၀န္ေဆာင္မွဳဌာန"</string>
+<string name="smsc_set_fails">"Smsc ဆက္တင္က်ရွံဳး"</string>
+<string name="smsc_set_success">"ေအာင္ျမင္စြာဆက္တင္လုပ္."</string>
+<string name="smsc_change_success">"ေအာင္ျမင္စြာေျပာင္းျပီး."</string>
+<string name="smsc_add_success">"ေအာင္ျမင္စြာထည့္ျပီး"</string>
+<string name="received_new_wap_contact">" SMS လိပ္စာကဒ္ မက္ေဆ့ခ်္တစ္ခု လက္ခံျပီး"</string>
+<string name="save_new_wap_contact">"သိမ္းသည္"</string>
+<string name="cancle_new_wap_contact">"ပယ္ဖ်က္သည္"</string>
+<string name="smsc_list_loading">"တင္ျခင္း"</string>
+<string name="smsc_list_menu_edit">"တည္းျဖတ္သည္"</string>
+<string name="smsc_list_menu_activate">"အသက္သြင္းသည္"</string>
+<string name="smsc_list_not_allow_to_clear">"နံပါတ္ပယ္ဖ်က္ရန္ခြင့္မျပဳ"</string>
+<string name="smsc_list_empty_number">"နံပါတ္အသစ္ထည့္ရန္ ကလစ္လုပ္"</string>
+<string name="save_attachment_msg">"<xliff:g id="success">%1$d</xliff:g> သို ့ ပူးတြဲဖိုင္ သိမ္းျပီး <xliff:g id="path">%2$s</xliff:g>,<xliff id="fail">%3$d</xliff> ပူးတြဲဖိုင္ သိမ္းရန္ က်ရွံုး"</string>
+<string name="box_msg_list_menu_addtocontacts">"ဆက္သြယ္သူမ်ားကို ထည့္ပါ"</string>
+<string name="box_msg_list_menu_call">"ဖုန္းေခၚသည္"</string>
+<string name="box_msg_list_menu_editbeforecall">"ဖုန္းမေခါ ္မွီတည္းျဖတ္"</string>
+<string name="box_msg_list_menu_videocall">"ဗီဒီယို ဖုန္း"</string>
+<string name="soundrecorder_fail_msg">"အသံရီေကာဒင္း မစတင္နိုင္."</string>
+<string name="camera_fail_msg">"ကင္မရာ မစတင္နိုင္."</string>
+<string name="video_fail_msg">"ဗီဒီယို မစတင္နိုင္."</string>
+<string name="pref_encode_type_setting_title">"စာ၀ွက္ပံုစံဆက္တင္"</string>
+<string name="pref_encode_type_title">"စာ၀ွက္ပံုစံ"</string>
+  <plurals name="conversation_num">
+<item quantity="one">"စကားစျမည္1ခုရွိ."</item>
+<item quantity="other">"သင္ရွိ <xliff:g id="number">%1$s</xliff:g>စကားစျမည္မ်ား."</item>
+  </plurals>
+  <string-array name="sort_type">
+    <item>"အခ်ိန္အားျဖင့္"</item>
+    <item>"လိပ္စာျဖင့္"</item>
+  </string-array>
+    <string name="cancel_call">"ပယ္ဖ်က္သည္"</string>
+    <string name="delivery_toast_body_fail">"မက္ေဆ့ခ်္မလက္ခံ %s."</string>
+    <string name="read_report_toast_body">"မက္ဆ့ခ်္ဖတ္ရန္ %s."</string>
+    <string name="read_report_toast_body_fail">"မက္ေဆ့ခ်္ဖတ္ရန့္္မရွိ %s."</string>
+    <string name="delivery_toast_body_fail_rejected">"မက္ေဆ့ခ်္ပယ္ဖ်က္ရန္ %s."</string>
+    <string name="user_not_exist">"သံုးစြဲသူမရွိပါ."</string>
+    <string name="menu_resend">"ျပန္ပို ့"</string>
+    <string name="low_storage_toast">"ေနရာလပ္နည္း!ေနရာရွိရန္ ဖိုင္တစ္ခ်ိဳ  ့ပယ္ဖ်က္."</string>
+    <string name="failed_to_download_mms">"mms ေဒါင္းလုပ္က်ရွံဳး, ေနာက္မွထပ္ျကိဳးစားပါ"</string>
+    <string name="failed_to_send_mms">"mms ပို ့ရန္က်ရွံဳး, ေနာက္မွထပ္ျကိဳးစား"</string>
+    <string name="success_to_send_mms">"mms ပို ့ရန္ေအာင္ျမင္"</string>
+    <string name="sim_x">"SIM%s"</string>
+    <string name="sim_card_not_ready">"Sim ကဒ္အဆင္သင့္မရွိ္"</string>
+    <string name="sim_is_invalid">"Sim ကဒ္အဆင္သင့္မရွိ္"</string>
+    <string name="on_progress">"ပေရာစက္လုပ္ေန,ေက်းဇူးျပု၍ေခတေစာင့္ပါ…"</string>
+    <string name="pref_internal_memory_usage_title">"MMS/ေထာက္ပံ့/အားလံုး"</string>
+    <string name="pref_internal_memory_usage_progress_summary">"မွတ္ဥာဏ္ေနရာလပ္တြက္ေန..."</string>
+    <string name="please_wait_title">"ေက်းဇူးျပဳ၍ ေစာင့္ေန..."</string>
+    <string name="sim_card_setting">"SIM ကဒ္ဆက္တင္"</string>
+    <string name="multi_sim_manage_messages_title">"မက္ေဆ့ခ်္မ်ားတြင္ SIM<xliff:g id="COUNT">%1$S</xliff:g>"</string>
+    <string name="pref_title_manage_sim_setting">"SIMဆက္တင္မ်ားစီမံအုပ္ခ်ဳပ္"</string>
+    <string name="pref_summary_manage_sim_setting">" SIMတြင္ သိမ္းရန္မက္ေဆ့ခ်္ စီမံအုပ္ခ်ဳပ္, ျဖန္႕ေ၀ရန္ အစီရင္ခံစာမ်ား, သက္တမ္းလြန္, Smsc ဆက္တင္စသည္ျဖင့္."</string>
+    <string name="pref_summary_notification_ringtone">"ဖုန္းျမည္သံဒီေဖါ့"</string>
+    <string name="pref_summary_notification_ringtone_silent">"အသံတိတ္"</string>
+    <string name="menu_sim_capacity">"SIM စြမ္းအား"</string>
+    <string name="pref_title_manage_multi_sim_messages">"တြင္ မက္ေဆ့ခ်္ စီမံအုပ္ခ်ဳပ္ SIM<xliff:g id="COUNT">%1$s</xliff:g>"</string>
+    <string name="pref_summary_manage_multi_sim_messages">" တြင္ သိမ္းရန္မက္ေဆ့ခ်္မ်ား စီမံအုပ္ခ်ဳပ္ SIM<xliff:g id="COUNT">%1$s</xliff:g>"</string>
+    <string name="toast_copy_to_sim_success">"SIM သို့ေအာင္ျမင္ျပီး"</string>
+    <string name="toast_copy_to_sim_failure">"SIMသို ့မိတ္တူပြားက်ရွံဳး"</string>
+    <string name="toast_sim_memory_full">"SIM စတိုမွတ္ဥာဏ္ျပည့္ေန"</string>
+    <string name="toast_copy_to_multi_sim_success">"သို ့ေအာင္ျမင္ျပီး SIM<xliff:g id="COUNT">%1$s</xliff:g>"</string>
+    <string name="toast_copy_to_multi_sim_failure">"သို ့မိတ္တူပြားက်ရွံဳး SIM<xliff:g id="COUNT">%1$s<xl></xl></xliff:g>"</string>
+    <string name="toast_multi_sim_memory_full">"SIM <xliff:g id="COUNT">%1$S</xliff:g> မွတ္ဥာဏ္ေနရာျပည့္ေန"</string>
+    <string name="count_of_new_mms">"%s မက္ေဆ့ခ်္မ်ား"</string>
+    <string name="pref_summary_store_sms_on_sim">"smsအသစ္၀င္လွ်င္, SIM မွာသိမ္းမွာလား"</string>
+    <string name="pref_title_store_sms_on_sim">"SIMတြင္SMSသိမ္း "</string>
+    <string name="pref_title_sms_validity">"SMS သက္တမ္းကာလ"</string>
+    <string name="done_slide_show">"ၿပီးၿပီ"</string>
+    <string name="smsc_check_fdn_failure">"fdn စာရင္းတြင္ မက္ေဆ့ခ်္ဌာနနံပါတ္မပါ."</string>
+    <string name="muti_select_all">"အားလံုးကို ေရြးခ်ယ္ပါ"</string>
+    <string name="menu_select_none">"အားလံုးကို မေရြးခ်ယ္ပါ"</string>
+    <string name="Conversation_check_type_selected_all">"အားလံုးကို ေရြးခ်ယ္ပါ"</string>
+    <string name="menu_msg_folder">"စာတြဲဖိုင္ ျမင္ကြင္း"</string>
+    <string name="menu_msg_list">"မက္ေဆ့ခ်္ ျမင္ကြင္း"</string>
+    <string name="folder_outbox">"ေအာက္ေဘာ့စ္ေသတၱာ"</string>
+    <string name="menu_sim_message">"SIM မွာ မက္ေဆ့ခ်္ရွိ"</string>
+    <string name="folder_display_option">"ေရြးခ်ယ္စရာ ေဖါ ္ျပ"</string>
+    <string name="confirm_open_browser_dialog_title">"မက္ေဆ့ခ်္"</string>
+    <string name="confirm_open_browser_dialog_message">"ဘေရာက္ဆာဖြင့္လိမ့္မည္,ဆက္လုပ္မွာလား?"</string>
+  <plurals name="delete_confirm">
+<item quantity="one">"အိုင္တမ္ 1ေရြး"</item>
+<item quantity="other">"ေရြးခ်ယ္ <xliff:g id="del_count">%1$s</xliff:g> အိုင္တမ္မ်ား"</item>
+  </plurals>
+    <string name="select_sim_card">"ေက်းဇူးျပဳ၍ SIM ကဒ္ ေရြးခ်ယ္"</string>
+    <string name="menu_video_call_back">"ဗီဒီယိုဖုန္း <xliff:g id="name">%s</xliff:g>"</string>
+    <string name="menu_edit_before_call_back">"ဖုန္းမေခါ ္မွီတည္းျဖတ္ <xliff:g id="name">%s</xliff:g>"</string>
+    <string name="min_zoom">"အနည္းဆံုးေရာက္ျပီး"</string>
+    <string name="max_zoom">"အမ်ားဆံုးေရာက္ျပီး"</string>
+    <string name="sms_merge_forward">"ေပါင္းျပီးေရွ  ့သို ့ေျပာင္း"</string>
+    <string name="sms_merge_dialog_title">"အစေဖါ ္"</string>
+    <string name="sms_merge_dialog_content">"SMS မက္ေဆ့ခ်္ 2 မွ 30ထိသာေပါင္းနိုင္. ေက်းဇူးျပဳ၍၄င္းကိုစစ္ေဆးပါ."</string>
+    <string name="sms_merge_forward_empty">"ေပါင္းျပီး ေရွ  ့သို ့ေျပာင္းရန္ sms မက္ေဆ့ခ်္မရွိ."</string>
+    <string name="sms_forwarding_number">"SMS ေရွ  ့သို့ေျပာင္းျခင္းဆင္တင္"</string>
+    <string name="pref_sms_forwarding_number_title">"SMS ေရွ  ့သို့ေျပာင္းရန္နံပါတ္"</string>
+    <string name="pref_sms_forwarding_number_summary">"လက္ခံသူနံပါတ္မ်ားမွ SMS ေရွ  ့သို့ပို ့ေန"</string>
+    <string name="sim_list_title">"ေက်းဇူးျပဳ၍ SIM ကဒ္ ေရြးခ်ယ္"</string>
+    <string name="type_vcard">"ဆက္သြယ္သူ"</string>
+    <string name="type_vcalendar">"ျပကၡဒိန္"</string>
+    <string name="attach_vcard">"ဆက္သြယ္သူ"</string>
+    <string name="attach_vcalendar">"ျပကၡဒိန္"</string>
+    <string name="add_slide_before">"ဆလိုက္ ထည့္ (မတိုင္မွီ္)"</string>
+    <string name="add_slide_after">"ဆလိုက္ ထည့္ (ျပီးေနာက္)"</string>
+    <string name="re_take_picture">"ဓါတ္ပံုသိမ္းရန္က်ရွံဳး,ေက်းဇူးျပဳ၍ ဓါတ္ပံုထပ္ရိုက္ပါ."</string>
+    <string name="exceed_text_length_limitation">"စာသားအရွည္ သတ္မွတ္နွဳန္းထက္ ေက်ာ္လြန္ေန."</string>
+    <string name="move_message_to_phone_memory">"ဖုန္းစတိုမွတ္ဥာဏ္သို ့ မက္ေဆ့ခ်္ မိတ္တူပြားျခင္းေအာင္ျမင္"</string>
+    <string name="can_not_copy_the_message">"မက္ေဆ့ခ်္မိတ္တူမပြားနိုင္"</string>
+    <string name="confirm_import_vcard">"ဤ လိပ္စာကဒ္ ပို့မွာလား？"</string>
+    <string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> SMS ၀န္ေဆာင္မွဳဌာန"</string>
+    <string name="simx_settings_title">"SIM<xliff:g id="COUNT">%1$s</xliff:g> ဆက္တင္"</string>
+    <string name="pref_summary_sms_validity">"မက္ေဆ့ခ်္တိုသက္တမ္းကာလ"</string>
+  <string-array name="prefEntries_mms_validity">
+    <item>"1 နာရီ "</item>
+    <item>"12 နာရီ"</item>
+    <item>"24 နာရီ"</item>
+    <item>"2 ရက္"</item>
+    <item>"အမ်ားဆံုး"</item>
+  </string-array>
+  <string-array name="prefEntries_mms_priority">
+    <item>"ျမင့္ေသာ"</item>
+    <item>"ပံုမွန္"</item>
+    <item>"နိမ့္သည္"</item>
+  </string-array>
+    <string name="pref_title_mms_validity">"မာတီမီဒီယာမက္ေဆ့ခ်္ တရား၀င္"</string>
+    <string name="pref_summary_mms_validity">"မာတီမီဒီယာမက္ေဆ့ခ်္ တရား၀င္"</string>
+    <string name="pref_title_mms_priority">"ဦးစားေပး"</string>
+    <string name="pref_summary_mms_priority">"ဦးစားေပးဆက္တင္"</string>
+    <string name="sim_settings_title">"SIM ကဒ္ဆက္တင္"</string>
+    <string name="toast_copy_to_simx_success">"မိတ္တူပြားေအာင္ျမင္ျပီး <xliff:g id="COUNT">%1$s</xliff:g>"</string>
+    <string name="toast_copy_to_simx_failure">"သို ့မိတ္တူပြားက်ရွံဳး <xliff:g id="COUNT">%1$s</xliff:g>"</string>
+    <string name="toast_simx_memory_full">"<xliff:g id="COUNT">%1$s</xliff:g> ျပည့္ျပီ"</string>
+    <string name="pref_title_manage_sim_x_setting">"စီမံအုပ္ခ်ဳပ္ SIM<xliff:g id="COUNT">%1$s</xliff:g> ဆက္တင္မ်ား"</string>
+    <string name="pref_title_mms_creation_mode">"ဖန္တီးျခင္းမုတ္"</string>
+  <string-array name="mms_creation_mode_entries">
+    <item>"ကန္႕သတ္သည္"</item>
+    <item>"သတိေပးခ်က္"</item>
+    <item>"ေနရာလြတ္"</item>
+  </string-array>
+    <string name="exceed_resolution_limit">"ပံုထြက္သတ္မွတ္ခ်က္ထက္ေက်ာ္"</string>
+    <string name="want_to_add_media">"၄င္းကို ထည့္လိုပါသလား s <xliff:g id="NAME">%1$s</xliff:g>သင့္မက္ေဆ့ခ်္သို ့?"</string>
+    <string name="mms_can_not_add_vcard">"ဆက္သြယ္သူမ်ားကို ထည့္ရန္ လက္ရွိပူးတြဲဖိုင္ကိုပယ္ဖ်က္ပါ"</string>
+    <string name="mms_can_not_add_vcalendar">"ဆလိုက္ထည့္ရန္ လက္ရွိပူးတြဲဖိုင္ကို ပယ္ဖ်က္ပါ"</string>
+    <string name="converting_to_text_message">"စာသားမက္ေဆ့ခ်္ သို႕ ေျပာင္းေနသည္…"</string>
+    <string name="select_calendar">"အစီအစဥ္ေရြးခ်ယ္ပါ"</string>
+    <string name="no_calendar">"အစီအစဥ္မရွိ"</string>
+    <string name="exceed_slides_number_message">"ေရြးခ်ယ္ျပီး <xliff:g id="NUMBER">%1$s</xliff:g> ေအးဂ်င့္，အမ်ားဆံုး <xliff:g id="NUMBER">%2$s</xliff:g> အာဂ်င္တာ"</string>
+    <string name="add_to_blacklist">"အမည္မည္းစာရင္းထည့္."</string>
+    <string name="failed_addToBlacklist">"အမည္မည္းစာရင္းထည့္ရန္က်ရွံဳး."</string>
+    <string name="creating_slideshow_title">"ဆလိုက္ရွိဳးဖန္တီး"</string>
+    <string name="attachment_vcalendar">"ဒိုင္ယာရီ"</string>
+    <string name="attachment_vcard">"vcard "</string>
+    <string name="text_limited_warning">"ကန့္သတ္ခ်က္ကိုအင္ပြတ္လုပ္ရန္"</string>
+    <string name="subject_text_length_limitation">"ေခါင္းစဥ္စာသားအရွည္ သတ္မွတ္ခ်က္သို ့ေရာက္."</string>
+    <string name="attach_commonPhrases">"ေန ့စဥ္သံုးစာကားစုမ်ား"</string>
+    <string name="commonphrase_empty">"ေန ့စဥ္သံုးစာကားစုမ်ားမရွိ"</string>
+    <string name="quick_reply">"အျမန္ျပန္ျကားခ်က္"</string>
+    <string name="common_messages">"ေန ့စဥ္သံုးစာကားစု"</string>
+    <string name="common_add_text">"အသစ္"</string>
+    <string name="common_delete_text">"ပယ္ဖ်က္သည္"</string>
+    <string name="common_delete_message">"ပယ္ဖ်က္ရန္ အတည္ျပဳမွာလား?"</string>
+    <string name="common_delete">"ပယ္ဖ်က္သည္"</string>
+    <string name="common_phrase_contextmenu_title">"ေအာ္ပေရးရွင္းမန္နူး"</string>
+    <string name="common_edit">"တည္းျဖတ္သည္"</string>
+    <string name="commonphrase_delete_empty">"စကားစုမပယ္ဖ်က္ထား"</string>
+    <string name="common_phrase_edit_dialog_title">"ေရြးခ်ယ္စရာမ်ား"</string>
+    <string name="common_phrase_edit_dialog_inform">"သင္တည္းျဖတ္ျပီးကိုသိမ္းမွာလား ?"</string>
+    <string name="common_phrase_edit_max_length">"အင္ပြတ္လုပ္ရန္ကန့္သတ္ခ်က္ေရာက္ျပီ!"</string>
+    <string name="common_messages_edit">"ေန ့စဥ္သံုးစာကားစု တည္းျဖတ္"</string>
+    <string name="common_save">"သိမ္းသည္"</string>
+    <string name="common_cancel">"ပယ္ဖ်က္သည္"</string>
+    <string name="add_empty_common_messages">"အက္ခရာအင္ပြတ္"</string>
+    <string name="pref_other_settings_title">"တျခား"</string>
+    <string name="pre_key_title_common_messages">"ေန ့စဥ္သံုးစာကားစု"</string>
+    <string name="common_phrase_selection">"ေန ့စဥ္သံုးစာကားစုမ်ားေရြးခ်ယ္"</string>
+    <string name="wap_push_message_dialog_title">""Wap Push မက္ေဆ့ခ်္" "</string>
+    <string name="open_website">"၀က္ဆိုဒ္ဖြင့္ပါ"</string>
+    <string name="activity_not_found">"သင့္ေလ်ာ္သည့္ေအပီပီမေတြ ့"</string>
+    <string name="add_contact">"ဆက္သြယ္သူမ်ားထည့္ပါ"</string>
+    <string name="receive_from">"မွလက္ခံ %s"</string>
+    <string name="send_from">"မွပို ့ပါ %s"</string>
+    <string name="dl_expired_wap_push">"ရွိသည္ <xliff:g id="COUNT">%1$s</xliff:g> wap မက္ေဆ့ခ်္သက္တမ္းကုန္ေန, ပယ္ဖ်က္လိမ့္မည္."</string>
+    <string name="invalid_recipient">"လက္ခံသူတရားမ၀င္"</string>
+    <string name="max_recipients_count">"လက္ခံသူမ်ားသတ္မွတ္ခ်က္ရွိ <xliff:g id="MAXCOUNT">%1$s</xliff:g>."</string>
+    <string name="no_media_selected">"မီဒီယာမေရြးခ်ယ္ထား!"</string>
+    <string name="search_max_length">"ရွာသည့္၀ါက်အလြန္ရွည္, သတ္မွတ္ခ်က္ 512."</string>
+    <string name="sim_capacity_used">"သံုးေန : "</string>
+    <string name="sim_capacity_total">"အားလံုး  : "</string>
+    <string name="too_many_contacts">"လက္ခံသူမ်ားသတ္မွတ္ခ်က္ရွိ  <xliff:g id="MAXLIMIT">%1$s</xliff:g>, အေရွ့မွာ ထည့္လိမ့္မည္ <xliff:g id="CURRENTCOUNT">%2$s</xliff:g> လက္ခံသူမ်ားထည့္လိမ့္မည္."</string>
+    <string name="delivery_toast_body_expired">"မက္ေဆ့ခ်္သက္တမ္းလြန္ %s."</string>
+    <string name="discard_dialog">"ဤသတင္းအခ်က္ ထပ္ပို့မွာေသခ်ာလား?"</string>
+    <string name="contacts_count_excceeds">"သင္ေပါင္းျပီး <xliff:g id="MAXLIMIT">%1$s</xliff:g> လက္ခံသူမ်ား,not ပိုျပီးမထည့္နိုင္."</string>
+    <string name="copy">"မိတၱဴပြားသည္"</string>
+    <string name="received_new_wap_vcalendar">"SMSဒိုင္ယာရီမက္ေဆ့ခ်္တစ္ခုလက္ခံျပီး"</string>
+    <string name="remove_vcalendar_first">"၄င္းကိုတည္းျဖတ္ရန္ဦးဆံုးပူးတြဲျပကဒိန္ကိုပယ္ဖ်က္ပါ"</string>
+    <string name="remove_vcard_first">"၄င္းကို တည္းျဖတ္ရန္ လိပ္စာကဒ္ ပူးတြဲဖိုင္ကိုဦးဆံုးပယ္ဖ်က္."</string>
+    <string name="import_vcalendar">"ျပကဒိန္အင္ပြတ္"</string>
+    <string name="no_vcalendar">"ျပကဒိန္မေတြ့ပါ"</string>
+    <string name="import_vcalendar_fail">"ျပကဒိန္အင္ပြတ္လုပ္မရပါ."</string>
+    <string name="unable_to_add_all">"မက္ေဆ့ခ်္ဆိုဒ္သတ္မွတ္ခ်က္ေရာက္, တစ္ခ်ို့အခ်က္မ်ားထည့္မရပါ."</string>
+    <string name="replce_slideshow_dilaog_dismiss">"ဆလိုက္ရွိဳးျပန္အစားထိုးလွ်င္ လက္ရွိပူးတြဲဖိုင္ကိုပယ္ဖ်က္လိမ့္မည္,ဆက္လက္ ျကိဳးစားမွာလား ?"</string>
+    <string name="pref_title_sms_retry_times">"SMS ထပ္ျကိုးစားရန္ဖြင့္ပါ"</string>
+    <string name="smsc_list">"SMS ဌာနစာရင္း"</string>
+    <string name="smsc_list_empty">"SMS ဌာနုနံပါတ္မ်ားမရွိ"</string>
+  <string-array name="prefEntries_sms_validity">
+    <item>"1 နာရီ "</item>
+    <item>"6 နာရီ"</item>
+    <item>"24 နာရီ"</item>
+    <item>"2 ရက္"</item>
+    <item>"၁ပတ္"</item>
+    <item>"အမ်ားဆံုး"</item>
+    <item>အများဆံုး</item>
+  </string-array>
+    <string name="confirm_convert_to_mms">"အီးေမးလ္္, မက္ေဆ့ခ်္ စာမ်ားကို  mms တြင္ ပို့လိမ့္မည္"</string>
+    <string name="send_as_mms">MMS ကို ပို႕ပါ</string>
+    <string name="send_as_sms">"sms ကိုသာ ပို ့"</string>
+    <string name="protected_file">"ကာကြယ္ထားသည့္ဖိုင္ ထည့္မရနိုင္"</string>
+    <string name="success_to_send_sms">"sms ေအာင္ျမင္စြာပို့ျပီး"</string>
+    <string name="confirm_ota_message">"OTA ဆက္တင္မ်ား အတည္ျပဳပါ?"</string>
+    <string name="confirm_ota">"OK"</string>
+    <string name="cancel_ota">"မလုပ္ပါ"</string>
+    <string name="ota_cancelled">"OTA ဆက္တင္မ်ား ပယ္ဖ်က္ျပီး."</string>
+    <string name="message_too_big_for_audio">မက္ေဆ့ခ်္မွာ အသံပူးတြဲရန္အတြက္ ၾကီးလြန္းေနသည္။</string>
+</resources>

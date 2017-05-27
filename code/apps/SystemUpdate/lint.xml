@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="HandlerLeak" severity="ignore" />
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/com/sprd/systemupdate/DownloadingService.java" />
+        <ignore path="src/com/sprd/systemupdate/LatestUpdateActivity.java" />
+    </issue>
+    <issue id="UseSparseArrays" severity="ignore" />
+</lint>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="uid_label">માધ્યમો</string>
+<string name="app_label">મીડિયા સંગ્રહ</string>
+<string name="artist_label">કલાકાર</string>
+<string name="ringtone_default">"ડિફોલ્ટ રિંગટોન"</string>
+<string name="notification_sound_default">"ડિફૉલ્ટ સૂચના ધ્વનિ"</string>
+<string name="alarm_sound_default">“ડીફોલ્ટ એલાર્મ સાઉન્ડ”</string>
+<string name="root_images">ઇમેજીસ</string>
+<string name="root_videos">વિડીયોઝ</string>
+<string name="root_audio">ઓડિયો</string>
+<string name="android_custom_label">"કસ્ટમ રીંગટોન્સ"</string>
+<string name="ringtone_dialog_message">ઉપયોગ કરી શકાય તેવો કોઇ રીંગટોન નથી.</string>
+<string name="ringtone_default_message">" ક્ષમા કરશો, રિંગટોન વાગી શકતી નથી"</string>
+</resources>

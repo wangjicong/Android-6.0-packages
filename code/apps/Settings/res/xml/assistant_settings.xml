@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:fragment="com.android.settings.accessibility.ToggleAssistantFragment"
+    android:key="assistant_preference_screen"
+    android:title="@string/assistant_title" >
+    <PreferenceCategory android:title="@string/assistant_shortcut_category_title" >
+        <ListPreference
+            android:entries="@array/assistant_shortcut_entries"
+            android:entryValues="@array/assistant_shortcut_entries_values"
+            android:icon="@drawable/assistant_top"
+            android:key="key_shortcut_top"
+            android:persistent="false" />
+        <ListPreference
+            android:entries="@array/assistant_shortcut_entries"
+            android:entryValues="@array/assistant_shortcut_entries_values"
+            android:icon="@drawable/assistant_bottom"
+            android:key="key_shortcut_bottom"
+            android:persistent="false" />
+        <ListPreference
+            android:entries="@array/assistant_shortcut_entries"
+            android:entryValues="@array/assistant_shortcut_entries_values"
+            android:icon="@drawable/assistant_left"
+            android:key="key_shortcut_left"
+            android:persistent="false" />
+        <ListPreference
+            android:entries="@array/assistant_shortcut_entries"
+            android:entryValues="@array/assistant_shortcut_entries_values"
+            android:icon="@drawable/assistant_right"
+            android:key="key_shortcut_right"
+            android:persistent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/assistant_app_category_title" >
+        <ListPreference
+            android:icon="@drawable/assistant_top"
+            android:key="key_app_top"
+            android:persistent="false" />
+        <ListPreference
+            android:icon="@drawable/assistant_bottom"
+            android:key="key_app_bottom"
+            android:persistent="false" />
+        <ListPreference
+            android:icon="@drawable/assistant_left"
+            android:key="key_app_left"
+            android:persistent="false" />
+        <ListPreference
+            android:icon="@drawable/assistant_right"
+            android:key="key_app_right"
+            android:persistent="false" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">"कॅमेरा त्रुटी"</string>
+<string name="cannot_connect_camera">"कॅमेरा-यास जोडू शकत नाही"</string>
+<string name="camera_disabled">"कॅमेरा सुरक्षा धोरणांमुळे अकार्यरत केला गेला आहे."</string>
+<string name="camera_label">"कॅमेरा"</string>
+<string name="video_camera_label">"कॅमकॉर्डरचा"</string>
+<string name="gallery_camera_bucket_name">"कॅमेरा चित्रे"</string>
+<string name="gallery_camera_videos_bucket_name">"कॅमेरा व्हिडिओ"</string>
+<string name="wait">"कृपया वाट पहा\u2026"</string>
+<string name="no_storage" product="nosdcard">"कॅमेरा वापरण्यापूर्वी USB स्टोरेज माउंट करा."</string>
+<string name="no_storage" product="default">"कॅमेरा वापरण्यापूर्वी कृपया SD कार्ड घाला."</string>
+<string name="not_enough_space" product="nosdcard">"तुमचा USB साठा भरला आहे."</string>
+<string name="not_enough_space" product="default">"तुमचा SD कार्ड भरला आहे."</string>
+<string name="preparing_sd" product="nosdcard">"USB स्टोरेज लावण्याची तयारी चालू आहे\u2026"</string>
+<string name="preparing_sd" product="default">"SD कार्ड लावण्याची तयारी चालू आहे\u2026"</string>
+<string name="access_sd_fail" product="nosdcard">"USB स्टोरेज एक्सेस करता आले नाही."</string>
+<string name="access_sd_fail" product="default">"SD कार्ड एक्सेस करता आले नाही."</string>
+<string name="confirm_restore_title">"पूर्ववत"</string>
+<string name="confirm_restore_message">"कॅमेरा डिफॉल्ट सेटिंग रिस्टोअर करायचे आहे का?"</string>
+<string name="review_play">"वाजवा"</string>
+<string name="review_cancel">"रद्द करा"</string>
+<string name="review_ok">"केले गेले"</string>
+<string name="review_retake">"रीटेक"</string>
+<string name="camera_gallery_photos_text">"आगाशी"</string>
+<string name="switch_camera_id">"कॅमेरा स्विच करा"</string>
+<string name="time_lapse_title">"वेळ स्लखन नोंद"</string>
+<string name="pref_camera_id_title">"कॅमेरा निवडा"</string>
+<string name="pref_camera_id_entry_back">"मागे जा"</string>
+<string name="pref_camera_id_entry_front">फ्रंट</string>
+<string name="pref_camera_recordlocation_title">"स्टोअरचे स्थान"</string>
+<string name="pref_camera_recordlocation_entry_off">"बंद आहे"</string>
+<string name="pref_camera_recordlocation_entry_on">"चालू आहे"</string>
+<string name="pref_video_quality_title">"व्हिडिओची गुणवत्ता"</string>
+<string name="pref_video_time_lapse_frame_interval_title">"वेळ संपला इंटरव्हल"</string>
+<string name="pref_camera_settings_category">"कॅमेरा सेटिंग्ज"</string>
+<string name="pref_camcorder_settings_category">"कॅमकॉर्डरचे सेटिंग्ज"</string>
+<string name="pref_camera_picturesize_title">"चित्राचा आकार"</string>
+<string name="pref_camera_picturesize_entry_2592x1936">"5M पिक्सेल"</string>
+<string name="pref_camera_picturesize_entry_2048x1536">"3M पिक्सेल"</string>
+<string name="pref_camera_picturesize_entry_1600x1200">"2M पिक्सेल"</string>
+<string name="pref_camera_picturesize_entry_1280x960">"1.3M पिक्सेल"</string>
+<string name="pref_camera_picturesize_entry_1024x768">"1M पिक्सेल"</string>
+<string name="pref_camera_focusmode_title">"फोकस मोड"</string>
+<string name="pref_camera_focusmode_entry_auto">"ऑटो"</string>
+<string name="pref_camera_focusmode_entry_infinity">"अनंत"</string>
+<string name="pref_camera_focusmode_entry_macro">"मॅक्रो"</string>
+<string name="pref_camera_flashmode_title">"फ्लॅश मोड"</string>
+<string name="pref_camera_flashmode_entry_auto">"ऑटो"</string>
+<string name="pref_camera_flashmode_entry_on">"चालू आहे"</string>
+<string name="pref_camera_flashmode_entry_off">"बंद आहे"</string>
+<string name="pref_camera_whitebalance_title">"व्हाईट बॅलन्स"</string>
+<string name="pref_camera_whitebalance_entry_auto">"ऑटो"</string>
+<string name="pref_camera_whitebalance_entry_incandescent">"तापदिप्त"</string>
+<string name="pref_camera_whitebalance_entry_daylight">"दिवसाचा प्रकाश"</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">"प्रतिदीप्तिशील"</string>
+<string name="pref_camera_whitebalance_entry_cloudy">"ढगाळ"</string>
+<string name="pref_camera_scenemode_title">"दृश्य मोड"</string>
+<string name="pref_camera_scenemode_entry_auto">"ऑटो"</string>
+<string name="pref_camera_scenemode_entry_action">क्रिया</string>
+<string name="pref_camera_scenemode_entry_night">"रात्र"</string>
+<string name="pref_camera_scenemode_entry_sunset">"सूर्यास्त"</string>
+<string name="pref_camera_scenemode_entry_party">"पार्टी"</string>
+<string name="not_selectable_in_scene_mode">"दृश्य मोडमध्ये निवडणेयोग्य नाही."</string>
+<string name="pref_restore_title">"कॅमेरा सेटिंग्ज"</string>
+<string name="pref_restore_detail">"पूर्ववत"</string>
+<string name="pref_exposure_title">"अनावरण"</string>
+<string name="dialog_ok">"ओके"</string>
+<string name="spaceIsLow_content" product="nosdcard">"आपले USB स्टोरेज ची जागा कमी होत आहे. गुणवत्ता सेटिंग बदला किंवा काही प्रतिमा किंवा इतर फाइल्स नष्ट करा."</string>
+<string name="spaceIsLow_content" product="default">"आपले SD कार्ड ची जागा कमी होत आहे. गुणवत्ता सेटिंग बदला किंवा काही प्रतिमा किंवा इतर फाइल्स नष्ट करा."</string>
+<string name="video_reach_size_limit">"आकार मर्यादा गाठली आहे."</string>
+<string name="switch_to_camera_label">"कॅमेराकडे स्विच करा"</string>
+<string name="switch_to_video_label">"व्हिडिओकडे जा"</string>
+<string name="switch_to_panorama_label">"परिपूर्ण दृश्याकडे जा"</string>
+<string name="share_picture_via">"द्वारे पिक्चर शेअर करा’</string>
+<string name="share_video_via">"द्वारे व्हिडिओ शेअर करा"</string>
+<string name="no_picture_to_share">"शेअर करण्यासाठी पिक्चर नाही"</string>
+<string name="no_video_to_share">"शेअर करण्यासाठी व्हिडिओ नाही"</string>
+<string name="pano_too_fast_prompt">"अती जलद"</string>
+<string name="pano_dialog_prepare_preview">"परिपूर्ण दृश्य तयार करत आहे"</string>
+<string name="pano_dialog_panorama_failed">"परिपूर्ण दृश्य जतन करू शकलो नाही."</string>
+<string name="pano_dialog_title">"परिपूर्ण दृश्य"</string>
+<string name="pano_capture_indication">"परिपूर्ण दृश्याचे संकलन"</string>
+<string name="pano_review_saving_indication_str">"सेव्ह करत आहे\u2026"</string>
+<string name="tap_to_focus">"लक्ष केंद्रित करण्यासाठी स्पर्श करा."</string>
+<string name="pref_video_effect_title">"प्रभाव"</string>
+<string name="effect_none">"कोणतेही नाही"</string>
+<string name="effect_goofy_face_squeeze">"पिळून काढा"</string>
+<string name="effect_goofy_face_big_eyes">"मोठे डोळे"</string>
+<string name="effect_goofy_face_big_mouth">"मोठे तोंड"</string>
+<string name="effect_goofy_face_small_mouth">"लहान तोंड"</string>
+<string name="effect_goofy_face_big_nose">"मोठे नाक"</string>
+<string name="effect_goofy_face_small_eyes">"छोटे डोळे"</string>
+<string name="effect_backdropper_space">"जागेत"</string>
+<string name="effect_backdropper_sunset">"सूर्यास्त"</string>
+<string name="effect_backdropper_gallery">"आपले स्वतःचे निवडा"</string>
+<string name="bg_replacement_message">"आपले डिव्हाइस खाली ठेवा\nएक मिनिटासाठी व्ह्युमधून बाहेर पडा"</string>
+<string name="not_selectable_in_effect">"जेव्हा परिणाम चालू असतो तेव्हा निवड करण्यायोग्य नाही."</string>
+<string name="video_snapshot_hint">"प्रीव्ह्यु स्क्रिनला स्पर्श करून व्हिडिओ रेकॉर्डिंग करताना फोटो घ्या"</string>
+<string name="disable_video_snapshot_hint">"जेव्हा स्पेशल इफेक्ट्स चालू आहेत तेव्हा व्हिडिओ स्नॅपशॉट अकार्यक्षम केला गेला आहे."</string>
+<string name="clear_effects">"प्रभाव साफ करा"</string>
+<string name="effect_silly_faces">"मूर्खासारखे चेहरे"</string>
+<string name="effect_background">"पार्श्वभूमी"</string>
+<string name="accessibility_shutter_button">"शटर बटण"</string>
+<string name="accessibility_review_thumbnail">"सर्वाधिक अलीकडील फोटो"</string>
+<string name="accessibility_camera_picker">"फ्रंट आणि बॅक कॅमेरा स्विच"</string>
+<string name="accessibility_mode_picker">"कॅमेरा, व्हिडिओ, किंवा परिपूर्ण दृश्य निवड"</string>
+<string name="accessibility_second_level_indicators">"अधिक सेटिंग कंट्रोल्स"</string>
+<string name="accessibility_back_to_first_level">"सेटिंग कंट्रोल्स बंद करा"</string>
+<string name="accessibility_zoom_control">"झूम कंट्रोल्स"</string>
+<string name="accessibility_decrement">"कमी करा %1$s"</string>
+<string name="accessibility_increment">"%1$s वाढवा"</string>
+<string name="accessibility_switch">"%1$sस्विच"</string>
+</resources>

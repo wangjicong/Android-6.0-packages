@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/roma_clock_dial" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:clock="http://schemas.android.com/apk/res/com.wx.hallview">
+    <com.wx.hallview.views.MyQAnalogClock android:id="@+id/clock_view" android:layout_width="fill_parent" android:layout_height="fill_parent" clock:hour_image1="@drawable/roma_clock_hour" clock:minute_image1="@drawable/roma_clock_minute" clock:second_image1="@drawable/roma_clock_second" />
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/roma_center" android:layout_centerInParent="true" />
+</RelativeLayout>

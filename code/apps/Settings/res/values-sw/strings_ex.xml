@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Mipangilio ya USB"</string>
+<string name="usb_charge_only">"Kuchaji pekee"</string>
+<string name="usb_charge_only_summary">"Tumia hali ya kuchaji pekee  wakati USB imeunganishwa"</string>
+<string name="usb_charge_only_storage_active_subtext">"Haiwezi kuchaji wakati hifadhi ya USB inatumika"</string>
+<string name="usb_charge_only_notification">"Imeunganishwa kama chaja peke"</string>
+<string name="usb_storage">"Hifadhi ya USB"</string>
+<string name="usb_storage_summary">"Wezesha hifadhi kubwa ya USB"</string>
+<string name="ums_settings">"Mipangilio ya UMS"</string>
+<string name="ums_mounted_setting">"Weka ums kwenye PC sasa, tafadhali subiri..."</string>
+<string name="ums_unmounted_setting">"Ondoa ums kutoka kwenye PC sasa, tafadhali subiri..."</string>
+<string name="usb_virtual_drive">"Hifadhi ya ndani ya USB"</string>
+<string name="usb_virtual_drive_summary">"Kuwezesha hifadhi ya ndani ya USB"</string>
+<string name="remember_choice">"Kumbuka chaguo yangu"</string>
+<string name="remember_choice_summary">"Kumbuka chaguo langu na uanzishe utendaji unaokumbukwa kiotomati wakati ufuatao"</string>
+<string name="stand_by_set_changed_prompt">"Hali ya kuwezeshwa kwa Sim itabadilishwa, tafadhali thibitisha kana kwamba uendelee?"</string>
+<string name="not_stand_by">"IMEKATAZWA"</string>
+<string name="primary_card_switching">"Mpangilio\uff0ctafadhali subiri ..."</string>
+<string name="toggle_data_change_message">"Data imebadili uwiano kwa sim kadi <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>., Itazalisha data kupitia  na gharama husika, tafadhali kumbuka"</string>
+<string name="select_primary_card">"Chagua kadi msingi"</string>
+<string name="whether_switch_primary_card">"Tafadhali thibitisha kama kubadili kadi ya msingi kwa kadi hii?\n(data ya simu pia itabadilishwa kwa kadi.) "</string>
+<string name="attention">"Makini"</string>
+<string name="bt_softap_cannot_coexist">"Wakati softap imewezeshwa au imewashwa, bluetooth  haiwezi fanya kazi, ikiwa unataka kutumia bluetooth, tafadhali hakikisha kuwa softap imelemazwa."</string>
+<string name="softap_bt_cannot_coexist">"Wakati bluetooth imewezeshwa au imewashwa, softpad  haiwezi fanya kazi, ikiwa unataka kutumia softpad, tafadhali hakikisha kuwa bluetooth imelemazwa."</string>
+<string name="softap_need_mobile_data_enabled">"Eneo tete la Wi-Fi linalobebeka linahitaji muunganisho wa tovuti wa rununu,yaweza kuleta gharama za ziada."</string>
+<string-array name="light_color_picker">
+<item>"Kijani"</item>
+<item>"Samawati"</item>
+<item>"Bluu"</item>
+<item>"Zambarau"</item>
+<item>"Waridi"</item>
+<item>"Nyekundu"</item>
+<item>"Manjano"</item>
+</string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Handtekening"</string>
+<string name="pref_title_sms_retry_times">Aanzetten SMS herhalen</string>
+<string name="preference_name">"Gewone uitdrukkingen"</string>
+<string name="select">"Geselecteerd"</string>
+<string name="item_cancel">Beëindig</string>
+<string name="item_delete">Verwijder</string>
+<string name="save_as_teltype">"Voor Telefoon"</string>
+<string name="save_as_mmstype">"Voor SMS"</string>
+<string name="type_to_pharser">"Typ gemeenschappelijke zin"</string>
+<string name="add">"Toevoegen"</string>
+<string name="edit">"Bewerk"</string>
+<string name="delete">Verwijder</string>
+<string name="finish">"Voltooien"</string>
+<string name="cancel">Beëindig</string>
+<string name="add_pharser">"Voeg gemeenschappelijke zin toe"</string>
+<string name="edit_pharser">"Bewerk gewone uitdrukking"</string>
+<string name="pharser_can_modify">"Aangepaste zin"</string>
+<string name="pharser_cannot_modify">"Vaste zin"</string>
+<string name="select_item">"U heeft gekozen"</string>
+<string name="select_commmon_phrase">Kies gewoon woord</string>
+<string name="common_phrase_empty">"Geen gewone uitdrukkingen"</string>
+<string name="action_add_phrase">"Ivoegen gemeenschappelijke zin"</string>
+<string name="pref_other_settings_title">"Andere"</string>
+<string-array name="fixed_mms_phrase">
+<item>Bel a.u.b. mijn kantoor telefoon, dank u.</item>
+<item>Neem a.u.b. contact met mij op, dank u</item>
+<item>Vertel mij a.u.b. uw locatie.</item>
+<item>Bel a.u.b. mijn mobiele telefoon, dank u.</item>
+<item>Ik was er niet, ga naar huis en bel u.</item>
+<item>"Ik ben aan het rijden en zal later antwoorden"</item>
+<item>"Ik kom op de weg, onmiddellijk bereikbaar"</item>
+<item>Verkeer file, later, sorry</item>
+<item>Bel u later terug.</item>
+<item>Ik ben in vergadering, antwoord later.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Kan nu niet opnemen. Alles goed?"</item>
+<item>"Ik bel je zo terug."</item>
+<item>"Ik bel je later."</item>
+<item>"Kan nu niet opnemen. Bel me later."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Gelieve me later te smsen of te bellen"</item>
+</string-array>
+</resources>

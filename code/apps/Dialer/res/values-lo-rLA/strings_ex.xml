@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"ຕັ້ງ​ຄ່າ​ການໂທIP "</string>
+    <string name="ip_dial_menu">"ການໂທIP "</string>
+    <string name="ip_dialing_title">ໂທ IP</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"ຕັ້ງ​ຄ່າ​ການ​ໂທ​ດ່ວນ"</string>
+    <string name="no_fast_dial_number">"ປຸມ​ກົດ​ຂະ​ນະ​ນີ້ບໍ່​ໄດ້​ຕັ້ງ​ຄ່າ​ໝາຍ​ເລກ​ໂທ​ດ່ວນ"</string>
+    <!-- @} -->
+</resources>

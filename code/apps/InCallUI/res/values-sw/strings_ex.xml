@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Kadi Kuu:"</string>
+<string name="vice_card_slot">"Kadi Makamu:"</string>
+<string name="record_time">Saa za rekodi:</string>
+<string name="onscreenShowRecodText">Kurekodi</string>
+<string name="recorderr">""Rekodi imefeli kuhifadhi!"</string>
+<string name="audio_db_artist_name">"Rekodi zako"</string>
+<string name="audio_db_album_name">"Rekodi za simu"</string>
+<string name="audio_db_playlist_name">Rekodi zangu</string>
+<string name="app_name">"App ya Simu"</string>
+<string name="error_mediadb_new_record">Imeshidwa kuhifadhi sauti iliyonaswa</string>
+<string name="sdcard_access_error">Haiwezi fikia kadi ya sd</string>
+<string name="no_sd_card">HAKUNA KADI YA SD AU IMEONDOLEWA</string>
+<string name="insert_sd_card">"Tafadhali ingiza kadi ya SD"</string>
+<string name="storage_is_full">Hifadhi imejaa</string>
+<string name="recording">"Kurekodi "</string>
+<string name="used_by_other_applications">"Vifaa vya kurekodi vinatumiwa na programu zingine, tafadhali zima programu"</string>
+<string name="prompt_record_finish">" faili ya kurekodi umehifadhiwa"</string>
+<string name="ok">"Sawa"</string>
+<string name="permission_no_record">"Huna ruhusa ya kurekodi simu"</string>
+<string name="hangup_hold_and_answer">"Zima simu uliyosimamisha na ujibu"</string>
+<string name="hangup_active_and_answer">"Zima simu uliyopiga na ujibu"</string>
+<string name="hangup_all_and_answer">"Zima simu zote na ujibu"</string>
+<string name="onActive">"Amilifui"</string>
+<string name="hold_current_call_and_answer">Simamisha simu hii na ujibu</string>
+<string name="hangup_current_call_and_answer">"Zima simu unayo na ujibu"</string>
+</resources>

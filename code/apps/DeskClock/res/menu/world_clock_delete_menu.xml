@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_alarm_delete_cancel"
+        android:title="@string/delete_alarm_cancel"
+        android:showAsAction="always"/>
+    <item android:id="@+id/menu_alarm_delete_done"
+        android:title="@string/delete_alarm_done"
+        android:showAsAction="always"/>
+</menu>

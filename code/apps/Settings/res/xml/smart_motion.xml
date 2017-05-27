@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadtrum -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/smart_motion" >
+
+        <PreferenceCategory android:key="smart_call"
+            android:title="@string/smart_call_title"
+            android:persistent="false" >
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="easy_dial"
+                android:title="@string/easy_dial"
+                android:summary="@string/easy_dial_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="easy_answer"
+                android:title="@string/easy_answer"
+                android:summary="@string/easy_answer_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="handsfree_switch"
+                android:title="@string/handsfree_switch"
+                android:summary="@string/handsfree_switch_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="smart_call_recorder"
+                android:title="@string/smart_call_recorder"
+                android:summary="@string/smart_call_recorder_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="easy_bell"
+                android:title="@string/easy_bell"
+                android:summary="@string/easy_bell_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="mute_incoming_calls"
+                android:title="@string/mute_incoming_calls"
+                android:summary="@string/mute_incoming_calls_summary"
+                android:persistent="false" />
+
+        </PreferenceCategory>
+
+        <PreferenceCategory android:key="smart_play"
+            android:title="@string/smart_play_title"
+            android:persistent="false" >
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="play_control"
+                android:title="@string/play_control"
+                android:summary="@string/play_control_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="music_switch"
+                android:title="@string/music_switch"
+                android:summary="@string/music_switch_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="lock_music_switch"
+                android:title="@string/lock_music_switch"
+                android:summary="@string/lock_music_switch_summary"
+                android:persistent="false" />
+
+        </PreferenceCategory>
+
+        <PreferenceCategory android:key="more"
+            android:title="@string/more_title"
+            android:persistent="false" >
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="easy_start"
+                android:title="@string/easy_start"
+                android:summary="@string/easy_start_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="mute_alarms"
+                android:title="@string/mute_alarms"
+                android:summary="@string/mute_alarms_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="shake_to_switch"
+                android:title="@string/shake_to_switch"
+                android:summary="@string/shake_to_switch_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="quick_browse"
+                android:title="@string/quick_browse"
+                android:summary="@string/quick_browse_summary"
+                android:persistent="false" />
+
+            <com.android.settings.widget.SmartSwitchPreference
+                android:key="easy_clear_memory"
+                android:title="@string/easy_clear_memory"
+                android:summary="@string/easy_clear_memory_summary"
+                android:persistent="false" />
+
+        </PreferenceCategory>
+
+</PreferenceScreen>

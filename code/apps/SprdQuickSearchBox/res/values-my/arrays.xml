@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="search_engine_entries">
+        <item>"ပိုင္လ္တု"</item>
+        <item>"Google"</item>
+        <item>"139"</item>
+        <item>"Yahoo"</item>
+        <item>"ဘင္န္"</item>
+    </string-array>
+    <string-array name="search_engine_summary">
+        <item>"ဒီေဖါ့ ရွာေဖြေရးအင္ဂ်င္ အတြက္ ပိုင္လ္တု baidu ကိုေရြးခ်ယ္ပါ။ "</item>
+        <item>"ဒီေဖါ့ ရွာေဖြေရးအင္ဂ်င္ အတြက္ ဂူဂဲလ္ google ကို ေရြးခ်ယ္ပါ။ "</item>
+        <item>"ဒီေဖါ့ ရွာေဖြေရးအင္ဂ်င္ အတြက္ ၁၃၉ ကိုေရြးခ်ယ္ပါ။ "</item>
+        <item>"ဒီေဖါ့ ရွာေဖြေရးအင္ဂ်င္ အတြက္ ရာဟူး yahoo ကို  ေရြးခ်ယ္ပါ။ "</item>
+        <item>"ဒီေဖါ့ ရွာေဖြေရးအင္ဂ်င္ အတြက္ ဘင္န္ bing ကို ေရြးခ်ယ္ပါ။ "</item>
+    </string-array>
+</resources>

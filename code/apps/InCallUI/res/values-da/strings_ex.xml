@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Hovedkort:"</string>
+<string name="vice_card_slot">"Sekundært kort:"</string>
+<string name="record_time">Optagelsestid:</string>
+<string name="onscreenShowRecodText">Optag</string>
+<string name="recorderr">"Optagelse kunne ikke gemmes!"</string>
+<string name="audio_db_artist_name">"Dine optagelser"</string>
+<string name="audio_db_album_name">"Opkalds optagelser"</string>
+<string name="audio_db_playlist_name">Mine optagelser</string>
+<string name="app_name">"Telefon App"</string>
+<string name="error_mediadb_new_record">Kan ikke gemme optagede lyd</string>
+<string name="sdcard_access_error">"Kan ikke få adgang til sd kort"</string>
+<string name="no_sd_card">"Intet SD kort eller UMONTERET"</string>
+<string name="insert_sd_card">"Indsæt venligst et SD kort"</string>
+<string name="storage_is_full">Lagring er fuld</string>
+<string name="recording">"Recording "</string>
+<string name="used_by_other_applications">"Optageudstyret bruges af andre programmer. Afslut venligst programmet"</string>
+<string name="prompt_record_finish">"Den optagne fil er gemt i"</string>
+<string name="ok">OK</string>
+<string name="permission_no_record">"Du har ikke tilladelse til at optage opkald"</string>
+<string name="hangup_hold_and_answer">"Afbryd opkald på hold og svar"</string>
+<string name="hangup_active_and_answer">"Afbryd aktivt opkald og svar"</string>
+<string name="hangup_all_and_answer">"Afbryd alle opkald og svar"</string>
+<string name="onActive">"Aktiv"</string>
+<string name="hold_current_call_and_answer">"Sæt aktuelt opkald på hold og svar"</string>
+<string name="hangup_current_call_and_answer">"Afbryd aktuelt opkald og svar"</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <string name="vmnumber">42020</string>
+        <string name="roamingvm">+39-3492002020</string>
+    </carrier_config>
+    <carrier_config spn="PosteMobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">PosteMobile</string>
+        <string name="vmnumber">427242</string>
+        <string name="roamingvm">3770001252</string>
+    </carrier_config>
+    <carrier_config spn="BT Italia">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">BT Italia Mobile</string>
+    </carrier_config>
+    <carrier_config spn="ERG">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">ERG Mobile</string>
+    </carrier_config>
+    <carrier_config spn="ERG mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">ERG Mobile</string>
+    </carrier_config>
+</carrier_config_list>

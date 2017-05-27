@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Ρυθμίσεις USB"</string>
+<string name="usb_charge_only">"Μόνο φόρτιση"</string>
+<string name="usb_charge_only_summary">"Όταν το USB είναι συνδεδεμένο χρησιμοποιήστε την λειτουργία μόνο φόρτιση"</string>
+<string name="usb_charge_only_storage_active_subtext">"Όταν χρησιμοποιείται η μνήμη USB δεν μπορείτε να χρησιμοποιήσετε την λειτουργία μόνο φόρτιση"</string>
+<string name="usb_charge_only_notification">"Σύνδεση μόνο για φόρτιση"</string>
+<string name="usb_storage">"Αποθ. χώρος USB"</string>
+<string name="usb_storage_summary">"Ενεργοποίηση χώρου μαζικής αποθήκευσης USB"</string>
+<string name="ums_settings">"Ρυθμίσεις UMS"</string>
+<string name="ums_mounted_setting">"Εγκατάσταση ums στον υπολογιστή τώρα, παρακαλούμε περιμένετε…"</string>
+<string name="ums_unmounted_setting">"Απεγκατάσταση ums από τον υπολογιστή τώρα, παρακαλούμε περιμένετε..."</string>
+<string name="usb_virtual_drive">"Εικονικός δίσκος USB"</string>
+<string name="usb_virtual_drive_summary">"Ενεργοποίηση εικονικού δίσκου USB"</string>
+<string name="remember_choice">"Απομνημόνευση της επιλογής μου"</string>
+<string name="remember_choice_summary">Να θυμάται την επιλογή μου και να γίνεται αυτόματη εκκίνηση της λειτουργίας υπενθύμισης την επόμενη φορά"</string>
+<string name="stand_by_set_changed_prompt">"Η κατάσταση ενεργοποίησης της sim θα αλλάξει, παρακαλούμε επιβεβαιώστε αν θέλετε να συνεχίσετε"</string>
+<string name="not_stand_by">"ΑΠΑΓΟΡΕΥΕΤΑΙ"</string>
+<string name="primary_card_switching">"Ρύθμιση\uff0cπαρακαλούμε περιμένετε..."</string>
+<string name="toggle_data_change_message">"Η σύνδεση δεδομένων έχει αλλάξει σε κάρτα sim <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, παρακαλούμε λάβετε υπόψη ότι θα παράγει διακίνηση δεδομένων και συσχετικές χρεώσεις."</string>
+<string name="select_primary_card">"Επιλογή κύριας κάρτας"</string>
+<string name="whether_switch_primary_card">"Παρακαλούμε επιβεβαιώστε αν θα μεταφέρετε τη βασική κάρτα σε αυτήν την κάρτα;\n(Τα δεδομένα κινητής τηλεφωνίας θα μεταφερθούν επίσης σε αυτήν την κάρτα.)"</string>
+<string name="attention">"Προσοχή"</string>
+<string name="bt_softap_cannot_coexist">"Όταν το softap είναι ενεργοποιημένο ή ενεργοποιείται, το bluetooth δεν μπορεί να λειτουργήσει, αν επιθυμείται να χρησιμοποιήσετε το bluetooth, παρακαλούμε βεβαιωθείτε ότι το softap είναι απενεργοποιημένο."</string>
+<string name="softap_bt_cannot_coexist">"Όταν το bluetooth είναι ενεργοποιημένο ή ενεργοποιείται, το softap δεν μπορεί να λειτουργήσει, αν θέλετε να χρησιμοποιήσετε το softap, παρακαλούμε βεβαιωθείτε ότι το bluetooth είναι απενεργοποιημένο."</string>
+<string name="softap_need_mobile_data_enabled">"Το φορητό σημείο πρόσβασης Wi-Fi χρειάζεται σύνδεση δεδομένων κινητής τηλεφωνίας, μπορεί να αποφέρει επιπλέον χρεώσεις."</string>
+<string-array name="light_color_picker">
+<item>"Πράσινο"</item>
+<item>"Μπλε"</item>
+<item>"Indigo"</item>
+<item>"Μοβ"</item>
+<item>"Ροζ"</item>
+<item>"Κόκκινο"</item>
+<item>"Κίτρινο"</item>
+</string-array>
+</resources>

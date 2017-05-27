@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- STRINGS Sprd Add -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Bug#474316, SPRD add for data connection dialog on volte product -->
+    <string name="network_not_on">"当前数据连接处于关闭状态，是否设置数据连接？"</string>
+    <!-- SPRD: add for manual network query @{ -->
+    <string name="dialog_network_selection_title">注意</string>
+    <string name="dialog_network_selection_message">在手动选网的条件下，手机不会选择其它运营商网络。所以注册网络失败后，需要重新手动选网或使用自动选网。请问要使用“手动选择”吗？</string>
+    <!-- @} -->
+
+    <!-- SPRD: fix bug 474249  -->
+    <string name="network_unknown">未知</string>
+    <!-- SPRD: fix bug 474249  -->
+    <string name="network_inhibit">禁用</string>
+    <!-- IP Dial Setting -->
+    <string name="ip_dialing_list_title">"IP 拨号设置"</string>
+    <string name="ip_dial_menu">"IP 拨号"</string>
+    <string name="ip_dialing_title">"IP 拨号"</string>
+    <string name="ip_dialing_list_title">"IP 拨号列表"</string>
+    <string name="ip_no_number">"缺少IP前缀"</string>
+    <string name="ip_no_number_msg">"请设置IP号码"</string>
+    <string name="ip_add_number_str">"添加号码"</string>
+    <string name="ip_number_empty_loading">"IP 拨号列表为空。"</string>
+    <string name="remove">"删除"</string>
+    <string name="ip_number_is_too_long">"IP拨号号码不能大于20位。"</string>
+    <string name="add_ip_number_str">"新建"</string>
+    <string name="ip_dialing_num_error">"最多只能保存10个IP号码。"</string>
+    <string name="ip_dialing_num_repeat">"号码重复，添加失败。"</string>
+    <string name="menu_selected_all">"全选"</string>
+    <string name="menu_select_none">"取消全选"</string>
+    <string name="doneButton">"完成"</string>
+    <string name="cancel">"取消"</string>
+    <!-- @} -->
+
+    <!-- SPRD: fix bug 474249  -->
+    <string name="network_unknown">未知</string>
+    <!-- SPRD: fix bug 474249  -->
+    <string name="network_inhibit">禁用</string>
+    <!-- IP Dial Setting -->
+    <string name="ip_dialing_list_title">"IP 拨号设置"</string>
+    <string name="ip_dial_menu">"IP 拨号"</string>
+    <string name="ip_dialing_title">"IP 拨号"</string>
+    <string name="ip_dialing_list_title">"IP 拨号列表"</string>
+    <string name="ip_no_number">"缺少IP前缀"</string>
+    <string name="ip_no_number_msg">"请设置IP号码"</string>
+    <string name="ip_add_number_str">"添加号码"</string>
+    <string name="ip_number_empty_loading">"IP 拨号列表为空。"</string>
+    <string name="remove">"删除"</string>
+    <string name="ip_number_is_too_long">"IP拨号号码不能大于20位。"</string>
+    <string name="add_ip_number_str">"新建"</string>
+    <string name="ip_dialing_num_error">"最多只能保存10个IP号码。"</string>
+    <string name="ip_dialing_num_repeat">"号码重复，添加失败。"</string>
+    <string name="menu_selected_all">"全选"</string>
+    <string name="menu_select_none">"取消全选"</string>
+    <string name="doneButton">"完成"</string>
+    <string name="cancel">"取消"</string>
+    <!-- @} -->
+    <string name="lte_service_network_mode_settings_dialog_title">网络模式选择</string>
+    <string name="lte_service_attention">注意</string>
+    <string name="lte_service_switch">设置中，请等待...</string>
+    <string-array name="lte_preferred_networks_choices">
+        <item>4G/3G/2G多模式</item>
+    </string-array>
+        <string-array name="lte_network_mode_choices">
+        <item>仅GSM</item>
+        <item>仅WCDMA</item>
+        <item>WCDMA/GSM</item>
+        <item>LTE/WCDMA/GSM (自动)</item>
+    </string-array>
+    <string-array name="lte_preferred_networks_choices_for_common">
+        <item>4G/3G/2G多模式</item>
+        <item>仅3G/2G模式</item>
+        <item>仅2G模式</item>
+    </string-array>
+
+    <!-- SPRD: Bug 474686 Add for Uplmn @{ -->
+    <!-- SPRD: Bug 493978 Correct the translation. @{ -->
+    <string name="uplmn_setting_title">偏好设置</string>
+    <string name="uplmn_setting">UPLMN 设置</string>
+    <string name="uplmn_index"> 序号 (始于 0):</string>
+    <string name="uplmn_id">ID 号:</string>
+    <string name="uplmn_type">类型 (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):</string>
+    <!-- @} -->
+    <string name="no_sim_card_prompt">请插入USIM卡重试！</string>
+    <string name="index_error_uplmn">序列号错误，请重新输入！</string>
+    <string name="type_is_emplty_error_uplmn">类型错误，请重新输入！</string>
+    <string name="number_too_short_uplmn">数据太短，请重新输入！</string>
+    <string name="type_is_wrong_uplmn">类型不正确，请重新输入！</string>
+    <string name="fail_uplmn">失败，请重试！</string>
+    <string name="set_uplmn_unsuccessful">设置失败！</string>
+    <string name="menu_new_uplmn">新建</string>
+    <string name="menu_delete_uplmn">删除UPLMN</string>
+    <string name="uplmn_exceeds_capacity">已超出SIM卡文件容量，无法新建UPLMN！</string>
+    <string name="delete">删除</string>
+    <string name="delete_uplmn_successfully">uplmn已删除</string>
+    <!-- SPRD: Bug 494642.The Uplmn id should be a number.-->
+    <string name="id_is_wrong_uplmn">ID号必须为数字！</string>
+    <!-- @} -->
+    <!-- SPRD: add for one key simlock @{ -->
+    <string name="one_key_locked_notification">此类型已解锁，是否需要一键上锁？</string>
+    <string name="one_key_unlocked_notification">此类型已被锁，是否需要一键解锁?</string>
+    <string name="one_key_unlocked">解锁</string>
+    <string name="one_key_locked">上锁</string>
+    <string name="one_key_operation_success">操作成功，设备即将重启！</string>
+    <string name="one_key_operation_unsuccess">操作失败，请稍后尝试!</string>
+    <string name="one_key_query_unsuccess">查询锁类型失败!</string>
+    <string name="one_key_simlock_setting">SIMLOCK 设置</string>
+    <string-array name="one_key_sim_lock_type">
+        <item>网络锁</item>
+        <item>网络子锁</item>
+        <item>服务提供商锁</item>
+        <item>合作商锁</item>
+        <item>SIM卡锁</item>
+    </string-array>
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"所有呼出"</string>
+    <string name="messageAO">"输入呼叫限制密码。"</string>
+    <string name="sum_ao_enabled_indicator">转发所有通话</string>
+    <string name="sum_ao_enabled">"已启用"</string>
+    <string name="sum_ao_disabled">"已禁用"</string>
+    <string name="enable_ao_forbidden">"您的运营商不支持启用限制所有呼出功能。"</string>
+    <string name="disable_ao_forbidden">"您的运营商不支持禁用限制所有呼出功能。"</string>
+    <string name="labelOI">"国际长途呼出"</string>
+    <string name="messageOI">"输入呼叫限制密码。"</string>
+    <string name="sum_oi_enabled">"已启用"</string>
+    <string name="sum_oi_disabled">"已禁用"</string>
+    <string name="enable_oi_forbidden">"您的运营商不支持启用限制国际长途漫游呼出功能。"</string>
+    <string name="disable_oi_forbidden">"您的运营商不支持禁用限制国际长途漫游呼出功能。"</string>
+    <string name="labelOX">"国际长途漫游呼出"</string>
+    <string name="messageOX">"输入呼叫限制密码。"</string>
+    <string name="sum_ox_enabled">"已启用"</string>
+    <string name="sum_ox_disabled">"已禁用"</string>
+    <string name="enable_ox_forbidden">"您的运营商不支持启用限制国际长途漫游呼出功能。"</string>
+    <string name="disable_ox_forbidden">"您的运营商不支持禁用限制国际长途漫游呼出功能。"</string>
+    <string name="labelAI">"所有来电"</string>
+    <string name="messageAI">"输入呼叫限制密码。"</string>
+    <string name="sum_ai_enabled">"已启用"</string>
+    <string name="sum_ai_disabled">"已禁用"</string>
+    <string name="enable_ai_forbidden">"您的运营商不支持禁用限制所有来电功能。"</string>
+    <string name="disable_ai_forbidden">"您的运营商不支持禁用限制所有来电功能。"</string>
+    <string name="labelIR">"漫游时来电"</string>
+    <string name="messageIR">"输入呼叫限制密码。"</string>
+    <string name="sum_ir_enabled">"已启用"</string>
+    <string name="sum_ir_disabled">"已禁用"</string>
+    <string name="enable_ir_forbidden">"您的运营商不支持启用限制漫游时来电功能。"</string>
+    <string name="disable_ir_forbidden">"您的运营商不支持禁用限制漫游时来电功能。"</string>
+    <string name="labelAB">"全部取消"</string>
+    <string name="messageAB">"输入呼叫限制密码。"</string>
+    <string name="sum_ab_enabled">"已启用"</string>
+    <string name="sum_ab_disabled">"已禁用"</string>
+    <string name="enable_ab_forbidden">"您的运营商不支持全部取消呼叫限制功能。"</string>
+    <string name="disable_ab_forbidden">"您的运营商不支持全部启用呼叫限制功能。"</string>
+    <string name="labelChgPwd">修改密码</string>
+    <string name="DlgChgPwd_oldpwd">输入呼叫限制密码。</string>
+    <string name="DlgChgPwd_newpwd_first">输入新密码</string>
+    <string name="DlgChgPwd_newpwd_last">确认新密码</string>
+    <string name="cb_pw_no_match" msgid="">"密码不匹配"</string>
+    <string name="cb_pw_error" msgid="">"密码不正确"</string>
+    <string name="cb_pw_correct" msgid="">"密码修改成功"</string>
+    <string name="labelCB">呼叫限制</string>
+    <string name="call_barring_settings">呼叫限制设置</string>
+    <string name="callin_barring_settings">呼入限制设置</string>
+    <string name="callout_barring_settings">呼出限制设置</string>
+    <string name="labelCOUT">呼出限制</string>
+    <string name="labelCIN">呼入限制</string>
+    <string name="cb_error">呼叫限制被拒绝</string>
+    <!-- SPRD: function call barring support. END-->
+    <string name="sim_lock_none">"当前没有卡simlock被锁！"</string>
+    <string name="sim_lock_try_later">"请稍后再试。"</string>
+    <!-- SPRD: Bug#474338, LND/SDN FEATURE -->
+    <string name="sim_list_title">"请选择 SIM 卡"</string>
+    <string name="sim_x">"SIM%s"</string>
+    <string name="lnd_list">"LND 列表"</string>
+    <string name="sdn_list">"SDN 列表"</string>
+    <string name="wait_message">"请稍候..."</string>
+    <string name="menu_call">"呼叫联系人"</string>
+    <string name="lnd_no_contact_record">"SIM卡上无最后拨号记录。"</string>
+    <string name="sdn_no_contact_number">"此SIM卡不支持SDN号码。"</string>
+    <string name="remove">"移除"</string>
+    <string name="delete_selected_contents">"您确定要删除选中内容吗？"</string>
+    <string name="sim_notready_can_not_delete">"SIM卡未准备好，无法删除。"</string>
+    <string name="contact_del_failed">"删除失败"</string>
+    <!-- @} -->
+
+    <!-- SPRD: Bug#474289 FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_settings">快速拨号设置</string>
+    <string name="delete_fastdial">删除快速拨号</string>
+    <string name="update_fastdial">替换快速拨号</string>
+    <string name="no_sim_text">"请插入或启用SIM卡"</string>
+    <!-- @} -->
+
+    <!-- SPRD: add for Bug492949 -->
+    <string name="no_available_phone_accounts">"没有可用的通话帐户"</string>
+    <!-- SPRD: function FDN support. BEGIN-->
+    <string name="edit_and_save_fdn">"编辑固定拨号联系人"</string>
+    <string name="call_fdn_number_by_sim">"呼叫"</string>
+    <string name="vt_call_fdn_numberr_by_sim">"视频电话"</string>
+    <string name="airplane_changed_on">"飞行模式已开启。"</string>
+
+    <string name="number_empty" msgid="">号码为空</string>
+    <string name="unblock_pin2">"解锁PIN2"</string>
+    <string name="sum_fdn_unblock_pin2">"输入PUK2来解锁您的SIM卡"</string>
+    <string name="oldPin2_Label">"旧 PIN2 (剩余次数 <xliff:g>%s</xliff:g>)"</string>
+    <string name="pin2_Label">"PIN2 (剩余次数 <xliff:g>%s</xliff:g>)"</string>
+    <string name="puk2_code_label">"输入 PUK2 码 (剩余次数 <xliff:g>%s</xliff:g>)"</string>
+
+    <string name="promptWordOne">"您还有&#160;"</string>
+    <string name="promptWordTwo">"&#160;次机会"</string>
+    <string name="adn_full">FDN列表已满</string>
+    <!-- SPRD: function FDN support. END-->
+
+    <!-- SPRD:  add for bug492527 -->
+    <string name="incall_error_missing_voicemail_number_sprd">"要设置语音信箱，请转到“菜单”&gt;“设置”。"</string>
+
+    <string name="simlock_unlocked">"Simlock未上锁。"</string>
+     <!-- SPRD:  add for networkselect @{ -->
+    <string-array name="preferred_network_mode_choices_wcdma">
+        <item>仅限 WCDMA</item>
+        <item>仅限 GSM</item>
+        <item>自动</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>仅限 GSM</item>
+    </string-array>
+    <!-- SPRD: modify for bug507766 @{ -->
+    <string name="camera_fail_to_switch">请稍后切换摄像头</string>
+    <!-- @} -->
+    <!-- @} -->
+    <!-- SPRD: modify for bug511452 -->
+    <string name="invalid_network_mode">无效的网络模式</string>
+    <!-- SPRD:  add for volte for bug 522880-->
+    <string name="volte_call_availability">VoLTE是否启用</string>
+    <string name="volte_call_availability_off">VoLTE关闭</string>
+    <string name="volte_call_availability_on">VoLTE启用</string>
+    <string name="vt_resolution_setting">视频分辨率选择</string>
+    <!-- SPRD: add for bug 524442 @{ -->
+    <string name="get_ims_call_availability_fail">"获取ims失败，请稍后再试"</string>
+    <string name="set_ims_call_availability_fail">"设置ims失败，请稍后再试"</string>
+    <!-- @} -->
+    <!-- SPRD: add for callforward time @{ -->
+    <string name="start_time">开始时间</string>
+    <string name="stop_time">结束时间</string>
+    <string name="phonenumCFT_title">转接号码</string>
+    <string name="labelCFT">固定时间段转接</string>
+    <string name="messageCFT">固定时间段的转接号码</string>
+    <string name="sum_cft_enabled">"转接到 <xliff:g id="PHONENUMBER">{0}</xliff:g>"</string>
+    <string name="sum_cft_disabled">"未启用"</string>
+    <string name="sum_cft_defaunt_setting">未设置</string>
+    <!-- SPRD: National Data Roaming. {@ -->
+    <string name="preferred_data_roaming_title">数据漫游</string>
+    <string name="preferred_data_roaming_summary">仅限国内漫游</string>
+    <string name="preferred_data_roaming_dialogtitle">数据漫游</string>
+    <string name="preferred_data_roaming_disable">不允许</string>
+    <string name="preferred_data_roaming_national">仅限国内漫游</string>
+    <string name="preferred_data_roaming_all_networks">所有网络</string>
+
+    <string-array name="enabled_data_roaming_choices">
+        <item>不允许</item>
+        <item>仅限国内漫游</item>
+        <item>所有网络</item>
+    </string-array>
+    <!-- @} -->
+    <!-- SPRD: add for bug523531 @{ -->
+    <string name="audio_call_forward_setting_category_header">"语音电话"</string>
+    <string name="video_call_forward_setting_category_header">"视频电话"</string>
+    <!-- @} -->
+    <!-- SPRD: add for bug520354 -->
+    <string name="sim_label">"SIM%1$d "</string>
+    <!-- SPRD: Add ussd for bug490252 @{ -->
+    <string name="menu_add_to_contacts" msgid="1258127580972228970">"添加到联系人"</string>
+    <string name="select_link_title" msgid="3371818607625768447">"选择操作"</string>
+    <string name="confirm_open_browser_dialog_title">"打开浏览器"</string>
+    <string name="confirm_open_browser_dialog_message">"是否要打开浏览器？"</string>
+    <!-- SPRD: Add for ussd end @} -->
+
+    <!-- SPRD: Bug 519168 Wrong prompt message when change network selection mode @{ -->
+    <string name="automatic_selection_done">切换到自动选择模式</string>
+    <!-- @} -->
+    <!-- SPRD: add for bug539931 @{ -->
+    <string name="labelAudioCF">"语音来电转接"</string>
+    <string name="labelVideoCF">"视频来电转接"</string>
+    <!-- @} -->
+    <!-- SPRD: Add for Apn and Data Pop up. BugId: 509845. @{ -->
+    <string name="apn_popup_title">"移动接入点配置"</string>
+    <string name="apn_popup_summary">"为了确保稳定的数据链接，请为SIM卡选择默认的网络配置。注意：数据链接被激活后，网络运营商会向您收取额外的费用。"</string>
+    <string name="apn_popup_change">"修改"</string>
+    <string name="apn_popup_close">"关闭"</string>
+    <string name="data_popup_title">"数据业务"</string>
+    <string name="data_popup_summary">"如果您的流量不是无限制的话，默认数据打开，网络运营商会收取额外的费用。"</string>
+    <string name="data_popup_enable">"打开"</string>
+    <string name="data_popup_disable">"关闭"</string>
+    <!-- @} -->
+    <!-- SPRD: Add LTE only option for network mode. @{ -->
+    <string-array name="lte_network_mode_choices_contains_lte_only">
+        <item>仅GSM</item>
+        <item>仅WCDMA</item>
+        <item>WCDMA/GSM</item>
+        <item>仅LTE</item>
+        <item>LTE/WCDMA/GSM (自动)</item>
+    </string-array>
+    <!-- @} -->
+</resources>

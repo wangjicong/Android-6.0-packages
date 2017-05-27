@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpaper_instructions">"വാള്‍പേപ്പര്‍ സ്ഥാപിക്കുക"</string>
+<string name="image_load_fail">"ചിത്രം ലോഡ് ചെയ്യാനായില്ല"</string>
+<string name="wallpaper_load_fail">"ചിത്രത്തെ വാൾപേപ്പേർ ആക്കാൻ കഴിഞ്ഞില്ല"</string>
+<plurals name="number_of_items_selected">
+<item quantity="zero">"%1$d തെരഞ്ഞെടുത്തു"</item>
+<item quantity="one">"%1$d തെരഞ്ഞെടുത്തു"</item>
+</plurals>
+<plurals name="number_of_items_selected">
+<item quantity="other">"%1$d തെരഞ്ഞെടുത്തു"</item>
+</plurals>
+<string name="wallpaper_accessibility_name">"%1$d ല്‍ %2$d വാള്‍പേപ്പര്‍"</string>
+<string name="announce_selection">"തെരഞ്ഞെടുത്തു <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g>"</string>
+<string name="wallpaper_delete">"നീക്കം ചെയ്യുക"</string>
+<string name="pick_image">"ഇമേജ് എടുക്കുക"</string>
+<string name="pick_wallpaper">"വാള്‍പേപ്പറുകള്‍"</string>
+<string name="crop_wallpaper">"വാൾപേപ്പേർ വെട്ടുക"</string>
+</resources>

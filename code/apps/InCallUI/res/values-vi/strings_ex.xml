@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Thẻ Chính :"</string>
+<string name="vice_card_slot">"Thẻ Phụ :"</string>
+<string name="record_time">"thời gian ghi:"</string>
+<string name="onscreenShowRecodText">Ghi</string>
+<string name="recorderr">"Ghi âm không thể lưu!"</string>
+<string name="audio_db_artist_name">"Bản ghi của bạn"</string>
+<string name="audio_db_album_name">"Bản ghi cuộc gọi"</string>
+<string name="audio_db_playlist_name">Ghi âm của tôi</string>
+<string name="app_name">"Ứng dụng Điện thoại"</string>
+<string name="error_mediadb_new_record">Không thể lưu âm thành được ghi</string>
+<string name="sdcard_access_error">Không thể truy cập sdcard</string>
+<string name="no_sd_card">KHÔNG CÓ thẻ SD hoặc BỊ THÁO</string>
+<string name="insert_sd_card">"Hãy đút thẻ SD."</string>
+<string name="storage_is_full">"Bộ nhớ đầy"</string>
+<string name="recording">"Ghi âm "</string>
+<string name="used_by_other_applications">"Thiết bị ghi chép được sử dụng bởi các chương trình khác. Vui lòng tắt chương trình"</string>
+<string name="prompt_record_finish">"Các tập tin ghi âm đã được lưu vào"</string>
+<string name="ok">"OK"</string>
+<string name="permission_no_record">"Bạn không có quyền ghi âm cuộc gọi"</string>
+<string name="hangup_hold_and_answer">"Nhấc máy cuộc gọichờ và trả lời"</string>
+<string name="hangup_active_and_answer">"Nhấy máy cuộc gọi kích hoạt và trả lời"</string>
+<string name="hangup_all_and_answer">"Nhấy máy tất cả cuộc gọi và trả lời"</string>
+<string name="onActive">"Kích hoạt"</string>
+<string name="hold_current_call_and_answer">Giữ cuộc gọi hiện tại và trả lời</string>
+<string name="hangup_current_call_and_answer">"Nhấy máy cuộc gọi hiện tại và trả lời"</string>
+</resources>

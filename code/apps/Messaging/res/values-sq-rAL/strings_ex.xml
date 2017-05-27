@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">Firma</string>
+<string name="pref_title_sms_retry_times">Aktivizo riprovën SMS</string>
+<string name="preference_name">Frazë e zakonshme</string>
+<string name="select">U zgjodh</string>
+<string name="item_cancel">Anulo</string>
+<string name="item_delete">Fshi</string>
+<string name="save_as_teltype">"Për Telefon"</string>
+<string name="save_as_mmstype">"Për SMS"</string>
+<string name="type_to_pharser">"Shkruaj një frazë të zakonshme"</string>
+<string name="add">Shto</string>
+<string name="edit">Ndrysho</string>
+<string name="delete">Fshi</string>
+<string name="finish">Përfundo</string>
+<string name="cancel">Anulo</string>
+<string name="add_pharser">"Shto frazë të zakonshme"</string>
+<string name="edit_pharser">Modifiko frazën e zakonshme</string>
+<string name="pharser_can_modify">"Frazë e personalizuar"</string>
+<string name="pharser_cannot_modify">"Rregullo frazë"</string>
+<string name="select_item">"Ju keni zgjedhur"</string>
+<string name="select_commmon_phrase">"Zgjidh frazë të zakonshme"</string>
+<string name="common_phrase_empty">Nuk ka fraza të zakonshme</string>
+<string name="action_add_phrase">"Vendos frazë të zakonshme"</string>
+<string name="pref_other_settings_title">Tjetër</string>
+<string-array name="fixed_mms_phrase">
+<item>Ju lutem telefononi numrin tim të zyrës, faleminderit.</item>
+<item>Ju lutem më kontaktoni, faleminderit.</item>
+<item>Ju lutem më tregoni vendndodhjen tuaj.</item>
+<item>Ju lutem më telefononi në celular më vonë, faleminderit.</item>
+<item>Isha jashtë, shkoj në shtëpi dhe do t\'ju telefonoj.</item>
+<item>Po i jap makinës dhe do t\'ju përgjigjem më vonë.</item>
+<item>Jam rrugës, do të vij menjëherë.</item>
+<item>Bllokim trafiku, më vonë, më vjen keq.</item>
+<item>Do t\'ju telefonoj përsëri më vonë.</item>
+<item>Jam në një takim, do të përgjigjem më vonë.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>Nuk mund të flas tani. Çkemi?</item>
+<item>Do të të marr unë menjëherë.</item>
+<item>Do të të marr më vonë.</item>
+<item>Nuk mund të flas tani. Më merr më vonë?</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Të lutem më telefono ose më dërgo sms më vonë."</item>
+</string-array>
+</resources>

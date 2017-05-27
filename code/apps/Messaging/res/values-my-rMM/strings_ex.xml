@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">လက္မွတ္</string>
+<string name="pref_title_sms_retry_times">"SMS ထပ္ျကိုးစားရန္ဖြင့္ပါ"</string>
+<string name="preference_name">ေန ့စဥ္သံုးစကားစု</string>
+<string name="select">ေ႐ြးခ်ယ္ျပီး</string>
+<string name="item_cancel">"မလုပ္ပါ"</string>
+<string name="item_delete">"ဖ်က္ပါ"</string>
+<string name="save_as_teltype">"ဖုန္း အတြက္"</string>
+<string name="save_as_mmstype">"Sms အတြက္"</string>
+<string name="type_to_pharser">"ေန ့စဥ္သံုးစကားစု ရိုက္ပါ"</string>
+<string name="add">ေပါင္း</string>
+<string name="edit">"တည္းျဖတ္ပါ"</string>
+<string name="delete">"ဖ်က္ပါ"</string>
+<string name="finish">ျပီးစီး</string>
+<string name="cancel">"မလုပ္ပါ"</string>
+<string name="add_pharser">"ေန ့စဥ္သံုးစကားစု ထည့္ပါ"</string>
+<string name="edit_pharser">"ေန႔စဥ္သံုးစကားစု တည္းျဖတ္"</string>
+<string name="pharser_can_modify">"စိတ္ျကိုက္ စကားစု"</string>
+<string name="pharser_cannot_modify">"သတ္မွတ္ စကားစု"</string>
+<string name="select_item">"သင္ေရြးခ်ယ္ျပီး"</string>
+<string name="select_commmon_phrase">"ေန ့စဥ္သံုးစကားစု ေရြးခ်ယ္ပါ"</string>
+<string name="common_phrase_empty">"ေန႔စဥ္သံုးစာကားစုမ်ားမရွိပါ"</string>
+<string name="action_add_phrase">"ေန ့စဥ္သံုးစကားစု ထည့္ပါ"</string>
+<string name="pref_other_settings_title">အျခား</string>
+<string-array name="fixed_mms_phrase">
+<item>"ေက်းဇူးျပဳ၍ကြ်ႏု္ပ္ရံုးဖုန္းကိုေခၚပါ, ေက်းဇူးတင္ပါသည္."</item>
+<item>"ေက်းဇူးျပဳ၍ကြ်ႏု္ပ္ကိုဆက္သြယ္ပါ,ေက်းဇူးတင္ပါသည္."</item>
+<item>"ေက်းဇူးျပဳ၍သင္၏တည္ေနရာကိုေျပာပါ."</item>
+<item>"ေက်းဇူးျပဳ၍ေနာက္မွကြ်ႏု္ပ္၏ဆဲလ္ဖုန္းကိုေခၚပါ,ေက်းဇူးတင္ပါသည္."</item>
+<item>"ကြ်ႏု္ပ္္အျပင္မွာပါ,အိမ္ေရာက္လွ်င္သင့္ကိုဖုန္းေခၚမည္."</item>
+<item>"ကြ်ႏု္ပ္ကားေမာင္းေန၍ေနာက္မွအေၾကာင္းျပန္မည္."</item>
+<item>"ကြ်ႏု္ပ္လမ္းမွာ,မၾကာမီေရာက္မည္."</item>
+<item>"ကားက်ပ္ေနသည္,ေနာက္က်မည္,ေဆာရီး."</item>
+<item>"သင့္ကိုေနာက္မွဖုန္းျပန္ေခၚမည္."</item>
+<item>"ကြ်ႏု္ပ္မီတင္မွာ,ေနာက္မွအေၾကာင္းျပန္မည္."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>အခုစကားေျပာလို႔မရေသးဘူး။ ဘာကိစၥ႐ွိလို႔လဲ?</item>
+<item>ခ်က္ခ်င္းျပန္ေခၚလိုက္မယ္။</item>
+<item>ေနာက္မွျပန္ေခၚလိုက္မယ္.</item>
+<item>အခုစကားေျပာလို႔မရေသးဘူး။ ေနာက္မွျပန္ေခၚမလား?</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"ေက်းဇူးျပဳ၍ ေနာက္မွ ကၽြန္ေတာ္ကို ျပန္ေခၚပါ (သို႕) sms ပို႕ပါ"</item>
+</string-array>
+</resources>

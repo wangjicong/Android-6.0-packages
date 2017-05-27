@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">Todas salientes</string>
+    <string name="messageAO">Introducir contraseña de restricción de llamada.</string>
+    <string name="sum_ao_enabled_indicator">"Desviar todas las llamadas"</string>
+    <string name="sum_ao_enabled">"Habilitado"</string>
+    <string name="sum_ao_disabled">"Inhabilitada"</string>
+    <string name="enable_ao_forbidden">Su operador no soporta habilitar restricción de llamadas salientes.</string>
+    <string name="disable_ao_forbidden">Su operador no soporta inhabilitar restricción de llamadas salientes.</string>
+    <string name="labelOI">Saliente internacional</string>
+    <string name="messageOI">Introducir contraseña de restricción de llamada.</string>
+    <string name="sum_oi_enabled">"Habilitado"</string>
+    <string name="sum_oi_disabled">"Inhabilitada"</string>
+    <string name="enable_oi_forbidden">Su operador no soporta habilitar restricción de llamadas salientes internacionales.</string>
+    <string name="disable_oi_forbidden">Su operador no soporta inhabilitar  restricción de llamadas internacionales salientes.</string>
+    <string name="labelOX">Saliente internacional en itinerancia</string>
+    <string name="messageOX">Introducir contraseña de restricción de llamada.</string>
+    <string name="sum_ox_enabled">"Habilitado"</string>
+    <string name="sum_ox_disabled">"Inhabilitada"</string>
+    <string name="enable_ox_forbidden">Su operador no soporta habilitar restricción de llamadas salientes internacionales en itinerancia.</string>
+    <string name="disable_ox_forbidden">Su operador no soporta inhabilitar restricción de llamadas salientes internacionales en itinerancia.</string>
+    <string name="labelAI">Todas entrantes</string>
+    <string name="messageAI">Introducir contraseña de restricción de llamada.</string>
+    <string name="sum_ai_enabled">"Habilitado"</string>
+    <string name="sum_ai_disabled">"Inhabilitada"</string>
+    <string name="enable_ai_forbidden">Su operador no soporta habilitar restricción de llamadas entrantes.</string>
+    <string name="disable_ai_forbidden">Su operador no soporta inhabilitar restricción de llamadas entrantes.</string>
+    <string name="labelIR">Llamadas entrantes en roaming</string>
+    <string name="messageIR">Introducir contraseña de restricción de llamada.</string>
+    <string name="sum_ir_enabled">"Habilitado"</string>
+    <string name="sum_ir_disabled">"Inhabilitada"</string>
+    <string name="enable_ir_forbidden">Su operador no soporta habilitar restricción de llamadas entrantes cuando hay una llamada en itinerancia.</string>
+    <string name="disable_ir_forbidden">Su operador no soporta inhabilitar restricción de llamadas entrantes cuando hay una llamada en itinerancia.</string>
+    <string name="labelAB">Desactivar todo</string>
+    <string name="messageAB">Introducir contraseña de restricción de llamada.</string>
+    <string name="sum_ab_enabled">"Habilitado"</string>
+    <string name="sum_ab_disabled">"Inhabilitada"</string>
+    <string name="enable_ab_forbidden">Su operador no soporta desactivar todo.</string>
+    <string name="disable_ab_forbidden">Su operador no soporta activar todo.</string>
+    <string name="labelChgPwd">"Cambiar contraseña"</string>
+    <string name="DlgChgPwd_oldpwd">Introducir contraseña de restricción de llamada.</string>
+    <string name="DlgChgPwd_newpwd_first">Introducir nueva contraseña</string>
+    <string name="DlgChgPwd_newpwd_last">Confirmar nueva contraseña</string>
+    <string name="cb_pw_no_match">"Contraseñas no coinciden"</string>
+    <string name="cb_pw_error">"Contraseña incorrecta"</string>
+    <string name="cb_pw_correct">"La contraseña ha sido cambiada"</string>
+    <string name="labelCB">"Bloqueo de llamada"</string>
+    <string name="call_barring_settings">"Bloqueo de llamada"</string>
+    <string name="cb_error">Restricción de llamadas rechazada</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"La red no está encendida, ¿Desea establecer el estado de la red?"</string>
+     <string name="dialog_network_selection_title">Atención</string>
+     <string name="dialog_network_selection_message">"El teléfono móvil no seleccionará otros operadores para usted en el modo de selección manual. A veces tiene que hacer la selección manual de nuevo o cambiar de nuevo al modo de selección automática cuando pierde el servicio del operador seleccionado. Le recomendamos que utilice la opción" Seleccionar automáticamente". ¿Quiere seleccionar manualmente la red?"</string>
+     <string name="network_unknown">Desconocido</string>
+     <string name="network_inhibit">PROHIBIDO</string>
+     <string name="ip_dialing_title">Marcación IP</string>
+     <string name="ip_dialing_list_title">Lista de marcación IP</string>
+     <string name="ip_no_number">Falta de prefijo IP</string>
+     <string name="ip_no_number_msg">El prefijo IP no esta almacenado en el teléfono</string>
+     <string name="ip_number_empty_loading">La lista de marcación IP esta vacía</string>
+     <string name="remove">Remover</string>
+     <string name="ip_number_is_too_long">"los números de marcación IP no pueden ser mas que 20."</string>
+     <string name="add_ip_number_str">Nuevo</string>
+     <string name="ip_dialing_num_error">solo se puede guardar 10 números IP</string>
+     <string name="ip_dialing_num_repeat">Repetir número, adicion fallida</string>
+     <string name="menu_selected_all">Seleccionar</string>
+     <string name="menu_select_none">Desmarcar todo</string>
+     <string name="doneButton">Hecho</string>
+     <string name="cancel">Cancelar</string>
+     <string name="uplmn_setting_title">"Preferencias"</string>
+     <string name="uplmn_setting">"Configuraciones UPLMN"</string>
+     <string name="uplmn_index">"Índice (empezar desde 0):"</string>
+     <string name="uplmn_id">"Número de identificación:"</string>
+     <string name="uplmn_type">"Tipo (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">por favor inserte tarejta USIM e intentelo de nuevo</string>
+     <string name="index_error_uplmn">"El índice esta vacío, inténtelo de nuevo!"</string>
+     <string name="type_is_emplty_error_uplmn">"El tipo esta vacío. Intentelo de nuevo!"</string>
+     <string name="number_too_short_uplmn">"El número de Id es demasiado corto. Inténtelo de nuevo!"</string>
+     <string name="type_is_wrong_uplmn">"El tipo debe ser 1 o 0. Inténtelo de nuevo!"</string>
+     <string name="fail_uplmn">"Se ha fallado, inténtelo de nuevo."</string>
+     <string name="set_uplmn_unsuccessful">"No se ha podido establecer uplmn!"</string>
+     <string name="menu_new_uplmn">"Nuevo UPLMN"</string>
+     <string name="menu_delete_uplmn">"Borrar UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"El conteo excede la capacidad de la sim!"</string>
+     <string name="delete">Borrar</string>
+     <string name="delete_uplmn_successfully">"Se ha borrado uplmn"</string>
+     <string name="id_is_wrong_uplmn">"La identificación debe configurarse con un número!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Seleccionar modo de red"</string>
+     <string name="lte_service_switch">"Configurando, por favor espere..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"Multi modo 4G/3G/2G"</item>
+        <item>"solo modo 3G/2G"</item>
+        <item>"Modo Sólo 2G"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"Multi modo 4G/3G/2G"</item>
+        <item>"solo modo 3G/2G"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>Solo GSM</item>
+        <item>Solo WCDMA</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Auto)"</item>
+    </string-array>
+     <string name="fast_dial_settings">ajustes de marcación rápida</string>
+     <string name="delete_fastdial">borrar marcación rápida</string>
+     <string name="update_fastdial">Actualizar marcación rápida</string>
+     <string name="no_sim_text">"Por favor inserte o ejecute la tarjeta SIM"</string>
+     <string name="network_not_on">"La red no está encendida, ¿Desea establecer el estado de la red?"</string>
+     <string name="one_key_locked_notification">"Este tipo está desbloqueado, ¿Quiere bloquearlo?"</string>
+     <string name="one_key_unlocked_notification">"Este tipo está bloqueado, ¿Quiere desbloquearlo?"</string>
+     <string name="one_key_unlocked">"Desbloquear"</string>
+     <string name="one_key_locked">"Candado"</string>
+     <string name="one_key_operation_success">"Operación exitosa, necesitará reiniciar ahora."</string>
+     <string name="one_key_operation_unsuccess">"Operación sin éxito, ¡puede intentarlo de nuevo!"</string>
+     <string name="one_key_query_unsuccess">"¡Consulta tipo sim fallida!"</string>
+     <string name="one_key_simlock_setting">"Configurando SIMLOCK"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Bloqueo de red"</item>
+        <item>"Bloqueo de subconfiguración de red"</item>
+        <item>"Proveedor de servicio bloqueado"</item>
+        <item>"Cierre Corporativo"</item>
+        <item>"Bloquear SIM"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Configuraciones de restricción de llamadas entrantes"</string>
+     <string name="callout_barring_settings">"Configuraciones de restricción de llamadas salientes"</string>
+     <string name="labelCOUT">"Restricción de llamadas salientes"</string>
+     <string name="labelCIN">"Restricción entrante"</string>
+     <string name="no_sim_text">"Por favor inserte o ejecute la tarjeta SIM"</string>
+     <string name="sim_lock_none">"Ningún SIM ha sido bloqueada."</string>
+     <string name="sim_lock_try_later">"Por favor, intente más tarde."</string>
+     <string name="edit_and_save_fdn">Editar número Nmf</string>
+     <string name="call_fdn_number_by_sim">Llamar</string>
+     <string name="vt_call_fdn_numberr_by_sim">Llamada VT</string>
+     <string name="airplane_changed_on">"Modo avión activado."</string>
+     <string name="number_empty">El número esta vacío</string>
+     <string name="unblock_pin2">"Desbloquear PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Ingresar PIN2 para desbloquear la tarjeta SIM"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> intento(s) restante (s))</string>
+     <string name="oldPin2_Label">PIN2 antiguo (<xliff:g>%s</xliff:g> intento(s) restante (s))</string>
+     <string name="puk2_code_label">Ingrese código PUK2 (<xliff:g>%s</xliff:g> intento(s) restante (s))</string>
+     <string name="promptWordOne">"Restante&#160;"</string>
+     <string name="promptWordTwo">"&#160;tiempo(s)"</string>
+     <string name="adn_full">La lista FDN esta llena</string>
+     <string name="no_available_phone_accounts">"No hay cuentas de llamada disponibles"</string>
+     <string name="lnd_list">"Lista LND"</string>
+     <string name="sdn_list">"Lista SDN"</string>
+     <string name="sim_list_title">Por favor seleccione tarjeta SIM</string>
+     <string name="wait_message">Por favor espera…</string>
+     <string name="menu_call">"contacto de llamada</string>
+     <string name="lnd_no_contact_record">No hay registro de LND en esta tarjeta SIM</string>
+     <string name="sdn_no_contact_number">Esta tarejta no es compatible con el número SDN</string>
+     <string name="remove">Remover</string>
+     <string name="delete_selected_contents">Desea borrar los contenidos seleccionados?</string>
+     <string name="sim_notready_can_not_delete">Porque la tarjeta sim no esta lista, por eso no se puede borrar.</string>
+     <string name="contact_del_failed">Falla de borrado</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Para configurar el buzón de voz, toca la tecla de menú y, a continuación, toca Ajustes."</string>
+     <string name="simlock_unlocked">"Simlock ha sido desbloqueado."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>Solo WCDMA</item>
+        <item>Solo GSM</item>
+        <item>Auto</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>Solo GSM</item>
+    </string-array>
+
+    <!-- SPRD: National Data Roaming. {@ -->
+    <string name="preferred_data_roaming_title">Itinerancia de datos</string>
+    <string name="preferred_data_roaming_summary">Solo itinerancia nacional</string>
+    <string name="preferred_data_roaming_dialogtitle">Itinerancia de datos</string>
+    <string name="preferred_data_roaming_disable">Inhabilitar</string>
+    <string name="preferred_data_roaming_national">Solo itinerancia nacional</string>
+    <string name="preferred_data_roaming_all_networks">Todas las redes</string>
+
+    <string-array name="enabled_data_roaming_choices">
+        <item>Inhabilitar</item>
+        <item>Solo itinerancia nacional</item>
+        <item>Todas las redes</item>
+    </string-array>
+    <!-- @} -->
+</resources>

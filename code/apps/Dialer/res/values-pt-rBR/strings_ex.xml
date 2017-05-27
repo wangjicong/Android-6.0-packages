@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Ajuste de IP Disque"</string>
+    <string name="ip_dial_menu">"IP disque"</string>
+    <string name="ip_dialing_title">"Discar IP"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Ajuste de Disque Rápido"</string>
+    <string name="no_fast_dial_number">"Número de disque rápido não ajustado."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"saída"</string>
+     <string name="call_log_incoming_title">"entrada"</string>
+     <string name="recentOutgoing_empty">"Você tem nenhuma chamada saída."</string>
+     <string name="recentIncoming_empty">"Você tem nenhuma chamada entrada."</string>
+     <string name="view_setting">"Visualizar"</string>
+     <string name="item_all_calls">"Todas as notas de chamada"</string>
+     <string name="item_sim_calls">"SIM%d notas de chamada"</string>
+     <string name="unselect_all">"Não selecionar tudo"</string>
+     <string name="select_all_sprd">"Selecionar tudo"</string>
+     <string name="doneButton">"Concluído"</string>
+     <string name="cancel">"Cancelar"</string>
+     <string name="delete_selected_calls">"Tem certeza que deseja deletar as notas selecionadas?"</string>
+     <string name="clearCallLogProgress_title">"Limpando o log de chamada\u2026"</string>
+     <string name="delete_success">"Excluiu com sucesso!"</string>
+     <string name="clear_all_call_log">"Limpar todas as notas de chamada"</string>
+     <string name="clear_selected_call_log">"Limpar notas de chamada selecionadas"</string>
+     <string name="select_all">"Selecionar tudo"</string>
+     <string name="unselect_all">"Deselecionar tudo"</string>
+     <string name="delete_all_calls_confirm">"Se quer deletar as notas de todos os seus?"</string>
+     <string name="do_not_select">"Você não escolhe gravar para deletar"</string>
+     <string name="delete_calls">"Apagar"</string>
+     <string name="number_anr_isnull">"O número de contato é vázio"</string>
+     <string name="call_recording_setting_title">"Gravando chamada"</string>
+     <string name="automatic_recording_title">"Gravação automática"</string>
+     <string name="dialog_phone_permission_deny">"Para usar IP disque,\n ligar a permissão de Telefone."</string>
+     <string name="search_description">"Buscar ChamadaNotas"</string>
+     <string name="call_log_add_to_blacklist">"Adicionar à lista negra"</string>
+     <string name="make_video_call_menu">"Fazer vídeo chamada"</string>
+
+</resources>

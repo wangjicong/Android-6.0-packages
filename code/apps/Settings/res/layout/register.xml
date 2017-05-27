@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--jiazhenl add for sales Tracker-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/Reg_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+    />
+   
+    <Button
+        android:id="@+id/Reg_button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_margin="20dp"
+        />
+</RelativeLayout>
+<!--jiazhenl add for sales Tracker-->

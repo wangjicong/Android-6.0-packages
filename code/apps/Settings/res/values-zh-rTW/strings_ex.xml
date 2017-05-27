@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+<!-- SPRD: Label for the USB Settings @{ -->
+    <string name="usb_settings">USB 設定 </string>
+    <string name="usb_storage">USB 儲存 </string>
+    <string name="usb_storage_summary">啟用USB大容量儲存</string>
+    <string name="usb_charge_only">僅充電</string>
+    <string name="usb_charge_only_summary">當USB連接時，僅使用充電功能</string>
+    <string name="usb_charge_only_storage_active_subtext">使用USB儲存設備時無法使用僅充電功能</string>
+    <string name="remember_choice">記住我的選擇</string>
+    <string name="remember_choice_summary">記住我選擇的功能，下次自動啟動</string>
+    <string name="ums_settings">"UMS 設定"</string>
+    <string name="ums_mounted_setting">"正在將U盤掛載到PC上，請稍等..."</string>
+    <string name="ums_unmounted_setting">"正在將U盤從PC上卸載，請稍等..."</string>
+    <string name="usb_virtual_drive">"USB 虛擬光驅"</string>
+    <string name="usb_virtual_drive_summary">"啟用USB虛擬光驅"</string>
+    <string name="usb_charge_only_notification">作為僅充電連接</string>
+	<!-- @} -->
+
+    <!-- SPRD: Label for the WIFI/BT Settings @{ -->
+    <string name="bt_softap_cannot_coexist">"可攜式 Wi-Fi 無線基地台開啟時藍牙不可用，如果您想使用藍牙請關閉可攜式 Wi-Fi無線基地台。"</string>
+    <string name="softap_bt_cannot_coexist">"藍牙開啟時可攜式 Wi-Fi 無線基地台不可用，如果您想使用可攜式 Wi-Fi 無線基地台請關閉藍牙。"</string>
+    <string name="softap_need_mobile_data_enabled">"可攜式 Wi-Fi 無線基地台需開啟移動數據連接，可能會產生額外費用。"</string>
+    <!-- @} -->
+
+    <!-- SPRD: add option to enable/disable sim card @{ -->
+    <string name="stand_by_set_changed_prompt">"此操作將改變SIM卡的激活狀態，是否繼續？"</string>
+    <string name="not_stand_by">"未啟用"</string>
+    <string name="primary_card_switching">設定中，請等待...</string>
+    <string name="toggle_data_change_message">網路數據連接切換至卡<xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, 將可能產生數據流量和相關費用, 請知悉。</string>
+    <!-- @} -->
+    <string name="whether_switch_primary_card">確認要將主卡切換到此卡？\n(行動數據也將切換到此卡。)</string>
+     <string name="select_primary_card">"主卡選擇"</string>
+    <string name="attention">注意</string>
+    <!-- SPRD: Add for SignalCluster colorful. @{ -->
+    <string-array name="light_color_picker">
+        <item>綠色</item>
+        <item>藍色</item>
+        <item>靛藍色</item>
+        <item>紫色</item>
+        <item>粉紅色</item>
+        <item>紅色</item>
+        <item>黃色</item>
+   </string-array>
+   <!-- @} -->
+   <!-- SPRD: add for bug 519572 -->
+   <string name="heartbeats_settings">省電管理</string>
+   <string name="heartbeats_settings_summary">調整省電保護列表，打開將消耗更多電量</string>
+    <!-- SPRD: Add for always online feature @{ -->
+    <string name="data_always_online">"行動數據始終在線"</string>
+    <!-- SPRD: Add for sim language @{ -->
+    <string name="edit_sim_lang">"SIM卡中的語言"</string>
+    <string name="edit_sim_lang_more">"編輯SIM卡中的語言"</string>
+    <!-- @} -->
+    <!-- SPRD: Add for bug 543820 Toggle master card reminder @{ -->
+    <string name="select_primary_slot_description">(主卡支援WCDMA/GSM模式，副卡僅支援GSM。)</string>
+    <string name="select_primary_slot_description_4g">(主卡支援4G/3G/2G服務，副卡僅支援2G服務。)</string>
+    <!-- @} -->
+</resources>

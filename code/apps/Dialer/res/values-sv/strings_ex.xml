@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Inställning av IP-uppringning"</string>
+    <string name="ip_dial_menu">"IP-uppringning "</string>
+    <string name="ip_dialing_title">"IP-uppringning"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">""Inställning för snabbuppringning!"</string>
+    <string name="no_fast_dial_number">"Nummer för snabbuppringning har inte ställts in."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"utgående"</string>
+     <string name="call_log_incoming_title">"inkommande"</string>
+     <string name="recentOutgoing_empty">"Du har inga utgående samtal"</string>
+     <string name="recentIncoming_empty">"Du har inga inkommande samtal"</string>
+     <string name="view_setting">"Visa"</string>
+     <string name="item_all_calls">"Alla samtalsloggar"</string>
+     <string name="item_sim_calls">"SIM%d samtalsloggar"</string>
+     <string name="unselect_all">"Avmarkera alla"</string>
+     <string name="select_all_sprd">"Markera alla"</string>
+     <string name="doneButton">"Färdig"</string>
+     <string name="cancel">"Avbryt"</string>
+     <string name="delete_selected_calls">"Vill du ta bort de markerade posterna?"</string>
+     <string name="clearCallLogProgress_title">"Samtalshistoriken rensas …"</string>
+     <string name="delete_success">"Har tagits bort"</string>
+     <string name="clear_all_call_log">"Rensa hela samtalsloggen"</string>
+     <string name="clear_selected_call_log">"Rensa markerad samtalslogg"</string>
+     <string name="select_all">"Markera alla"</string>
+     <string name="unselect_all">"Avmarkera alla"</string>
+     <string name="delete_all_calls_confirm">"Vill du ta bort alla dina poster?"</string>
+     <string name="do_not_select">"Du har inte valt post att ta bort"</string>
+     <string name="delete_calls">"Ta bort"</string>
+     <string name="number_anr_isnull">"Kontaktens nummer är tomt"</string>
+     <string name="call_recording_setting_title">"Inspelning av samtal"</string>
+     <string name="automatic_recording_title">"Automatisk inspelning"</string>
+     <string name="dialog_phone_permission_deny">"För att använda IP-uppringning,\n sätt på telefontillåtelse."</string>
+     <string name="search_description">"Sök samtalslogg"</string>
+     <string name="call_log_add_to_blacklist">"LÄGG TILL SVARTLISTA"</string>
+     <string name="make_video_call_menu">"Ring videosamtal"</string>
+
+</resources>

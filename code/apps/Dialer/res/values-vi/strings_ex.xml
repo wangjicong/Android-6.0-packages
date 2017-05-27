@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Cài đặt IP quay số"</string>
+    <string name="ip_dial_menu">"IP QUAY SỐ"</string>
+    <string name="ip_dialing_title">Quay số IP</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE -->
+    <string name="fast_dial_title">"Cài đặt quay số nhanh"</string>
+    <string name="no_fast_dial_number">"Số quay số nhanh không được đặt."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"Đi"</string>
+     <string name="call_log_incoming_title">"Đến"</string>
+     <string name="recentOutgoing_empty">"Bạn không có cuộc gọi đi."</string>
+     <string name="recentIncoming_empty">"Bạn không có cuộc gọi đến."</string>
+     <string name="view_setting">"Xem"</string>
+     <string name="item_all_calls">"Tất cả nhật ký cuộc gọi"</string>
+     <string name="item_sim_calls">"Nhật ký cuộc gọi SIM%d"</string>
+     <string name="unselect_all">"Bỏ chọn tất cả"</string>
+     <string name="select_all_sprd">"Chọn tất cả"</string>
+     <string name="doneButton">"Xong"</string>
+     <string name="cancel">"Hủy"</string>
+     <string name="delete_selected_calls">"Bạn có chắc chắn muốn xóa các bản ghi được lựa chọn?"</string>
+     <string name="clearCallLogProgress_title">"Xóa nhật ký cuộc gọi\u2026"</string>
+     <string name="delete_success">"Xóa thành công"</string>
+     <string name="clear_all_call_log">"Xóa tất cả nhật ký cuộc gọi"</string>
+     <string name="clear_selected_call_log">"Xóa nhật ký cuộc gọi được chọn"</string>
+     <string name="select_all">"Chọn tất cả"</string>
+     <string name="unselect_all">"Bỏ chọn tất cả"</string>
+     <string name="delete_all_calls_confirm">"Bạn có muốn xóa tất cả bản ghi của bạn hay không?"</string>
+     <string name="do_not_select">"Bạn đã không chọn bản ghi để xóa"</string>
+     <string name="delete_calls">"xóa"</string>
+     <string name="number_anr_isnull">"Số liên lạc trống"</string>
+     <string name="call_recording_setting_title">Ghi âm cuộc gọi</string>
+     <string name="automatic_recording_title">"Ghi âm tự động"</string>
+     <string name="dialog_phone_permission_deny">"Để sử dụng liên lạc IP, \n bật cho phép điện thoại."</string>
+     <string name="search_description">tìm kiếm nhật ký cuộc gọi</string>
+     <string name="call_log_add_to_blacklist">Thêm vào danh sách đen</string>
+     <string name="make_video_call_menu">"Gọi điện video"</string>
+     <string name="vibration_feedback_for_call_connection_setting_title">Kết nối cuộc gọi</string>
+</resources>

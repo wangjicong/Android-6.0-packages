@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    android:title="@string/dynamic_icon_title">
+
+    <SwitchPreference
+        android:key="pref_calendar"
+        android:title="@string/dynamic_calendar"
+        android:persistent="false" />
+
+    <SwitchPreference
+        android:key="pref_clock"
+        android:title="@string/dynamic_clock"
+        android:persistent="false" />
+
+</PreferenceScreen>

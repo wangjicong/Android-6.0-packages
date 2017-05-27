@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SprdAppInfo">
+        <attr name="clsName" format="string" />
+        <attr name="pkgName" format="string" />
+        <attr name="position" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="EffectInfo">
+        <attr name="effectName" format="integer" />
+        <attr name="effectIcon" format="integer" />
+        <attr name="effectIndex" format="integer" />
+    </declare-styleable>
+</resources>

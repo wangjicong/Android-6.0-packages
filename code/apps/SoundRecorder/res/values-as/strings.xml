@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"চাউণ্ড ৰেকৰ্ডাৰ"</string>
+<string name="record_your_message">"আপোনাৰ বাৰ্তা ৰেকৰ্ড কৰক"</string>
+<string name="message_recorded">"বাৰ্তা ৰেকৰ্ড হৈছে"</string>
+<string name="review_message">"বাৰ্তা গীত"</string>
+<string name="recording">"ৰেকৰ্ডিং"</string>
+<string name="recording_stopped">"ৰেকৰ্ডিং বন্ধ হৈছে"</string>
+<string name="recording_save">"ৰেকৰ্ডিং সঞ্চিত হৈছে"</string>
+<string name="recording_nosave">"ৰেকৰ্ডিং সঞ্চিত হোৱা নাই"</string>
+<string name="storage_is_full">"ভান্ডাৰ সম্পূৰ্ণ।"</string>
+<string name="max_length_reached">"সৰ্বাধিক দৈৰ্ঘ্য প্ৰাপ্ত হৈছে"</string>
+<string name="phone_message">"কল কৰি থাকোতে চাউণ্ড, ৰেকৰ্ডাৰ অন কৰিব নোৱাৰি"</string>
+<string name="min_available">"প্ৰায় <xliff:g id="minutes">%d</xliff:g> মিনিট উপলব্ধ"</string>
+<string name="min_and_time_available">"প্ৰায় <xliff:g id="minutes">%d</xliff:g> মিনিট আৰু <xliff:g id="seconds">%d</xliff:g> ছেকেণ্ড উপলব্ধ"</string>
+<string name="sec_available">"প্ৰায় <xliff:g id="seconds">%d</xliff:g>ছেকেণ্ড উপলব্ধ"</string>
+<string name="accept">"সংৰক্ষণ কৰা "</string>
+<string name="discard">"অগ্ৰাহ্য"</string>
+<string name="button_ok">"ঠিক আছে"</string>
+<string name="press_record">"ৰেকৰ্ড টিপক"</string>
+<string name="audio_db_artist_name">"আপোনাৰ ৰেকৰ্ড বিলাক।"</string>
+<string name="audio_db_album_name">"অডিঅ’ ৰেকৰ্ডিং"</string>
+<string name="audio_db_playlist_name">"মোৰ ৰেকৰ্ড বিলাক।"</string>
+<string name="error_app_internal">"আভ্যন্তৰীণ ব্যবহাৰিক ক্ৰূটি।"</string>
+<string name="error_mediadb_new_record">"ৰেকৰ্ড কৰা অডিও ৰাখিব পৰা নাই।"</string>
+<string name="save">"সংৰক্ষণ কৰা "</string>
+<string name="select_file_type">"ৰেকৰ্ড ফাইল প্ৰকাৰে বাছনি কৰক"</string>
+<string name="record_amr">"amr প্ৰকাৰ"</string>
+<string name="record_3gpp">"3gpp প্ৰকাৰ"</string>
+<string name="button_cancel">"নাকচ"</string>
+<string name="path_save">"ডিফল্ট পথ সঞ্চিত হৈছে"</string>
+<string name="path_nosave">"ডিফল্ট পথ সঞ্চিত হোৱা নাই"</string>
+<string name="path_default">"বৰ্তমানৰ পথ আভ্যন্তৰীণ সঞ্চয়ো নহয় বাহ্যিক সঞ্চয়ো নহয় ডিফল্ট সঞ্চয় পথ আভ্যন্তৰীণ সঞ্চয়লৈ সলনি হৈছে।"</string>
+<string name="menu_set_save_path">"সঞ্চয় পথ ছেট কৰক"</string>
+<string name="back">"পিছলৈ.."</string>
+<string name="path_label">"সঞ্চয় পথ বাছনি কৰক"</string>
+<string name="pause">"স্তব্ধ"</string>
+<string name="storage_is_not_enough">"সঞ্চয় পৰ্যাপ্ত নহয়"</string>
+<string name="menu_recording_file_list">"ৰেকৰ্ডিং ফাইল তালিকা"</string>
+<string name="recording_list_empty">"তালিকা খালী কৰক"</string>
+<string name="menu_recording_list_select_all">"আটাইবোৰ নিৰ্ধাৰণ কৰক"</string>
+<string name="menu_recording_list_delete">"মচি দিয়া"</string>
+<string name="menu_recording_list_deselect_all">"অবাছনি"</string>
+<string name="recording_file_delete_success">"ৰেকৰ্ডিং বিলোপ হৈছে"</string>
+<string name="recording_file_database_failed">"ডাটাবেছ ফাইল বিলোপ কৰিবলৈ অক্ষম"</string>
+<string name="recording_file_delete_failed">"ৰেকৰ্ডিং ফাইল বিলোপ কৰিবলৈ অক্ষম"</string>
+<string name="confirm_del">"আপুনি ফাইলবোৰ বিলোপ কৰিব বুলি নিশ্চিতনে?"</string>
+<string name="button_delete">"মচি দিয়া"</string>
+<string name="recording_file_delete_alert_title">"মচি দিয়া"</string>
+<string name="recording_file_delete_alert_message">"নিশ্চিতভাৱে %1$s বিলোপ কৰিব?"</string>
+<string name="recording_file_list">"ৰেকৰ্ডিং ফাইল তালিকা"</string>
+<string name="less_than_one_second">"1 ছেকেণ্ড"</string>
+<string name="is_scanning">"এতিয়া মেডিয়াস্কেনাৰ চলি আছে, অপেক্ষা কৰক..."</string>
+<string name="emptylist">"তালিকাখন খালী"</string>
+<string name="choose_file">"প্ৰথমে আপুনি বিলোপ কৰিব বিচৰা ৰেকৰ্ডিংটো বাছনি কৰক!"</string>
+<string name="error_path">"আপুনি বাছনি কৰা পথটো নাই, ৰিছেট কৰক!"</string>
+<string name="path_miss">"সঞ্চিত পথটো নাই বা প্ৰাপ্ত কৰিব নোৱাৰি!"</string>
+<string name="low_memory">"ফোন স্মৃতি পৰ্যাপ্ত নহয়, ৰেকৰ্ডিং বন্ধ হ’ব!"</string>
+<string name="record_error">"এক ব্যক্তিক্ৰম ৰেকৰ্ডিং হয়!"</string>
+<string name="dialog_title">"অনুগ্ৰহ কৰি বাচনি কৰক"</string>
+<string name="dialog_message">"ৰেকৰ্ডিং সঞ্চিত কৰিব?"</string>
+<string name="same_application_running">"ৰেকৰ্ডিং ডিভাইছটো আন এটা প্ৰ’গ্ৰামে ব্যৱহাৰ কৰি আছে, এই প্ৰ’গ্ৰামটো বন্ধ কৰক!"</string>
+<string name="recording_time_short">"ৰেকৰ্ডিং সময় 1 ছেকেণ্ডৰ কম, সঞ্চিত হোৱা নাই"</string>
+<string name="rename">"পুনঃনামাকৰণ"</string>
+<string name="rename_save">"নাম সলনি সফল"</string>
+<string name="rename_nosave">"নাম সলনি বিফল"</string>
+<string name="filename_is_not_modified">"ফাইল নাম সলনি হোৱা নাই"</string>
+<string name="duplicate_name">"ফাইল নাম ডুপ্লিকেট"</string>
+<string name="soundpicker_label">"ৰেকৰ্ডিং ফাইল বাছনি কৰক"</string>
+<string name="error_sdcard_path">"SD কাৰ্ড অস্তিত্বত নাই। ডিফল্ট সঞ্চয় পথ আভ্যন্তৰীণ সঞ্চয়লৈ সলনি হৈছে।"</string>
+<string name="input_length_overstep">"ইনপুট সৰ্বাধিক দৈৰ্ঘত উপনীত হৈছে"</string>
+<string name="filename_empty_error">"ফাইল নাম ৰিক্ত হ’ব নোৱাৰে, মূল নামটো সঞ্চিত কৰক"</string>
+<string name="please_choose_files">"ফাইলবোৰ বাছনি কৰক"</string>
+<string name="selected_files_count">"<xliff:g id="COUNTS">%d</xliff:g> বাছনি কৰিছে"</string>
+    <string name="play_error">"মিউজিক প্লেয়াৰ অক্ষম কৰি থোৱা আছে,খুলিব নোৱাৰি！"</string>
+    <string name="use_default_path">"সঞ্চিত পথ বিদ্যমান নহয়, ডিফল্ট পথ ব্য‌ৱহাৰ কৰক"</string>
+    <string name="stroage_not_mounted">ষ্টোৰেজটো মাউণ্ট কৰা হোৱা নাই</string>
+    <string name="special_char_exist">"বিশেষ চৰিত্ৰ বোৰ <xliff:g id="COUNTS">%s</xliff:g> সহযোগ কৰা নহয়"</string>
+    <string name="menu_select_more">"আৰু অধিক নিৰ্বাচন কৰক"</string>
+    <string name="menu_select_type">"ফাইলৰ প্ৰকাৰ চেট কৰক"</string>
+    <string name="path_miss_nosave">"ষ্টোৰ কৰা পথ নাই, ৰেকৰ্ডিং চেভ্ কৰা হোৱা নাছিল！"</string>
+
+    <string name="file_path_button">"ফাইল পথ"</string>
+     <string name="file_name">"ফাইল নাম:"</string>
+     <string name="file_path">"ফাইল পথ:"</string>
+     <string name="dialog_dismiss">"নাকচ কৰক"</string>
+     <string name="error_permissions">"এপ্পটোৰ চলাবলৈ আৱশ্যকীয় জটিল অনুমতি নাই। অনুগ্ৰহ কৰি আপোনাৰ অনুমতি ছেটিংছ পৰীক্ষা কৰক।"</string>
+</resources>

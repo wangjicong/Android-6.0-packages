@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config spn="NL Telfort">
+        <boolean name="mvno" value="true"/>
+        <string name="vmnumber">1233</string>
+        <string name="vmtag">voicemail</string>
+        <string name="roamingvm">+31626001233</string>
+    </carrier_config>
+    <carrier_config spn="AH Mobiel">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">AH Mobiel</string>
+        <string name="vmnumber">1233</string>
+        <string name="roamingvm">+31616001233</string>
+    </carrier_config>
+    <carrier_config spn="Lebara">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Lebara</string>
+        <string name="vmnumber">1233</string>
+        <string name="roamingvm">+31619001233</string>
+    </carrier_config>
+</carrier_config_list>

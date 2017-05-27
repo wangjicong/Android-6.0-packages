@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"הגדרות חיוג שיחת IP"</string>
+    <string name="ip_dial_menu">חיוג ה-IP</string>
+    <string name="ip_dialing_title">חיוג IP</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"הגדרות חיוג מהיר"</string>
+    <string name="no_fast_dial_number">"מספר החיוג המהיר אינו מוגדר."</string>
+    <!-- @} -->
+</resources>

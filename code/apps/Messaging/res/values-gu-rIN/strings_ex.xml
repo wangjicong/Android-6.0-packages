@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"સહી"</string>
+<string name="pref_title_sms_retry_times"> SMS સક્ષમ કરો, પુનઃપ્રયત્ન કરો </string>
+<string name="preference_name">"સામાન્ય શબ્દસમૂહ"</string>
+<string name="select">"પસંદગી કરવામાં આવી છે"</string>
+<string name="item_cancel">"રદ્દ"</string>
+<string name="item_delete">"ભૂંસો"</string>
+<string name="save_as_teltype">"ફોન માટે"</string>
+<string name="save_as_mmstype">"Sms માટે"</string>
+<string name="type_to_pharser">"સામાન્ય મહાવરો ટાઈપ કરો"</string>
+<string name="add">ઉમેરો</string>
+<string name="edit">"ફેરફાર"</string>
+<string name="delete">"ભૂંસો"</string>
+<string name="finish">સમાપ્ત</string>
+<string name="cancel">"રદ્દ"</string>
+<string name="add_pharser">"સામાન્ય મહાવરો ઉમેરો"</string>
+<string name="edit_pharser">"સામાન્ય શબસમૂહોનું સંપાદન કરો "</string>
+<string name="pharser_can_modify">"વૈવિધ્યપૂર્ણ મહાવરો"</string>
+<string name="pharser_cannot_modify">"ચોક્ક્સ મહાવરો"</string>
+<string name="select_item">"તમે પસંદ કરી લીધું છે"</string>
+<string name="select_commmon_phrase">"સામાન્ય મહાવરો પસંદ કરો "</string>
+<string name="common_phrase_empty">"સામાન્ય શબ્દસમૂહો નથી "</string>
+<string name="action_add_phrase">"સામાન્ય મહાવરો દાખલ કરો"</string>
+<string name="pref_other_settings_title">અન્ય </string>
+<string-array name="fixed_mms_phrase">
+<item>કૃપા કરીને મારા ઓફિસ ફોન પર કોલ કરો, આભાર. </item>
+<item>કૃપા કરીને મારો સંપર્ક કરો, આભાર.</item>
+<item>કૃપા કરીને મને તમારું સ્થળ કહો.</item>
+<item>કૃપા કરીને મારા સેલ ફોન પર બાદમાં ફોન કરો, આભાર.</item>
+<item>હં બહાર હતો, ગરે જાઉ છું અને તમને કોલ કરું છું.</item>
+<item>"હું વાહન ચલાવી રહ્યો છું અને પછીથી પ્રતિભાવ આપીશ."</item>
+<item>"હું રસ્તા પર આવું છું, તાત્કાલિક પહોંચીશ"</item>
+<item>ટ્રાફિક જામ, બાદમાં, ક્ષમા કરશો.</item>
+<item>તમને બાદમાં ફરીથી કોલ કરુ છું.</item>
+<item>હું મીટીંગમાં છું, જવાબ પછી આપુ છું.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"હાલમાં વાત કરી શકીશ નહી, હવે શું છે?"</item>
+<item>"હું તમને હાલમાં વળતો કલ કરું છું."</item>
+<item>"હં તમને પછીથી કોલ કરીશ."</item>
+<item>"હાલમાં વાત કરી શકું તેમ નથી. મને બાદમાં કોલ કરશો?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"કૃપા કરી મને કૉલ કરો અથવા પછીથી મને sms કરજો."</item>
+</string-array>
+</resources>

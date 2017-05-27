@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPRD: add for location operator features -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD:support SGPS AGPS show log @{ -->
+    <string name="gps_log_show">顯示 AGPS LOG</string>
+
+    <!-- SPRD:support GPS automatic update time @{ -->
+    <string name="gps_time_sync_attention_gps_on">最多需要 1 分鐘才能取得 GPS 定位。此外，GPS 可能會因為環境訊號微弱而無法提供時間。\n\n是否確定使用 GPS 提供的時間?</string>
+    <string name="gps_time_sync_attention_gps_off">若要使用 GPS 提供的時間，必須先啟用 GPS 。此外，GPS 可能會因為環境訊號微弱而無法提供時間。\n\n是否立即啟用 GPS 並等待 GPS 提供時間?</string>
+    <!-- @} -->
+
+    <!-- SPRD:support AGPS settings @{ -->
+    <string name="location_gps_config">AGPS 開啟選項</string>
+    <string name="location_gps_config_summary">設定在不同網路環境中是否使用 AGPS</string>
+    <string name="agps_enable_option_tailebar">AGPS 開啟選項</string>
+    <string name="agps_enable_option_registered">在註冊網路中使用AGPS</string>
+    <string name="agps_enable_option_all">在所有網路中使用AGPS</string>
+    <string name="agps_enable_option_none">不使用AGPS</string>
+    <string name="agps_enable_default_set_text">點擊恢復默認值按鈕，將恢復AGPS 的默認參數設定。</string>
+    <string name="agps_enable_default_set_button">恢復預設值</string>
+    <string name="agps_config_help_tailebar">AGPS 幫助</string>
+    <string name="agps_config_help_text">如果設定了在所有網路中使用 AGPS，在國際漫遊網路中，AGPS 將因數據連線產生國際漫遊資費。</string>
+    <string name="settings_other">其他</string>
+    <!-- @} -->
+
+</resources>

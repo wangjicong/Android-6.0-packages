@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <string name="vmnumber">+447953222222</string>
+        <string name="roamingvm">+447953222222</string>
+    </carrier_config>
+    <carrier_config spn="ASDA Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">ASDA Mobile</string>
+        <string name="vmnumber">+447953222222</string>
+        <string name="roamingvm">+447953222222</string>
+    </carrier_config>
+    <carrier_config spn="Virgin">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Virgin</string>
+    </carrier_config>
+    <carrier_config spn="TPO">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">The People's Operator</string>
+    </carrier_config>
+    <carrier_config spn="FamilyMobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Family Mobile</string>
+    </carrier_config>
+    <carrier_config pnn="Virgin">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Virgin</string>
+    </carrier_config>
+    <carrier_config pnn="ASDA Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">ASDA Mobile</string>
+        <string name="vmnumber">+447953222222</string>
+        <string name="roamingvm">+447953222222</string>
+    </carrier_config>
+    <carrier_config pnn="BT">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">BT</string>
+    </carrier_config>
+    <carrier_config spn="BT">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">BT</string>
+    </carrier_config>
+    <carrier_config spn="World Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Mobile World</string>
+    </carrier_config>
+</carrier_config_list>

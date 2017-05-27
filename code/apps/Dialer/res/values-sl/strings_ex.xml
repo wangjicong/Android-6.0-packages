@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP klicne nastavitve"</string>
+    <string name="ip_dial_menu">"IP KLIC"</string>
+    <string name="ip_dialing_title">IP klicanje</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Nastavitve hitrega klicanja"</string>
+    <string name="no_fast_dial_number">"Številka za hitro klicanje ni nastavljena."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"Odhodni"</string>
+     <string name="call_log_incoming_title">"Dohodni"</string>
+     <string name="recentOutgoing_empty">"Nimate odhodnih klicev."</string>
+     <string name="recentIncoming_empty">"Nimate dohodnih klicev."</string>
+     <string name="view_setting">"Pogled"</string>
+     <string name="item_all_calls">"Dnevnik vseh klicev"</string>
+     <string name="item_sim_calls">"SIM%d zgodovina klicev"</string>
+     <string name="unselect_all">Odznači vse</string>
+     <string name="select_all_sprd">Izberi vse</string>
+     <string name="doneButton">Končano</string>
+     <string name="cancel">Prekini</string>
+     <string name="delete_selected_calls">"Ste prepričani, da želite izbrisati izbrane zapise?"</string>
+     <string name="clearCallLogProgress_title">"Brisanje zgodovine klicev\u2026"</string>
+     <string name="delete_success">"Brisanje uspešno"</string>
+     <string name="clear_all_call_log">"Počisti celoten dnevnik klicev"</string>
+     <string name="clear_selected_call_log">"Počisti izbran dnevnik klicev"</string>
+     <string name="select_all">Izberi vse</string>
+     <string name="unselect_all">"Počisti izbiro"</string>
+     <string name="delete_all_calls_confirm">"Hočete zbrisati dnevnike vseh klicev?"</string>
+     <string name="do_not_select">"Niste izbrali datoteke za izbris"</string>
+     <string name="delete_calls">Zbriši</string>
+     <string name="number_anr_isnull">"Ni številke stika"</string>
+     <string name="call_recording_setting_title">"Snemanje klica"</string>
+     <string name="automatic_recording_title">"Samodejno snemanje"</string>
+     <string name="dialog_phone_permission_deny">"Za uporabo IP klica,\n vklopite dovoljenja telefona."</string>
+     <string name="search_description">Preišči dnevnik klicev</string>
+     <string name="call_log_add_to_blacklist">Dodaj na seznam blokiranih</string>
+     <string name="make_video_call_menu">"Opravi videoklic"</string>
+
+</resources>

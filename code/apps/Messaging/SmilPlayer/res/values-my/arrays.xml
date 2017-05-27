@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="array_fixed_common_phrase">
+<item>"ေက်းဇူးျပု၍က်ြနု္ပ္ရံုးဖုန္းကိုေခါ ္ပါ, ေက်းဇူးတင္ပါသည္."</item>
+<item>"ေက်းဇူးျပု၍က်ြနု္ပ္ကိုဆက္သြယ္ပါ,ေက်းဇူးတင္ပါသည္."</item>
+<item>"ေက်းဇူးျပု၍သင္၏တည္ေနရာကိုေျပာပါ."</item>
+<item>"ေက်းဇူးျပု၍ေနာက္မွက်ြနု္ပ္၏ဆဲလ္ဖုန္းကိုေခါ ္ပါ,ေက်းဇူးတင္ပါသည္."</item>
+<item>"က်ြနု္ပ္အျပင္မွာ,အိမ္ေရာက္လွ်င္သင့္ကိုဖုန္းေခါ ္မည္."</item>
+<item>"က်ြနု္ပ္ကားေမာင္းေန၍ေနာက္မွအေျကာင္းျပန္မည္."</item>
+<item>"က်ြန္ုပ္လမ္းမွာ,မျကာမီေရာက္မည္."</item>
+<item>"ကားရွုပ္ေန,ေနာက္မွဘဲ,ေဆာရီး."</item>
+<item>"သင့္ကိုေနာက္မွဖုန္းျပန္ေခါ ္မည္."</item>
+<item>"က်ြန္ုပ္မီတင္မွာ,ေနာက္မွျပန္ျကားမည္."</item>
+</string-array>
+  <string-array name="array_common_phrase_type">
+<item>"မခ်ိန္းခဲ့"</item>
+<item>"ခ်ိန္းခဲ့"</item>
+</string-array>
+  <string-array name="empty_subject_strings">
+    <item>"အေၾကာင္းအရာမ႐ွိပါ"</item>
+  </string-array>
+</resources>

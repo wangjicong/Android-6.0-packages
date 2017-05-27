@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Підпис"</string>
+<string name="pref_title_sms_retry_times">"Активувати повтор SMS"</string>
+<string name="preference_name">"загальні фрази"</string>
+<string name="select">обрани</string>
+<string name="item_cancel">"    скасувати"</string>
+<string name="item_delete">"видалити "</string>
+<string name="save_as_teltype">"Для телефону"</string>
+<string name="save_as_mmstype">"Для SMS"</string>
+<string name="type_to_pharser">"Введення часто вживаних фраз"</string>
+<string name="add">"додавати"</string>
+<string name="edit">"Змінити"</string>
+<string name="delete">"видалити "</string>
+<string name="finish">"Закінчити"</string>
+<string name="cancel">"    скасувати"</string>
+<string name="add_pharser">"Додати часто вживану фразу"</string>
+<string name="edit_pharser">"Редагувати загальні фрази"</string>
+<string name="pharser_can_modify">"Фраза користувача"</string>
+<string name="pharser_cannot_modify">"Виправити фразу"</string>
+<string name="select_item">"Ви вибрали"</string>
+<string name="select_commmon_phrase">"Вибрати загальну фразу"</string>
+<string name="common_phrase_empty">Немає загальних фраз</string>
+<string name="action_add_phrase">"Вставити часто вживану фразу"</string>
+<string name="pref_other_settings_title">"Інша"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Будь ласка, зателефонуйте в мій офіс телефон, спасибо."</item>
+<item>Будь ласка передзвоніть мені, дякую.</item>
+<item>Будь ласка вкажіть мені ваше місцезнаходження.</item>
+<item>Будь ласка передзвоніть на мій телефон пізніше, дякую.</item>
+<item>Я відійшов/відійшла, повернуся і перетелефоную вам.</item>
+<item>"В даний час я за кермом і відповім пізніше"</item>
+<item>"Я вже йду, скоро буду"</item>
+<item>Вибачте, спізнююся через затори на дорогах.</item>
+<item>Перетелефоную пізніше.</item>
+<item>Я на засіданні, перетелефоную пізніше.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Не можу говорити. У чому справа?"</item>
+<item>"Я зараз передзвоню."</item>
+<item>"Я передзвоню пізніше."</item>
+<item>"Не можу говорити. Передзвоніть."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Будь ласка, зателефонуйте або надішліть мені повідомлення пізніше"</item>
+</string-array>
+</resources>

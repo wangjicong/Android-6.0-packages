@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"কেলেণ্ডাৰ ষ্টোৰেজ"</string>
+<string name="calendar_default_name">ডিফল্ট</string>
+<string name="calendar_info">"কেলেণ্ডাৰ তথ্য"</string>
+<string name="calendar_info_error">"অটো"</string>
+<string name="calendar_info_no_calendars">"কোনো কেলেণ্ডাৰ নাই"</string>
+<string name="calendar_info_events">"ঘটনাবোৰ : <xliff:g id ="events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"ঘটনাবোৰ : <xliff:g id ="events">%1$d</xliff:g>, অসঞ্চিত: <xliff:g id ="dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"কেলেণ্ডাৰ"</string>
+<string name="debug_tool_delete_button">"এতিয়া বিলোপ কৰক"</string>
+<string name="debug_tool_start_button">"স্টাৰ্ট"</string>
+<string name="debug_tool_message">"আপুনি এতিয়া 1) আপোনাৰ কেলেণ্ডাৰ ডাটাবেছ SD কাৰ্ড/USB ষ্টোৰেজলৈ প্ৰতিলিপি কৰিব ওলাইছে, যাক এপ্পে পঢ়িব পাৰে, আৰু 2) আৰু ইয়াক ইমেইল কৰিব ওলাইছে। আপুনি ইয়াক সফলতাৰে ডিভাইছৰ পৰা প্ৰতিলিপি কৰাৰ বাৰ ইমেইল প্ৰাপ্ত কৰাৰ পিছতে ইয়াক বিলোপ কৰিবলৈ নাপাহৰিব।"</string>
+<string name="debug_tool_email_sender_picker">"আপোনাৰ ফাইল প্ৰেৰণ কৰিবলৈ প্ৰ’গ্ৰাম এটা বাছনি কৰক"</string>
+<string name="debug_tool_email_subject">"কেলেণ্ডাৰ Db সংলগ্ন হৈছে"</string>
+<string name="debug_tool_email_body">"মোৰ সকলো এপইণ্টমেণ্ট আৰু ব্যক্তিগত তথ্য সহ মোৰ কেলেণ্ডাৰ ডাটাবেছ সংলগ্ন কৰা হৈছে। সাৱধানে সঞ্চালন কৰিব।"</string>
+<string name="no_title_label">"(কোনো শিৰোনাম নাই)"</string>
+</resources>

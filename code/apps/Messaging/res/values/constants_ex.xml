@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <!-- Add by SPRD for Bug:533513 2016.03.10 Start -->
+    <string name="pref_key_signature_enable" translatable="false">signature_enable</string>
+    <!-- Add by SPRD for Bug:533513 2016.03.10 End -->
+    <string name="signature_pref_key" translatable="false">signature</string>
+    <bool name="sms_retry_times_pref_default" translatable="false">false</bool>
+    <string name="sms_retry_times_pref_key" translatable="false">buglesub_sms_retry_times_key</string>
+    <string name="smsc_pref_key" translatable="false">buglesub_smsc_pref_key</string>
+    <string name="mms_validity_pref_key" translatable="false">mms_validity_key</string>
+    <string name="sms_validity_pref_key" translatable="false">sms_validity_key</string>
+    <!-- sprd#542214 start -->
+    <string name="sms_save_to_sim_pref_key" translatable="false">buglesub_sms_save_to_sim</string>
+    <bool name="sms_save_to_sim_pref_default" translatable="false">false</bool>
+    <!-- sprd#542214 end -->
+
+    <!-- 489220 begin  -->
+    <string name="mms_delivery_reports_pref_key" translatable="false">buglesub_mms_delivery_reports</string>
+    <bool name="mms_delivery_reports_pref_default" translatable="false">false</bool>
+    <string name="mms_read_reports_pref_key" translatable="false">buglesub_mms_read_reports</string>
+    <bool name="mms_read_reports_pref_default" translatable="false">false</bool>
+    <string name="enable_return_mms_delivery_reports_pref_key" translatable="false">buglesub_enable_return_mms_delivery_reports</string>
+    <bool name="enable_return_mms_delivery_reports_pref_default" translatable="false">false</bool>
+    <string name="enable_return_mms_read_reports_pref_key" translatable="false">buglesub_enable_return_mms_read_reports</string>
+    <bool name="enable_return_mms_read_reports_pref_default" translatable="false">false</bool>
+    <!-- 489220 end  -->
+    <!-- add for bug 556265 capacity of sim messages begin -->
+    <string name="capacity_sim_message_key" translatable="false">capacity_sim_message_key</string>
+    <!-- add for bug 556265 capacity of sim messages end -->
+
+    <!-- Add by SPRD for Bug:562203 Start -->
+    <string name="pref_key_encode_type_setting" translatable="false">Encode Type Setting</string>
+    <string name="pref_key_encode_type" translatable="false">Encode Type</string>
+    <!-- Add by SPRD for Bug:562203 End -->
+</resources>

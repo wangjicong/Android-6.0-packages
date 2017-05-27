@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">Меморија на календар</string>
+<string name="calendar_default_name">Стандардни опции</string>
+<string name="calendar_info">Информации за календарот</string>
+<string name="calendar_info_error">Грешка</string>
+<string name="calendar_info_no_calendars">Нема календари</string>
+<string name="calendar_info_events">Настани: <xliff:g id = "events">%1$d</xliff:g></string>
+<string name="calendar_info_events_dirty">Настани: <xliff:g id = "events">%1$d</xliff:g>, Незачувани: <xliff:g id = "dirty events">%2$d</xliff:g></string>
+<string name="provider_label">Календар</string>
+<string name="debug_tool_delete_button">Избришете сега</string>
+<string name="debug_tool_start_button">Старт</string>
+<string name="debug_tool_message">Вие сте на прагот да 1) направите копија од базата на податоци од вашиот календар на вашата SD картичка/ USB меморија, која може да биде прочитана од која било апликација и 2) да ја пратите по електронска пошта. Запомнете да ја избришете копијата веднаш штом успешно сте ја копирале од уредот или веднаш штом електронската пошта е примена.</string>
+<string name="debug_tool_email_sender_picker">Изберете програма со која ќе ја испратите папката</string>
+<string name="debug_tool_email_subject">Прикачена е базата на податоци на календарот</string>
+<string name="debug_tool_email_body">Базата на податоци на мојот календар со моите состаноци и лични информации е прикачена. Однесувајте се грижливо со неа.</string>
+<string name="no_title_label">(Нема наслов)</string>
+</resources>

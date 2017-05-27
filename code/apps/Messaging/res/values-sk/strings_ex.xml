@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Podpis"</string>
+<string name="pref_title_sms_retry_times">"Povoliť nový pokus pre SMS"</string>
+<string name="preference_name">"Bežná fráza"</string>
+<string name="select">"Vybrané"</string>
+<string name="item_cancel">"Zrušiť"</string>
+<string name="item_delete">Vymazať</string>
+<string name="save_as_teltype">"Pre telfón"</string>
+<string name="save_as_mmstype">"Pre Sms"</string>
+<string name="type_to_pharser">"Napísať bežnú frázu"</string>
+<string name="add">"Pridať"</string>
+<string name="edit">"Upraviť"</string>
+<string name="delete">Vymazať</string>
+<string name="finish">"Dokončiť"</string>
+<string name="cancel">"Zrušiť"</string>
+<string name="add_pharser">"Pridať bežnú frázu"</string>
+<string name="edit_pharser">"Editovať bežnú frázu"</string>
+<string name="pharser_can_modify">"Prispôsobená fráza"</string>
+<string name="pharser_cannot_modify">"Pevná fráza"</string>
+<string name="select_item">"Vybrali ste si"</string>
+<string name="select_commmon_phrase">"Zvoliť bežnú frázu"</string>
+<string name="common_phrase_empty">"Nie bežné frázy"</string>
+<string name="action_add_phrase">"Vložiť bežnú frázu"</string>
+<string name="pref_other_settings_title">"Iné"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Prosím, volajte na môj pracovný telefón, ďakujem."</item>
+<item>"Prosím, kontaktujte ma, ďakujem."</item>
+<item>"Prosím, povedzte mi svoje miesto."</item>
+<item>"Prosím, zavolajte mi na mobil neskôr, ďakujem."</item>
+<item>"Nie som v dosahu, keď prídem domov, zavolám Vám."</item>
+<item>"Šoférujem, zdvihnem neskôr."</item>
+<item>"Som na ceste, o chvíľu budem v dosahu."</item>
+<item>"Zápcha na ceste, potom neskôr, sorry."</item>
+<item>"Zavolám neskôr."</item>
+<item>"Som na stretnutí, zdvihnem neskôr."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Teraz nemôžem hovoriť, o čo ide?"</item>
+<item>"Zavolám späť."</item>
+<item>"Zavolám neskôr."</item>
+<item>"Teraz nemôžem, zavolajte inokedy."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Prosím, zavolajte mi alebo pošlite sms neskôr."</item>
+</string-array>
+</resources>

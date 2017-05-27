@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">Нагодувања за USB </string>
+<string name="usb_charge_only">Само полнење</string>
+<string name="usb_charge_only_summary">Употреби режим на полнење кога е поврзан USB</string>
+<string name="usb_charge_only_storage_active_subtext">Не може да се полни само кога се користи USB просторот за складирање</string>
+<string name="usb_charge_only_notification">Поврзано само да се полни</string>
+<string name="usb_storage">USB меморија</string>
+<string name="usb_storage_summary">Вклучи USB меморија.</string>
+<string name="ums_settings">"Нагодувања за UMS"</string>
+<string name="ums_mounted_setting">"Вгради ums на PC сега, почекајте..."</string>
+<string name="ums_unmounted_setting">"Вадење ums од PC во тек, почекајте..."</string>
+<string name="usb_virtual_drive">"USB виртуелен драјв"</string>
+<string name="usb_virtual_drive_summary">"Активирај USB виртуелен драјв"</string>
+<string name="remember_choice">Запомни го мојот избор</string>
+<string name="remember_choice_summary">Запомни го мојот избор и автоматски започни ја препорачаната функција следниот пат</string>
+<string name="stand_by_set_changed_prompt">"Статусот на Sim активација ќе биде променет, потврдете дали сакате да продолжите?"</string>
+<string name="not_stand_by">ЗАБРАНЕТО</string>
+<string name="primary_card_switching">"Прилагодување\uff0cве молиме почекајте..."</string>
+<string name="toggle_data_change_message">Поврзувањето на податоци се префрли на sim картичка <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, ќе прикаже податоци преку корелативни промени, имајте предвид.</string>
+<string name="select_primary_card">Избери главна картичка</string>
+<string name="whether_switch_primary_card">"Ве молиме потврдете дали сакате да се префрли главната картичка на оваа картичка?\n(Мобилните податоци, исто така, ќе се префрлат на картичката.)"</string>
+<string name="attention">Внимание</string>
+<string name="bt_softap_cannot_coexist">"Кога softap е активиранa или вклучена, bluetooth не може да работи, ако сакате да го користите bluetooth, исклучете го softap."</string>
+<string name="softap_bt_cannot_coexist">"Кога bluetooth е активиран или вклучен, softap не може да работи, ако сакате да ја користите softap, исклучете го bluetooth."</string>
+<string name="softap_need_mobile_data_enabled">"За преносливото Wi-Fi жешко место е потребно поврзување на мобилни податоци и може да дојде до дополнителни трошоци."</string>
+<string-array name="light_color_picker">
+<item>Зелено</item>
+<item>Сина</item>
+<item>Идниго</item>
+<item>Виолетово</item>
+<item>Розово</item>
+<item>Црвено</item>
+<item>Жолто</item>
+</string-array>
+</resources>

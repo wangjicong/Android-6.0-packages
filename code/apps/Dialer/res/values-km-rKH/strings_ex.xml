@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"ការកំណត់ការវាយលេខIP"</string>
+    <string name="ip_dial_menu">"ការវាយលេខIP"</string>
+    <string name="ip_dialing_title">"ការហៅទូរស័ព្ទតាមIP"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"ការកំណត់ការវាយលេខរហ័ស"</string>
+    <string name="no_fast_dial_number">"មិនមានការវាយលេខរហ័សណាមួយត្រូវបានកំណត់ទេ"</string>
+    <!-- @} -->
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5955735546071433666">"Skaņas ierakstītājs"</string>
+    <string name="record_your_message" msgid="1583671906691662148">"Ierakstiet ziņojumu"</string>
+    <string name="message_recorded" msgid="381539460921872233">"Ziņojums ierakstīts"</string>
+    <string name="review_message" msgid="201616012287839474">"Ziņojuma pārskatīšana"</string>
+    <string name="recording" msgid="4426791467211376099">"Notiek ierakstīšana"</string>
+    <string name="recording_stopped" msgid="1580278719585249612">"Ierakstīšana apturēta"</string>
+    <string name="storage_is_full" msgid="416039755956726221">"Krātuve ir pilna"</string>
+    <string name="max_length_reached" msgid="6398215743584093353">"Sasniegts maksimālais garums"</string>
+    <string name="insert_sd_card" product="nosdcard" msgid="4609407750669086933">"Pievienojiet USB atmiņu."</string>
+    <string name="insert_sd_card" product="default" msgid="1007630222084726808">"Ievietojiet SD karti."</string>
+    <string name="min_available" msgid="5493947690062988925">"Pieejamas <xliff:g id="MINUTES">%d</xliff:g> min"</string>
+    <string name="sec_available" msgid="2297020788861694399">"Pieejamas <xliff:g id="SECONDS">%d</xliff:g> s"</string>
+    <string name="accept" msgid="1888285552128743656">"Gatavs"</string>
+    <string name="discard" msgid="761613433029406319">"Atmest"</string>
+    <string name="button_ok" msgid="3004911343723076226">"Labi"</string>
+    <!-- no translation found for audio_db_title_format (7912182366970749312) -->
+    <skip />
+    <string name="audio_db_artist_name" msgid="961640229118120080">"Jūsu ieraksti"</string>
+    <string name="audio_db_album_name" msgid="9072588113803264440">"Audio ieraksti"</string>
+    <string name="audio_db_playlist_name" msgid="5592939050047058162">"Mani ieraksti"</string>
+    <string name="error_sdcard_access" product="nosdcard" msgid="86629081075681774">"Nevar piekļūt USB atmiņai."</string>
+    <string name="error_sdcard_access" product="default" msgid="5750308258096153274">"Nevar piekļūt SD kartei."</string>
+    <string name="error_app_internal" msgid="312884382388702022">"Iekšēja lietojumprogrammas kļūda"</string>
+    <string name="error_mediadb_new_record" msgid="261714902333432462">"Nevarēja saglabāt ierakstīto audio."</string>
+    <string name="recording_save">"Ieraksts saglabāts"</string>
+     <string name="recording_nosave">"Ieraksts netika saglabāts"</string>
+     <string name="phone_message">"Nevar ieslēgt Skaņas Ierakstītāju, zvana laikā."</string>
+     <string name="min_and_time_available">"Apmēram <xliff:g id="minutes">%d</xliff:g> minūtes un <xliff:g id="seconds">%d</xliff:g> sekundes ir pieejamas"</string>
+     <string name="press_record">"Nospiediet ierakstīt"</string>
+     <string name="save">"Saglabāt"</string>
+     <string name="select_file_type">"izvēlēties ieraksta faila tipu"</string>
+     <string name="record_amr">"amr tips(zemas kvalitātes)"</string>
+     <string name="record_3gpp">"3gpp tips(augstas kvalitātes)"</string>
+     <string name="button_cancel">"Atcelt"</string>
+     <string name="path_save">"Noklusējuma ceļš saglabāts"</string>
+     <string name="path_nosave">"Noklusējuma ceļš nav saglabāts"</string>
+     <string name="path_default">"Esošais ceļš nav uzrakstāms vai ir nederīgs, tas ir ceļš uz iekšējās glabātuves ceļu"</string>
+     <string name="menu_set_save_path">"Uzstādīt saglabāšanas ceļu"</string>
+     <string name="back">"Atpakaļ.."</string>
+     <string name="path_label">"Lūdzu, izvēlieties saglabāšanas ceļu"</string>
+     <string name="pause">"Pauze"</string>
+     <string name="storage_is_not_enough">"Glabātuve nav pietiekoša"</string>
+     <string name="menu_recording_file_list">"Ieraksta failu sarakstu"</string>
+     <string name="recording_list_empty">"Tukšs saraksts"</string>
+     <string name="menu_recording_list_select_all">"Atlasīt visus"</string>
+     <string name="menu_recording_list_delete">"Dzēst"</string>
+     <string name="menu_recording_list_deselect_all">"Atsijāt"</string>
+     <string name="recording_file_delete_success">"Ieraksts dzēsts"</string>
+     <string name="recording_file_database_failed">"Neizdevās dzēst datubāzes failu"</string>
+     <string name="recording_file_delete_failed">"Neizdevās dzēst ieraksta failu"</string>
+     <string name="confirm_del">"Vai esat pārliecināts, ka vēlaties dzēst šo failu?"</string>
+     <string name="button_delete">"Dzēst"</string>
+     <string name="recording_file_delete_alert_title">"Dzēst"</string>
+     <string name="recording_file_delete_alert_message">"Vai esat pārliecināts, ka vēlaties dzēst %1$s ?"</string>
+     <string name="recording_file_list">"Ieraksta failu sarakstu"</string>
+     <string name="less_than_one_second">"1 sekunde"</string>
+     <string name="is_scanning">"MediaScanner šobrīd skanē, lūdzu uzgaidiet..."</string>
+     <string name="emptylist">"Saraksts ir tukšs"</string>
+     <string name="choose_file">"Lūdzu, izvēlieties ieraksta failus, kurus jūs vēlaties dzēst!"</string>
+     <string name="error_path">"Ceļš, kuru esat izvēlējies, neeksistē, lūdzu uzstādiet atkārtoti!"</string>
+     <string name="path_miss">"Saglabātais ceļš neeksistē vai nav pieejams!"</string>
+     <string name="low_memory">"Telefona atmiņa nav pietiekoša, Ierakstīšana tiks pārtraukta!"</string>
+     <string name="record_error">"Noticis ierakstīšanas izņēmums!"</string>
+     <string name="play_error">"Mūzikas atskaņotājs ir atspējots, nevar atvērt!"</string>
+     <string name="dialog_title">"Lūdzu, izvēlieties"</string>
+     <string name="dialog_message">"Vai saglabāt ierakstu?"</string>
+     <string name="same_application_running">"Ierakstīšanas ierīci izmanto cita programma, lūdzu, aizveriet šo programmu!"</string>
+     <string name="recording_time_short">"Ieraksts īsāks par 1 sekundi, nav saglabāts"</string>
+     <string name="file_path_button">"Faila ceļš"</string>
+     <string name="file_name">"Faila nosaukums:"</string>
+     <string name="file_path">"Faila ceļš: "</string>
+     <string name="rename">"Pārdēvēt"</string>
+     <string name="rename_save">"Pārdēvēts veiksmīgi"</string>
+     <string name="rename_nosave">"Nosaukuma maiņa neveiksmīga"</string>
+     <string name="filename_is_not_modified">"Faila nosaukums nav modificēts"</string>
+     <string name="duplicate_name">"Faila nosaukuma duplikāts"</string>
+     <string name="soundpicker_label">"Lūdzu, izvēlieties ieraksta failu"</string>
+     <string name="error_sdcard_path">"sd karte neeksistē. Noklusējuma saglabāšanas ceļš ir mainīts uz iekšējo glabātuvi."</string>
+     <string name="input_length_overstep">"Ievade sasniegusi maksimālo garumu"</string>
+     <string name="filename_empty_error">"Faila nosaukums nevar būt tukšs, saglabāt orģinālo nosaukumu"</string>
+     <string name="please_choose_files">"Lūdzu, izvēlieties failus"</string>
+     <string name="selected_files_count">"ir izvēlēts<xliff:g id="COUNTS">%d</xliff:g>"</string>
+     <string name="use_default_path">"Saglabātais ceļš neeksistē, izmantot noklusējuma ceļu"</string>
+     <string name="stroage_not_mounted">"Glabātuve nav Uzstādīta"</string>
+     <string name="special_char_exist">"Īpašās rakstzīmes <xliff:g id="COUNTS">%s</xliff:g> netiek atbalstītas"</string>
+     <string name="menu_select_more">"Izvēlēties vairāk"</string>
+     <string name="menu_select_type">"Uzstādīt faila tipu"</string>
+     <string name="path_miss_nosave">"Saglabātais ceļš neeksistē, Ieraksts netika saglabāts! "</string>
+     <string name="dialog_dismiss">"Noraidīt"</string>
+     <string name="error_permissions">"Lietotnei nav būtisku atļauju, kas nepieciešamas, lai tā darbotos. Lūdzu, pārbaudiet atļauju iestatījumus."</string>
+
+</resources>

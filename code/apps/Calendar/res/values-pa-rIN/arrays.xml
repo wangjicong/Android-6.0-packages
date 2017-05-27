@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="reminder_methods_labels">
+<item>ਸੂਚਨਾ</item>
+<item>ਈਮੇਲ</item>
+<item>"SMS"</item>
+<item>ਅਮਾਰਮ</item>
+</string-array>
+<string-array name="reminder_minutes_labels">
+<item>0 ਮਿੰਟ</item>
+<item>"1 ਮਿੰਟ"</item>
+<item>5 ਮਿੰਟ</item>
+<item>10 ਮਿੰਟ</item>
+<item>15 ਮਿੰਟ</item>
+<item>20 ਮਿੰਟ</item>
+<item>25 ਮਿੰਟ</item>
+<item>30 ਮਿੰਟ</item>
+<item>45 ਮਿੰਟ</item>
+<item>"1 ਘੰਟਾ"</item>
+<item>2 ਘੰਟੇ</item>
+<item>3 ਘੰਟੇ</item>
+<item>"12 ਘੰਟੇ"</item>
+<item>"24 ਘੰਟੇ"</item>
+<item>"2 ਦਿਨ"</item>
+<item>"1 ਹਫਤਾ"</item>
+</string-array>
+<string-array name="preferences_default_reminder_labels">
+<item>ਕੋਈ ਨਹੀਂ</item>
+<item>0 ਮਿੰਟ</item>
+<item>"1 ਮਿੰਟ"</item>
+<item>5 ਮਿੰਟ</item>
+<item>10 ਮਿੰਟ</item>
+<item>15 ਮਿੰਟ</item>
+<item>20 ਮਿੰਟ</item>
+<item>25 ਮਿੰਟ</item>
+<item>30 ਮਿੰਟ</item>
+<item>45 ਮਿੰਟ</item>
+<item>"1 ਘੰਟਾ"</item>
+<item>2 ਘੰਟੇ</item>
+<item>3 ਘੰਟੇ</item>
+<item>"12 ਘੰਟੇ"</item>
+<item>"24 ਘੰਟੇ"</item>
+<item>"2 ਦਿਨ"</item>
+<item>"1 ਹਫਤਾ"</item>
+</string-array>
+<string-array name="preferences_week_start_day_labels">
+<item>ਸਥਾਨ ਡਿਫੌਲਟ</item>
+<item>ਸ਼ਨਿੱਚਰਵਾਰ</item>
+<item>ਐਤਵਾਰ</item>
+<item>ਸੋਮਵਾਰ</item>
+</string-array>
+<string-array name="availability">
+<item>ਵਿਅਸਤ</item>
+<item>ਮੌਜੂਦ</item>
+<item>ਅਸਥਾਈ</item>
+</string-array>
+<string-array name="visibility">
+<item>ਡਿਫੌਲਟ</item>
+<item>ਨਿੱਜੀ</item>
+<item>ਸਾਰਵਜਨਿਕ</item>
+</string-array>
+<string-array name="ordinal_labels">
+<item>ਪਹਿਲਾ</item>
+<item>ਦੂਜਾ</item>
+<item>ਤੀਜਾ</item>
+<item>ਚੌਥਾ</item>
+<item>ਆਖਿਰੀ</item>
+</string-array>
+<string-array name="response_labels1">
+<item>ਕੋਈ ਜਵਾਬ ਨਹੀਂ</item>
+<item>ਹਾਂ</item>
+<item>ਸ਼ਾਇਦ</item>
+<item>ਨਹੀਂ</item>
+</string-array>
+<string-array name="delete_repeating_labels">
+<item>ਕੇਵਲ ਇਹ ਘਟਨਾ</item>
+<item>ਇਹ ਅਤੇ ਭਵਿੱਖੀ ਘਟਨਾਵਾਂ</item>
+<item>ਸਾਰੀਆਂ ਘਟਨਾਵਾਂ</item>
+</string-array>
+<string-array name="delete_repeating_labels_no_selected">
+<item>"ਇਹ &amp; ਭਵਿੱਖੀ ਇਵੈਂਟਾਂ"</item>
+<item>ਸਾਰੀਆਂ ਘਟਨਾਵਾਂ</item>
+</string-array>
+<string-array name="change_response_labels">
+<item>ਕੇਵਲ ਇਹ ਘਟਨਾ</item>
+<item>ਲੜੀ ਵਿੱਚ ਸਾਰੀਆਂ ਘਟਨਾਵਾਂ</item>
+</string-array>
+<string-array name="buttons_list">
+<item>ਦਿਨ</item>
+<item>ਹਫ਼ਤਾ</item>
+<item>ਮਹੀਨਾ</item>
+<item>ਏਜੇਂਡਾ</item>
+</string-array>
+<string-array name="preferences_skip_reminders_labels">
+<item>"ਕੇਵਲ ਤਾਂ ਜੇ ਇਨਕਾਰ ਕੀਤਾ"</item>
+<item>"ਜੇਕਰ ਇਨਕਾਰ ਕੀਤਾ ਜਾਂ ਜਵਾਬ ਨਹੀ ਦਿੱਤਾ"</item>
+</string-array>
+<string-array name="recurrence_freq">
+<item>"ਰੋਜ਼ਾਨਾ ਦੁਹਰਾਓ"</item>
+<item>"ਹਫਤਾਵਾਰ ਦੁਹਰਾਓ"</item>
+<item>"ਮਾਸਿਕ ਰੂਪ ਨਾਲ ਦੁਹਰਾਓ"</item>
+<item>"ਸਾਲਾਨਾ ਰੂਪ ਨਾਲ ਦੁਹਰਾਓ"</item>
+</string-array>
+<string-array name="repeat_by_nth_sun">
+<item>"ਹਰੇਕ ਪਹਿਲੇ ਐਤਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਦੂਜੇ ਐਤਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਤੀਜੇ ਐਤਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਚੌਥੇ ਐਤਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਆਖਰੀ ਐਤਵਾਰ ਨੂੰ"</item>
+</string-array>
+<string-array name="repeat_by_nth_mon">
+<item>"ਹਰੇਕ ਪਹਿਲੇ ਸੋਮਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਦੂਜੇ ਸੋਮਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਤੀਜੇ ਸੋਮਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਚੌਥੇ ਸੋਮਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਆਖਰੀ ਸੋਮਵਾਰ ਨੂੰ"</item>
+</string-array>
+<string-array name="repeat_by_nth_tues">
+<item>"ਹਰੇਕ ਪਹਿਲੇ ਮੰਗਲਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਦੂਜੇ ਮੰਗਲਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਤੀਜੇ ਮੰਗਲਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਚੌਥੇ ਮੰਗਲਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਆਖਰੀ ਮੰਗਲਵਾਰ ਨੂੰ"</item>
+</string-array>
+<string-array name="repeat_by_nth_wed">
+<item>"ਹਰੇਕ ਪਹਿਲੇ ਬੁੱਧਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਦੂਜੇ ਬੁੱਧਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਤੀਜੇ ਬੁੱਧਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਚੌਥੇ ਬੁੱਧਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਆਖਰੀ ਬੁੱਧਵਾਰ ਨੂੰ"</item>
+</string-array>
+<string-array name="repeat_by_nth_thurs">
+<item>"ਹਰੇਕ ਪਹਿਲੇ ਵੀਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਦੂਜੇ ਵੀਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਤੀਜੇ ਵੀਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਚੌਥੇ ਵੀਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਆਖਰੀ ਵੀਰਵਾਰ ਨੂੰ"</item>
+</string-array>
+<string-array name="repeat_by_nth_fri">
+<item>"ਹਰੇਕ ਪਹਿਲੇ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਦੂਜੇ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਤੀਜੇ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਚੌਥੇ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਆਖਰੀ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ"</item>
+</string-array>
+<string-array name="repeat_by_nth_sat">
+<item>"ਹਰੇਕ ਪਹਿਲੇ ਸਨਿਚਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਦੂਜੇ ਸਨਿਚਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਤੀਜੇ ਸਨਿਚਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਚੌਥੇ ਸਨਿਚਰਵਾਰ ਨੂੰ"</item>
+<item>"ਹਰੇਕ ਆਖਰੀ ਸਨਿਚਰਵਾਰ ਨੂੰ"</item>
+</string-array>
+</resources>

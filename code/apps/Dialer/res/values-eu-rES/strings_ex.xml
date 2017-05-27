@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">Bidaltzeko</string>
+<string name="call_log_incoming_title">Hartzeko</string>
+<string name="recentOutgoing_empty">"Ez duzu irteerako deirik."</string>
+<string name="recentIncoming_empty">"Ez duzu sarrerako deirik."</string>
+<string name="view_setting">Ikusi</string>
+<string name="item_all_calls">Dei-erregistro guztiak</string>
+<string name="item_sim_calls">SIM%d dei-erregistroak</string>
+<string name="unselect_all">Desautatu dena</string>
+<string name="select_all_sprd">Guztia hautatu</string>
+<string name="doneButton">Eginda</string>
+<string name="cancel">Utzi</string>
+<string name="delete_selected_calls">"Ziur zaude aukeratutako erregistroak ezabatu nahi dituzula?"</string>
+<string name="clearCallLogProgress_title">Dei erregistroa garbitzen…</string>
+<string name="delete_success">Ondo ezabatu da</string>
+<string name="clear_all_call_log">Garbitu dei erregistroa</string>
+<string name="clear_selected_call_log">Garbitu hautatutako dei zerrenda</string>
+<string name="select_all">Guztia hautatu</string>
+<string name="unselect_all">Hautatutako guztia kendu</string>
+<string name="delete_all_calls_confirm">Zurre erregistro guztiak ezabatu nahi dituzu?</string>
+<string name="do_not_select">Ez duzu ezabatzeko grabaziorik aukeratu</string>
+<string name="delete_calls">Ezabatu</string>
+<string name="number_anr_isnull">Kontaktuaren zenbakia hutsik dago</string>
+<string name="call_recording_setting_title">"Deien grabazioa"</string>
+<string name="automatic_recording_title">"Grabazio automatikoa"</string>
+<string name="ip_dialing_list_title">IP markatze ezarpenak</string>
+<string name="ip_dial_menu">IP Markatu</string>
+<string name="ip_dialing_title">IP deitzen</string>
+<string name="dialog_phone_permission_deny">"IP markatzea erabiltzeko,\n aktibatu Telefonoaren baimenean.""</string>
+<string name="search_description">Bilatu deiErregistroa</string>
+<string name="fast_dial_title">Markatze azkarra</string>
+<string name="no_fast_dial_number">Markatze azkarreko zenbakia ez dago ezarrita.</string>
+<string name="call_log_add_to_blacklist">"Zerrenda beltzera gehitu"</string>
+<string name="make_video_call_menu">Bidio-deia egin</string>
+</resources>

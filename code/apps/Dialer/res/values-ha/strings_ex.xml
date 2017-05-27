@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"Masu fita"</string>
+<string name="call_log_incoming_title">"Mai shigowa"</string>
+<string name="recentOutgoing_empty">"Ba ka da kira masu fita."</string>
+<string name="recentIncoming_empty">"Ba ka da kira masu shigowa."</string>
+<string name="view_setting">"Gani"</string>
+<string name="item_all_calls">"Duk jerin kira"</string>
+<string name="item_sim_calls">"SIM%d jerin kira"</string>
+<string name="unselect_all">"Cire zabin duk"</string>
+<string name="select_all_sprd">"Zabi duk"</string>
+<string name="doneButton">"An yi"</string>
+<string name="cancel">"Soke"</string>
+<string name="delete_selected_calls">"Ka tabbata za ka goge zababbun bayanan?"</string>
+<string name="clearCallLogProgress_title">"Ana share jerin kira\u2026"</string>
+<string name="delete_success">"An yi nasarar gogewa"</string>
+<string name="clear_all_call_log">"Share duk jerin kira"</string>
+<string name="clear_selected_call_log">"Share jerin kira da aka zaba"</string>
+<string name="select_all">"Zabi duk"</string>
+<string name="unselect_all">"Cire zaben duk"</string>
+<string name="delete_all_calls_confirm">"Kana so ka goge duk rekod naka?"</string>
+<string name="do_not_select">"Ba ka zabi rikodin don gogewa ba"</string>
+<string name="delete_calls">"Goge"</string>
+<string name="number_anr_isnull">"Lambar kiran ba komai"</string>
+<string name="call_recording_setting_title">"Rikodin kira"</string>
+<string name="automatic_recording_title">"Rikodin automatikiyyan"</string>
+<string name="ip_dialing_list_title">"Saitocin IP na yin kira"</string>
+<string name="ip_dial_menu">"IP KIRA"</string>
+<string name="ip_dialing_title">"Yin kiran IP"</string>
+<string name="dialog_phone_permission_deny">"Don amfani da bugun IP, \n kunna izinin waya."</string>
+<string name="search_description">"Binciken jerin lambobin kira"</string>
+<string name="fast_dial_title">"Bugu mai gudu"</string>
+<string name="no_fast_dial_number">"Lambobin kira da sauri ba saita ba."</string>
+<string name="call_log_add_to_blacklist">"Kara ga jerin da ba a so"</string>
+<string name="make_video_call_menu">"Yi kiran bidiyo"</string>
+</resources>

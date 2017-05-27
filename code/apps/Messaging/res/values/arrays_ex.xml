@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <!-- Modify by SPRD for bug 526653 Start -->
+    <!-- Choices for mms validity  -->
+    <string-array name="mms_validity_pref_entries">
+        <item>1 hour</item>
+        <item>12 hours</item>
+        <item>24 hours</item>
+        <item>2 days</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="mms_validity_pref_entry_values">
+        <item>"3600"</item>
+        <item>"43200"</item>
+        <item>"86400"</item>
+        <item>"172800"</item>
+        <item>"604800"</item>
+    </string-array>
+
+    <!-- Choices for sms validity  -->
+    <string-array name="sms_validity_pref_entries">
+        <item>No Set</item>
+        <item>1 hour</item>
+        <item>12 hours</item>
+        <item>24 hours</item>
+        <item>2 days</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="sms_validity_pref_entry_values">
+        <item>"-1"</item>
+        <item>"3600"</item>
+        <item>"43200"</item>
+        <item>"86400"</item>
+        <item>"172800"</item>
+        <item>"604800"</item>
+    </string-array>
+    <!-- Modify by SPRD for bug 526653 End -->
+    <!-- sprd #542214 start  -->
+    <string-array name="sms_save_to_sim_pref_entries">
+        <item>sms has priority to save to sim</item>
+        <item>sms has priority to save to messaging database</item>
+    </string-array>
+    <string-array name="sms_save_to_sim_pref_entry_values">
+        <item>"true"</item>
+        <item>"false"</item>
+    </string-array>
+    <!-- sprd #542214 end -->
+
+    <!-- SPRD: Add for bug 562203 start -->
+    <string-array name="prefEntries_EncodeType" translatable="false">
+        <item>Auto</item>
+        <item>7bit coding</item>
+        <item>16bit coding</item>
+    </string-array>
+    <string-array name="prefValues_EncodeType">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <!-- SPRD: Add for bug 562203 end -->
+
+</resources>

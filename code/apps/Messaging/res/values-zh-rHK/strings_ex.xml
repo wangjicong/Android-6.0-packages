@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="pref_title_sms_retry_times">開啟重試機制</string>
+
+    <string name="drm_no_application_open">無法打開文件</string>
+    <string name="drm_consume_title">消費DRM權限</string>
+    <string name="drm_consume_hint">您的操作將會消費DRM權限</string>
+    <string name="ok_drm_rights_consume">"確定"</string>
+    <string name="cancel_drm_rights_consume">"取消"</string>
+
+
+    <!-- Add by SPRD for Bug:521086 2016.01.15 Start -->
+    <string name="share_unsupported_type">"不支持的類型，不能被分享！"</string>
+    <!-- Add by SPRD for Bug:521086 2016.01.15 End -->
+
+    <!-- Add by SPRD for Bug:521086 2016.02.02 Start -->
+    <string name="shared_image_number_exceed">"最多分享%d張圖片，多餘的已被移除。"</string>
+
+	<string name="action_sim_sms">SIM卡簡訊</string>
+    <string name="no_permissions">沒有電話撥打權限</string>
+
+    <!-- Add by SPRD for Bug:543263 2016.03.29 Start -->
+    <string name="no_sms_permissions">沒有短訊權限，無法播放音頻</string>
+    <!-- Add by SPRD for Bug:543263 2016.03.29 End -->
+    <string name="smil_subject_hint">"没有主题，请你编辑"</string>
+    <string name="smil_out_of_size">"超过彩信附件额度大小！"</string>
+    <string-array name="smil_choice_items">
+        <item>Smil 阅览</item>
+        <item>Smil 播放</item>
+    </string-array>
+    <string name="video_content_type">"视频 :"</string>
+    <string name="iamge_content_type">"图片 :"</string>
+    <string name="audio_content_type">"录音 :"</string>
+    <string name="vcard_content_type">"Vcard :"</string>
+    <string name="vcalendar_content_type">"日历 :"</string>
+    <!-- bug 495194 : add for search feature start -->
+    <string name="subject_edit">"主题编辑"</string>
+    <string name="text_edit">"文本编辑"</string>
+    <string name="repalce_slide">"替换幻灯片"</string>
+    <string name="remove_slide">"移除幻灯片"</string>
+    <string name="insert_befor_slide">"前一页插入幻灯片"</string>
+    <string name="insert_after_slide">"后一页插入幻灯片"</string>
+    <string name="add_attachment">"添加附件"</string>
+    <string name="remove_attachment">"移除附件"</string>
+    <string name="repalce_attachment">"替换附件"</string>
+    <string name="hint_for_input">"请你编辑"</string>
+    <string name="hint_for_empty">"请您编辑当前幻灯片"</string>
+    <string name="goto_smil">"切换smil视图"</string>
+    <string name="smil_subject">"主题 :"</string>
+    <!-- Add by SPRD for Bug:543263 2016.03.29 End -->
+    <string name="smil_add_text">"添加文本附件成功"</string>
+    <string name="smil_empty_content">"内容为空，停止发送"</string>
+    <string name="exceed_participant_limit">"參與者數量超過限制（<xliff:g>%1$s</xliff:g>），請删除<xliff:g>%2$s</xliff:g>個。"</string>
+    <string name="dlg_save_attachment">"保存檔案中&#8230;"</string>
+    <plurals name="attachments_saved_dir">
+        <item quantity="one"><xliff:g id="quantity">%d</xliff:g>個附件檔案被存儲到\"<xliff:g id="dir">%s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="quantity">%d</xliff:g>個附件檔案被存儲到\"<xliff:g id="dir">%s</xliff:g>\"</item>
+    </plurals>
+
+    <!-- add for bug 556265 capacity of sim messages begin -->
+    <string name="capacity_sim_message_title">SIM卡容量</string>
+    <string name="capacity_sim_message_summary">當前條數/最大容量:%s</string>
+    <!-- add for bug 556265 capacity of sim messages end -->
+
+   <!-- SPRD: Add for bug 562203 start -->
+   <string name="pref_encode_type_setting_title">"編碼方式設置"</string>
+   <string name="pref_encode_type_title">"編碼方式"</string>
+   <!-- SPRD: Add for bug 562203 end -->
+</resources>

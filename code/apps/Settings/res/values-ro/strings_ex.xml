@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Setări USB"</string>
+<string name="usb_charge_only">"Doar încărcare"</string>
+<string name="usb_charge_only_summary">"Utilizați modul încărcare doar când USB este conectat"</string>
+<string name="usb_charge_only_storage_active_subtext">"Nu se poate încărca decât când spațiul de stocare USB este în uz"</string>
+<string name="usb_charge_only_notification">"Conectat doar pentru încărcare"</string>
+<string name="usb_storage">"Stocare USB"</string>
+<string name="usb_storage_summary">"Activați stocarea în masă prin USB"</string>
+<string name="ums_settings">"Setări UMS"</string>
+<string name="ums_mounted_setting">"Montare ums la PC, vă rugăm aşteptaţi..."</string>
+<string name="ums_unmounted_setting">"Demontare ums de la PC, vă rugăm aşteptaţi..."</string>
+<string name="usb_virtual_drive">"Drive virtual USB"</string>
+<string name="usb_virtual_drive_summary">"Activare drive virtual USB"</string>
+<string name="remember_choice">"Doresc să se reţină opţiunea"</string>
+<string name="remember_choice_summary">"Reţine alegerea mea şi iniţiază funcţia amintită automat data viitoare"</string>
+<string name="stand_by_set_changed_prompt">"Starea de activare Sim va fi schimbată, confirmaţi dacă doriţi să continuaţi"</string>
+<string name="not_stand_by">"INTERZIS"</string>
+<string name="primary_card_switching">"Setare\uff0cașteptați..."</string>
+<string name="toggle_data_change_message">"Conexiunea de date a fost comutată la cartela sim <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, rețineți că se va produce trafic de date însoțit de costurile aferente."</string>
+<string name="select_primary_card">"Selectează cartela primară"</string>
+<string name="whether_switch_primary_card">"Confirmați dacă setați acest card drept card primar?\n(Datele mobile vor fi transferate de asemenea pe card.)"</string>
+<string name="attention">"Atenţie"</string>
+<string name="bt_softap_cannot_coexist">"Când softap este activat sau se iniţiază, bluetooth-ul nu poate opera; dacă doriţi să utilizaţi bluetooth-ul, asiguraţi-vă că softap este dezactivat."</string>
+<string name="softap_bt_cannot_coexist">"Când Bluetooth este activat sau pornește, softap nu poate funcționa; dacă doriți să utilizați softap, dezactivați Bluetooth-ul."</string>
+<string name="softap_need_mobile_data_enabled">"Hotspotul wi-fi portabil are nevoie de conexiune la date mobile, ceea ce poate duce la costuri suplimentare."</string>
+<string-array name="light_color_picker">
+<item>"Verde"</item>
+<item>"Albastru"</item>
+<item>"Indigo"</item>
+<item>"Violet"</item>
+<item>"Roz"</item>
+<item>"Roșu"</item>
+<item>"Galben"</item>
+</string-array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+<Preference
+        android:key="no_signalling_tx"
+        android:title="NO SIGNALLING TX" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.sprd.engineermode.connectivity.BT.BTTXActivity"
+            android:targetPackage="com.sprd.engineermode" >
+        </intent>
+    </Preference>
+    <Preference
+        android:key="no_signalling_rx"
+        android:title="NO SIGNALLING RX" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.sprd.engineermode.connectivity.BT.BTRXActivity"
+            android:targetPackage="com.sprd.engineermode" >
+        </intent>
+    </Preference>
+    <!--<Preference
+        android:key="no_signalling_ble_tx"
+        android:title="NO SIGNALLING BLE TX"
+        android:enabled="false" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.sprd.engineermode.connectivity.BT.BTBleTXActivity"
+            android:targetPackage="com.sprd.engineermode" >
+        </intent>
+    </Preference> 
+    <Preference
+        android:key="no_signalling_ble_rx"
+        android:title="NO SIGNALLING BLE RX"
+        android:enabled="false" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.sprd.engineermode.connectivity.BT.BTBleRXActivity"
+            android:targetPackage="com.sprd.engineermode" >
+        </intent>
+    </Preference>-->
+</PreferenceScreen>

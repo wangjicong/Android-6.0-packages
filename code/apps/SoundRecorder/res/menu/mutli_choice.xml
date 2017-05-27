@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item_deselect_all"
+        android:showAsAction="always"
+        android:title="@string/menu_recording_list_deselect_all"/>
+    <item
+        android:id="@+id/item_select_all"
+        android:showAsAction="always"
+        android:title="@string/menu_recording_list_select_all"/>
+
+</menu>

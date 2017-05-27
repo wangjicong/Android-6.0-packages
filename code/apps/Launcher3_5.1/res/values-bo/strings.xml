@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="home">བརྙན་ཡོལ་གཙོ་བོ།</string>
+<string name="uid_name">Androidལྟེ་བའི་ཉེར་སྤྱོད་བྱ་རིམ།</string>
+<string name="activity_not_found">ཉེར་སྤྱོད་བྱ་རིམ་སྒྲིག་འཇུག་བྱས་མེད། </string>
+<string name="safemode_shortcut_error">"བདེ་འཇགས་རྣམ་པའི་འོག་ཏུ་འབེབ་ལེན་ཉེར་སྤྱོད་སྤྱོད་དུ་མི་འཇུག"</string>
+<string name="widgets_tab_label">སྒེའུ་ཁུང་གི་ལྷུ་ལག་ཆུང་ངུ་།</string>
+<string name="widget_adder">སྒེའུ་ཁུང་གི་ལྷུ་ལག་ཆུང་ངུ་།</string>
+<string name="toggle_weight_watcher">"ནང་རོལ་གསོག་ཆས་འཆར།"</string>
+<string name="long_press_widget_to_add">"ལྷུག་ལག་ཆུང་ངུར་རེག་ཅིང་འཛིན།"</string>
+<string name="market">ཉོ་ཚོང་། </string>
+<string name="widget_dims_format">"%1$d \u00d7 %2$d"</string>
+<string name="external_drop_widget_error">"འཆར་ཤེལ་གཙོ་བོའི་ངོས་སུ་འདྲུད་མི་ཐུབ།"</string>
+<string name="external_drop_widget_pick_title">བྱ་བྱེད་ལག་བསྟར་བྱེད་དགོས་པའི་སྒེའུ་ཁུང་གི་ཆ་ཤས་ཆུང་བ་འདེམ་པ། </string>
+<string name="rename_folder_label">ཡིག་ཁུག་མིང་།</string>
+<string name="rename_folder_title">ཡིག་ཁུག་མིང་བསྐྱར་འདོགས།</string>
+<string name="rename_action">རྒྱུས་ལོན་པ།</string>
+<string name="cancel_action">སྐྱུར་བ།</string>
+<string name="menu_item_add_item">གཙོ་ངོས་སུ་ཁ་སྣོན།</string>
+<string name="group_applications">ཉེར་སྤྱོད་བྱ་རིམ།</string>
+<string name="group_shortcuts">མྱུར་ལམ་</string>
+<string name="group_widgets">སྒེའུ་ཁུང་གི་ལྷུ་ལག་ཆུང་ངུ་།</string>
+<string name="completely_out_of_space">བརྙན་ཤེལ་གཙོ་བོ་འདིར་བར་སྟོང་མི་འདུག</string>
+<string name="out_of_space">བརྙན་ཤེལ་གཙོ་བོ་འདིར་བར་སྟོང་མི་འདུག</string>
+<string name="hotseat_out_of_space">"སྡུད་ཉར་སྡེའི་ཁ་ཁེངས་འདུག"</string>
+<string name="invalid_hotseat_item">"ལྷུ་ཆས་དེ་ཆེ་དྲགས་པས་སྡུད་ཉར་སྡེར་འཇོག་མི་ཐུབ།"</string>
+<string name="shortcut_installed">མྱུར་ལམ \"<xliff:g id="name" example="Browser">%s</xliff:g>\" བཟོས་ཟིན།</string>
+<string name="shortcut_uninstalled">མྱུར་ལམ \"<xliff:g id="name" example="Browser">%s</xliff:g>\" གནས་སྤོར་ཟིན། </string>
+<string name="shortcut_duplicate">མྱུར་ལམ \"<xliff:g id="name" example="Browser">%s</xliff:g>\" སྔ་མོ་ནས་ཡོད། </string>
+<string name="title_select_shortcut">"མྱུར་ལམ་འདམ།"</string>
+<string name="title_select_application">ཉེར་སྤྱོད་བྱ་རིམ་འདེམ་པ། </string>
+<string name="all_apps_button_label">ཉེར་སྤྱོད་བྱ་རིམ།</string>
+<string name="all_apps_home_button_label">བརྙན་ཡོལ་གཙོ་བོ།</string>
+<string name="delete_zone_label_workspace">སུབ་པ།</string>
+<string name="delete_zone_label_all_apps">བཤིག་འདོན།</string>
+<string name="delete_target_label">སུབ་པ།</string>
+<string name="delete_target_uninstall_label">བཤིག་འདོན།</string>
+<string name="info_target_label">ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ཆ་འཕྲིན།</string>
+<string name="accessibility_search_button">འཚོལ་བཤེར།</string>
+<string name="accessibility_voice_search_button">སྐད་གདངས་འཚོལ་བཤེར།</string>
+<string name="accessibility_all_apps_button">ཉེར་སྤྱོད་བྱ་རིམ།</string>
+<string name="accessibility_delete_button">སུབ་པ།</string>
+<string name="delete_zone_label_all_apps_system_app">གསར་སྒྱུར་བཤིག་འདོན།</string>
+<string name="cab_menu_delete_app">རྒྱུད་ཁོངས་ཉེར་སྤྱོད་བྱ་རིམ་ཕྱིར་ལེན་པ། </string>
+<string name="cab_menu_app_info">ཉེར་སྤྱོད་བྱ་རིམ་གྱི་ཞིབ་ཕྲའི་གནས་ཚུལ། </string>
+<string name="cab_app_selection_text">ཉེར་སྤྱོད་བྱ་རིམ 1 བདམས་ཟིན། </string>
+<string name="cab_widget_selection_text">"སྒེའུ་ཁུང་ཆ་ཤས་ཆུང་བ1 བདམས་ཟིན།"</string>
+<string name="cab_folder_selection_text">"ཡིག་ཚགས1 བདམས་ཟིན།"</string>
+<string name="cab_shortcut_selection_text">"མྱུར་ལམ1བདམས་ཟིན།"</string>
+<string name="permlab_install_shortcut">མྱུར་ལམ་སྒྲིག་འཇུག</string>
+<string name="permdesc_install_shortcut">"ཉེར་སྤྱོད་ལ་རང་འགུལ་གྱིས་མྱུར་ལམ་སྣོན་དུ་འཇུག"</string>
+<string name="permlab_uninstall_shortcut">མྱུར་ལམ་བཤིག་འདོན།</string>
+<string name="permdesc_uninstall_shortcut">"ཉེར་སྤྱོད་ལ་རང་འགུལ་གྱིས་མྱུར་ལམ་གསུབ་ཏུ་འཇུག"</string>
+<string name="permlab_read_settings">བརྙན་ཤེལ་གཙོ་བོའི་སྒྲིག་འགོད་དང་མྱུར་ལམ་ཀློག་ལེན།</string>
+<string name="permdesc_read_settings">"ཉེར་སྤྱོད་ལ་འཆར་ཤེལ་གཙོ་བའི་སྟེང་གི་སྒྲིག་འགོད་དང་མྱུར་ལམ་ཀློག་ཏུ་འཇུག"</string>
+<string name="permlab_write_settings">བརྙན་ཤེལ་གཙོ་བོའི་སྒྲིག་འགོད་དང་མྱུར་ལམ་ནང་འབྲི།</string>
+<string name="permdesc_write_settings">"ཉེར་སྤྱོད་ལ་འཆར་ཤེལ་གཙོ་བའི་སྒྲིག་འགོད་དང་མྱུར་ལམ་སྒྱུར་དུ་འཇུག"</string>
+<string name="gadget_error_text">སྒེའུ་ཁུང་གི་ལྷུ་ལག་ཆུང་ངུ་ནང་འདྲེན་སྐབས་གནས་ཚུལ་འདོན་པ།</string>
+<string name="gadget_setup_text">སྒྲིག་འཇུག</string>
+<string name="uninstall_system_app_text">འདི་ནི་གོ་རིམ་ཅན་གྱི་ཉེར་སྤྱོད་རེད་ </string>
+<string name="dream_name">Rocket Launcher</string>
+<string name="folder_hint_text">མིང་མེད་པའི་ཡིག་ཚགས། </string>
+<string name="workspace_description_format">བརྙན་ཤེལ་གཙོ་བོ། %1$d</string>
+<string name="default_scroll_format">ཤོག་ངོས %1$d གི %2$d</string>
+<string name="workspace_scroll_format">"འཆར་ཤེལ་གཙོ་བོ་%1$d སྡོམ་པས་%2$dཡོད།"</string>
+<string name="apps_customize_apps_scroll_format">ཉེར་སྤྱོད་བྱ་རིམ། ཤོག་ངོས %1$d གི %2$d</string>
+<string name="apps_customize_widgets_scroll_format">སྒེའུ་ཁུང་གི་ཆ་ཤས་ཆུང་བ %1$d གི %2$d</string>
+<string name="first_run_cling_title">Welcome</string>
+<string name="first_run_cling_description">"ཁྱེད་ཀྱི་འཆར་ཤེལ་གཙོ་བོ་གཏན་འཁེལ་བྱེད་རོགས།"</string>
+<string name="first_run_cling_create_screens_hint">"ཉེར་སྤྱོད་དང་ཡིག་ཁུག་འཆར་བར་འཆར་ཤེལ་མང་པོ་འཛུགས།"</string>
+<string name="migration_cling_title">"ཉེར་སྤྱོད་པར་རིས་འདྲ་བཤུ་བྱེད།"</string>
+<string name="migration_cling_description">"གཙོ་རིས་རྙིང་བའི་སྟེང་གི་པར་རིས་དང་ཡིག་ཁུག་ནང་དུ་འདྲེན་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="migration_cling_copy_apps">"པར་རིས་འདྲ་བཤུ་བྱེད།"</string>
+<string name="migration_cling_use_default">"སྡེབ་སྒྲིག་གསར་བ་སྤྱོད།"</string>
+<string name="workspace_cling_title">"ཁྱེད་ཀྱི་གཞིས་ས་གཙང་སྒྲིག་བྱེད།"</string>
+<string name="workspace_cling_move_item">"རྒྱབ་ལྗོངས་ལ་རེག་ཅིང་བཟུང་ནས་རྩིག་ཤོག་དང་ལྷུ་ལག་ཆུང སྒྲིག་འགོད་དོ་དམ་བྱེད་ཐུབ།"</string>
+<string name="workspace_cling_longpress_title">"རྩིག་ཤོག ལྷུ་ཆས་ཆུང་ངུ་། སྒྲིག་འགོད།"</string>
+<string name="workspace_cling_longpress_description">"རྒྱབ་ལྗོངས་ལ་རྡེབ་ཅིང་མནན་ནས་བཟུང་བ་ན་རང་གཤིས་ལྡན་པའི་སྒྲིག་འགོད་གནང་ཐུབ།"</string>
+<string name="workspace_cling_longpress_dismiss">"ཤེས་སོང་།"</string>
+<string name="folder_cling_title">"འདི་ནི་ཡིག་ཁུག་ཞིག་ཡིན།"</string>
+<string name="folder_cling_create_folder">"འདི་འདྲའི་ཡིག་ཁུག་ཅིག་འཛུགས་དགོས་ན། ཉེར་སྤྱོད་འདིར་རེག་ཅིང་འཛིན་པ་དང་དེ་ནས་ཉེར་སྤྱོད་གཞན་ཞིག་གི་སྟེང་དུ་སྤོ་དགོས།"</string>
+<string name="cling_dismiss">རྒྱུས་ལོན་པ།</string>
+<string name="folder_opened">"ཡིག་ཁུག་གི་ཁ་ཕྱེས་ཟིན།<xliff:g id="width" example="5">%1$d</xliff:g> by <xliff:g id="height" example="3">%2$d</xliff:g>"</string>
+<string name="folder_tap_to_close">"རེག་ནས་ཡིག་ཁུག་གི་སྒོ་སྟེམ།"</string>
+<string name="folder_tap_to_rename">"རེག་ནས་བསྐྱར་བཏགས་མིང་ཉར།"</string>
+<string name="folder_closed">ཡིག་ཚགས་ཁ་བརྒྱབ་འདུག</string>
+<string name="folder_renamed">"ཡིག་ཁུག་གི་མིང<xliff:g id="name" example="Games">%1$s</xliff:g>ལ་སྒྱུར།"</string>
+<string name="folder_name_format">"ཡིག་ཁུག <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="widget_button_text">སྒེའུ་ཁུང་གི་ལྷུ་ལག་ཆུང་ངུ་།</string>
+<string name="wallpaper_button_text">རྩིག་ཤོག</string>
+<string name="settings_button_text">སྒྲིག་འགོད།</string>
+<string name="package_state_enqueued">"སྒུག་རོགས།"</string>
+<string name="package_state_downloading">ཕབ་ལེན་བྱེད་བཞིན་ཡོད།</string>
+<string name="package_state_installing">"སྒྲིག་འགོད་གནང་བཞིན་འདུག"</string>
+<string name="package_state_unknown">མི་ཤེས་པའི་ཨང་གྲངས།</string>
+<string name="package_state_error">"སོར་ཆུད་བྱེད་མི་ཐུབ།"</string>
+<string name="abandoned_clean_all">"ཚང་མ་གནས་སྤོ་བྱེད།"</string>
+<string name="abandoned_clean_this">སུབ་པ།</string>
+<string name="abandoned_search">འཚོལ་བཤེར།</string>
+<string name="abandoned_promises_title">"ཉེར་སྤྱོད་འདི་སྒྲིག་འཇུག་བྱས་མི་འདུག"</string>
+<string name="abandoned_promise_explanation">"པར་རིས་འདིའི་ལྟོས་ཟླའི་ཉེར་སྤྱོད་སྒྲིག་འཇུག་བྱས་མི་འདུག ཁྱེད་ཀྱིས་པར་རིས་དེ་སྤོས་ཆོག་ཅིང་འབྲེལ་ཡོད་ཀྱི་ཉེར་སྤྱོད་བཙལ་ནས་མིར་བརྟེན་གྱིས་སྒྲིག་འཇུག་བྱས་ཆོག"</string>
+<string name="circular_sliding">ཅོག་ངེས་རེས་འཁོར།</string>
+    <string name="input_too_long">"བྲིས་པ་རིང་དྲགས།"</string>
+
+</resources>

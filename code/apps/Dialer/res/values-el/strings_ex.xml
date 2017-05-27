@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Ρύθμιση Πληκτρολόγησης ΙΡ"</string>
+    <string name="ip_dial_menu">ΠΕ καντράν</string>
+    <string name="ip_dialing_title">Κλήση IP</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Ρύθμιση Γρήγορης Πληκτρολόγησης"</string>
+    <string name="no_fast_dial_number">"Δεν έχει ρυθμιστεί ο αριθμός γρήγορης πληκτρολόγησης."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">Εξερχόμενα</string>
+     <string name="call_log_incoming_title">"Εισερχόμενες"</string>
+     <string name="recentOutgoing_empty">"Δεν έχετε καμία εξερχόμενη κλήση."</string>
+     <string name="recentIncoming_empty">"Δεν έχετε καμία εισερχόμενη κλήση."</string>
+     <string name="view_setting">"Προβολή"</string>
+     <string name="item_all_calls">"Όλα τα αρχεία κλήσεων"</string>
+     <string name="item_sim_calls">"Αρχεία κλήσεων SIM%d"</string>
+     <string name="unselect_all">Κατάργηση επιλογής όλων</string>
+     <string name="select_all_sprd">Επιλογή όλων</string>
+     <string name="doneButton">Ολοκληρώθηκε</string>
+     <string name="cancel">Ακύρωση</string>
+     <string name="delete_selected_calls">"Είστε σίγουροι ότι θέλετε να διαγράψετε τις επιλεγμένες εγγραφές;"</string>
+     <string name="clearCallLogProgress_title">"Καθαρισμός αρχείου κλήσεων\u2026" </string>
+     <string name="delete_success">"Επιτυχής διαγραφή"</string>
+     <string name="clear_all_call_log">"Καθαρισμός όλων των αρχείων κλήσεων"</string>
+     <string name="clear_selected_call_log">"Καθαρισμός επιλεγμένων αρχείων κλήσεων"</string>
+     <string name="select_all">Επιλογή όλων</string>
+     <string name="unselect_all">"Αποεπιλογή όλων"</string>
+     <string name="delete_all_calls_confirm">"Θέλετε να διαγράψετε όλες τις εγγραφές σας;"</string>
+     <string name="do_not_select">"Δεν επιλέξατε αρχείο για διαγραφή"</string>
+     <string name="delete_calls">Διαγραφή</string>
+     <string name="number_anr_isnull">"Ο αριθμός επαφής είναι κενός"</string>
+     <string name="call_recording_setting_title">"Καταγραφή κλήσης"</string>
+     <string name="automatic_recording_title">"Αυτόματη καταγραφή"</string>
+     <string name="dialog_phone_permission_deny">"Για να χρησιμοποιήσετε το IP πληκτρολογήστε, \n στην άδεια του τηλεφώνου."</string>
+     <string name="search_description">αναζήτηση στο αρχείο κλήσεων</string>
+     <string name="call_log_add_to_blacklist">"Προσθήκη στη μαύρη λίστα"</string>
+     <string name="make_video_call_menu">"Πραγματοποίηση βιντεοκλήσης"</string>
+
+</resources>

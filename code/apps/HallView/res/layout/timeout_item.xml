@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" 
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@+id/timeout_list_cb" 
+        android:focusable="false" 
+        android:clickable="false"
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40.0dip" 
+        android:layout_marginTop="4.0dip" 
+        android:layout_marginRight="10.0dip" 
+        android:layout_marginBottom="4.0dip" />
+    <TextView android:textSize="22.0sp" 
+        android:textColor="@android:color/secondary_text_dark" 
+        android:gravity="left|center" 
+        android:id="@+id/timeout_list_title" 
+        android:layout_width="wrap_content" 
+        android:layout_height="fill_parent" />
+</LinearLayout>

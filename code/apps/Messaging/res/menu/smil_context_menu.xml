@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/smil_subject_edit"
+        android:title="@string/subject_edit"/>
+    <item
+        android:id="@+id/smil_text_edit"
+        android:title="@string/text_edit"/>
+    <item
+        android:id="@+id/smil_repalce_slide"
+        android:title="@string/repalce_slide"/>
+    <item
+        android:id="@+id/smil_remove_slide"
+        android:title="@string/remove_slide"/>
+    <item
+        android:id="@+id/smil_insert_befor_slide"
+        android:title="@string/insert_befor_slide"/>
+    <item
+        android:id="@+id/smil_insert_after_slide"
+        android:title="@string/insert_after_slide"/>
+    <item
+        android:id="@+id/smil_add_attachment"
+        android:title="@string/add_attachment"/>
+    <item
+        android:id="@+id/smil_remove_attachment"
+        android:title="@string/remove_attachment"/>
+    <item
+        android:id="@+id/smil_repalce_attachment"
+        android:title="@string/repalce_attachment"/>
+</menu>

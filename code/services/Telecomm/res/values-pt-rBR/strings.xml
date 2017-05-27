@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="telecommAppLabel" product="default">"Administração de Chamada de Telefone"</string>
+<string name="userCallActivityLabel" product="default">"Telefone"</string>
+<string name="unknown">"Desconhecido"</string>
+<string name="notification_missedCallTitle">"Chamada perdida"</string>
+<string name="notification_missedCallsTitle">"Chamadas perdidas"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> chamadas perdidas"</string>
+<string name="notification_missedCallTicker">"Chamada perdida de <xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_missedCall_call_back">"Retornar chamada"</string>
+<string name="notification_missedCall_message">"Mensagem"</string>
+<string name="accessibility_call_muted">"Chamada mute."</string>
+<string name="accessibility_speakerphone_enabled">"Instalador de Dados de Síntese de Discurso."</string>
+<string name="respond_via_sms_canned_response_1">"Não pode falar agora. Que foi?"</string>
+<string name="respond_via_sms_canned_response_2">"Vou te chamar de volta."</string>
+<string name="respond_via_sms_canned_response_3">"Vou te chamar mais tarde."</string>
+<string name="respond_via_sms_canned_response_4">"Não pode falar agora. Me chame mais tarde?"</string>
+<string name="respond_via_sms_setting_title">"Respostas rápidas"</string>
+<string name="respond_via_sms_setting_title_2">"Edite respostas rápidas"</string>
+<string name="respond_via_sms_edittext_dialog_title">"Resposta rápida"</string>
+<string name="respond_via_sms_confirmation_format">"Mensagem enviada para <xliff:g id="phone_number">%s</xliff:g>."</string>
+<string name="enable_account_preference_title">"Contas de chamadas"</string>
+<string name="outgoing_call_not_allowed_user_restriction">"Apenas as chamadas de emergência são permitidas por dono de aparelho."</string>
+<string name="outgoing_call_not_allowed_no_permission">"Esta aplicação não pode fazer as chamadas saídas sem permissão de Telefone."</string>
+<string name="outgoing_call_error_no_phone_number_supplied">"Para colocar uma chamada, entrar um número válido."</string>
+<string name="duplicate_video_call_not_allowed">"Chamada não pode ser adicionada neste tempo."</string>
+<string name="video_call_not_allowed_if_tty_enabled">"Favor desative TTY Modo para fazer as chamadas de vídeo."</string>
+<string name="no_vm_number">"Número de vozmail perdido"</string>
+<string name="no_vm_number_msg">"Nenhum número de vozmail é guardado no SIM cartão."</string>
+<string name="add_vm_number_str">"Adicionar número"</string>
+<string name="change_default_dialer_dialog_title">"Mudar default Discador aplicação?"</string>
+<string name="change_default_dialer_with_previous_app_set_text">"Usar <xliff:g id="new_app">%1$s</xliff:g> em vez de <xliff:g id="current_app">%2$s</xliff:g> como a sua default aplicação de discador?"</string>
+<string name="change_default_dialer_no_previous_app_set_text">"Usar <xliff:g id="new_app">%s</xliff:g> como a sua default aplicação de discador?"</string>
+</resources>

@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2015 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="3062916848713424329">"信息"</string>
+    <string name="share_intent_label" msgid="6920483598866144717">"信息"</string>
+    <string name="widget_title_content_description" msgid="5802836840910466231">"信息"</string>
+    <string name="widget_conversation_name" msgid="3900606239571892871">"信息"</string>
+    <string name="sms_disabled_pref_title" msgid="6352764741524717132">"默认信息应用"</string>
+    <string name="sms_enabled_pref_title" msgid="2961457081888153323">"默认信息应用"</string>
+    <string name="signature_title">签名</string>
+    <string name="pref_title_sms_retry_times">开启重试机制</string>
+    <!-- add for bug 504075 -->
+    <string name="conversation_deleteAll_failed">"请稍后再试"</string>
+    <!--SPRD: modified for bug 503091 begin -->
+    <string name="warning">警告</string>
+    <string name="attachment_exceeded">您选择的附件大小超过上限！</string>
+    <!--SPRD: modified for bug 503091 end -->
+    <string name="attachment_size">您选择的附件大小为：</string>
+    <string name="mms_size">彩信大小为：</string>
+
+    <!-- Sprd add for common message begin -->
+    <!-- Permissions label for reading messages attachments -->
+    <string name="permission_read_messages_attachment_label">访问短信附件</string>
+    <!-- Permissions description for reading messages attachments -->
+    <string name="permission_read_messages_attachment_desc">允许应用访问短信附件</string>
+    <string name="preference_name">常用短语</string>
+    <string name="select">选中</string>
+    <string name="item_cancel">取消</string>
+    <string name="item_delete">删除</string>
+    <string name="save_as_teltype">电话使用</string>
+    <string name="save_as_mmstype">短信使用</string>
+    <string name="type_to_pharser">键入常用短语</string>
+    <string name="add">添加</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="finish">完成</string>
+    <string name="cancel">取消</string>
+    <string name="add_pharser">添加常用短语</string>
+    <string name="edit_pharser">编辑常用短语</string>
+    <string name="exit_pharser_dialog_title">提示</string>
+    <string name="exit_pharser_dialog_content">是否保存常用短语?</string>
+    <string name="pharser_can_modify">可编辑常用短语</string>
+    <string name="pharser_cannot_modify">固定常用短语</string>
+    <string name="select_item">已经选中</string>
+    <string name="select_commmon_phrase">选择常用短语</string>
+    <string name="common_phrase_empty">没有常用短语</string>
+    <string name="action_add_phrase">插入常用短语</string>
+    <string name="empty_pharser_not_save">空短语不能保存!</string>
+    <string name="pref_other_settings_title">其他</string>
+    <string name="positive">确定</string>
+    <string name="wap_push_message_dialog_title">"Wap Push 消息</string>
+    <string name="open_website">打开网页</string>
+    <string name="activity_not_found">没有发现合适的应用</string>
+
+    <string-array name="fixed_mms_phrase">
+        <item>请打我办公室电话，谢谢。</item>
+        <item>请与我联系，谢谢。</item>
+        <item>请告诉我你的位置。</item>
+        <item>请稍晚打我手机，谢谢。</item>
+        <item>我在外面，回家给你电话。</item>
+        <item>我在开车，稍后回复。</item>
+        <item>我在来的路上，马上到。</item>
+        <item>堵车，晚些到，抱歉。</item>
+        <item>稍后给你回电话。</item>
+        <item>我在开会稍后回复。</item>
+    </string-array>
+    <string-array name="fixed_tel_phrase">
+<!-- sprd bug #512007
+        <item>现在无法接听。有什么事吗？</item>
+        <item>我马上会打给你。</item>
+        <item>我稍后会再打给你。</item>
+        <item>现在无法接听。能稍后再打给我吗？</item>
+-->
+    </string-array>
+    <string-array name="fixed_both_phrase">
+        <item>请稍后打给我或发信息给我。</item>
+    </string-array>
+    <string name="share_video_exceeded">您选择的视频大小超过上限！</string>
+    <string name="share_audio_exceeded">您选择的音频大小超过上限！</string>
+    <string name="share_image_exceeded">您选择的图片大小超过上限！</string>
+    <string name="share_muimgae_exceeded">超过上限制图片将不分享！</string>
+    <string name="share_noimgae_exceeded">含有非图片文件,不能分享!</string>
+    <string name="action_wireless_alerts">"无线警报"</string>
+    <string name="exceed_text_length_limitation">达到文本长度上限。</string>
+
+    <!-- Sprd add for common message end -->
+
+    <string name="drm_no_application_open">无法打开文件</string>
+    <string name="no_few_participants">没有参与者,请添加参与者!</string>
+
+
+    <string name="ok_drm_rights_consume">"确定"</string>
+    <string name="cancel_drm_rights_consume">"取消"</string>
+    <string name="orgdrm_no_share">"该文件不支持分享"</string>
+    <string name="drm_can_not_processed">" Drm文件不能被操作"</string>
+
+    <string name="protect_information">"保护信息"</string>
+    <string name="drm_consume_title">消费DRM权限</string>
+    <string name="drm_consume_hint">"您的操作将会消费DRM权限"</string>
+    <string name="drm_file_path">目录：%1$s</string>
+    <string name="drm_file_name">文件名：%1$s</string>
+    <string name="drm_rights_validity">数字版权：有效</string>
+    <string name="drm_rights_invalidity">数字版权：无效</string>
+    <string name="drm_rights_status_transfer">保护状态：允许被转发</string>
+    <string name="drm_rights_status_untransfer">保护状态：不允许被转发</string>
+    <string name="drm_start_time">开始：%1$s</string>
+    <string name="drm_end_time">结束：%1$s</string>
+    <string name="drm_expiration_time">到期时间：%1$s</string>
+    <string name="drm_remain_times">剩余使用次数：%1$s</string>
+    <string name="drm_no_info">"无信息"</string>
+    <string name="drm_unlimited_rights">"无限制"</string>
+    <string name="drm_rights_unknown">"未知"</string>
+    <string name="drm_inactive_rights">版权未激活</string>
+    <string name="drm_shared_not_drmdownload">请将文件移动到DrmDownload目录，然后分享</string>
+
+    <string name="share_nofile_exceeded">超过信息上限!</string>
+
+
+    <string name="mms_validity_pref_title">彩信有效期</string>
+    <string name="sms_validity_pref_title">短信有效期</string>
+
+    <string name="attach_vcalendar">"日程"</string>
+    <string name="confirm_import_vcalendar">"是否导入此VCalendar？"</string>
+    <string name="confirm_save_otherfiles">"是否保存此附件？"</string>
+    <string name="confirm_import">确定</string>
+    <string name="cancel_import">取消</string>
+    <string name="attach_other_file">"未知文件"</string>
+    <string name="copy_to_sdcard_success">"附件已保存至 "<xliff:g id="copy_to_sdcard_success_id">%s</xliff:g></string>
+    <string name="copy_to_sdcard_fail" >"无法保存附件。"</string>
+    <string name="attach_sound" >"音频"</string>
+    <string name="select_vcard_button" >"点击按钮，您将进入联系人选择界面"</string>
+    <string name="select_video_button" >"点击按钮，您将进入视频选择界面"</string>
+    <string name="select_audio_button" >"点击按钮，您将进入音频选择界面"</string>
+    <string name="select_vcalendar_button" >"点击按钮，您将进入日程选择界面"</string>
+
+    <!-- bug 478514: Add for MmsFolderView Feature Begin -->
+    <string name="no_mms_plugin">没有文件夹视图</string>
+    <string name="attachment_details">附件详情</string>
+    <string name="context_menu_copy_to_sim_memory">复制信息到SIM卡</string>
+    <string name="copy_message_text">"复制文字"</string>
+    <string name="min_zoom">已达到最小</string>
+    <string name="max_zoom">已达到最大</string>
+    <string name="message_details_text">信息详情</string>
+    <string name="folder_reply">"回复"</string>
+    <string name="new_message">新信息</string>
+    <string name="folder_forward">"转发"</string>
+    <string name="delete_message">"删除"</string>
+    <string name="menu_resend">"重发"</string>
+    <string name="save_all_attachments">"保存所有附件"</string>
+    <string name="host_app_name">信息</string>
+    <string name="need_messaging_is_default_app">"需要设置\"%1$s\"为默认应用"</string>
+    <string name="message_outgoing_successful">"发送成功"</string>
+    <string name="message_outgoing_failure">"信息未发送"</string>
+    <!-- bug 478514: Add for MmsFolderView Feature End -->
+
+    <!-- Add by SPRD for Bug:521086 2016.01.15 Start -->
+    <string name="share_unsupported_type">"不支持的类型, 不能被分享!"</string>
+    <!-- Add by SPRD for Bug:521086 2016.01.15 End -->
+
+    <!-- 489220 begin -->
+    <!-- Title for the preference for whether or not to request/show delivery reports for MMS -->
+    <string name="mms_delivery_reports_pref_title">彩信送达报告</string>
+    <string name="mms_delivery_reports_pref_summary">要求每次发送彩信后都返回送达报告</string>
+    <string name="mms_read_reports_pref_title">彩信阅读报告</string>
+    <string name="mms_read_reports_pref_summary">要求每次发送彩信后都返回已读回执</string>
+    <string name="enable_return_mms_delivery_reports_pref_title">允许返回彩信送达报告</string>
+    <string name="enable_return_mms_delivery_reports_pref_summary">每次收到信息后，允许自动返回彩信送达报告</string>
+    <string name="enable_return_mms_read_reports_pref_title">允许返回彩信已读回执</string>
+    <string name="enable_return_mms_read_reports_pref_summary">每次收到信息后，允许自动返回彩信已读回执</string>
+    <!-- 489220 end -->
+    <!--add for bug 527803 begin -->
+    <string name="mimetype_null">"mimetype为空，不能保存此附件"</string>
+    <!--add for bug 527803 end-->
+
+    <!-- Sprd add for Smsc begin -->
+    <string name="pref_title_manage_simx_smsc">"SIM<xliff:g id="COUNT">%1$s</xliff:g> 短信中心号码"</string>
+    <!-- Settings item description for modifying Sim smcs screen -->
+    <string name="pref_title_manage_sim_smsc">管理短信中心号码</string>
+    <string name="smsc_set_fails">短信中心号码设置失败</string>
+    <string name="smsc_set_success">短信中心号码设置成功</string>
+    <string name="smsc_update_success">更新成功</string>
+    <string name="smsc_cannot_be_null">短信中心号码不能为空!</string>
+    <string name="smsc_should_be_number">短信中心号码应是一个号码</string>
+    <string name="smsc_list">短信中心号码列表</string>
+    <string name="smsc_list_empty">无短信中心号码</string>
+    <string name="smsc_list_loading">正在加载</string>
+    <string name="smsc_list_empty_toast">发送失败，无短信中心号码</string>
+    <string name="smsc_list_empty_notify_des">请新增一短信中心号</string>
+    <string name="smsc_list_empty_notify_title">无短信中心号</string>
+    <!-- Sprd add for Smsc end -->
+    <!-- Add by SPRD for Bug:521086 2016.02.02 Start -->
+    <string name="shared_image_number_exceed">"最多能分享%d张图片，多余的已被移除。"</string>
+    <!-- Add by SPRD for Bug:521086 2016.02.02 End -->
+
+    <string name="delivery_toast_body">此号 %s收到信息.</string>
+    <string name="delivery_toast_body_expired">"信息已过期 %s."</string>
+    <string name="delivery_toast_body_fail_rejected">信息被 %s拒收.</string>
+    <string name="delivery_toast_body_fail">信息未被 %s收到.</string>
+
+    <string name="drm_unsupported_toast">"DRM文件不可用，请选择其他文件。"</string>
+
+    <string name="err_sent_no_sim">发送失败，无SIM卡</string>
+    <string name="is_redirect_to">"是否跳转到 %1$s ?"</string>
+	<string name="browser">浏览器</string>
+	<string name="email">邮箱</string>
+	<string name="telephone">电话</string>
+	<string name="map">地图</string>
+
+    <string name="no_permissions">没有电话拨打权限</string>
+
+   <!-- Add by SPRD for Bug:533513 2016.03.10 Start -->
+   <!-- SIGNATURE FUNC -->
+   <string name="message_signature_setting">"签名设置"</string>
+   <string name="pref_signature_enable_title">"附加签名"</string>
+   <string name="pref_signature_enabl_summary">"在您发送的每条彩信后附加签名"</string>
+   <string name="pref_signature_input_title">"编辑签名"</string>
+   <string name="pref_signature_input_summary">"您还没有设置签名，点击设置"</string>
+   <!-- Add by SPRD for Bug:533513 2016.03.10 End -->
+
+    <!-- Sprd add for sms merge forward begin -->
+    <string name="folder_loading">"加载中.."</string>
+    <string name="sms_merge_forward_empty">"没有可合并转发的短信"</string>
+    <string name="sms_forward">"短信合并转发"</string>
+    <string name="sms_merge_dialog_title">"提示"</string>
+    <string name="sms_merge_dialog_content1">"您只能选择%d条"</string>
+    <string name="sms_merge_dialog_content2">"~%d条之间，请重新勾选！"</string>
+    <string name="messagelist_sender_self">"我"</string>
+    <string name="sms_merge_forward">"短信合并转发"</string>
+    <string name="muti_select_all">"全选"</string>
+    <string name="menu_select_none">"取消全选"</string>
+    <string name="sms_merge_dialog_content_exceed">"您合并转发的消息内容超过%d上限，请重新勾选！"</string>
+    <!-- Sprd add for sms merge forward end -->
+
+    <string name="action_sim_sms">SIM卡短信</string>
+
+    <!-- sprd #542214 start -->
+    <string name="sms_save_to_sim_pref_title">"短信优先存入sim卡设置"</string>
+    <string name="sms_sim_full_title">"SIM卡内存已满"</string>
+    <string name="sms_sim_full_notification_ticker">"SIM卡内存已满,建议您删除部分信息!"</string>
+    <string name="sms_sim_full_text">"SIM卡内存已满,新短信将存储到信息应用数据库里。如果要再次存入SIM，请删除SIM卡短信!"</string>
+    <!-- sprd #542214 end -->
+
+    <!-- Add by SPRD for Bug:543263 2016.03.29 Start -->
+    <string name="no_sms_permissions">没有短信权限，无法播放语音</string>
+    <!-- Add by SPRD for Bug:543263 2016.03.29 End -->
+
+    <string name="smil_subject_hint">"没有主题，请你编辑"</string>
+    <string name="smil_out_of_size">"超过彩信附件额度大小！"</string>
+    <string-array name="smil_choice_items">
+        <item>Smil 阅览</item>
+        <item>Smil 播放</item>
+    </string-array>
+    <string name="video_content_type">"视频 :"</string>
+    <string name="iamge_content_type">"图片 :"</string>
+    <string name="audio_content_type">"录音 :"</string>
+    <string name="vcard_content_type">"Vcard :"</string>
+    <string name="vcalendar_content_type">"Vcalendar :"</string>
+    <string name="subject_edit">"主题编辑"</string>
+    <string name="text_edit">"文本编辑"</string>
+    <string name="repalce_slide">"替换幻灯片"</string>
+    <string name="remove_slide">"移除幻灯片"</string>
+    <string name="insert_befor_slide">"前一页插入幻灯片"</string>
+    <string name="insert_after_slide">"后一页插入幻灯片"</string>
+    <string name="add_attachment">"添加附件"</string>
+    <string name="remove_attachment">"移除附件"</string>
+    <string name="repalce_attachment">"替换附件"</string>
+    <string name="hint_for_input">"请你编辑"</string>
+    <string name="hint_for_empty">"请您编辑当前幻灯片"</string>
+    <string name="goto_smil">"切换smil视图"</string>
+    <string name="smil_subject">"主题 :"</string>
+
+    <!-- add for bug 495194 begin -->
+    <plurals name="search_results_title">
+        <item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> 条符合“<xliff:g id="SEARCH">%2$s</xliff:g>”的搜索结果"</item>
+        <item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> 条符合“<xliff:g id="SEARCH">%2$s</xliff:g>”的搜索结果"</item>
+    </plurals>
+
+    <string name="menu_search_text">"搜索"</string>
+    <string name="search_label">"信息"</string>
+    <string name="search_hint">"搜索信息"</string>
+    <string name="search_max_length">"搜索文本过长，将截取前512个字符！"</string>
+    <string name="search_setting_description">"消息中的文字"</string>
+    <string name="search" msgid="7560238620274735199">"信息"</string>
+    <string name="search_empty">"没有匹配项。"</string>
+    <string name="search_history">"<xliff:g id="COUNT">%1$s</xliff:g> 项符合“<xliff:g id="SEARCH">%2$s</xliff:g>”的搜索结果"</string>
+    <!-- add for bug 495194 end -->
+    <string name="can_not_add_same_picture">不能重复添加同一张图片 </string>
+    <string name="smil_add_text">"添加文本附件成功"</string>
+    <string name="smil_empty_content">"内容为空，停止发送"</string>
+    <string name="exceed_participant_limit">"参与者数量超过限制（<xliff:g>%1$s</xliff:g>），请删除<xliff:g>%2$s</xliff:g>个。"</string>
+    <string name="dlg_save_attachment">"保存文件中&#8230;"</string>
+    <plurals name="attachments_saved_dir">
+        <item quantity="one"><xliff:g id="quantity">%d</xliff:g>个附件文件被存储到\"<xliff:g id="dir">%s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="quantity">%d</xliff:g>个附件文件被存储到\"<xliff:g id="dir">%s</xliff:g>\"</item>
+    </plurals>
+
+    <!-- add for bug 556265 capacity of sim messages begin -->
+    <string name="capacity_sim_message_title">SIM卡容量</string>
+    <string name="capacity_sim_message_summary">当前条数/最大容量:%s</string>
+    <!-- add for bug 556265 capacity of sim messages end -->
+
+    <!-- Add by SPRD for bug 554677 -->
+    <string name="audio_record_retry">请关闭后台录音后重试。</string>
+    <!-- add for bug 555230 begin -->
+    <string name="contact_invalid">联系人无效，请重新选择有效的联系人。</string>
+    <!-- add for bug 555230 begin -->
+    <!-- add for bug 558980 begin -->
+    <string name="message_size_counting">正在计算</string>
+    <!-- add for bug 558980 end -->
+
+   <!-- SPRD: Add for bug 562203 start -->
+   <string name="pref_encode_type_setting_title">"编码方式设置"</string>
+   <string name="pref_encode_type_title">"编码方式"</string>
+   <!-- SPRD: Add for bug 562203 end -->
+</resources>

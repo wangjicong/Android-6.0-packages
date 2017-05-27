@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- today + start =< received_timestamp < today + end  
+
+start and end's unit is second
+
+push this file into phone path: /etc/com.android.mmsfolderview/sortby_time_quantum.xml-->
+
+<data version="1">
+
+  <!-- today messages -->
+  <Item
+    packagename="com.android.mmsfolderview"
+    display="position1">
+    <sql>
+      <uri></uri>
+      <project></project>
+      <condition where="received_timestamp &gt;= ?">
+        <args>start</args>
+        <start>0</start>
+      </condition>
+      <groupby></groupby>
+      <having></having>
+      <orderby></orderby>
+    </sql>
+  </Item>
+
+  <!-- before today messages -->
+  <Item
+    packagename="com.android.mmsfolderview"
+    display="position2">
+    <sql>
+      <uri></uri>
+      <project></project>
+      <condition where="received_timestamp &lt; ? ">
+        <args>end</args>
+        <end>0</end>
+      </condition>
+      <groupby></groupby>
+      <having></having>
+      <orderby></orderby>
+    </sql>
+  </Item>
+
+  <!-- 3 days ago to 5 day ago messages -->
+  <Item
+    packagename="com.android.mmsfolderview"
+    display="position3">
+    <sql>
+      <uri></uri>
+      <project></project>
+      <condition where="received_timestamp &gt;= ? AND received_timestamp &lt; ? ">
+        <args>start,end</args>
+        <start>-432000</start> <!-- 5 days ago: -5 * 24 * 60 * 60 -->
+        <end>-172800</end> <!-- 3 days ago: -2 * 24 * 60 * 60 -->
+      </condition>
+      <groupby></groupby>
+      <having></having>
+      <orderby></orderby>
+    </sql>
+  </Item>
+</data>

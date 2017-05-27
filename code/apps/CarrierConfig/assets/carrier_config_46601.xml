@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config spn="7-Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">7-Mobile</string>
+    </carrier_config>
+</carrier_config_list>

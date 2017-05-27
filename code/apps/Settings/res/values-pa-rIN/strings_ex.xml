@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">USB ਸੈਟਿੰਗਾਂ</string>
+<string name="usb_charge_only">ਕੇਵਲ ਚਾਰਜ ਕਰੋ</string>
+<string name="usb_charge_only_summary">ਜਦ USB ਕੁਨੈਕਟ ਹੋਵੇ ਤਾਂ ਕੇਵਲ ਚਾਰਜ ਮੋਡ ਦੀ ਵਰਤੋ ਕਰੋ</string>
+<string name="usb_charge_only_storage_active_subtext">ਜਦ USB ਸਟੋਰੇਜ ਵਰਤੋਂ ਵਿੱਚ ਹੋਵੇ ਤਾਂ ਕੇਵਲ ਚਾਰਜ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।</string>
+<string name="usb_charge_only_notification">ਚਾਰਜ ਓਨਲੀ ਦੇ ਤੌਰ ਤੇ ਕਨੈਕਟ ਕੀਤਾ</string>
+<string name="usb_storage">USB ਸਟੋਰੇਜ</string>
+<string name="usb_storage_summary">USB ਵਿਸ਼ਾਲ ਸਟੋਰੇਜ ਨੂੰ ਸਕ੍ਰਿਅ ਕਰੋ</string>
+<string name="ums_settings">UMS ਸੈਟਿੰਗਸ</string>
+<string name="ums_mounted_setting">"ਹੁਣ PC ਤੇ ums ਮਾਊਂਟ ਕਰੋ, ਕਿਰਪਾ ਕਰਕੇ ਠਹਿਰੋ..."</string>
+<string name="ums_unmounted_setting">"ਹੁਣ PC ਤੋਂ ums ਅਣਮਾਊਂਟ ਕਰੋ, ਕਿਰਪਾ ਕਰਕੇ ਠਹਿਰੋ..."</string>
+<string name="usb_virtual_drive">USB ਵਰਚੂਅਲ ਡ੍ਰਾਈਵ</string>
+<string name="usb_virtual_drive_summary">USB ਵਰਚੂਅਲ ਡ੍ਰਾਈਵ ਸਮਰਥ ਕਰੋ</string>
+<string name="remember_choice">ਮੇਰੀ ਚੋਣ ਯਾਦ ਰੱਖੋ</string>
+<string name="remember_choice_summary">"ਮੇਰੀ ਪਸੰਦ ਯਾਦ ਰੱਖੋ ਅਤੇ ਅਗਲੀ ਵਾਰ ਯਾਦ ਕਰਾਇਆ ਫੰਕਸ਼ਨ ਸਵੈਚਾਲਿਤ ਰੂਪ ਨਾਲ ਚਾਲੂ ਕਰੋ"</string>
+<string name="stand_by_set_changed_prompt">"Sim ਸਕ੍ਰਿਏ ਕਰਨ ਦੀ ਸਥਿਤੀ ਬਦਲੀ ਜਾਏਗੀ, ਕਿਰਪਾ ਕਰਕੇ ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਜਾਰੀ ਰੱਖਣਾ ਹੈ ਜਾਂ ਨਹੀਂ?"</string>
+<string name="not_stand_by">"ਵਰਜਤ"</string>
+<string name="primary_card_switching">"ਸੈਟ ਹੋ ਰਿਹਾ ਹੈ\uff0cਕਿਰਪਾ ਕਰਕੇ ਠਹਿਰੋ..."</string>
+<string name="toggle_data_change_message">"ਡੇਟਾ ਕਨੈਕਸ਼ਨ sim ਕਾਰਡ ਵਿੱਚ ਸਵਿਚ ਕੀਤਾ ਗਿਆ ਹੈ <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਦਿਓ ਕਿ ਇਹ ਡੇਟਾ ਥ੍ਰੂਪੁਟ ਅਤੇ ਸੰਬੰਧਿਤ ਉਤਪੰਨ ਕਰੇਗਾ।"</string>
+<string name="select_primary_card">"ਪ੍ਰਾਈਮਰੀ ਕਾਰਡ ਚੁਣੋ"</string>
+<string name="whether_switch_primary_card">"ਕਿਰਪਾ ਕਰਕੇ ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਪ੍ਰਾਈਮਰੀ ਕਾਰਡ ਨੂੰ ਇਸ ਕਾਰਡ ਵਿੱਚ ਬਦਲਣਾ ਹੈ ਜਾਂ ਨਹੀਂ?\n(ਸੈਲਿਉਲਰ ਡੇਟਾ ਵੀ ਕਾਰਡ ਵਿੱਚ ਬਦਲਿਆ ਜਾਏਗਾ।)"</string>
+<string name="attention">"ਧਿਆਨ"</string>
+<string name="bt_softap_cannot_coexist">"ਜਦੋਂ softap ਸਮਰੱਥ ਜਾਂ ਚਾਲੂ ਹੁੰਦਾ ਹੈ, ਤਾਂ  bluetooth ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੀ, ਜੇਕਰ ਤੁਸੀਂ  bluetooth ਪ੍ਰਯੋਗ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ softap ਅਸਮਰੱਥ ਹੈ।"</string>
+<string name="softap_bt_cannot_coexist">"ਜਦੋਂ ਬਲੂਟੁੱਥ ਸਮਰਥਿਤ ਜਾਂ ਚਾਲੂ ਹੋਵੇ, ਤਾਂ ਸੌਫਟਐਪ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦਾ, ਜੇਕਰ ਤੁਸੀਂ ਸੌਫਟਐਪ ਵਰਤਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਬਲੂਟੁੱਥ ਅਸਮਰਥਿਤ ਹੈ।"</string>
+<string name="softap_need_mobile_data_enabled">"ਪੋਰਟੇਬਲ Wi-Fi ਹੌਟਸਪੌਟ ਲਈ ਮੋਬਾਈਲ ਡੇਟਾ ਕਨੈਕਟ ਦੀ ਲੋੜ ਹੈ, ਇਸ ਨਾਲ ਵਾਧੂ ਖਰਚਾ ਲੱਗ ਸਕਦਾ ਹੈ।"</string>
+<string-array name="light_color_picker">
+<item>ਹਰਾ</item>
+<item>"ਨੀਲਾ"</item>
+<item>"Indigo"</item>
+<item>ਜਾਮਨੀ</item>
+<item>"ਗੁਲਾਬੀ"</item>
+<item>"ਲਾਲ"</item>
+<item>"ਪੀਲਾ"</item>
+</string-array>
+</resources>

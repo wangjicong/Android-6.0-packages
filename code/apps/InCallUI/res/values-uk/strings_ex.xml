@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Основна карта"</string>
+<string name="vice_card_slot">"Додаткова карта"</string>
+<string name="record_time">"рекордно короткі терміни:"</string>
+<string name="onscreenShowRecodText">Запис</string>
+<string name="recorderr">"Запис зберегти не вдалося!"</string>
+<string name="audio_db_artist_name">"Ваші записи"</string>
+<string name="audio_db_album_name">"Аудіозаписи"</string>
+<string name="audio_db_playlist_name">"Мої записи"</string>
+<string name="app_name">"Телефон App"</string>
+<string name="error_mediadb_new_record">"Неможл. зберегти записане аудіо"</string>
+<string name="sdcard_access_error">"Відсутній доступ до sd-карти"</string>
+<string name="no_sd_card">"НІ карти SD або демонтована"</string>
+<string name="insert_sd_card">"Please insert an SD card"</string>
+<string name="storage_is_full">Пам\'ять заповнена</string>
+<string name="recording">"Виконується запис "</string>
+<string name="used_by_other_applications">"записуючий пристрій використовується іншими програмами. Будь ласка, закрийте програму"</string>
+<string name="prompt_record_finish">"Записаний файл було переміщено до"</string>
+<string name="ok">OK</string>
+<string name="permission_no_record">"У вас немає дозволу для запису дзвінків"</string>
+<string name="hangup_hold_and_answer">"Скасувати утримуваний виклик і Відповісти"</string>
+<string name="hangup_active_and_answer">"Скасувати активний дзвінок і Відповісти"</string>
+<string name="hangup_all_and_answer">"Скасувати всі виклики й Відповісти"</string>
+<string name="onActive">"Активний"</string>
+<string name="hold_current_call_and_answer">"Утримувати поточний дзвінок та відповісти"</string>
+<string name="hangup_current_call_and_answer">"Скасувати поточний дзвінок і Відповісти"</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB સેટિંગ્સ"</string>
+<string name="usb_charge_only">માત્ર ચાર્જ કરો</string>
+<string name="usb_charge_only_summary">જ્યારે USB જોડાયેલું હોય ત્યારે માત્ર ચાર્જ મોડનો ઉપયોગ કરો</string>
+<string name="usb_charge_only_storage_active_subtext">માત્ર USB સ્ટોરેજ ખુલ્લું હોય ત્યારે જ ચાર્જ કરી શકતાં નથી</string>
+<string name="usb_charge_only_notification">માત્ર ચાર્જ કરવામાં આવે ત્યારે જ જોડાયા છે</string>
+<string name="usb_storage">USB સ્ટોરેજ</string>
+<string name="usb_storage_summary">USB માસ સ્ટોરેજ સક્રિય કરો</string>
+<string name="ums_settings">"UMS સેટિંગ્સ"</string>
+<string name="ums_mounted_setting">"હાલમાં ums ને PC પર માઉન્ટ કરો, કૃપયા પ્રતિક્ષા કરો..."</string>
+<string name="ums_unmounted_setting">"હાલમાં ums ને PC પરથી અનમાઉન્ટ કરો, કૃપયા પ્રતિક્ષા કરો..."</string>
+<string name="usb_virtual_drive">"USB વર્ચ્યુઅલ ડ્રાઇવ "</string>
+<string name="usb_virtual_drive_summary">"USB વર્ચ્યુઅલ ડ્રાઇવ સક્ષમ કરો"</string>
+<string name="remember_choice">મારી પસંદગી યાદ રાખો</string>
+<string name="remember_choice_summary">"મારા ઉપકરણને યાદ રાખો અને આગામી સમયે આપમેળે યાદ કરેલ ફંક્શનને શરૂ કરો"</string>
+<string name="stand_by_set_changed_prompt">"Sim સક્રિયકરણ સ્થિતિ બદલાવામાં આવશે, કૃપયા ચાલુ રાખવું છે કે નહી તેની પુષ્ટિ કરીએ?"</string>
+<string name="not_stand_by">"પ્રતિબંધિત"</string>
+<string name="primary_card_switching">"સેટિંગ\uff0cકૃપા કરી રાહ જુઓ..."</string>
+<string name="toggle_data_change_message">"ડેટા કનેક્શન સિમ કાર્ડમાં ફેરવી નાંખવા <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, તે ચોક્કસ સમયગાળામાં ડેટાનો વપરાશ અને ચાર્જિસ દર્શાવે છે.કૃપા કરીને નોંધો"</string>
+<string name="select_primary_card">"પ્રાથમિક કાર્ડ પસંદ કરો"</string>
+<string name="whether_switch_primary_card">"કૃપા કરી પુષ્ટિ કરો કે શું પ્રાથમિક કાર્ડને આ કાર્ડમાં બદલવું છે?\n(સેલ્યુલર ડેટા પણ કાર્ડમાં ખસી જશે.)"</string>
+<string name="attention">"સાવધાન"</string>
+<string name="bt_softap_cannot_coexist">"સોફ્ટેપ સક્ષમ કરેલ હોય અથવા તે ચાલુ થતું હોય ત્યારે, બ્લ્યુટુથ કામ કરી શકે નહી, જો તમે બ્લ્યુટુથનો ઉપયોગ કરવા માંગતા હોવ તો, કૃપયા નિશ્ચિત કરો કે સોફ્ટેપ અક્ષમ છે."</string>
+<string name="softap_bt_cannot_coexist">"જ્યારે બ્લ્યુટૂથ સક્ષમ કરવામાં આવે છે કે તેને ચાલુ કરવામાં આવે છે, સૉફ્ટકેપ કામ નથી કરી શકતું, જો તમે સૉફ્ટકેપનો ઉપયોગ કરવા માંગો છો તો, ખાતરી કરો કે બ્લ્યુટૂથ અસક્ષમ કરવામાં આવે."</string>
+<string name="softap_need_mobile_data_enabled">"પોર્ટેબલ Wi-Fi હોટસ્પોટ માટે મોબાઇલ ડેટા જોડાયેલ હોવાની જરૂર છે,કદાચ વધારાનું ખર્ચ પેદા કરી શકે છે."</string>
+<string-array name="light_color_picker">
+<item>"લીલો"</item>
+<item>"બ્લ્યુ"</item>
+<item>"ઘેરો વાદળી રંગ"</item>
+<item>"જાંબલી"</item>
+<item>"ગુલાબી"</item>
+<item>"લાલ"</item>
+<item>"પીળું"</item>
+</string-array>
+</resources>

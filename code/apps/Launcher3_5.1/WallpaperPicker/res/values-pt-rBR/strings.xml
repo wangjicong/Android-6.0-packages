@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpaper_instructions">"Definir papel de parede"</string>
+<string name="image_load_fail">"Não pode carregar imagem"</string>
+<string name="wallpaper_load_fail">"Não pode carregar a imagem como papel de parede"</string>
+<plurals name="number_of_items_selected">
+<item quantity="zero">"%1$d selecionado"</item>
+<item quantity="one">"%1$d selecionado"</item>
+</plurals>
+<plurals name="number_of_items_selected">
+<item quantity="other">"%1$d selecionado"</item>
+</plurals>
+<string name="wallpaper_accessibility_name">"Papel de parede %1$d de %2$d"</string>
+<string name="announce_selection">"Selecionado <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g>"</string>
+<string name="wallpaper_delete">Deletar</string>
+<string name="pick_image">"Pegar imagem"</string>
+<string name="pick_wallpaper">"A autenticação WAPI falhou. Favor verificar a senha ou certificados"</string>
+<string name="crop_wallpaper">"Cortar papel de parede"</string>
+</resources>

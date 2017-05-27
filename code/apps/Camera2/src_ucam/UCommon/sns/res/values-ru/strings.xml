@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ucomm.sns</string>
+    <string name="sns_label_sina">Sina</string>
+    <string name="sns_label_sohu">Sohu</string>
+    <string name="sns_label_tencent">Tencent</string>
+    <string name="sns_label_qzone">QZone</string>
+    <string name="sns_label_renren">Renren</string>
+    <string name="sns_label_kaixin">Kaixin</string>
+    <string name="sns_label_facebook">Facebook</string>
+    <string name="sns_label_tumblr">Tumblr</string>
+    <string name="sns_label_flickr">Flickr</string>
+    <string name="sns_label_twitter">Twitter</string>
+    <string name="sns_label_mixi">Mixi</string>
+    <string name="sns_label_share">Поделиться</string>
+    <string name="sns_label_account_setup">Настройки учётной записи</string>
+    <string name="sns_label_more_share">Поделиться ещё...</string>
+    <string name="sns_label_bind">Привязать</string>
+    <string name="sns_label_unbind">Отвязать</string>
+    <string name="sns_label_hide_location">Скрыть информацию о местонахождении</string>
+    <string name="sns_msg_getting_location">Получаю информацию о местонахождении…</string>
+    <string name="sns_msg_please_choose_share_account">Выберите учётную запись.</string>
+    <string name="sns_msg_missing_share_pic">Пожалуйста, нажмите миниатюру, чтобы выбрать изображение, а затем поделиться</string>
+    <string name="sns_msg_fail_login">Неудачный вход, попробуйте еще раз позже.</string>
+    <string name="sns_msg_connecting">Идет соединение…</string>
+    <string name="sns_msg_loading">Идет загрузка…</string>
+    <string name="sns_msg_network_unavailable">Проблема с сетью, попробуйте еще раз попозже.</string>
+    <string name="sns_msg_from_ucam">От UCam</string>
+    <string name="sns_title_account_settings">Настройки учётных записей</string>
+    <string name="sns_title_share_to">Поделиться через…</string>
+    <string name="sns_title_share">Отправка</string>
+    <string name="sns_title_sync">Синхронизировать</string>
+    <string name="sns_title_login">Логин</string>
+    <string name="sns_title_privacy">Заявление о конфиденциальности</string>
+    <string name="sns_msg_privacy">Защита конфиденциальности пользоватля – основная
+        политика UCam.
+        При доступе к сайту SNS UCam применяет протокол безопасности, например
+        OAuth, в связи с тем UCam не непосредственно касается информации
+        счета. \
+        UCam официально обещает строго деражать вашу сооветствующую информацию
+        счета за исключением требований законов, компетентных органов
+        правительства или вашего письменного согласия.</string>
+    <string name="sns_ucam_link">"&lt;a href=\"http://www.u-camera.com\"
+        &gt;Uam&lt;a/&gt;</string>
+    <string name="sns_ucam_share">#фото UCam#</string>
+    <string name="sns_toast_location_error">Получение информации о местонахождении не удалось</string>
+    <string name="text_activity_is_not_found">Подходящее приложение не найдено</string>
+    <string name="text_edit_share_title">Использовать для этого действия.</string>
+    <string name="edit_operation_failure_tip">Операция не удалась.</string>
+</resources>

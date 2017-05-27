@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_not_on">Sarea ez dago piztuta, sarearen egoera ezarri nai duzu?</string>
+<string name="dialog_network_selection_title">Arreta</string>
+<string name="dialog_network_selection_message">Telefono mugikorrak ez ditu beste operadore batzuk hautatuko zuretzat eskuzko hautaketa moduan. Batzutan eskuzko hautaketa berriz egin beharko duzu edo bueltatu hautaketa modu automatikora hautatutako operadorearekin zerbitzua galtzen duzuenean. Gomendatzen da "Automatikoki hautatu" erabiltzea. Eskuz hautatu nahi duzu sarea?</string>
+<string name="network_unknown">"Ezezaguna"</string>
+<string name="network_inhibit">DEBEKATUTA</string>
+<string name="ip_dialing_title">IP deitzen</string>
+<string name="ip_dialing_list_title">IP dei zerrenda</string>
+<string name="ip_no_number">IP aurrizki falta</string>
+<string name="ip_no_number_msg">IP aurrizkia ez dago telefonoan gordeta</string>
+<string name="ip_number_empty_loading">IP markatze zerrenda hutsik dago</string>
+<string name="remove">"Kendu"</string>
+<string name="ip_number_is_too_long">IP dei zenbakiak ezin dira 20 baino luzeagoak izan.</string>
+<string name="add_ip_number_str">Berria</string>
+<string name="ip_dialing_num_error">Bakarrik 10 IP zenbakiak gorde ahal dira</string>
+<string name="ip_dialing_num_repeat">Zenbakia errepikatu, ez da ondo gehitu</string>
+<string name="menu_selected_all">Guztia hautatu</string>
+<string name="menu_select_none">Desautatu dena</string>
+<string name="doneButton">Eginda</string>
+<string name="cancel">Utzi</string>
+<string name="uplmn_setting_title">Hobespenak</string>
+<string name="uplmn_setting">"UPLMN Ezarpenak""</string>
+<string name="uplmn_index">Indizea (0tik hasi):</string>
+<string name="uplmn_id">Id zenbakia:</string>
+<string name="uplmn_type">Idatzi(0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):</string>
+<string name="no_sim_card_prompt">Mesedez sartu USIM txartela eta berriro saiatu!</string>
+<string name="index_error_uplmn">Indizea hutsik dago. Berriro saiatu!</string>
+<string name="type_is_emplty_error_uplmn">Hustuta dago, berriro saiatu!</string>
+<string name="number_too_short_uplmn">Id zenbakia laburregia da, berriro saiatu!</string>
+<string name="type_is_wrong_uplmn">Mota 1 edo 0 izan behar da, berriro saiatu!</string>
+<string name="fail_uplmn">Huts egin du, berriro saiatu!</string>
+<string name="set_uplmn_unsuccessful">uplmn-aren konfigurazioa ez da ondo burutu!</string>
+<string name="menu_new_uplmn">UPLMN berria</string>
+<string name="menu_delete_uplmn">Ezabatu UPLMN</string>
+<string name="uplmn_exceeds_capacity">Kopurua sim-aren edukiaren gainetik dago!</string>
+<string name="delete">Ezabatu</string>
+<string name="delete_uplmn_successfully">Uplmn ondo ezabatu da</string>
+<string name="id_is_wrong_uplmn">"ID-a zenbaki bat izan behar da!"</string>
+<string name="lte_service_network_mode_settings_dialog_title">Hautatu sare modua</string>
+<string name="lte_service_switch">Konfiguratzen, mesedez itxaron…</string>
+<string-array name="lte_preferred_networks_choices_for_common">
+<item>4G/3G/2G Modu Anitza</item>
+<item>3G/2G bakarrik erabiltzeko Modua</item>
+<item>"2G Soilik Modua"</item>
+</string-array>
+<string-array name="lte_preferred_networks_choices">
+<item>4G/3G/2G Modu Anitza</item>
+<item>3G/2G bakarrik erabiltzeko Modua</item>
+</string-array>
+<string-array name="lte_network_mode_choices">
+<item>GMS bakarrik</item>
+<item>WCDMA bakarrik</item>
+<item>"WCDMA/GSM"</item>
+<item>"LTE/WCDMA/GSM (Automatikoa)"</item>
+</string-array>
+<string name="fast_dial_settings">Markatze azkarraren ezarpenak</string>
+<string name="delete_fastdial">Ezabatu markatze azkarra</string>
+<string name="update_fastdial">Eguneratu markatze azkarra</string>
+<string name="no_sim_text">Mesedez sartu edo abiarazi SIM txartela</string>
+<string name="network_not_on">Sarea ez dago piztuta, sarearen egoera ezarri nai duzu?</string>
+<string name="one_key_locked_notification">"Mota hau DESBLOKEATUTA dago, Blokeatu nahi duzu?"</string>
+<string name="one_key_unlocked_notification">"Mota hau BLOKEATUTA dago, Desblokeatu nahi duzu?"</string>
+<string name="one_key_unlocked">Desblokeatu</string>
+<string name="one_key_locked">Giltzarrapoa</string>
+<string name="one_key_operation_success">"Operazioa ondo burutu da, berrabiarazi beharra dago orain."</string>
+<string name="one_key_operation_unsuccess">"Operazioak huts egin du, berriro saiatu!"</string>
+<string name="one_key_query_unsuccess">"Simlock-en eskaerak huts egin du!"</string>
+<string name="one_key_simlock_setting">"SIMLOCK Ezarpenak"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Sarearen blokeoa"</item>
+<item>"Sareko Azpimultzoaren Blokeoa"</item>
+<item>"Zerbitzu Hornitzailearen Blokeoa"</item>
+<item>"Korporazioa blokeoa"</item>
+<item>"SIM Blokeoa"</item>
+</string-array>
+<string name="labelAO">Ateratzen den guztia</string>
+<string name="messageAO">Sartu deiak desgaitzeko pasahitza.</string>
+<string name="sum_ao_enabled_indicator">Bidalitako dei guztiak</string>
+<string name="sum_ao_enabled">Gaituta</string>
+<string name="sum_ao_disabled">Desgaituta</string>
+<string name="enable_ao_forbidden">Zure operadoreak ez du onartzen irteerako dei guztien debekua gaitzea.</string>
+<string name="disable_ao_forbidden">Zure operadoreak ez du onartzen irteerako dei guztien debekua desgaitzea.</string>
+<string name="labelOI">Nazioarteko irteerak</string>
+<string name="messageOI">Sartu deiak desgaitzeko pasahitza.</string>
+<string name="sum_oi_enabled">Gaituta</string>
+<string name="sum_oi_disabled">Desgaituta</string>
+<string name="enable_oi_forbidden">Zure operadoreak ez du onartzen irteerako nazioarteko ibiltaritza deiaren debekua gaitzea.</string>
+<string name="disable_oi_forbidden">Zure operadoreak ez du onartzen irteerako nazioarteko dei guztien debekua desgaitzea.</string>
+<string name="labelOX">Irteerako nazioarteko ibiltaritza</string>
+<string name="messageOX">Sartu deiak desgaitzeko pasahitza.</string>
+<string name="sum_ox_enabled">Gaituta</string>
+<string name="sum_ox_disabled">Desgaituta</string>
+<string name="enable_ox_forbidden">Zure operadoreak ez du onartzen irteerako nazioarteko ibiltaritza deiaren debekua gaitzea.</string>
+<string name="disable_ox_forbidden">Zure operadoreak ez du onartzen irteerako nazioarteko ibiltaritza deiaren debekua desgaitzea.</string>
+<string name="labelAI">Sartzen den guztia</string>
+<string name="messageAI">Sartu deiak desgaitzeko pasahitza.</string>
+<string name="sum_ai_enabled">Gaituta</string>
+<string name="sum_ai_disabled">Desgaituta</string>
+<string name="enable_ai_forbidden">Zure operadoreak ez du onartzen sarrerako dei guztien debekua gaitzea.</string>
+<string name="disable_ai_forbidden">Zure operadoreak ez du onartzen sarrerako dei guztien debekua desgaitzea.</string>
+<string name="labelIR">Jasotzen diren deiak ibiltaritze egiten denean</string>
+<string name="messageIR">Sartu deiak desgaitzeko pasahitza.</string>
+<string name="sum_ir_enabled">Gaituta</string>
+<string name="sum_ir_disabled">Desgaituta</string>
+<string name="enable_ir_forbidden">Zure operadoreak ez du onartzen ibiltaritzak deitzen duenean sarrerako dei guztien debekua gaitzea.</string>
+<string name="disable_ir_forbidden">Zure operadoreak ez du onartzen ibiltaritzak deitzen duenean sarrerako dei guztien debekua desgaitzea.</string>
+<string name="labelAB">Guztia desaktibatu</string>
+<string name="messageAB">Sartu deiak desgaitzeko pasahitza.</string>
+<string name="sum_ab_enabled">Gaituta</string>
+<string name="sum_ab_disabled">Desgaituta</string>
+<string name="enable_ab_forbidden">Zure operadoreak ez du guztiz onartzen desaktibazioa.</string>
+<string name="disable_ab_forbidden">Zure operadoreak ez du guztiz onartzen aktibazioa.</string>
+<string name="labelChgPwd">Aldatu pasahitza</string>
+<string name="DlgChgPwd_oldpwd">Sartu deiak desgaitzeko pasahitza.</string>
+<string name="DlgChgPwd_newpwd_first">Sartu pasahitz berria</string>
+<string name="DlgChgPwd_newpwd_last">Berretsi pashitz berria</string>
+<string name="cb_pw_no_match">"Pasahitzak ez datoz bat"</string>
+<string name="cb_pw_error">"Pasahitza ez da zuzena"</string>
+<string name="cb_pw_correct">"Pasahitza aldatu egin da"</string>
+<string name="labelCB">Dei murrizketa</string>
+<string name="call_barring_settings">Dei murrizketa ezarpenak</string>
+<string name="callin_barring_settings">Jasotako deien murrizketa ezarpenak</string>
+<string name="callout_barring_settings">Irteerako deien murrizketaren ezarpenak</string>
+<string name="labelCOUT">Irteerako deien murrizketa</string>
+<string name="labelCIN">Sarrera murrizketa</string>
+<string name="cb_error">Dei murrizketa ukatuta</string>
+<string name="no_sim_text">Mesedez sartu edo abiarazi SIM txartela</string>
+<string name="sim_lock_none">"Ez da SIM-ik blokeatu."</string>
+<string name="sim_lock_try_later">"Mesedez saiatu beranduago."</string>
+<string name="edit_and_save_fdn">Editatu FDN Zenbakia</string>
+<string name="call_fdn_number_by_sim">Deitu</string>
+<string name="vt_call_fdn_numberr_by_sim">VT deia</string>
+<string name="airplane_changed_on">Hegazkin modua itzalita dago</string>
+<string name="number_empty">Zenbakia hutsik dago</string>
+<string name="unblock_pin2">Desblokeatu PIN2</string>
+<string name="sum_fdn_unblock_pin2">Sartu PUK2 zure SIM txartela desblokeatzeko</string>
+<string name="pin2_Label">PIN2  (<xliff:g>%s</xliff:g> saiakera gelditzen dira)</string>
+<string name="oldPin2_Label">PIN2 zaharra (<xliff:g>%s</xliff:g> saiakera gelditzen dira)</string>
+<string name="puk2_code_label">PUK2 kodea idatzi (<xliff:g>%s</xliff:g> gainerako saiakerak)</string>
+<string name="promptWordOne">"Mandendu&#160;"</string>
+<string name="promptWordTwo">"&#160;aldiz"</string>
+<string name="adn_full">FDN zerrenda beterik dago</string>
+<string name="no_available_phone_accounts">"Ez dago deitzeko konturik eskuragarri"</string>
+<string name="lnd_list">LND zerrenda</string>
+<string name="sdn_list">SDN zerrenda</string>
+<string name="sim_list_title">"SIM txartela aukeratu"</string>
+<string name="wait_message">Itxaron mesedez…</string>
+<string name="menu_call">Kontaktua deitu</string>
+<string name="lnd_no_contact_record">Ez dago LND erregistrorik SIM txartel honetan.</string>
+<string name="sdn_no_contact_number">SIM txartel honek ez du SDN zenbakia onartzen.</string>
+<string name="remove">"Kendu"</string>
+<string name="delete_selected_contents">Hautatutako edukiak ezabatu nahi dituzu?</string>
+<string name="sim_notready_can_not_delete">SIM txartela prest ez dagoenez, ezin da ezabatu.</string>
+<string name="contact_del_failed">Ezabatzean akatsa egon da</string>
+<string name="incall_error_missing_voicemail_number_sprd">"Erantzungailua konfiguratzeko, joan Menua &gt; Ezarpenak atalera."</string>
+<string name="simlock_unlocked">"Simlock desblokeatu da."</string>
+<string-array name="preferred_network_mode_choices_wcdma">
+<item>WCDMA bakarrik</item>
+<item>GMS bakarrik</item>
+<item>AUTOMATIKOA</item>
+</string-array>
+<string-array name="preferred_network_mode_choices_gsm_only">
+<item>GMS bakarrik</item>
+</string-array>
+</resources>

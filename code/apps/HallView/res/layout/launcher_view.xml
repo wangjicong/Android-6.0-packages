@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wx.hallview.views.CircleLayout
+    android:background="@drawable/white_circle_bg"
+    android:layout_width="@dimen/hall_view_width"
+    android:layout_height="@dimen/hall_view_width"
+    cricle:circlelayout_radius="@dimen/hall_view_cricle"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:cricle="http://schemas.android.com/apk/res/com.wx.hallview" />

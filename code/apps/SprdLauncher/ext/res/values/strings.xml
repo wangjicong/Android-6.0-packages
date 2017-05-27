@@ -1,0 +1,52 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_mode_title">Folder model</string>
+    <string name="line_model">Line</string>
+    <string name="grid_mode">Grid</string>
+
+    <!--Add for workspace animation Effects-->
+    <string name="effects_button_text">Effects</string>
+    <string name="effect_normal_text">Normal</string>
+    <string name="effect_cross_text">Cross</string>
+    <string name="effect_page_text">Page</string>
+    <string name="effect_cube_in_text">Cube (In)</string>
+    <string name="effect_cube_out_text">Cube (Out)</string>
+    <string name="effect_carousel_left_text">Carousel Left</string>
+    <string name="effect_carousel_right_text">Carousel Right</string>
+    <string name="effect_roate_text">Roate</string>
+    <string name="effect_layer_text">Layer</string>
+    <string name="effect_fade_text">Fade</string>
+
+    <!--SPRD Add for unreadNotifier function  start-->
+    <string name="unread_notifier_title">Unread badge</string>
+    <string name="unread_call">Phone</string>
+    <string name="unread_sms">SMS</string>
+    <string name="unread_email">Email</string>
+    <string name="unread_calendar">Calendar</string>
+    <string name="unread_hint">Miss required <xliff:g id="unread_type">%1$s</xliff:g> permission, Please apply permission first.</string>
+
+    <string name="app_list_preference_none">Please select a app.</string>
+
+    <string name="pref_missed_call_count_title">Missed call</string>
+    <string name="pref_missed_call_count_summary">Select a Phone app, display the missed calls number on it</string>
+    <string name="pref_unread_sms_count_title">Unread message</string>
+    <string name="pref_unread_sms_count_summary">Select a SMS app, display the unread messages number on it</string>
+    <string name="pref_unread_email_count_title">Unread email</string>
+    <string name="pref_unread_email_count_summary">Select a Email app, display the unread mail number on it</string>
+    <string name="pref_unread_calendar_count_title">Unread calendar</string>
+    <string name="pref_unread_calendar_count_summary">Select a Calendar app, display the unread calendar events on it</string>
+
+    <string name="selected_text">Selected</string>
+    <!--SPRD Add for unreadNotifier function  end-->
+
+    <string name="sprd_application_name">SprdLauncher</string>
+
+    <!--SPRD Add for dynamic icon feature start-->
+    <string name="dynamic_icon_title">Dynamic icon</string>
+    <string name="dynamic_calendar" translatable="false">Calendar</string>
+    <string name="dynamic_clock" translatable="false">Clock</string>
+    <!--SPRD Add for dynamic icon feature end-->
+
+    <!--add for circular sliding-->
+    <string name="allow_circular_sliding_title">Home screen loop</string>
+    <string name="folder_default_name">Folder</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"تنظیمات تماس IP"</string>
+    <string name="ip_dial_menu">"تماس IP"</string>
+    <string name="ip_dialing_title">شماره گیری IP</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"تنظمیات تماس سریع"</string>
+    <string name="no_fast_dial_number">"شماره تماس سریع تنظیم نشده است."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"صادره"</string>
+     <string name="call_log_incoming_title">"ورودی"</string>
+     <string name="recentOutgoing_empty">"تماس خروجی ندارید."</string>
+     <string name="recentIncoming_empty">"تماس ورودی ندارید."</string>
+     <string name="view_setting">"نمایش"</string>
+     <string name="item_all_calls">"تمام ثبت تماس ها"</string>
+     <string name="item_sim_calls">"ثبت تماس های SIM%d"</string>
+     <string name="unselect_all">عدم انتخاب همه</string>
+     <string name="select_all_sprd">انتخاب همه</string>
+     <string name="doneButton">انجام شد</string>
+     <string name="cancel">انصراف</string>
+     <string name="delete_selected_calls">"آیا از حذف مورد انتخاب شده اطمینان دارید؟"</string>
+     <string name="clearCallLogProgress_title">"در حال پاک‌کردن گزارش تماس\u2026"</string>
+     <string name="delete_success">"با موفقیت حذف شد"</string>
+     <string name="clear_all_call_log">"پاک کردن تمام ثبت تماس ها"</string>
+     <string name="clear_selected_call_log">"پاک کردن ثبت تماس های انتخابی"</string>
+     <string name="select_all">انتخاب همه</string>
+     <string name="unselect_all">"انتخاب نکردن همه"</string>
+     <string name="delete_all_calls_confirm">"آیا می خواهید تمام موارد ثبت شده را حذف کنید؟"</string>
+     <string name="do_not_select">"شما این مورد ضبط شده را برای حذف انتخاب نکردید"</string>
+     <string name="delete_calls">حذف</string>
+     <string name="number_anr_isnull">"شماره مخاطب خالی است"</string>
+     <string name="call_recording_setting_title">"ضبط تماس"</string>
+     <string name="automatic_recording_title">"ضبط خودکار"</string>
+     <string name="dialog_phone_permission_deny">"برای اینکه بتوانید از تماس IP استفاده کنید\nدستور تلفن را روشن کنید."</string>
+     <string name="search_description">"جستجوی ثبت تماس ها"</string>
+     <string name="call_log_add_to_blacklist">"اضافه کردن به لیست سیاه"</string>
+     <string name="make_video_call_menu">"برقراری تماس ویدیویی"</string>
+
+</resources>

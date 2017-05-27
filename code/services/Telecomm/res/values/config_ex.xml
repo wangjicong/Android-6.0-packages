@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SPRD: Using plugins scheme to handle "log emergency calls" feature. @{ -->
+    <string name="telecom_plugin_name">plugin.sprd.logEmergencyCalls.AddonTelecomPlugin</string>
+    <!-- @} -->
+
+    <!-- SPRD: Flip to mute for incoming call. -->
+    <string name="flip_to_mute_plugin_name" translatable="false">plugin.sprd.flipToMute.FlipToMutePlugin</string>
+
+    <!-- SPRD: Fade down ringtone to vibrate. -->
+    <string name="fade_down_ringtone_to_vibrate_plugin_name" translatable="false">plugin.sprd.fadeDownRingtoneToVibrate.FadeDownRingtoneToVibratePlugin</string>
+    <!--  SPRD: MaxRingingVolume and Vibrate. -->
+    <string name="max_ringing_volume_plugin_name" translatable="false">plugin.sprd.maxRingingVolumeAndVibrate.MaxRingingVolumeAndVibratePlugin</string>
+    <!-- SPRD: Add for picking up the phone to answer incoming call automatically. -->
+    <string name="pickup_to_answer_incoming_call_plugin_name" translatable="false">
+        plugin.sprd.pickUpToAnswerIncomingCall.PickUpToAnswerIncomingCallPlugin</string>
+    <!-- SPRD: add for bug540881 -->
+    <string name="log_rejected_calls_plugin">plugin.sprd.logRejectedCalls.AddonLogRejectedCallsPlugin</string>
+</resources>

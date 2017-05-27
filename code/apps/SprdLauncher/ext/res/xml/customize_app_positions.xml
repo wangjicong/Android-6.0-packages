@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Apps xmlns:launcher="http://schemas.android.com/apk/res-auto">
+<!--
+    <App
+        launcher:pkgName="com.android.contacts"
+        launcher:position="0" />
+    <App
+        launcher:pkgName="com.sprd.fileexplorer"
+        launcher:position="1" />
+    <App
+        launcher:pkgName="com.android.camera2"
+        launcher:position="3" />
+-->
+</Apps>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpaper_instructions">རྩིག་ཤོག་སྒྲིག་འགོད།</string>
+<string name="image_load_fail">"པར་རིས་འབེབ་ལེན་བྱེད་མི་ཐུབ།"</string>
+<string name="wallpaper_load_fail">"པར་རིས་རྩིག་ཤོག་ཏུ་འབེབ་ལེན་བྱེད་ཐབས་མི་འདུག"</string>
+<plurals name="number_of_items_selected">
+<item quantity="zero">\'%1$dའདེམ་པ། </item>
+<item quantity="one">\'%1$dའདེམ་པ། </item>
+</plurals>
+<plurals name="number_of_items_selected">
+<item quantity="other">\'%1$dའདེམ་པ། </item>
+</plurals>
+<string name="wallpaper_accessibility_name">" %2$dཡི་རྩིག་ཤོག %1$d"</string>
+<string name="announce_selection">"<xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g>བདམས།"</string>
+<string name="wallpaper_delete">སུབ་པ།</string>
+<string name="pick_image">"པར་རིས་འདམ།"</string>
+<string name="pick_wallpaper">རྩིག་ཤོག</string>
+<string name="crop_wallpaper">"རྩིག་ཤོག་འདྲ།"</string>
+</resources>

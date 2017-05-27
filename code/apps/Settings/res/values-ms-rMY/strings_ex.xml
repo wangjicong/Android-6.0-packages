@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Tetapan USB"</string>
+<string name="usb_charge_only">"Cas sahaja"</string>
+<string name="usb_charge_only_summary">"Gunakan mod cas sahaja apabila USB disambungkan"</string>
+<string name="usb_charge_only_storage_active_subtext">"Tidak boleh mengecas apabila simpanan USB digunakan"</string>
+<string name="usb_charge_only_notification">"Disambung sebagai cas sahaja"</string>
+<string name="usb_storage">"Storan USB"</string>
+<string name="usb_storage_summary">"Dayakan storan massa USB"</string>
+<string name="ums_settings">"Tetapan UMS"</string>
+<string name="ums_mounted_setting">"Lekapkan ums ke PC sekarang, sila tunggu..."</string>
+<string name="ums_unmounted_setting">"Nyahlekap ums dari PC sekarang, sila tunggu..."</string>
+<string name="usb_virtual_drive">"Pacuan maya USB"</string>
+<string name="usb_virtual_drive_summary">"Dayakan pacuan maya USB"</string>
+<string name="remember_choice">"Ingat pilihan saya"</string>
+<string name="remember_choice_summary">"Ingat pilihan saya dan mula fungsi yang diingati secara automatik masa akan datang"</string>
+<string name="stand_by_set_changed_prompt">"Pengaktifan Sim negeri akan berubah, sila sahkan sama ada mahu meneruskan?"</string>
+<string name="not_stand_by">"DILARANG"</string>
+<string name="primary_card_switching">"Tetapan\uff0csila tunggu..."</string>
+<string name="toggle_data_change_message">"Sambungan data telah ditukarkan ke kad sim <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, ia akan menghasilkan daya pemprosesan data caj korelatif, sila ambil perhatian."</string>
+<string name="select_primary_card">"Pilih kad utama"</string>
+<string name="whether_switch_primary_card">"Sila sahkan sama ada untuk menukar ke kad primer pada kad ini?\n(data selular juga akan dipindahkan ke kad tersebut.)"</string>
+<string name="attention">"Perhatian"</string>
+<string name="bt_softap_cannot_coexist">"Apabila softap didayakan atau dihidupkan, bluetooth tidak berfungsi, jika anda mahu menggunakan bluetooth, sila pastikan softap dinyahdayakan."</string>
+<string name="softap_bt_cannot_coexist">"Apabila bluetooth didayakan atau dihidupkan, softap tidak boleh berfungsi, jika anda ingin menggunakan softap, sila pastikan bluetooth menyahdayakan."</string>
+<string name="softap_need_mobile_data_enabled">"Wi-Fi hotspot mudah alih memerlukan data mudah alih disambung, boleh menghasilkan kos tambahan."</string>
+<string-array name="light_color_picker">
+<item>"Hijau"</item>
+<item>"Biru"</item>
+<item>"Biru nila"</item>
+<item>"Ungu"</item>
+<item>"Merah jambu"</item>
+<item>"Merah"</item>
+<item>"Kuning"</item>
+</string-array>
+</resources>

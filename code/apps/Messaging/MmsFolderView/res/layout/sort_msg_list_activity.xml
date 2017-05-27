@@ -1,0 +1,7 @@
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    class="com.android.mmsfolderview.ui.SortMsgListFragment"
+    android:id="@+id/sort_msg_list_fragment"
+    android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="downloadui_downloadsuccess" translatable="false">addon.sprd.downloadprovider.AddonDownloaduiDRMUtils</string>
+    <string name="downloads_plugin" translatable="false">addon.sprd.downloadprovider.AddonDownloadsDRMUtils</string>
+    <string name="openhelper_plugin" translatable="false">addon.sprd.downloadprovider.AddonOpenHelperUtils</string>
+</resources>

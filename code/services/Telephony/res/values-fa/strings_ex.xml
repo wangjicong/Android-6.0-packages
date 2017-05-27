@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">همه خروجی</string>
+    <string name="messageAO">رمز عبور انسداد تماس را وارد کنید.</string>
+    <string name="sum_ao_enabled_indicator">"هدایت همه تماس ها"</string>
+    <string name="sum_ao_enabled">"فعال شد"</string>
+    <string name="sum_ao_disabled">"غیر فعال شد"</string>
+    <string name="enable_ao_forbidden">دستگاه کاربر شما فعال کردن سد تمام تماس های خروجی را پشتیبانی نمی کند.</string>
+    <string name="disable_ao_forbidden">دستگاه کاربر شما غیر فعال کردن سد تمام تماس های خروجی را پشتیبانی نمی کند.</string>
+    <string name="labelOI">خروجی بین المللی</string>
+    <string name="messageOI">رمز عبور انسداد تماس را وارد کنید.</string>
+    <string name="sum_oi_enabled">"فعال شد"</string>
+    <string name="sum_oi_disabled">"غیر فعال شد"</string>
+    <string name="enable_oi_forbidden">دستگاه کاربر شما فعال کردن سد تماس خروجی بین المللی را پشتیبانی نمی کند.</string>
+    <string name="disable_oi_forbidden">دستگاه کاربر شما غیر فعال کردن سد تماس رومینگ خروجی بین المللی را پشتیبانی نمی کند.</string>
+    <string name="labelOX">فراگردی خروجی بین المللی</string>
+    <string name="messageOX">رمز عبور انسداد تماس را وارد کنید.</string>
+    <string name="sum_ox_enabled">"فعال شد"</string>
+    <string name="sum_ox_disabled">"غیر فعال شد"</string>
+    <string name="enable_ox_forbidden">دستگاه کاربر شما فعال کردن سد تماس رومینگ خروجی بین المللی را پشتیبانی نمی کند.</string>
+    <string name="disable_ox_forbidden">دستگاه کاربر شما غیر فعال کردن سد تماس رومینگ خروجی بین المللی را پشتیبانی نمی کند.</string>
+    <string name="labelAI">همه ورودی</string>
+    <string name="messageAI">رمز عبور انسداد تماس را وارد کنید.</string>
+    <string name="sum_ai_enabled">"فعال شد"</string>
+    <string name="sum_ai_disabled">"غیر فعال شد"</string>
+    <string name="enable_ai_forbidden">دستگاه کاربر شما فعال کردن سد تمام تماس های دریافتی را پشتیبانی نمی کند.</string>
+    <string name="disable_ai_forbidden">دستگاه کاربر شما غیر فعال کردن سد تمام تماس های دریافتی را پشتیبانی نمی کند.</string>
+    <string name="labelIR">تماس های ورودی هنگام فراگردی</string>
+    <string name="messageIR">رمز عبور انسداد تماس را وارد کنید.</string>
+    <string name="sum_ir_enabled">"فعال شد"</string>
+    <string name="sum_ir_disabled">"غیر فعال شد"</string>
+    <string name="enable_ir_forbidden">دستگاه کاربر شما فعال کردن سد تمام تماس های دریافتی در زمان رومینگ تماس را پشتیبانی نمی کند.</string>
+    <string name="disable_ir_forbidden">دستگاه کاربر شما غیر فعال کردن سد تمام تماس های دریافتی در زمان رومینگ تماس را پشتیبانی نمی کند.</string>
+    <string name="labelAB">غیر فعال کردن همه</string>
+    <string name="messageAB">رمز عبور انسداد تماس را وارد کنید.</string>
+    <string name="sum_ab_enabled">"فعال شد"</string>
+    <string name="sum_ab_disabled">"غیر فعال شد"</string>
+    <string name="enable_ab_forbidden">دستگاه کاربر شما غیرفعال کردن همه را پشتیبانی نمی کند.</string>
+    <string name="disable_ab_forbidden">دستگاه کاربر شما فعال کردن همه را پشتیبانی نمی کند.</string>
+    <string name="labelChgPwd">"تغییر رمز ورود"</string>
+    <string name="DlgChgPwd_oldpwd">رمز عبور انسداد تماس را وارد کنید.</string>
+    <string name="DlgChgPwd_newpwd_first">رمز عبور جدید را وارد کنید</string>
+    <string name="DlgChgPwd_newpwd_last">تایید گذر واژه جدید</string>
+    <string name="cb_pw_no_match">"رمز عبور مطابقت ندارد"</string>
+    <string name="cb_pw_error">"رمز عبور اشتباه است"</string>
+    <string name="cb_pw_correct">رمزعبور تغییر کرده است</string>
+    <string name="labelCB">"محدودیت تماس"</string>
+    <string name="call_barring_settings">تنظیمات مسدود نمودن تماس</string>
+    <string name="cb_error">مسدود نمودن تماس رد شد</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"شبکه متصل نیست، وضعیت شبکه را تنظیم می‌کنید؟"</string>
+     <string name="dialog_network_selection_title">"توجه"</string>
+     <string name="dialog_network_selection_message">"تلفن همراه در حالت انتخاب دستی، اپراتورهای دیگر را برای شما انتخاب نمی‌کند. گاهی اوقات که سرویس اپراتور انتخاب شده را از دست دادید نیاز است انتخاب دستی را مجدداً انجام دهید یا به حالت انتخاب خودکار برگردید. توصیه می‌شود از «انتخاب خودکار» استفاده کنید. آیا می‌خواهید شبکه را به صورت دستی انتخاب کنید؟"</string>
+     <string name="network_unknown">ناشناس</string>
+     <string name="network_inhibit">"ممنوع"</string>
+     <string name="ip_dialing_title">"شماره گیری IP"</string>
+     <string name="ip_dialing_list_title">لیست شماره گیری IP</string>
+     <string name="ip_no_number">"عدم وجود پیشوند IP"</string>
+     <string name="ip_no_number_msg">"پیشوند IP در تلفن ذخیره نمی شود."</string>
+     <string name="ip_number_empty_loading">"لیست شماره گیری IP خالی است."</string>
+     <string name="remove">"برداشتن"</string>
+     <string name="ip_number_is_too_long">"شماره های تماس IP نمی تواند بیشتر از 20 باشد."</string>
+     <string name="add_ip_number_str">"جدید"</string>
+     <string name="ip_dialing_num_error">قابلیت ذخیره تنها 10 شماره IP </string>
+     <string name="ip_dialing_num_repeat">تکرار شماره، اضافه کردن انجام نشد.</string>
+     <string name="menu_selected_all">انتخاب همه</string>
+     <string name="menu_select_none">عدم انتخاب همه</string>
+     <string name="doneButton">انجام شد</string>
+     <string name="cancel">انصراف</string>
+     <string name="uplmn_setting_title">"تنظیمات برگزیده"</string>
+     <string name="uplmn_setting">"تنظیمات UPLMN""</string>
+     <string name="uplmn_index">"شاخص (از 0 آغاز می شود):"</string>
+     <string name="uplmn_id">"شماره شناسه:"</string>
+     <string name="uplmn_type">"(0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM) را تایپ کنید:"</string>
+     <string name="no_sim_card_prompt">لطفا کارت USIMرا وارد کنید و دوباره تلاش کنید</string>
+     <string name="index_error_uplmn">"شاخص خالی است. دوباره امتحان کنید!"</string>
+     <string name="type_is_emplty_error_uplmn">"تایپ خالی است. دوباره امتحان کنید!"</string>
+     <string name="number_too_short_uplmn">"شماره شناسه خیلی کوتاه است. دوباره امتحان کنید!""</string>
+     <string name="type_is_wrong_uplmn">"تایپ باید 0 یا 1 باشد. دوباره امتحان کنید!"</string>
+     <string name="fail_uplmn">"عدم موفقیت، دوباره امتحان کنید!"</string>
+     <string name="set_uplmn_unsuccessful">"تنظیم uplmn ناموفق!"</string>
+     <string name="menu_new_uplmn">"UPLMN جدید"</string>
+     <string name="menu_delete_uplmn">"حذف UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"تعداد از ظرفیت SIM بیشتر است!"</string>
+     <string name="delete">حذف</string>
+     <string name="delete_uplmn_successfully">"uplmn با موفقیت حذف شد"</string>
+     <string name="id_is_wrong_uplmn">"ID باید با یک عدد تنظیم شود!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"انتخاب حالت شبکه"</string>
+     <string name="lte_service_switch">"در حال تنظیم، لطفاً منتظر بمانید..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"حالت چندگانه 4G/3G/2G"</item>
+        <item>"تنها حالت 3G/2G"</item>
+        <item>"تنها حالت 2G"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"حالت چندگانه 4G/3G/2G"</item>
+        <item>"تنها حالت 3G/2G"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"فقط GSM"</item>
+        <item>"فقط WCDMA"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (خودکار)"</item>
+    </string-array>
+     <string name="fast_dial_settings">تنظیمات شماره گیری سریع</string>
+     <string name="delete_fastdial">"حذف شماره گیری سریع"</string>
+     <string name="update_fastdial">"به روز کردن شماره گیری سریع"</string>
+     <string name="no_sim_text">لطفاً SIM را وارد کرده یا راه اندازی کنید</string>
+     <string name="network_not_on">"شبکه متصل نیست، وضعیت شبکه را تنظیم می‌کنید؟"</string>
+     <string name="one_key_locked_notification">"قفل باز شد، آیا می خواهید آن را قفل کنید؟"</string>
+     <string name="one_key_unlocked_notification">"قفل شد، آیا می خواهید قفل آن را باز کنید؟"</string>
+     <string name="one_key_unlocked">"بازگشایی قفل"</string>
+     <string name="one_key_locked">"قفل"</string>
+     <string name="one_key_operation_success">"عملیات با موفقیت انجام شد، اکنون نیازمند راه اندازی مجدد می باشد."</string>
+     <string name="one_key_operation_unsuccess">"عملیات با موفقیت انجام نشد، می توانید دوباره امتحان کنید!"</string>
+     <string name="one_key_query_unsuccess">"قفل سیم ناموفق بود!"</string>
+     <string name="one_key_simlock_setting">"تنظیمات قفل سیمکارت"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"قفل شبکه"</item>
+        <item>"قفل تنظیمات فرعی شبکه"</item>
+        <item>"قفل ارائه دهندگان سرویس"</item>
+        <item>"قفل شرکت"</item>
+        <item>"قفل سیمکارت"</item>
+    </string-array>
+     <string name="callin_barring_settings">"تنظیمات مسدودسازی تماس ورودی"</string>
+     <string name="callout_barring_settings">"تنظیمات مسدودسازی تماس خروجی"</string>
+     <string name="labelCOUT">"مسدودسازی تماس خروجی"</string>
+     <string name="labelCIN">"مسدودسازی ورودی"</string>
+     <string name="no_sim_text">لطفاً SIM را وارد کرده یا راه اندازی کنید</string>
+     <string name="sim_lock_none">"هیچ سیمکارتی قفل نشده است."</string>
+     <string name="sim_lock_try_later">"لطفاً بعداً امتحان کنید."</string>
+     <string name="edit_and_save_fdn">ویرایش Fdn</string>
+     <string name="call_fdn_number_by_sim">"تماس"</string>
+     <string name="vt_call_fdn_numberr_by_sim">تماس VT</string>
+     <string name="airplane_changed_on">"حالت هواپیما روشن شد."</string>
+     <string name="number_empty">"شماره خالی است"</string>
+     <string name="unblock_pin2">"غیرمسدود کردن PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"برای باز کردن SIM خود باید PUK2 را وارد کنید"</string>
+     <string name="pin2_Label">PIN2" (<xliff:g>%s</xliff:g> تلاش باقی  مانده است)"</string>
+     <string name="oldPin2_Label">"PIN2 قبلی (<xliff:g>%s</xliff:g> تلاش باقی مانده است)"</string>
+     <string name="puk2_code_label">"کد PUK2 را وارد کنید (<xliff:g>%s</xliff:g> تلاش باقی مانده است)"</string>
+     <string name="promptWordOne">"باقیمانده &#160;"</string>
+     <string name="promptWordTwo">"&#160; مرتبه"</string>
+     <string name="adn_full">"لیست FDN پر است"</string>
+     <string name="no_available_phone_accounts">"هیچ حساب تماسی در دسترس نیست."</string>
+     <string name="lnd_list">"LND لیست"</string>
+     <string name="sdn_list">"SDN لیست"</string>
+     <string name="sim_list_title">لطفا سیم کارت را انتخاب نمایید</string>
+     <string name="wait_message">لطفاً منتظر بمانید...</string>
+     <string name="menu_call">"تماس با مخاطب"</string>
+     <string name="lnd_no_contact_record">هیچ ضبط LND روی این سیم کارت وجود ندارد.</string>
+     <string name="sdn_no_contact_number">این سیم کارت عدد SDN را پشتیبانی نمیکند.</string>
+     <string name="remove">"برداشتن"</string>
+     <string name="delete_selected_contents">آیا می خواهید مخاطبان انتخاب شده را حذف نمایید؟</string>
+     <string name="sim_notready_can_not_delete">به علت آماده نبودن سیم کارت حذف امکان پذیر نیست.</string>
+     <string name="contact_del_failed">خطا در حذف</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"‏برای راه‌اندازی پست صوتی به منو &gt; تنظیمات بروید."</string>
+     <string name="simlock_unlocked">"قفل سیم باز شد"</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"فقط WCDMA"</item>
+        <item>"فقط GSM"</item>
+        <item>خودکار</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"فقط GSM"</item>
+    </string-array>
+</resources>

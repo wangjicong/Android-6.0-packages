@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Indstilling for IP opkald"</string>
+    <string name="ip_dial_menu">"IP OPKALD"</string>
+    <string name="ip_dialing_title">IP opkald</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Indstilling for hurtigopkald"</string>
+    <string name="no_fast_dial_number">"Nummer til hurtigopkald ikke registreret."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"Udgående"</string>
+     <string name="call_log_incoming_title">"Indgående"</string>
+     <string name="recentOutgoing_empty">"Du har ingen udgående opkald."</string>
+     <string name="recentIncoming_empty">"Du har ingen indgående opkald."</string>
+     <string name="view_setting">"Vis"</string>
+     <string name="item_all_calls">"Alle opkaldslister"</string>
+     <string name="item_sim_calls">"SIM%d opkaldslister"</string>
+     <string name="unselect_all">Afmarker alle</string>
+     <string name="select_all_sprd">Vælg alle</string>
+     <string name="doneButton">Udført</string>
+     <string name="cancel">Annuller</string>
+     <string name="delete_selected_calls">"Er du sikker på, at du ønsker at slette de valgte poster?"</string>
+     <string name="clearCallLogProgress_title">"Rydder log over telefonopkald\u2026"</string>
+     <string name="delete_success">"Sletning gennemført"</string>
+     <string name="clear_all_call_log">"Slet alle opkaldslister"</string>
+     <string name="clear_selected_call_log">"Slet udvalgte opkaldslister"</string>
+     <string name="select_all">Vælg alle</string>
+     <string name="unselect_all">"Fravælg alle"</string>
+     <string name="delete_all_calls_confirm">"Ønsker du at slette alle dine optegnelser?"</string>
+     <string name="do_not_select">"Du har ikke valgt en post til sletning"</string>
+     <string name="delete_calls">Slet </string>
+     <string name="number_anr_isnull">"Kontakt Nummeret er tom"</string>
+     <string name="call_recording_setting_title">"Optagelse af telefonopkald"</string>
+     <string name="automatic_recording_title">"Automatisk optagelse"</string>
+     <string name="dialog_phone_permission_deny">"For at bruge IP-opkald \n skal du aktivere tilladelsen på telefonen."</string>
+     <string name="search_description">Søg opkaldslog</string>
+     <string name="call_log_add_to_blacklist">Tilføj til sortliste</string>
+     <string name="make_video_call_menu">"Foretag videoopkald"</string>
+
+</resources>

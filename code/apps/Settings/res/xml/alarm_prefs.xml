@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Create by Spreadst  -->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/set_alarm">
+    <Preference android:key="time"
+        android:persistent="false"
+        android:title="@string/time"/>
+    <com.sprd.settings.timerpower.RepeatPreference
+        android:persistent="false"
+        android:key="setRepeat"
+        android:title="@string/alarm_repeat" />
+</PreferenceScreen>

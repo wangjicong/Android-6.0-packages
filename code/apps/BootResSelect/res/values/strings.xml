@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BootResSelcetActivity!</string>
+    <string name="app_name">BootResSelcet</string>
+    <string name="boot_animation">BootAnimation</string>
+    <string name="boot_sound">BootSound</string>    
+    <string name="animation_sound_1">First Animation and Sound</string>    
+    <string name="animation_sound_2">Second Animation and Sound</string>    
+    <string name="animation_sound_3">Third Animation and Sound</string>
+    <string name="animation_sound_4">Fourth Animation and Sound</string>         
+    <string name="animation_sound_5">Fifth Animation and Sound</string> 
+    <string name="animation_sound_6">Sixth Animation and Sound</string> 
+    <string name="animation_sound_7">Seventh Animation and Sound</string>         
+    <string name="animation_sound_8">Eigth Animation and Sound</string> 
+    <string name="animation_sound_9">Ninth Animation and Sound</string>     
+</resources>

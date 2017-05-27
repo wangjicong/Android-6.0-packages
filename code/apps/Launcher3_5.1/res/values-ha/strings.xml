@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="home">Shafin farko</string>
+<string name="uid_name">Muhimman shirye shirye na Android</string>
+<string name="activity_not_found">Ba\'a girka shirin kan wayar ka ba.</string>
+<string name="safemode_shortcut_error">"Masarrafin da aka sauke an kashe a tsarin aminci"</string>
+<string name="widgets_tab_label">Bakuwar na\'ura</string>
+<string name="widget_adder">Bakuwar na\'ura</string>
+<string name="toggle_weight_watcher">"Nuna Mem"</string>
+<string name="long_press_widget_to_add">"Taba &amp; rike ka dauki bakon abu."</string>
+<string name="market">Kanti</string>
+<string name="widget_dims_format">"%1$d \u00d7 %2$d"</string>
+<string name="external_drop_widget_error">"Ba zai iya aje abin a kan wannan fuskar wayan na asali ba."</string>
+<string name="external_drop_widget_pick_title">Zabi mahadin cudanya don kirkirar</string>
+<string name="rename_folder_label">Sunan mai nadewa </string>
+<string name="rename_folder_title">Canja sunan makunshi</string>
+<string name="rename_action">OK</string>
+<string name="cancel_action">Soke</string>
+<string name="menu_item_add_item">Kara wa abin kariyar gida</string>
+<string name="group_applications">APPs</string>
+<string name="group_shortcuts">Hanyoyin ratse</string>
+<string name="group_widgets">Bakuwar na\'ura</string>
+<string name="completely_out_of_space">Babu karin wuri a kan fuskar wayarka na asali</string>
+<string name="out_of_space">Babu ragowar sarari a wannan shafi na farko.</string>
+<string name="hotseat_out_of_space">"Ba karin wuri a tiren da aka fi so"</string>
+<string name="invalid_hotseat_item">"Wannan alamin ya yi girma ga tiren da aka fi so"</string>
+<string name="shortcut_installed">Ratse \"<xliff:g id="name" example="Browser">%s</xliff:g>\" an kirkira.</string>
+<string name="shortcut_uninstalled">Ratse \"<xliff:g id="name" example="Browser">%s</xliff:g>\" an cire.</string>
+<string name="shortcut_duplicate">Ratse \"<xliff:g id="name" example="Browser">%s</xliff:g>\" dama akwai shi.</string>
+<string name="title_select_shortcut">"Zabi ratse"</string>
+<string name="title_select_application">Zabi shiri</string>
+<string name="all_apps_button_label">APPs</string>
+<string name="all_apps_home_button_label">Shafin farko</string>
+<string name="delete_zone_label_workspace">Cire</string>
+<string name="delete_zone_label_all_apps">Cire</string>
+<string name="delete_target_label">Cire</string>
+<string name="delete_target_uninstall_label">Cire</string>
+<string name="info_target_label">Bayanin shiri</string>
+<string name="accessibility_search_button">Bincika</string>
+<string name="accessibility_voice_search_button">Binciken murya</string>
+<string name="accessibility_all_apps_button">APPs</string>
+<string name="accessibility_delete_button">Cire</string>
+<string name="delete_zone_label_all_apps_system_app">A cire sabuntawa</string>
+<string name="cab_menu_delete_app">Fitar da Shiri</string>
+<string name="cab_menu_app_info">Cikakkun bayanan shiri</string>
+<string name="cab_app_selection_text">An zabi shiri 1</string>
+<string name="cab_widget_selection_text">An zabi na\'urar sarrafawa 1</string>
+<string name="cab_folder_selection_text">An zabi makunshi 1</string>
+<string name="cab_shortcut_selection_text">An zabi hanyar ratse 1</string>
+<string name="permlab_install_shortcut">dasa hanyoyin ratse</string>
+<string name="permdesc_install_shortcut">"Yana kyale masarrafi ya kara hanyar ratse ba tare da sa hannun mai amfani da ba."</string>
+<string name="permlab_uninstall_shortcut">Hanyoyin ratse na cirewa</string>
+<string name="permdesc_uninstall_shortcut">"Yana kyale masarrafi ya cire ratse ba tare da sa hannun mai amfani da ba."</string>
+<string name="permlab_read_settings">karanta tsarin shafin farko da hanyoyin ratse</string>
+<string name="permdesc_read_settings">"Yana kyale masarrafin ya karanta saituna da ratse a Gida."</string>
+<string name="permlab_write_settings">rubuta saituka da hanyoyin ratse na babban shafi</string>
+<string name="permdesc_write_settings">"Yana kyale masarrafin ya canza saituna da hanyar ratse a Gida."</string>
+<string name="gadget_error_text">Akwai matsala wajen dora maganadison (widget)</string>
+<string name="gadget_setup_text">Kafa</string>
+<string name="uninstall_system_app_text">Wannan shirin na\'ura ne don haka ba za a iya fidda shi ba.</string>
+<string name="dream_name">Na\'urar harba roket</string>
+<string name="folder_hint_text">Makunshi marar suna</string>
+<string name="workspace_description_format">Fuskar waya na asali %1$d</string>
+<string name="default_scroll_format">Shafi %1$d na %2$d</string>
+<string name="workspace_scroll_format">"Fuskar waya na asali %1$d of %2$d"</string>
+<string name="apps_customize_apps_scroll_format">Shafin shirye shirye %1$d na %2$d</string>
+<string name="apps_customize_widgets_scroll_format">Shafin mahadan cudanya  %1$d na %2$d</string>
+<string name="first_run_cling_title">Barka da zuwa</string>
+<string name="first_run_cling_description">"Saki jiki kamar a gida kake."</string>
+<string name="first_run_cling_create_screens_hint">"Kirkiri karin fuskar waya don masarrafai da jakunkuna"</string>
+<string name="migration_cling_title">"Kwafi alamunka na masarrafi"</string>
+<string name="migration_cling_description">"A shigo da alamomin da jakunkunan daga tsohon fuskar wayarka?"</string>
+<string name="migration_cling_copy_apps">"KWAFI ALAMOMIN"</string>
+<string name="migration_cling_use_default">"FARA A FARKO"</string>
+<string name="workspace_cling_title">"Tsara wurinka"</string>
+<string name="workspace_cling_move_item">"Taba &amp; rike bayan fagen don kula da wallpaper, bakon abu da saitoci."</string>
+<string name="workspace_cling_longpress_title">"Hotunan fuskar waya, alamomi, &amp; saitoci"</string>
+<string name="workspace_cling_longpress_description">"Taba &amp; rike bayan fage don maidawa na asali"</string>
+<string name="workspace_cling_longpress_dismiss">"AN SAMU"</string>
+<string name="folder_cling_title">"Ga jaka"</string>
+<string name="folder_cling_create_folder">"Don kirkiro kamar haka, taba &amp; rike masarrafin, sai tafi da shi kan wani."</string>
+<string name="cling_dismiss">OK</string>
+<string name="folder_opened">"Jaka a bude, <xliff:g id="width" example="5">%1$d</xliff:g> daga <xliff:g id="height" example="3">%2$d</xliff:g>"</string>
+<string name="folder_tap_to_close">"Taba don rufe jaka"</string>
+<string name="folder_tap_to_rename">"Taba don adana sake suna"</string>
+<string name="folder_closed">An rufe makunshi</string>
+<string name="folder_renamed">"Jaka an sake mata suna zuwa <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="folder_name_format">"Jaka: <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="widget_button_text">Bakuwar na\'ura</string>
+<string name="wallpaper_button_text">Hotunan fuskar waya</string>
+<string name="settings_button_text">Saituna</string>
+<string name="package_state_enqueued">"Ana jira"</string>
+<string name="package_state_downloading">Ana saukewa</string>
+<string name="package_state_installing">"Dasawa"</string>
+<string name="package_state_unknown">Bako</string>
+<string name="package_state_error">"Ba a maida ba"</string>
+<string name="abandoned_clean_all">"Cire duk"</string>
+<string name="abandoned_clean_this">Cire</string>
+<string name="abandoned_search">Bincika</string>
+<string name="abandoned_promises_title">"Wannan masarrafin ba a dasa ba"</string>
+<string name="abandoned_promise_explanation">"Masarrafin wannan alamin ba a dasa shi ba. Za ka iya cire shi, ko nemi masarrafi ka dasa shi da hannu. "</string>
+<string name="circular_sliding">Da\'irar babbar kwamfuta</string>
+    <string name="input_too_long">"Umurnin ya yi tsawo sosai."</string>
+
+</resources>

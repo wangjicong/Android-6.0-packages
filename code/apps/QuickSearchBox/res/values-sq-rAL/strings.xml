@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Kërko</string>
+<string name="remove_from_history_failed">Nuk mundi të heqë artikullin nga historia.</string>
+<string name="corpus_selection_heading">Kërko</string>
+<string name="menu_settings">Cilësimet e kërkimit</string>
+<string name="system_search_category_title">telefon</string>
+<string name="clear_shortcuts_summary">Pastro shkurtoret për sugjerimet e kërkimit të zgjedhura së fundi</string>
+<string name="menu_help">Ndihmë</string>
+<string name="google_search_hint">Kërkim i Google</string>
+<string name="google_search_description">Sugjerimet e Kërkimit në Google</string>
+<string name="voice_search_hint_title">Provo të thuash:</string>
+</resources>

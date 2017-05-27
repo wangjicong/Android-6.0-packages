@@ -1,0 +1,161 @@
+-keep class com.android.launcher3.BaseRecyclerViewFastScrollBar {
+  public void setWidth(int);
+  public int getWidth();
+  public void setTrackAlpha(int);
+  public int getTrackAlpha();
+}
+
+-keep class com.android.launcher3.BaseRecyclerViewFastScrollPopup {
+  public void setAlpha(float);
+  public float getAlpha();
+}
+
+-keep class com.android.launcher3.BubbleTextView {
+  public void setFastScrollFocus(float);
+  public float getFastScrollFocus();
+}
+
+-keep class com.android.launcher3.ButtonDropTarget {
+  public int getTextColor();
+}
+
+-keep class com.android.launcher3.CellLayout {
+  public float getBackgroundAlpha();
+  public void setBackgroundAlpha(float);
+}
+
+-keep class com.android.launcher3.CellLayout$LayoutParams {
+  public void setWidth(int);
+  public int getWidth();
+  public void setHeight(int);
+  public int getHeight();
+  public void setX(int);
+  public int getX();
+  public void setY(int);
+  public int getY();
+}
+
+-keep class com.android.launcher3.DragLayer$LayoutParams {
+  public void setWidth(int);
+  public int getWidth();
+  public void setHeight(int);
+  public int getHeight();
+  public void setX(int);
+  public int getX();
+  public void setY(int);
+  public int getY();
+}
+
+-keep class com.android.launcher3.FastBitmapDrawable {
+  public int getBrightness();
+  public void setBrightness(int);
+}
+
+-keep class com.android.launcher3.MemoryDumpActivity {
+  *;
+}
+
+-keep class com.android.launcher3.PreloadIconDrawable {
+  public float getAnimationProgress();
+  public void setAnimationProgress(float);
+}
+
+-keep class com.android.launcher3.Workspace {
+  public float getBackgroundAlpha();
+  public void setBackgroundAlpha(float);
+}
+
+-keep class com.android.launcher3.allapps.AllAppsContainerView {
+*;
+}
+
+-keep class com.android.launcher3.launcher3 {
+*;
+}
+-keep class com.android.launcher3.Folder {
+*;
+}
+-keep class com.android.launcher3.LauncherSettings$Favorites {
+*;
+}
+-keep class com.android.launcher3.LauncherSettings {
+*;
+}
+-keep class com.android.launcher3.LauncherModel {
+*;
+}
+-keep class com.android.launcher3.Folderplugins.LauncherUtils {
+ *;
+}
+-keep class com.android.launcher3.Folderplugins.LauncherAppStateUtils {
+ *;
+}
+-keep class com.android.launcher3.Folderplugins.LauncherBackupAgentHelperUtils {
+ *;
+}
+-keep class com.android.launcher3.Launcher {
+ *;
+}
+-keep class com.android.launcher3.allapps.AllAppsContainerView {
+ *;
+}
+-keep class com.android.launcher3.allapps.AllAppsGridAdapter {
+  *;
+}
+-keep class com.android.launcher3.Folderplugins.AllAppsGridAdapterUtils {
+  *;
+}
+-keep class com.android.launcher3.Folderplugins.AllAppsGridAdapterUtils {
+  *;
+}
+-keep class com.android.launcher3.ItemInfo {
+  *;
+}
+-keep class com.android.launcher3.Folderplugins.PluginAllAppsContainerView {
+  *;
+}
+-keep class com.android.launcher3.Folderplugins.AllAppsRecyclerViewUtils {
+  *;
+}
+-keep class com.android.launcher3.Folderplugins.PluginWorkspace {
+  *;
+}
+-keep class com.android.launcher3.Folderplugins.LauncherClingsVolteUtils {
+  *;
+}
+-keep class com.android.launcher3.Folderplugins.LauncherModelUtils {
+  *;
+}
+-keep class com.android.launcher3.VolteAppsProvider {
+  *;
+}
+-keep class com.android.launcher3.VolteAppsProvider$Apps {
+  *;
+}
+-keep class com.android.launcher3.VolteAppsProvider$AppScreens {
+  *;
+}
+-keep class com.android.launcher3.LauncherSettings$Favorites {
+  *;
+}
+-keep class com.android.launcher3.LauncherSettings$BaseLauncherColumns {
+  *;
+}
+-keep class com.android.launcher3.FolderIcon {
+  *;
+}
+
+-keep class com.android.launcher3.Folderplugins.AppFolderDbInfo {
+  *;
+}
+-keep class com.android.launcher3.allapps.AllAppsContainerView {
+  *;
+}
+-keep class com.android.launcher3.allapps.AlphabeticalAppsList {
+  *;
+}
+-keep class com.android.launcher3.R*
+-keepclassmembers class **.R$* {
+    public static <fields>;
+}
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"ፊርማ"</string>
+<string name="pref_title_sms_retry_times">SMS አስችል እንደገና ሞክር</string>
+<string name="preference_name">የተለመደ ሃረግ</string>
+<string name="select">"ተመርጧL"</string>
+<string name="item_cancel">ሰርዝ</string>
+<string name="item_delete">ሰርዝ</string>
+<string name="save_as_teltype">"ለስልክ"</string>
+<string name="save_as_mmstype">"ቨለ Sms"</string>
+<string name="type_to_pharser">"የተለመዱ ሀረጎችን ይፃፉ"</string>
+<string name="add">"አክል"</string>
+<string name="edit">" ኤዲት"</string>
+<string name="delete">ሰርዝ</string>
+<string name="finish">"ተጠናቅቋል"</string>
+<string name="cancel">ሰርዝ</string>
+<string name="add_pharser">"የተለመዱ ሀረጎችን ያስገቡ"</string>
+<string name="edit_pharser">የተለመዱ ሃረጎችችን አርታእ</string>
+<string name="pharser_can_modify">"በልክ ያሉ ሀረጎች"</string>
+<string name="pharser_cannot_modify">"የተስተካከለ ሀረግ"</string>
+<string name="select_item">"መርጠዋል"</string>
+<string name="select_commmon_phrase">የተለመደ ሀረግ ምረጥ</string>
+<string name="common_phrase_empty">"የተለመዱሓረጎች የሉም"</string>
+<string name="action_add_phrase">"የተለመዱ ሀረጎችን ያስገቡ"</string>
+<string name="pref_other_settings_title">"ሌላ "</string>
+<string-array name="fixed_mms_phrase">
+<item>እባክዎ የቢሮ ስልኬ ላይ ይደውሉ፣ አመሰግናለሁ።</item>
+<item>እባክዎ  ያግኙኝ፣ አመሰግናለሁ</item>
+<item>እባክዎ ያሉበትን ይንገሩኝ ።</item>
+<item>እባክዎ በሃላ በተንቀሳቃሽ ስልኬ ላይ ይደውሉ፤አመሰግናለሁ</item>
+<item>ወጥቼ ነበር ፤ወደ ቤት ሂጄ እደውልለዎታለሁ።</item>
+<item>"አሁን እየነዳሁ ነው በኋላ እመልሳለሁ፡፡"</item>
+<item>"ወደ መንገድ ገብቻለሁ፣ በፍጥነት እደርሳለሁ፡፡"</item>
+<item>የትራፊክ ትስስር፣በኋላ ወደ፣ ይቅርታ።</item>
+<item>በሃላ መልሼ እደውልሎታለሁ።</item>
+<item>ስብሰባ ላይ ነኝ፤በሃላ እመልሳለሁ</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"አሁን ማውራት አልችልም። ሰላም ነው?"</item>
+<item>"ወዲያው መልሼ እደውላለሁ።"</item>
+<item>"ኋላ እደውላለሁ።"</item>
+<item>"አሁን ማውራት አልችልም። ትንሽ ቆይተው ይደውሉ?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"እባክዎን ወደ በኋላ ይደውሉልኝ ወይም sms ይላኩልኝ፡፡"</item>
+</string-array>
+</resources>

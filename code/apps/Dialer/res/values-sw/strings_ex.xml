@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Mpangilio wa Upigaji IP"</string>
+    <string name="ip_dial_menu">"Upigaji IP"</string>
+    <string name="ip_dialing_title">IP ya Kupiga</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Mpangilio wa Upigaji Haraka"</string>
+    <string name="no_fast_dial_number">"Nambari ya upigaji haraka haijapangwa."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">Kutoka</string>
+     <string name="call_log_incoming_title">"Inaingia"</string>
+     <string name="recentOutgoing_empty">"Huna simu zilizotoka."</string>
+     <string name="recentIncoming_empty">"Huna simu zilizoingia."</string>
+     <string name="view_setting">"Tazama"</string>
+     <string name="item_all_calls">"Kumbukumbu zote za simu"</string>
+     <string name="item_sim_calls">"Kumbukumbu za simu za SIM%d"</string>
+     <string name="unselect_all">Usichague zote</string>
+     <string name="select_all_sprd">Chagua Zote</string>
+     <string name="doneButton">Umemaliza</string>
+     <string name="cancel">"Ghairi"</string>
+     <string name="delete_selected_calls">"Una uhakika kufuta rekodi zilizochaguliwa?"</string>
+     <string name="clearCallLogProgress_title">"Kufuta rekodi ya simu\u2026"</string>
+     <string name="delete_success">"Kufuta kulifanikiwa!"</string>
+     <string name="clear_all_call_log">"Futa kumbukumbu zote za simu"</string>
+     <string name="clear_selected_call_log">"Futa kumbukumbu zilizochaguliwa za simu"</string>
+     <string name="select_all">Chagua Zote</string>
+     <string name="unselect_all">"Wacha kuchagua zote"</string>
+     <string name="delete_all_calls_confirm">"Unataka kufuta rekodi za zako zote?"</string>
+     <string name="do_not_select">"Haukuchagua rekodi ya kufuta"</string>
+     <string name="delete_calls">"Futa"</string>
+     <string name="number_anr_isnull">"numbari ya kusiliana haiko"</string>
+     <string name="call_recording_setting_title">"Rekodi za simu"</string>
+     <string name="automatic_recording_title">"Kurekodi moja kwa moja"</string>
+     <string name="dialog_phone_permission_deny">"Kutumia IP piga, \n wezesha ruhusa kwa simu."</string>
+     <string name="search_description">"Tafuta Kumbukumbu ya simu"</string>
+     <string name="call_log_add_to_blacklist">"Ongeza kwa orodha nyeusi"</string>
+     <string name="make_video_call_menu">"Piga Hangout ya video"</string>
+
+</resources>

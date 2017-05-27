@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">Sinadura</string>
+<string name="pref_title_sms_retry_times">Gaitu SMS berriro saiatzea</string>
+<string name="preference_name">Esaldi arrunta</string>
+<string name="select">Hautatuta</string>
+<string name="item_cancel">Utzi</string>
+<string name="item_delete">Ezabatu</string>
+<string name="save_as_teltype">"Telefono erabilera"</string>
+<string name="save_as_mmstype">"Sms erabilera"</string>
+<string name="type_to_pharser">"Idatzi esaldi arrunta"</string>
+<string name="add">Gehitu</string>
+<string name="edit">Editatu</string>
+<string name="delete">Ezabatu</string>
+<string name="finish">Amaitu</string>
+<string name="cancel">Utzi</string>
+<string name="add_pharser">"Gehitu esaldi arrunta"</string>
+<string name="edit_pharser">Editatu esaldi arrunta</string>
+<string name="pharser_can_modify">"Pertsonalizatutako esaldia"</string>
+<string name="pharser_cannot_modify">"Zehaztutako esaldia"</string>
+<string name="select_item">"Aukeratu duzu"</string>
+<string name="select_commmon_phrase">"Hautatu esaldi arrunt bat"</string>
+<string name="common_phrase_empty">Ez dago esaldi komunik</string>
+<string name="action_add_phrase">"Txertatu esaldi arrunta"</string>
+<string name="pref_other_settings_title">Bestelako</string>
+<string-array name="fixed_mms_phrase">
+<item>Mesedez nire bulegora deitu, eskerrik asko.</item>
+<item>Mesedez nirekin harremanetan jarri, eskerrik asko.</item>
+<item>Mesedez esan zure kokapena.</item>
+<item>Mesedez nire telefono zenbakira beranduago deitu, eskerrik asko.</item>
+<item>Kalean nengoen, etxera noa eta deituko dizut.</item>
+<item>Gidatzen ari naiz eta gero erantzungo dut</item>
+<item>Errepidean nago, laster egongo naiz han.</item>
+<item>Auto ilarak daude, berandu nabil, barkatu</item>
+<item>Beranduago deituko dizut.</item>
+<item>Bilera batean nago, gero erantzungo dut.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>ezin dut orain hitz egin. Zer gertatzen da?</item>
+<item>Oraintxe deituko dizut.</item>
+<item>Gero deituko dizut.</item>
+<item>ezin dut orain hitz egin. Gero deituko didazu?</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Mesedez deitu edo bidali sms bat beranduago"</item>
+</string-array>
+</resources>

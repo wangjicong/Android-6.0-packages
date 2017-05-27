@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"বিচাৰ"</string>
+<string name="remove_from_history_failed">"ইতিহাসৰ পৰা আঁতৰাব পৰা নগ\'ল।"</string>
+<string name="corpus_selection_heading">"বিচাৰ"</string>
+<string name="menu_settings">"সন্ধান ছেটিংছ"</string>
+<string name="system_search_category_title">"ফোন"</string>
+<string name="clear_shortcuts_summary">"অলপতে বাছনি কৰা পৰামৰ্শবোৰলৈ চমুপথ পৰিষ্কাৰ কৰক"</string>
+<string name="menu_help">"সহায়"</string>
+<string name="google_search_hint">"Google সন্ধান"</string>
+<string name="google_search_description">"Google সন্ধান পৰামৰ্শবোৰ"</string>
+<string name="voice_search_hint_title">"এনেদৰে কৈ চাওঁক:"</string>
+</resources>

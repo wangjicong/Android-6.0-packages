@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">"ಕ್ಯಾಮೆರಾ ದೋಷ"</string>
+<string name="cannot_connect_camera">"ಕ್ಯಾಮೆರಾಗೆ ಜೋಡಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ."</string>
+<string name="camera_disabled">"ಭದ್ರತಾ ನಿಯಮಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ಕ್ಯಾಮೆರಾ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ."</string>
+<string name="camera_label">"ಕ್ಯಾಮೆರಾ"</string>
+<string name="video_camera_label">"ಕ್ಯಾಮ್ ಕಾರ್ಡರ್"</string>
+<string name="gallery_camera_bucket_name">"ಕ್ಯಾಮೆರಾ ಚಿತ್ರಗಳು"</string>
+<string name="gallery_camera_videos_bucket_name">"ಕ್ಯಾಮೆರಾ ವಿಡಿಯೋಗಳು"</string>
+<string name="wait">"ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ\u2026"</string>
+<string name="no_storage" product="nosdcard">"ಕ್ಯಾಮೆರಾ ಬಳಸುವುದಕ್ಕೆ ಮುಂಚೆ USB ಸ್ಟೋರೇಜ್ವನ್ನು ಅಳವಡಿಸಿ"</string>
+<string name="no_storage" product="default">"ಕ್ಯಾಮೆರಾ ಬಳಸುವುದಕ್ಕೆ ಮುಂಚೆ SD ಕಾರ್ಡನ್ನು ಒಳಸೇರಿಸಿ"</string>
+<string name="not_enough_space" product="nosdcard">"ನಿಮ್ಮ USB ಸ್ಟೋರೇಜ್ ಭರ್ತಿಯಾಗಿದೆ."</string>
+<string name="not_enough_space" product="default">"ನಿಮ್ಮ SD ಕಾರ್ಡ್ ಭರ್ತಿಯಾಗಿದೆ."</string>
+<string name="preparing_sd" product="nosdcard">"USB ಸ್ಟೋರೇಜ್ವನ್ನು ಅಣಿಗೊಳಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="preparing_sd" product="default">"SD ಕಾರ್ಡ್ ಅಣಿಗೊಳಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="access_sd_fail" product="nosdcard">"USB ಸ್ಟೋರೇಜ್ಕ್ಕೆ ಪ್ರವೇಶಾವಕಾಶ ದೊರಕುತ್ತಿಲ್ಲ."</string>
+<string name="access_sd_fail" product="default">"SD ಕಾರ್ಡ್ ಪ್ರವೇಶಾವಕಾಶ ದೊರಕುತ್ತಿಲ್ಲ."</string>
+<string name="confirm_restore_title">"ಡಿಫಾಲ್ಟ್ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ"</string>
+<string name="confirm_restore_message">"ಡಿಫಾಲ್ಟ್ ಸ್ಥಾಪನೆಗಳಿಗೆ ನಿಮ್ಮ ಕ್ಯಾಮೆರಾವನ್ನು ಪುನಃಸ್ಥಾಪನೆ ಮಾಡುವುದೆ?"</string>
+<string name="review_play">"ನಡೆಸಿ" </string>
+<string name="review_cancel">"ರದ್ದು"</string>
+<string name="review_ok">"ಆಯ್ತು"</string>
+<string name="review_retake">"ಮರುತೆಗೆದುಕೊಳ್ಳಿ"</string>
+<string name="camera_gallery_photos_text">"ಚಿತ್ರಗೃಹ"</string>
+<string name="switch_camera_id">"ಕ್ಯಾಮೆರಾ ಬದಲಾಯಿಸಿ"</string>
+<string name="time_lapse_title">"ಸಮಯ ವ್ಯತ್ಯಯದ ದಾಖಲಾತಿ"</string>
+<string name="pref_camera_id_title">"ಕ್ಯಾಮೆರಾ ಆಯ್ಕೆ ಮಾಡ."</string>
+<string name="pref_camera_id_entry_back">"ಹಿಂದೆ"</string>
+<string name="pref_camera_id_entry_front">"ಮುಂಭಾಗ"</string>
+<string name="pref_camera_recordlocation_title">"ಸ್ಥಳವನ್ನು ಸಂಗ್ರಹಿಸಿ"</string>
+<string name="pref_camera_recordlocation_entry_off">"ಆಫ್"</string>
+<string name="pref_camera_recordlocation_entry_on">"ಆನ್"</string>
+<string name="pref_video_quality_title">"ವಿಡಿಯೋ ಗುಣಮಟ್ಟ"</string>
+<string name="pref_video_time_lapse_frame_interval_title">"ಕಾಲವ್ಯತ್ಯಯದ ಅಂತರ"</string>
+<string name="pref_camera_settings_category">"ಕ್ಯಾಮೆರಾ ಅಳವಡಿಕೆಗಳು"</string>
+<string name="pref_camcorder_settings_category">"ಕ್ಯಾಮ್ ಕಾರ್ಡರ್ ಅಳವಡಿಕೆಗಳು"</string>
+<string name="pref_camera_picturesize_title">"ಚಿತ್ರದ ಅಳತೆ"</string>
+<string name="pref_camera_picturesize_entry_2592x1936">"5M ಪಿಕ್ಸೆಲ್ ಗಳು"</string>
+<string name="pref_camera_picturesize_entry_2048x1536">"3M ಪಿಕ್ಸೆಲ್ ಗಳು"</string>
+<string name="pref_camera_picturesize_entry_1600x1200">"2M ಪಿಕ್ಸೆಲ್ ಗಳು"</string>
+<string name="pref_camera_picturesize_entry_1280x960">"1.3M ಪಿಕ್ಸೆಲ್ ಗಳು"</string>
+<string name="pref_camera_picturesize_entry_1024x768">"1M ಪಿಕ್ಸೆಲ್ ಗಳು"</string>
+<string name="pref_camera_focusmode_title">"ಫೋಕಸ್ ಮೋಡ್"</string>
+<string name="pref_camera_focusmode_entry_auto">"ಸ್ವಯಂಚಾಲನೆ"</string>
+<string name="pref_camera_focusmode_entry_infinity">"ಅನಂತತೆ"</string>
+<string name="pref_camera_focusmode_entry_macro">"ಮ್ಯಾಕ್ರೋ"</string>
+<string name="pref_camera_flashmode_title">"ಫ್ಲಾಷ್ ಮೋಡ್"</string>
+<string name="pref_camera_flashmode_entry_auto">"ಸ್ವಯಂಚಾಲನೆ"</string>
+<string name="pref_camera_flashmode_entry_on">"ಆನ್"</string>
+<string name="pref_camera_flashmode_entry_off">"ಆಫ್"</string>
+<string name="pref_camera_whitebalance_title">"ಬಿಳಿ ಸಮತೋಲನ"</string>
+<string name="pref_camera_whitebalance_entry_auto">"ಸ್ವಯಂಚಾಲನೆ"</string>
+<string name="pref_camera_whitebalance_entry_incandescent">"ಪ್ರಜ್ವಲಿಸುವ"</string>
+<string name="pref_camera_whitebalance_entry_daylight">"ಹಗಲುಬೆಳಕು"</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">"ಪ್ರಕಾಶಮಾನ"</string>
+<string name="pref_camera_whitebalance_entry_cloudy">"ಮೋಡಮುಸುಕಿದ"</string>
+<string name="pref_camera_scenemode_title">"ದೃಶ್ಯ ಮೋಡ್"</string>
+<string name="pref_camera_scenemode_entry_auto">"ಸ್ವಯಂಚಾಲನೆ"</string>
+<string name="pref_camera_scenemode_entry_action">"ಚಟುವಟಿಕೆ"</string>
+<string name="pref_camera_scenemode_entry_night">"ರಾತ್ರಿ"</string>
+<string name="pref_camera_scenemode_entry_sunset">"ಸೂರ್ಯಾಸ್ತ"</string>
+<string name="pref_camera_scenemode_entry_party">"ಪಾರ್ಟಿ"</string>
+<string name="not_selectable_in_scene_mode">"ದೃಶ್ಯ ಮೋಡ್ಯಲ್ಲಿ ಆಯ್ಕೆ ಮಾಡತಕ್ಕದ್ದಲ್ಲ"</string>
+<string name="pref_restore_title">"ಕ್ಯಾಮೆರಾ ಅಳವಡಿಕೆಗಳು"</string>
+<string name="pref_restore_detail">"ಡಿಫಾಲ್ಟ್ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸಿ"</string>
+<string name="pref_exposure_title">"ಅನಾವರಣ"</string>
+<string name="dialog_ok">"ಸರಿ"</string>
+<string name="spaceIsLow_content" product="nosdcard">"ನಿಮ್ಮ USB ಸ್ಟೋರೇಜ್ದಲ್ಲಿ ಸ್ಥಳ ಕಡಿಮೆ ಆಗುತ್ತಿದೆ. ಗುಣಮಟ್ಟದ ಅಳವಡಿಕೆಗಳನ್ನು ಬದಲಿಸಿ ಅಥವಾ ಕೆಲವು ಚಿತ್ರಗಳನ್ನು ಅಥವಾ ಇತರ ಹಾದಿಗಳನ್ನು ಅಳಿಸಿರಿ."</string>
+<string name="spaceIsLow_content" product="default">"ನಿಮ್ಮ SD ಕಾರ್ಡ್ ಸ್ಥಳ ಕಡಿಮೆ ಆಗುತ್ತಿದೆ. ಗುಣಮಟ್ಟದ ಅಳವಡಿಕೆಗಳನ್ನು ಬದಲಿಸಿ ಅಥವಾ ಕೆಲವು ಚಿತ್ರಗಳನ್ನು ಅಥವಾ ಇತರ ಹಾದಿಗಳನ್ನು ಅಳಿಸಿರಿ."</string>
+<string name="video_reach_size_limit">"ಅಳತೆಯ ಮಿತಿ ಮಟ್ಟಲಾಗಿದೆ."</string>
+<string name="switch_to_camera_label">"ಕ್ಯಾಮೆರಾಗೆ ಹೋಗಿ"</string>
+<string name="switch_to_video_label">"ವಿಡಿಯೋಗೆ ಬದಲಾಯಿಸಿ"</string>
+<string name="switch_to_panorama_label">"ದೃಶ್ಯಾವಳಿಗೆ ಬದಲಾಯಿಸಿ"</string>
+<string name="share_picture_via">"ಮೂಲಕ ಚಿತ್ರ ಹಂಚಿಕೊಳ್ಳಿ"</string>
+<string name="share_video_via">"ಮೂಲಕ ವಿಡಿಯೋ ಹಂಚಿಕೊಳ್ಳಿ"</string>
+<string name="no_picture_to_share">"ಹಂಚಿಕೊಳ್ಳಲು ಯಾವುದೇ ಚಿತ್ರ ಇಲ್ಲ."</string>
+<string name="no_video_to_share">"ಹಂಚಿಕೊಳ್ಳಲು ಯಾವುದೇ ವಿಡಿಯೋ ಇಲ್ಲ."</string>
+<string name="pano_too_fast_prompt">"ಬಹಳ ವೇಗ"</string>
+<string name="pano_dialog_prepare_preview">"ದೃಶ್ಯಾವಳಿ ತಯಾರಿಕೆ"</string>
+<string name="pano_dialog_panorama_failed">"ದೃಶ್ಯಾವಳಿಯನ್ನು ಉಳಿಸಲು ಆಗಲಿಲ್ಲ"</string>
+<string name="pano_dialog_title">"ದೃಶ್ಯಾವಳಿ"</string>
+<string name="pano_capture_indication">"ದೃಶ್ಯಾವಳಿ ಸೆರೆಹಿಡಿಯುವಿಕೆ"</string>
+<string name="pano_review_saving_indication_str">"ಉಳಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="tap_to_focus">"ಕೇಂದ್ರೀಕರಿಸಲು ಸ್ಪರ್ಶಿಸಿ."</string>
+<string name="pref_video_effect_title">"ಪ್ರಭಾವಗಳು"</string>
+<string name="effect_none">"ಯಾವುದೂ ಇಲ್ಲ"</string>
+<string name="effect_goofy_face_squeeze">"ಹಿಂಡಿ"</string>
+<string name="effect_goofy_face_big_eyes">"ದೊಡ್ಡ ಕಣ್ಣುಗಳು"</string>
+<string name="effect_goofy_face_big_mouth">"ದೊಡ್ಡ ಬಾಯಿ"</string>
+<string name="effect_goofy_face_small_mouth">"ಚಿಕ್ಕ ಬಾಯಿ"</string>
+<string name="effect_goofy_face_big_nose">"ದೊಡ್ಡ ಮೂಗು"</string>
+<string name="effect_goofy_face_small_eyes">"ಚಿಕ್ಕ ಕಣ್ಣುಗಳು"</string>
+<string name="effect_backdropper_space">"ಸ್ಥಳಾವಕಾಶದಲ್ಲಿ"</string>
+<string name="effect_backdropper_sunset">"ಸೂರ್ಯಾಸ್ತ"</string>
+<string name="effect_backdropper_gallery">"ನಿಮ್ಮದೇ ಸ್ವಂತದ್ದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="bg_replacement_message">"ದೃಷ್ಟಿಗೆ ಗೋಚರವಾಗದ ರೀತಿಯಲ್ಲಿ\nಒಂದು ಕ್ಷಣ ನಿಮ್ಮ ಡಿವೈಸ್ವನ್ನು ಕೆಳಗಿರಿಸಿ"</string>
+<string name="not_selectable_in_effect">"ಪರಿಣಾಮ ಸಕ್ರಿಯವಾಗಿರುವಾಗ ಆಯ್ಕೆ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ."</string>
+<string name="video_snapshot_hint">"ಪೂರ್ವವೀಕ್ಷಣಾ ಸ್ಕ್ರೀನ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸುವುದರ ಮೂಲಕ ವಿಡಿಯೋ ರೆಕಾರ್ಡಿಂಗ್ ಆಗುತ್ತಿರುವಾಗಲೇ ಚಿತ್ರವೊಂದನ್ನು ತೆಗೆಯಿರಿ."</string>
+<string name="disable_video_snapshot_hint">"ವಿಡಿಯೋ ಚಿಟಿಕೆಚಿತ್ರಗಳನ್ನು ವಿಶೇಷ ಪರಿಣಾಮಗಳನ್ನು ಚಾಲೂ ಮಾಡಿರುವ ಸಮಯದಲ್ಲಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿರುತ್ತದೆ."</string>
+<string name="clear_effects">"ಪರಿಣಾಮಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ"</string>
+<string name="effect_silly_faces">"ಸಿಲ್ಲಿ ಫೇಸಸ್"</string>
+<string name="effect_background">"ಬ್ಯಾಕ್ ಗ್ರೌಂಡ್"</string>
+<string name="accessibility_shutter_button">"ಕವಾಟ ಬಟನ್"</string>
+<string name="accessibility_review_thumbnail">"ಇತ್ತೀಚಿನ ಚಿತ್ರ"</string>
+<string name="accessibility_camera_picker">"ಮುಂದಿನ ಮತ್ತು ಹಿಂದಿನ ಕ್ಯಾಮೆರಾ ಸ್ವಿಚ್"</string>
+<string name="accessibility_mode_picker">"ಕ್ಯಾಮೆರಾ, ವಿಡಿಯೋ, ಅಥವಾ ದೃಶ್ಯಾವಳಿ ಆಯ್ಕೆಗಾರ"</string>
+<string name="accessibility_second_level_indicators">"ಹೆಚ್ಚು ಸ್ಥಾಪನಾ ನಿಯಂತ್ರಕಗಳು"</string>
+<string name="accessibility_back_to_first_level">"ಸ್ಥಾಪನಾ ನಿಯಂತ್ರಕಗಳನ್ನು ಮುಚ್ಚಿ"</string>
+<string name="accessibility_zoom_control">"ಝೂಮ್ ನಿಯಂತ್ರಣ"</string>
+<string name="accessibility_decrement">"ಕಡಿಮೆ ಮಾಡಿ %1$s"</string>
+<string name="accessibility_increment">"ಹೆಚ್ಚಿಸಿ %1$s"</string>
+<string name="accessibility_switch">"%1$s ಬದಲಾವಣೆ"</string>
+</resources>

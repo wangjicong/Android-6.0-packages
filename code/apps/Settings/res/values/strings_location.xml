@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPRD: add for location operator features -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD:support SGPS AGPS show log @{ -->
+    <string name="gps_log_show">AGPS LOG show</string>
+
+    <!-- SPRD:support GPS automatic update time @{ -->
+    <string name="gps_time_sync_attention_gps_on">It will take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal.\n\nAre you sure to use GPS provided time?</string>
+    <string name="gps_time_sync_attention_gps_off">To use GPS provided time, you must enable GPS first. It then take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal. \n\nAre you sure to enable GPS now and wait for GPS provided time?</string>
+    <!-- @} -->
+
+    <!-- SPRD:support AGPS settings @{ -->
+    <string name="location_gps_config">AGPS enable option</string>
+    <string name="location_gps_config_summary">Whether to enable agps in different network environment.</string>
+    <string name="agps_enable_option_tailebar">AGPS enable option</string>
+    <string name="agps_enable_option_registered">Registered network</string>
+    <string name="agps_enable_option_all">All networks</string>
+    <string name="agps_enable_option_none">Do not use AGPS</string>
+    <string name="agps_enable_default_set_text">Clicking for restore the default settings.</string>
+    <string name="agps_enable_default_set_button">Default settings</string>
+    <string name="agps_config_help_tailebar">AGPS help</string>
+    <string name="agps_config_help_text">Using AGPS will generate international roaming fees if you selected All networks in AGPS enable option, when your phone is international roaming.</string>
+    <string name="settings_other">Other</string>
+    <!-- @} -->
+
+</resources>

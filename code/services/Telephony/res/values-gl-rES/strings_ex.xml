@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="network_not_on">A rede non está acendida, ¿quere axustar o estado da rede¿ </string>
+<string name="dialog_network_selection_title">Atención</string>
+<string name="dialog_network_selection_message">O teléfono móbil non seleccionará outros operadores para vostede no modo de selección manual. Ás veces ten que volver a facer unha selección manual o cambie de novo o modo de selección automático cando perda o servizo do operador seleccionado. Recomendámoslle que use a "Selección automática". ¿Quere seleccionar a rede manualmente?</string>
+<string name="network_unknown">Descoñecido</string>
+<string name="network_inhibit">PROHIBIDO</string>
+<string name="ip_dialing_title">Marcando IP</string>
+<string name="ip_dialing_list_title">Lista IP dial</string>
+<string name="ip_no_number">Falta prefixo IP</string>
+<string name="ip_no_number_msg">Prefixo IP non está gardado no teléfono.</string>
+<string name="ip_number_empty_loading">A lista dial IP está baleira.</string>
+<string name="remove">Eliminar</string>
+<string name="ip_number_is_too_long">Números de IP dial no pode ser superior a 20.</string>
+<string name="add_ip_number_str">Novo</string>
+<string name="ip_dialing_num_error">Non pode gardar 10 números IP</string>
+<string name="ip_dialing_num_repeat">Repetir número, erro de engadir</string>
+<string name="menu_selected_all">Seleccionar todo</string>
+<string name="menu_select_none">Deseleccionar todo</string>
+<string name="doneButton">Feita</string>
+<string name="cancel">cancelar</string>
+<string name="uplmn_setting_title">Preferencias</string>
+<string name="uplmn_setting">"Axustes UPLMN"</string>
+<string name="uplmn_index">Índice (iniciando dende 0):</string>
+<string name="uplmn_id">Número ID</string>
+<string name="uplmn_type">Introduza (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):</string>
+<string name="no_sim_card_prompt">Introduza a tarxeta USIM e volva a inténtalo</string>
+<string name="index_error_uplmn">¡O índice está baleiro. Volva a intentalo!</string>
+<string name="type_is_emplty_error_uplmn">¡O tipo está baleiro. Volva a intentalo!</string>
+<string name="number_too_short_uplmn">Número ID é moi corto. ¡Volva a inténtalo!</string>
+<string name="type_is_wrong_uplmn">¡O tipo debe ser 1 ou 0. Volva a inténtalo!</string>
+<string name="fail_uplmn">Errado e volver a intentar</string>
+<string name="set_uplmn_unsuccessful">¡Axustar UPLMN sen éxito!</string>
+<string name="menu_new_uplmn">Novo UPLMN</string>
+<string name="menu_delete_uplmn">Borrar UPLMN</string>
+<string name="uplmn_exceeds_capacity">¡A conta supera a capacidade da SIM!</string>
+<string name="delete">Borrar</string>
+<string name="delete_uplmn_successfully">Borrar uplmn con éxito</string>
+<string name="id_is_wrong_uplmn">"¡A ID debe axustarse cun número!"</string>
+<string name="lte_service_network_mode_settings_dialog_title">Seleccionar modo de rede</string>
+<string name="lte_service_switch">Axustando, espere...</string>
+<string-array name="lte_preferred_networks_choices_for_common">
+<item>4G/3G/2G multimodo</item>
+<item>Só modo 3G/2G</item>
+<item>"Só modo 2G"</item>
+</string-array>
+<string-array name="lte_preferred_networks_choices">
+<item>4G/3G/2G multimodo</item>
+<item>Só modo 3G/2G</item>
+</string-array>
+<string-array name="lte_network_mode_choices">
+<item>Só GSM</item>
+<item>Só WCDMA</item>
+<item>"WCDMA/GSM"</item>
+<item>"LTE/WCDMA/GSM (Auto)"</item>
+</string-array>
+<string name="fast_dial_settings">Axustes de marcación rápida</string>
+<string name="delete_fastdial">Borrar marcación rápida</string>
+<string name="update_fastdial">Actualizar a marcación rápida</string>
+<string name="no_sim_text">Introduza ou lance a tarxeta SIM</string>
+<string name="network_not_on">A rede non está acendida, ¿quere axustar o estado da rede¿ </string>
+<string name="one_key_locked_notification">"O tipo está DESBLOQUEADO, ¿quere bloquealo?"</string>
+<string name="one_key_unlocked_notification">"O tipo está BLOQUEADO, ¿quere desbloquealo?"</string>
+<string name="one_key_unlocked">Desbloqueo</string>
+<string name="one_key_locked">Bloqueo</string>
+<string name="one_key_operation_success">"Operación sen éxito, necesita unha reactivación."</string>
+<string name="one_key_operation_unsuccess">"¡Operación sen éxito, pode volver a inténtalo!"</string>
+<string name="one_key_query_unsuccess">"¡Petición de tipo de bloqueo da SIM falido!"</string>
+<string name="one_key_simlock_setting">"Axuste SIMLOCK"</string>
+<string-array name="one_key_sim_lock_type">
+<item>"Bloqueo de rede"</item>
+<item>"Bloqueo de subconxunto da rede"</item>
+<item>"Bloqueo do proveedor do servizo"</item>
+<item>"Bloqueo empresarial"</item>
+<item>"Bloqueo SIM"</item>
+</string-array>
+<string name="labelAO">Tódalas las saídas</string>
+<string name="messageAO">Introducir un contrasinal de bloqueo de chamadas.</string>
+<string name="sum_ao_enabled_indicator">Desviando tódalas chamadas</string>
+<string name="sum_ao_enabled">Habilitado</string>
+<string name="sum_ao_disabled">Deshabilitado</string>
+<string name="enable_ao_forbidden">O seu operador non soporta activar a barreira para todas as chamadas saíntes.</string>
+<string name="disable_ao_forbidden">O seu operador non soporta desactivar a barreira para todas as chamadas saíntes.</string>
+<string name="labelOI">Saínte internacional</string>
+<string name="messageOI">Introducir un contrasinal de bloqueo de chamadas.</string>
+<string name="sum_oi_enabled">Habilitado</string>
+<string name="sum_oi_disabled">Deshabilitado</string>
+<string name="enable_oi_forbidden">O seu operador non soporta activar a barreira para chamada internacional saínte.</string>
+<string name="disable_oi_forbidden">O seu operador non soporta desactivar a barreira para chamada internacional saínte.</string>
+<string name="labelOX">Roaming saínte internacional</string>
+<string name="messageOX">Introducir un contrasinal de bloqueo de chamadas.</string>
+<string name="sum_ox_enabled">Habilitado</string>
+<string name="sum_ox_disabled">Deshabilitado</string>
+<string name="enable_ox_forbidden">O seu operador non soporta activar a barreira para chamada roaming internacional saínte.</string>
+<string name="disable_ox_forbidden">O seu operador non soporta desactivar a barreira para chamada roaming internacional saínte.</string>
+<string name="labelAI">Tódalas entradas</string>
+<string name="messageAI">Introducir un contrasinal de bloqueo de chamadas.</string>
+<string name="sum_ai_enabled">Habilitado</string>
+<string name="sum_ai_disabled">Deshabilitado</string>
+<string name="enable_ai_forbidden">O seu operador non soporta activar a barreira para todas as chamadas entrantes.</string>
+<string name="disable_ai_forbidden">O seu operador non soporta desactivar a barreira para todas as chamadas entrantes.</string>
+<string name="labelIR">Chamadas entrantes durante o roaming</string>
+<string name="messageIR">Introducir un contrasinal de bloqueo de chamadas.</string>
+<string name="sum_ir_enabled">Habilitado</string>
+<string name="sum_ir_disabled">Deshabilitado</string>
+<string name="enable_ir_forbidden">O seu operador non soporta activar a barreira para todas as chamadas saíntes cando se trata dunha chamada roaming.</string>
+<string name="disable_ir_forbidden">O seu operador non soporta desactivar a barreira para todas as chamadas saíntes cando se trata dunha chamada roaming.</string>
+<string name="labelAB">Desactivar todo</string>
+<string name="messageAB">Introducir un contrasinal de bloqueo de chamadas.</string>
+<string name="sum_ab_enabled">Habilitado</string>
+<string name="sum_ab_disabled">Deshabilitado</string>
+<string name="enable_ab_forbidden">O seu operador non soporta desactivar todo.</string>
+<string name="disable_ab_forbidden">O seu operador non soporta activar todo.</string>
+<string name="labelChgPwd">Cambiar contrasinal</string>
+<string name="DlgChgPwd_oldpwd">Introducir un contrasinal de bloqueo de chamadas.</string>
+<string name="DlgChgPwd_newpwd_first">Introducir o novo contrasinal</string>
+<string name="DlgChgPwd_newpwd_last">Confirmar o novo contrasinal</string>
+<string name="cb_pw_no_match">"Os contrasinais non coinciden"</string>
+<string name="cb_pw_error">"Contrasinal é incorrecto"</string>
+<string name="cb_pw_correct">"Cambiouse o contrasinal"</string>
+<string name="labelCB">Limitación de chamada</string>
+<string name="call_barring_settings">Axuste de limitación de chamada</string>
+<string name="callin_barring_settings">Axustes de barreira para chamadas entrantes</string>
+<string name="callout_barring_settings">Axustes de barreiras para chamadas de saída</string>
+<string name="labelCOUT">Chamada saínte varrida</string>
+<string name="labelCIN">Barre entrando</string>
+<string name="cb_error">A limitación de chamada rexeitada</string>
+<string name="no_sim_text">Introduza ou lance a tarxeta SIM</string>
+<string name="sim_lock_none">"Bloqueouse sen SIM."</string>
+<string name="sim_lock_try_later">"Volva a inténtalo máis tarde."</string>
+<string name="edit_and_save_fdn">Editar número FDN</string>
+<string name="call_fdn_number_by_sim">Chamada</string>
+<string name="vt_call_fdn_numberr_by_sim">Chamada VT</string>
+<string name="airplane_changed_on">Modo avión está acendido.</string>
+<string name="number_empty">O número está baleiro</string>
+<string name="unblock_pin2">Desbloquear PIN2</string>
+<string name="sum_fdn_unblock_pin2">Introducir o PUK2 para desbloquear a súa tarxeta SIM</string>
+<string name="pin2_Label">PIN2 (<xliff:g>%s</xliff:g> intento(s) restante(s))</string>
+<string name="oldPin2_Label">PIN2 antigo (<xliff:g>%s</xliff:g> intento(s) restante(s))</string>
+<string name="puk2_code_label">Teclear código PUK2 (<xliff:g>%s</xliff:g> intento(s) restantes)</string>
+<string name="promptWordOne">"Permanecer&#160;"</string>
+<string name="promptWordTwo">"&#160;vez(veces)"</string>
+<string name="adn_full">A lista FDN está chea</string>
+<string name="no_available_phone_accounts">"Sen contas de chamadas disponibles"</string>
+<string name="lnd_list">Lista LND</string>
+<string name="sdn_list">Lista SDN</string>
+<string name="sim_list_title">Seleccione tarxeta SIM</string>
+<string name="wait_message">Espere…</string>
+<string name="menu_call">Chamar contacto</string>
+<string name="lnd_no_contact_record">Sen rexistro LND nesta tarxeta SIM.</string>
+<string name="sdn_no_contact_number">A tarxeta SIM non soporta ó número de SDN.</string>
+<string name="remove">Eliminar</string>
+<string name="delete_selected_contents">¿Desexa borrar os contidos seleccionados?"</string>
+<string name="sim_notready_can_not_delete">Como a tarxeta SIM non está preparada, no pode borrarse.</string>
+<string name="contact_del_failed">Borrar erro</string>
+<string name="incall_error_missing_voicemail_number_sprd">"Para configurar o correo de voz, vai a Menú &gt; Configuración."</string>
+<string name="simlock_unlocked">"Desbloqueouse o bloqueo da SIM"</string>
+<string-array name="preferred_network_mode_choices_wcdma">
+<item>Só WCDMA</item>
+<item>Só GSM</item>
+<item>AUTO</item>
+</string-array>
+<string-array name="preferred_network_mode_choices_gsm_only">
+<item>Só GSM</item>
+</string-array>
+</resources>

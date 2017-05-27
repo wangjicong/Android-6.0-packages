@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Impostazioni IP DIAL"</string>
+    <string name="ip_dial_menu">"IP DIAL"</string>
+    <string name="ip_dialing_title">Composizione IP</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Impostazioni chiamata rapida"</string>
+    <string name="no_fast_dial_number">"Numero chiamata rapida non impostato"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"in uscita"</string>
+     <string name="call_log_incoming_title">In arrivo</string>
+     <string name="recentOutgoing_empty">"Nessuna chiamata in uscita."</string>
+     <string name="recentIncoming_empty">"Nessuna chiamata in entrata."</string>
+     <string name="view_setting">Mostra</string>
+     <string name="item_all_calls">Tutti i registri chiamata</string>
+     <string name="item_sim_calls">Registri chiamate SIM%d</string>
+     <string name="unselect_all">Unselect all</string>
+     <string name="select_all_sprd">Seleziona tutti</string>
+     <string name="doneButton">Eseguito</string>
+     <string name="cancel">Cancella</string>
+     <string name="delete_selected_calls">"Si è sicuri di voler eliminare i registri selezionati?"</string>
+     <string name="clearCallLogProgress_title">Elimina registro chiamate\u2026</string>
+     <string name="delete_success">Eliminazione avvenuta con successo</string>
+     <string name="clear_all_call_log">Cancellare tutti i registri chiamate</string>
+     <string name="clear_selected_call_log">Cancellare i registri chiamate selezionati</string>
+     <string name="select_all">Seleziona tutti</string>
+     <string name="unselect_all">Deseleziona Tutti</string>
+     <string name="delete_all_calls_confirm">Eliminare tutte le registrazioni?</string>
+     <string name="do_not_select">Non hai scelto di eliminare nota</string>
+     <string name="delete_calls">Cancella</string>
+     <string name="number_anr_isnull">Il numero del contatto è vuoto</string>
+     <string name="call_recording_setting_title">Registrazione chiamata</string>
+     <string name="automatic_recording_title">Registrazione automatica</string>
+     <string name="dialog_phone_permission_deny">"Se si desidera utilizzare le impostazioni di selezione IP,\n attivare l\'autorizzazione."</string>
+     <string name="search_description">Ricerca del registro chiamate</string>
+     <string name="call_log_add_to_blacklist">Aggiungere alla lista nera</string>
+     <string name="make_video_call_menu">"Fai una videochiamata"</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpapers">"এণ্ড্ৰইড লাইভ ৱালপেপাৰ"</string>
+<string name="wallpaper_walkaround">"মাজেৰে দেখা পোৱা"</string>
+<string name="wallpaper_walkaround_desc">"আপোনাৰ ফোনৰ মাজেৰে চাওঁক আৰু দুৰ্ঘটনাৰ আশংকা অবিহনে ঘূৰি ফুৰক।"</string>
+<string name="wallpaper_clock">"ধ্ৰুবীয় ঘড়ী"</string>
+<string name="wallpaper_clock_desc">"তাৰিখ আৰু সময় ঘড়ীৰ দিশৰ বৃত্তাংশত উপস্থাপন কৰে: মাহ, দিন, ঘণ্টা, মিনিট, আৰু ছেকেণ্ড।"</string>
+<string name="clock_settings">"ধ্ৰুবীয় ঘড়ী ছেটিংছ"</string>
+<string name="show_seconds">"ছেকেণ্ড দেখুৱাওক"</string>
+<string name="variable_line_width">"ৰিঙৰ প্ৰস্থ ভিন ভিন কৰক"</string>
+<string name="palette">"ৰঙৰ পেলেট"</string>
+<string name="palette_gray">"লো"</string>
+<string name="palette_violet">"মাজনিশা"</string>
+<string name="palette_matrix">"সেউজীয়া স্ক্ৰীণ"</string>
+<string name="palette_white_c">"ধ্ৰুবীয় ভালুক (ডাইনামিক)"</string>
+<string name="palette_black_c">"ব্লেক হোল (ডাইনামিক)"</string>
+<string name="palette_halloween">"ৰঙালাও পাই"</string>
+<string name="palette_zenburn">"এলিয়েন ফলৰ চালাড"</string>
+<string name="palette_oceanic">"নীলা লেজাৰ"</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP inbellen instelling"</string>
+    <string name="ip_dial_menu">"IP INBELLEN"</string>
+    <string name="ip_dialing_title">IP-dialing</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Snelle inbellen instellingen"</string>
+    <string name="no_fast_dial_number">"Snel inbelnummer niet ingesteld"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">Uitgaande</string>
+     <string name="call_log_incoming_title">"Inkomend"</string>
+     <string name="recentOutgoing_empty">"U hebt geen uitgaande oproepen"</string>
+     <string name="recentIncoming_empty">"U hebt geen inkomende oproepen"</string>
+     <string name="view_setting">"Beeld"</string>
+     <string name="item_all_calls">"Alle oproep logboeken"</string>
+     <string name="item_sim_calls">"SIM%d oproep logboeken"</string>
+     <string name="unselect_all">Alle selecties opheffen</string>
+     <string name="select_all_sprd">Kies alles</string>
+     <string name="doneButton">Gereed</string>
+     <string name="cancel">Beëindig</string>
+     <string name="delete_selected_calls">"Bent u zeker dat u de geselecteerde bestanden wilt verwijderen?"</string>
+     <string name="clearCallLogProgress_title">"Bellijst wissen\u2026"</string>
+     <string name="delete_success">"Verwijderen gelukt"</string>
+     <string name="clear_all_call_log">"Verwijder alle oproep logboeken"</string>
+     <string name="clear_selected_call_log">"Verwijder gekozen oproep logboeken"</string>
+     <string name="select_all">Kies alles</string>
+     <string name="unselect_all">"Schrap alles"</string>
+     <string name="delete_all_calls_confirm">"Wilt u de dossiers van u allemaal verwijderen?"</string>
+     <string name="do_not_select">"U heeft geen bestand gekozen om te verwijderen"</string>
+     <string name="delete_calls">Verwijder</string>
+     <string name="number_anr_isnull">"Het contactnummer is leeg"</string>
+     <string name="call_recording_setting_title">"Oproep opnemen"</string>
+     <string name="automatic_recording_title">"Automatische opname"</string>
+     <string name="dialog_phone_permission_deny">"Om IP bellen te gebruiken, schakel de Telefoon toestemming in"</string>
+     <string name="search_description">zoek bel logboek</string>
+     <string name="call_log_add_to_blacklist">"Toevoegen aan zwarte lijst"</string>
+     <string name="make_video_call_menu">"Videogesprek starten"</string>
+
+</resources>

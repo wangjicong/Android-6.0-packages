@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5955735546071433666">"Garso įrašymo priemonė"</string>
+    <string name="record_your_message" msgid="1583671906691662148">"Įrašykite savo pranešimą"</string>
+    <string name="message_recorded" msgid="381539460921872233">"Pranešimas įrašytas"</string>
+    <string name="review_message" msgid="201616012287839474">"Peržiūrėti pranešimą"</string>
+    <string name="recording" msgid="4426791467211376099">"Įrašoma"</string>
+    <string name="recording_stopped" msgid="1580278719585249612">"Įrašas sustabdytas"</string>
+    <string name="storage_is_full" msgid="416039755956726221">"Saugykla pilna"</string>
+    <string name="max_length_reached" msgid="6398215743584093353">"Pasiektas didžiausias galimas ilgis"</string>
+    <string name="insert_sd_card" product="nosdcard" msgid="4609407750669086933">"Įrengti USB atmintį"</string>
+    <string name="insert_sd_card" product="default" msgid="1007630222084726808">"Įdėkite SD kortelę"</string>
+    <string name="min_available" msgid="5493947690062988925">"Galima <xliff:g id="MINUTES">%d</xliff:g> min."</string>
+    <string name="sec_available" msgid="2297020788861694399">"Galima <xliff:g id="SECONDS">%d</xliff:g> sek."</string>
+    <string name="accept" msgid="1888285552128743656">"Atlikta"</string>
+    <string name="discard" msgid="761613433029406319">"Atmesti"</string>
+    <string name="button_ok" msgid="3004911343723076226">"Gerai"</string>
+    <!-- no translation found for audio_db_title_format (7912182366970749312) -->
+    <skip />
+    <string name="audio_db_artist_name" msgid="961640229118120080">"Jūsų įrašai"</string>
+    <string name="audio_db_album_name" msgid="9072588113803264440">"Garso įrašai"</string>
+    <string name="audio_db_playlist_name" msgid="5592939050047058162">"Mano įrašai"</string>
+    <string name="error_sdcard_access" product="nosdcard" msgid="86629081075681774">"Neįmanoma pasiekti USB atminties."</string>
+    <string name="error_sdcard_access" product="default" msgid="5750308258096153274">"Neįmanoma pasiekti SD kortelės."</string>
+    <string name="error_app_internal" msgid="312884382388702022">"Vidinė programos klaida"</string>
+    <string name="error_mediadb_new_record" msgid="261714902333432462">"Nepavyko išsaugoti įrašyto garso."</string>
+    <string name="recording_save">"Įrašas išsaugotas"</string>
+     <string name="recording_nosave">"Įrašas nebuvo išsaugotas"</string>
+     <string name="phone_message">"Negalima įjungti Garso Įrašymo kol skambinama."</string>
+     <string name="min_and_time_available">"Apie <xliff:g id="minutes">%d</xliff:g> min. ir <xliff:g id="seconds">%d</xliff:g> sek."</string>
+     <string name="press_record">"Spauskite įrašyti"</string>
+     <string name="save">"Išsaugoti"</string>
+     <string name="select_file_type">"Rinkitės įrašo failo tipą"</string>
+     <string name="record_amr">"amr tipas(žema kokybė)"</string>
+     <string name="record_3gpp">"3gpp tipas(aukšta kokybė)"</string>
+     <string name="button_cancel">"Atšaukti"</string>
+     <string name="path_save">"Numatytasis takelis išsaugotas"</string>
+     <string name="path_nosave">"Numatytasis takelis neišsaugotas"</string>
+     <string name="path_default">"Dabartinis takelis nėra įrašomas arba yra neteisingas, tai yra vidinio atminties įrenginio takelis"</string>
+     <string name="menu_set_save_path">"Nustatyti takelio išsaugojimą"</string>
+     <string name="back">"Atgal.."</string>
+     <string name="path_label">"Prašom pasirinkti išsaugoti takelį"</string>
+     <string name="pause">"Pris."</string>
+     <string name="storage_is_not_enough">"Nepakanka atminties vietos"</string>
+     <string name="menu_recording_file_list">"Įrašymo failų sąrašas"</string>
+     <string name="recording_list_empty">"Tuščias sąrašas"</string>
+     <string name="menu_recording_list_select_all">"Rinktis viską"</string>
+     <string name="menu_recording_list_delete">"Ištrinti"</string>
+     <string name="menu_recording_list_deselect_all">"Atžymėti"</string>
+     <string name="recording_file_delete_success">"Įrašas ištrintas"</string>
+     <string name="recording_file_database_failed">"Nepavyko ištrinti duomenų bazės failo"</string>
+     <string name="recording_file_delete_failed">"Nepavyko ištrinti įrašo failo"</string>
+     <string name="confirm_del">"Ar tikrai norite ištrinti šiuos failus?"</string>
+     <string name="button_delete">"Ištrinti"</string>
+     <string name="recording_file_delete_alert_title">"Ištrinti"</string>
+     <string name="recording_file_delete_alert_message">"Tikrai ištrinti %1$s ?"</string>
+     <string name="recording_file_list">"Įrašymo failų sąrašas"</string>
+     <string name="less_than_one_second">"1 sek."</string>
+     <string name="is_scanning">"Media Skaitytuvas šiuo metu nuskaito,prašom palaukti..."</string>
+     <string name="emptylist">"Sąrašas yra tuščias"</string>
+     <string name="choose_file">"Prašom rinktis įrašų failus, kuriuos norite ištrinti!"</string>
+     <string name="error_path">"Jūsų pasirinktas takelis neegzistuoja,prašom nustatyti iš naujo!"</string>
+     <string name="path_miss">"Saugomas takelis neegzistuoja arba yra neprieinamas!"</string>
+     <string name="low_memory">"Nepakanka atminties telefone,Įrašymas bus sustabdytas!"</string>
+     <string name="record_error">"Įrašymo išimtis!"</string>
+     <string name="play_error">"Muzikos grotuvo funkcija buvo išjungta,įjunkite, kad vėl atidarytumėte！"</string>
+     <string name="dialog_title">"Prašom rinktis"</string>
+     <string name="dialog_message">"Įšsaugoti garso įrašą?"</string>
+     <string name="same_application_running">"Įrašytuvas naudojamas kitoje programoje,prašom uždaryti šią programą!"</string>
+     <string name="recording_time_short">"Įrašymo laikas mažiau nei 1 sekundė, neišsaugota"</string>
+     <string name="file_path_button">"Failo takelis"</string>
+     <string name="file_name">"Failo pavadinimas："</string>
+     <string name="file_path">"Failo takelis："</string>
+     <string name="rename">"Pervardyti"</string>
+     <string name="rename_save">"Pervadinta sėkmingai"</string>
+     <string name="rename_nosave">"Nepavyko pervadinti"</string>
+     <string name="filename_is_not_modified">"Failo pavadinimas nėra keičiamas"</string>
+     <string name="duplicate_name">"failo pavadinimo dublikatas"</string>
+     <string name="soundpicker_label">"Prašom rinktis įrašymo failą"</string>
+     <string name="error_sdcard_path">"sd kortelė neegzistuoja. Numatytasis išsaugomas takelis yra pakeistas į vidinį atminties įrenginį."</string>
+     <string name="input_length_overstep">"Pasiekta maksimali įvesties ilgio riba"</string>
+     <string name="filename_empty_error">"Failo pavadinimas negali būti tuščias , išsaugokite originalų pavadinimą"</string>
+     <string name="please_choose_files">"prašom pasirinkti failus"</string>
+     <string name="selected_files_count">"pasirinkta<xliff:g id="COUNTS">%d</xliff:g>"</string>
+     <string name="use_default_path">"Saugomas takelis neegzistuoja,naudokite numatytąjį takelį"</string>
+     <string name="stroage_not_mounted">"Atminties įrenginys nėra atjungtas"</string>
+     <string name="special_char_exist">"Specialūs simboliai <xliff:g id="COUNTS">%s</xliff:g> nėra palaikomi"</string>
+     <string name="menu_select_more">"Rinktis daugiau"</string>
+     <string name="menu_select_type">"Nustatyti failo tipą"</string>
+     <string name="path_miss_nosave">"Saugomas takelis neegzistuoja,Įrašas nebuvo išsaugotas！"</string>
+     <string name="dialog_dismiss">"Atsisakyti"</string>
+     <string name="error_permissions">"Programa neturi kritinių leidimų, kurių reikia paleidžiant. Patikrinkite leidimų nustatymus."</string>
+
+</resources>

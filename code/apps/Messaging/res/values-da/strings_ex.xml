@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Signatur"</string>
+<string name="pref_title_sms_retry_times">"Aktiver SMS gentag"</string>
+<string name="preference_name">"Almindeligt udtryk"</string>
+<string name="select">"Valgt"</string>
+<string name="item_cancel">Annuller</string>
+<string name="item_delete">Slet </string>
+<string name="save_as_teltype">"Til telefon"</string>
+<string name="save_as_mmstype">"Til SMS"</string>
+<string name="type_to_pharser">"Indtast fælles sætning"</string>
+<string name="add">Tilføj</string>
+<string name="edit">Rediger</string>
+<string name="delete">Slet </string>
+<string name="finish">"Udfør"</string>
+<string name="cancel">Annuller</string>
+<string name="add_pharser">"Tilføj fælles sætning"</string>
+<string name="edit_pharser">"Rediger almindelig udtryk"</string>
+<string name="pharser_can_modify">"Tilpasset sætning"</string>
+<string name="pharser_cannot_modify">"Fast sætning"</string>
+<string name="select_item">"Du har valgt"</string>
+<string name="select_commmon_phrase">"Vælg fælles sætning"</string>
+<string name="common_phrase_empty">"Ingen almindelige udtryk"</string>
+<string name="action_add_phrase">"Indsæt fælles sætning"</string>
+<string name="pref_other_settings_title">Andet</string>
+<string-array name="fixed_mms_phrase">
+<item>"Venligst ring til min kontortelefon,tak"</item>
+<item>"Venligt kontakt mig, tak"</item>
+<item>"Venligst fortæl mig din placering"</item>
+<item>"Venligst ring til min mobiltelefon senere, tal"</item>
+<item>"Jeg var ude, gå hjem og ringer dig op."</item>
+<item>"Jeg kører og vil svare senere."</item>
+<item>"Jeg er kommet ud på vejen, vil blive nået med det samme."</item>
+<item>"Trafik jams, senere til, undskyld."</item>
+<item>"Ringer tilbage til dig senere."</item>
+<item>"Jeg er til et møde, svar senere."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Kan ikke tale nu. Hvad sker der?"</item>
+<item>"Jeg ringer tilbage lige om lidt."</item>
+<item>"Jeg ringer til dig senere."</item>
+<item>"Kan ikke tale nu. Ringer du senere?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Ring mig venligst op eller send en SMS senere."</item>
+</string-array>
+</resources>

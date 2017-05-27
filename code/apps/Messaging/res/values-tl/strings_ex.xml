@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Signature"</string>
+<string name="pref_title_sms_retry_times">Paganahin ang SMS subukang muli</string>
+<string name="preference_name">"Pangkaraniwang linya"</string>
+<string name="select">"Napili"</string>
+<string name="item_cancel">"Kanselahin"</string>
+<string name="item_delete">"Tanggalin"</string>
+<string name="save_as_teltype">"Para sa telepono"</string>
+<string name="save_as_mmstype">"Para sa SMS"</string>
+<string name="type_to_pharser">"I-type ang mga karaniwang pananalita"</string>
+<string name="add">"Idagdag"</string>
+<string name="edit">I-edit</string>
+<string name="delete">"Tanggalin"</string>
+<string name="finish">"Tapusin"</string>
+<string name="cancel">"Kanselahin"</string>
+<string name="add_pharser">"Magdagdag ng karaniwang pananalita"</string>
+<string name="edit_pharser">I-edit ang pangkaraniwang parirala</string>
+<string name="pharser_can_modify">"Baguhin ang pananalita"</string>
+<string name="pharser_cannot_modify">"Ayusin ang pananalita"</string>
+<string name="select_item">"Ikaw ay pumili"</string>
+<string name="select_commmon_phrase">Pumili ng pangkaraniwang linya</string>
+<string name="common_phrase_empty">"Walang pangkaraniwang linya"</string>
+<string name="action_add_phrase">"Magpasok ng karaniwang pananalita"</string>
+<string name="pref_other_settings_title">"Iba pa"</string>
+<string-array name="fixed_mms_phrase">
+<item>Paki tawag sa aking telepono sa opisina, salamat.</item>
+<item>Paki kontak ako, salamat.</item>
+<item>Paki sabi sa iyong lokasyon.</item>
+<item>Paki tawag sa aking telepono maya maya, salamat.</item>
+<item>Nasa labas ako kanina, uuwi at ako ay tatawag sayo.</item>
+<item>"Ako ay nagmamaneho at tutugon mamaya."</item>
+<item>"Dumating ako sa kalye, agad na naabot."</item>
+<item>Sobrang trapik, mamaya, sori.</item>
+<item>Tatawagan kita ulit mamaya.</item>
+<item>Nasa meeting ako, sasagutin ko mamaya.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Di masagot ngayon. Ano\'ng meron?"</item>
+<item>"Tawagan kita ulit."</item>
+<item>"Tawagan kita mamaya."</item>
+<item>"Di masagot ngayon. Tawag ka mamaya?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Mangyaring tawagan ako o padalhan ako ng sms mamaya."</item>
+</string-array>
+</resources>

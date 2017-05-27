@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"Totes les trucades sortints"</string>
+    <string name="messageAO">"Introduïu la contrasenya de bloqueig de trucades."</string>
+    <string name="sum_ao_enabled_indicator">"Es desvien totes les trucades"</string>
+    <string name="sum_ao_enabled">"Activat"</string>
+    <string name="sum_ao_disabled">"Desactivat"</string>
+    <string name="enable_ao_forbidden">"El vostre portador no pot activar la restricció de totes les trucades sortints."</string>
+    <string name="disable_ao_forbidden">"El vostre portador no pot desactivar la restricció de totes les trucades sortints."</string>
+    <string name="labelOI">"Trucada sortint internacional"</string>
+    <string name="messageOI">"Introduïu la contrasenya de bloqueig de trucades."</string>
+    <string name="sum_oi_enabled">"Activat"</string>
+    <string name="sum_oi_disabled">"Desactivat"</string>
+    <string name="enable_oi_forbidden">"El vostre portador no pot activar la restricció de les trucades internacionals sortints."</string>
+    <string name="disable_oi_forbidden">"El vostre portador no pot desactivar la restricció de les trucades internacionals sortints."</string>
+    <string name="labelOX">"Itinerància de trucades sortints internacionals"</string>
+    <string name="messageOX">"Introduïu la contrasenya de bloqueig de trucades."</string>
+    <string name="sum_ox_enabled">"Activat"</string>
+    <string name="sum_ox_disabled">"Desactivat"</string>
+    <string name="enable_ox_forbidden">El vostre portador no pot activar la restricció de trucades internacionals sortints en itinerància.</string>
+    <string name="disable_ox_forbidden">"El vostre portador no pot desactivar la restricció de les trucades internacionals sortints en itinerància."</string>
+    <string name="labelAI">"Totes les trucades entrants"</string>
+    <string name="messageAI">"Introduïu la contrasenya de bloqueig de trucades."</string>
+    <string name="sum_ai_enabled">"Activat"</string>
+    <string name="sum_ai_disabled">"Desactivat"</string>
+    <string name="enable_ai_forbidden">"El vostre portador no pot activar la restricció de totes les trucades entrants."</string>
+    <string name="disable_ai_forbidden">"El vostre portador no pot desactivar la restricció de totes les trucades entrants."</string>
+    <string name="labelIR">"Trucades entrants en itinerància"</string>
+    <string name="messageIR">"Introduïu la contrasenya de bloqueig de trucades."</string>
+    <string name="sum_ir_enabled">"Activat"</string>
+    <string name="sum_ir_disabled">"Desactivat"</string>
+    <string name="enable_ir_forbidden">"El vostre portador no pot desactivar la restricció de les trucades entrants en itinerància."</string>
+    <string name="disable_ir_forbidden">"El vostre portador no pot desactivar la restricció de les trucades entrants en itinerància."</string>
+    <string name="labelAB">"Desactivar tots"</string>
+    <string name="messageAB">"Introduïu la contrasenya de bloqueig de trucades."</string>
+    <string name="sum_ab_enabled">"Activat"</string>
+    <string name="sum_ab_disabled">"Desactivat"</string>
+    <string name="enable_ab_forbidden">"El vostre portador no ho pot desactivar tot."</string>
+    <string name="disable_ab_forbidden">"El vostre portador no ho pot activar tot."</string>
+    <string name="labelChgPwd">"Canvia la contrasenya"</string>
+    <string name="DlgChgPwd_oldpwd">"Introduïu la contrasenya de bloqueig de trucades."</string>
+    <string name="DlgChgPwd_newpwd_first">"Introduïu la nova contrasenya"</string>
+    <string name="DlgChgPwd_newpwd_last">"Confirma la nova contrasenya"</string>
+    <string name="cb_pw_no_match">"Les contrasenyes  no es corresponen"</string>
+    <string name="cb_pw_error">"La contrasenya no és correcta"</string>
+    <string name="cb_pw_correct">"S\'ha modificat la contrasenya"</string>
+    <string name="labelCB">"Restricció de trucades"</string>
+    <string name="call_barring_settings">"Configuració de la restricció de trucades"</string>
+    <string name="cb_error">"S\'ha rebutjat la restricció de trucades"</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"La xarxa no està connectada, voleu configurar la xarxa?"</string>
+     <string name="dialog_network_selection_title">"Atenció"</string>
+     <string name="dialog_network_selection_message">"En el mode de selecció manual el telèfon mòbil no seleccionarà automàticament altres operadors. A vegades caldrà que torneu a fer la selecció manual o que torneu al mode automàtic quan perdeu el servei de l\'operador seleccionat. Us recomanem que utilitzeu "Seleccionar automàticament". Voleu seleccionar la xarxa manualment?"</string>
+     <string name="network_unknown">"Desconegut"</string>
+     <string name="network_inhibit">"Prohibit"</string>
+     <string name="ip_dialing_title">"MARCATGE IP"</string>
+     <string name="ip_dialing_list_title">"Llista de marcatge IP"</string>
+     <string name="ip_no_number">"Falta el prefix IP"</string>
+     <string name="ip_no_number_msg">"El prefix IP no s\'ha guardat al telèfon"</string>
+     <string name="ip_number_empty_loading">"La llista de marcatge IP està buida."</string>
+     <string name="remove">"Suprimeix"</string>
+     <string name="ip_number_is_too_long">"Els números de marcatge IP no poden ser superiors a 20."</string>
+     <string name="add_ip_number_str">"Nous"</string>
+     <string name="ip_dialing_num_error">"Només es poden guardar 10 números IP"</string>
+     <string name="ip_dialing_num_repeat">"Repetiu el número, no s\'ha pogut afegir"</string>
+     <string name="menu_selected_all">"Selec. tot"</string>
+     <string name="menu_select_none">"Anul·la tota la selecció"</string>
+     <string name="doneButton">"Fet"</string>
+     <string name="cancel">"Cancel·la"</string>
+     <string name="uplmn_setting_title">"Preferències"</string>
+     <string name="uplmn_setting">"Configuració UPLMN"</string>
+     <string name="uplmn_index">"Índex (comença des de 0):"</string>
+     <string name="uplmn_id">"Número d\'identificació:"</string>
+     <string name="uplmn_type">"Tipus (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">"Introduïu la targeta SIM i torneu-ho a provar"</string>
+     <string name="index_error_uplmn">"L\'índex està buit, torneu-ho a provar!"</string>
+     <string name="type_is_emplty_error_uplmn">"El tipus està buit, torneu-ho a provar!"</string>
+     <string name="number_too_short_uplmn">"El número d\'identificació és massa curt, torneu-ho a provar!"</string>
+     <string name="type_is_wrong_uplmn">"Heu de marcar 1 o 0, torneu-ho a provar!"</string>
+     <string name="fail_uplmn">"No ha funcionat, torneu-ho a provar!"</string>
+     <string name="set_uplmn_unsuccessful">"No s\'ha pogut establir uplmn!"</string>
+     <string name="menu_new_uplmn">"Nou UPLMN"</string>
+     <string name="menu_delete_uplmn">"Esborra UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"El compte és massa gran per a la capacitat de la targeta SIM!"</string>
+     <string name="delete">"Suprimeix"</string>
+     <string name="delete_uplmn_successfully">"S\'ha esborrat correctament UPLMN"</string>
+     <string name="id_is_wrong_uplmn">"S\'ha d\'establir la identificació amb un número!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Seleccioneu mode xarxa"</string>
+     <string name="lte_service_switch">"S\'està establint, espereu…"</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"Mode múltiple 4G / 3G / 2G"</item>
+        <item>"Mode només 3G / 2G"</item>
+        <item>"Només mode 2G"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"Mode múltiple 4G / 3G / 2G"</item>
+        <item>"Mode només 3G / 2G"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"Només GSM"</item>
+        <item>"Només WCDMA"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Auto)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"Configuració de marcatge ràpid"</string>
+     <string name="delete_fastdial">"Eliminar marcatge ràpid"</string>
+     <string name="update_fastdial">"Actualitzar marcatge ràpid"</string>
+     <string name="no_sim_text">"Introduïu o activeu la targeta SIM"</string>
+     <string name="network_not_on">"La xarxa no està connectada, voleu configurar la xarxa?"</string>
+     <string name="one_key_locked_notification">"Aquest tipus està DESPROTEGIT, el voleu protegir?"</string>
+     <string name="one_key_unlocked_notification">"Aquest tipus està PROTEGIT, el voleu desprotegir?"</string>
+     <string name="one_key_unlocked">"Desbloqueja"</string>
+     <string name="one_key_locked">"Cadenat tancat"</string>
+     <string name="one_key_operation_success">"La operació s\'ha realitzat correctament, ara cal reiniciar el dispositiu."</string>
+     <string name="one_key_operation_unsuccess">"La operació no s\'ha realitzat correctament, podeu tornar-ho a intentar!"</string>
+     <string name="one_key_query_unsuccess">"No s\'ha pogut respondre a la sol·licitud de desprotecció de SIM!"</string>
+     <string name="one_key_simlock_setting">"Configuració de bloqueig de la targeta SIM"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Xarxa protegida"</item>
+        <item>"Subgrup de xarxa protegida"</item>
+        <item>"Proveïdor de serveis protegit"</item>
+        <item>"Corporació protegida"</item>
+        <item>"SIM protegida"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Configuració de restricció de trucades entrants"</string>
+     <string name="callout_barring_settings">"Configuració de restricció de trucades sortints"</string>
+     <string name="labelCOUT">"Restricció de trucades sortints"</string>
+     <string name="labelCIN">"Restricció de trucades entrants"</string>
+     <string name="no_sim_text">"Introduïu o activeu la targeta SIM"</string>
+     <string name="sim_lock_none">"No s\'ha protegit cap SIM."</string>
+     <string name="sim_lock_try_later">"Torneu-ho a intentar més tard."</string>
+     <string name="edit_and_save_fdn">"Edita el número de marcatge fix"</string>
+     <string name="call_fdn_number_by_sim">"Truca"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"Videotrucada"</string>
+     <string name="airplane_changed_on">"S\'ha activat el Mode d\'avió."</string>
+     <string name="number_empty">"El número està buit"</string>
+     <string name="unblock_pin2">Desbloqueja el PIN2</string>
+     <string name="sum_fdn_unblock_pin2">Introduïu el PUK2 per a desbloquejar la targeta SIM</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> intent(s) restant(s))"</string>
+     <string name="oldPin2_Label">PIN2 antic (<xliff:g>%s</xliff:g> intent restant)</string>
+     <string name="puk2_code_label">Introduïu el codi PUK2 (<xliff:g>%s</xliff:g> intent restant)</string>
+     <string name="promptWordOne">"Queden&#160;"</string>
+     <string name="promptWordTwo">"&#160;vegada(es)"</string>
+     <string name="adn_full">FDN està ple</string>
+     <string name="no_available_phone_accounts">"No hi ha comptes de trucada disponibles"</string>
+     <string name="lnd_list">"Llista LND"</string>
+     <string name="sdn_list">"Llista SDN"</string>
+     <string name="sim_list_title">"Seleccioneu la targeta SIM"</string>
+     <string name="wait_message">"Espera…"</string>
+     <string name="menu_call">"Truca al contacte"</string>
+     <string name="lnd_no_contact_record">"No hi ha cap registre LND en aquesta targeta SIM."</string>
+     <string name="sdn_no_contact_number">"Aquesta targeta SIM no és compatible amb el número SDN."</string>
+     <string name="remove">"Suprimeix"</string>
+     <string name="delete_selected_contents">"Voleu eliminar els continguts seleccionats?"</string>
+     <string name="sim_notready_can_not_delete">"No es pot eliminar perquè la targeta SIM no està preparada."</string>
+     <string name="contact_del_failed">"No s\'ha pogut finalitzar l\'eliminació"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Per configurar la bústia de veu, vés a Menú &gt; Configuració."</string>
+     <string name="simlock_unlocked">"La SIM protegida s\'ha desprotegit."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"Només WCDMA"</item>
+        <item>"Només GSM"</item>
+        <item>"automàtica"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"Només GSM"</item>
+    </string-array>
+</resources>

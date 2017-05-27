@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Proteção de tela de foto"</string>
+<string name="table_screensaver_name">"Mesa de Foto"</string>
+<string name="flipper_screensaver_name">"Moldura de Foto"</string>
+<string name="posts_album_name">"Fotos de Postos"</string>
+<string name="unknown_album_name">"Álbum Não Nomeado"</string>
+<string name="stock_photo_album_name">"Fotos de Estoque"</string>
+<string name="local_source_name">"Fotos no Aparelho"</string>
+<string name="need_to_configure">"Sem fotos selecionadas."</string>
+<string name="photodream_select_all">"Selecionar tudo"</string>
+<string name="photodream_select_none">"Deselecionar tudo"</string>
+<string name="no_photos">"Sem fotos no aparelho."</string>
+
+</resources>

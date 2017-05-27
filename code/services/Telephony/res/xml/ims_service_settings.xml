@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/ims_call_availability">
+    <ListPreference
+        android:key="vt_resolution_set_key"
+        android:title="@string/vt_resolution_setting"
+        android:entries="@array/vt_resolution_choices"
+        android:entryValues="@array/vt_resolution_choices_values"
+        android:dialogTitle="@string/vt_resolution_setting"/>
+    <!-- SPRD: Add for plmn white list setting @{ -->
+    <Preference
+        android:key="volte_config_list_key"
+        android:title="@string/plmn" >
+         <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="com.sprd.phone.VoLTEConfigSettings"
+            android:targetPackage="com.android.phone"/>
+    </Preference>
+    <!-- @} -->
+</PreferenceScreen>

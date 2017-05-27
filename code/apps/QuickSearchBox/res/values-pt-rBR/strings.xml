@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Pesquisar"</string>
+<string name="remove_from_history_failed">"Não foi possível remover item do Histórico."</string>
+<string name="corpus_selection_heading">"Pesquisar"</string>
+<string name="menu_settings">"Configurações de pesquisa"</string>
+<string name="system_search_category_title">"Telefone"</string>
+<string name="clear_shortcuts_summary">"Limpar atalhos para sugestões de pesquisa recentemente escolhidos"</string>
+<string name="menu_help">"Ajuda"</string>
+<string name="google_search_hint">"Google Search"</string>
+<string name="google_search_description">"sugestões de busca Google"</string>
+<string name="voice_search_hint_title">"Tente dizer:"</string>
+</resources>

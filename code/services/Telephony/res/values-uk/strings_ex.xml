@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"Всі вихідні"</string>
+    <string name="messageAO">"Введіть пароль заборони."</string>
+    <string name="sum_ao_enabled_indicator">"Пересил. всіх викликів"</string>
+    <string name="sum_ao_enabled">"Доступно"</string>
+    <string name="sum_ao_disabled">"Вимкнено"</string>
+    <string name="enable_ao_forbidden">"Ваш оператор не підтримує включення заборони всіх вихідних дзвінків."</string>
+    <string name="disable_ao_forbidden">"Ваш оператор не підтримує відключення заборони всіх вихідних дзвінків."</string>
+    <string name="labelOI">"Вихідний міжнародний"</string>
+    <string name="messageOI">"Введіть пароль заборони."</string>
+    <string name="sum_oi_enabled">"Доступно"</string>
+    <string name="sum_oi_disabled">"Вимкнено"</string>
+    <string name="enable_oi_forbidden">"Ваш оператор не підтримує включення заборони вихідних міжнародних дзвінків."</string>
+    <string name="disable_oi_forbidden">"Ваш оператор не підтримує відключення заборони вихідних міжнародних дзвінків."</string>
+    <string name="labelOX">"Вихідний міжнародний роумінг"</string>
+    <string name="messageOX">"Введіть пароль заборони."</string>
+    <string name="sum_ox_enabled">"Доступно"</string>
+    <string name="sum_ox_disabled">"Вимкнено"</string>
+    <string name="enable_ox_forbidden">"Ваш оператор не підтримує включення заборони вихідних дзвінків міжнародного роумінгу."</string>
+    <string name="disable_ox_forbidden">"Ваш оператор не підтримує відключення заборони вихідних дзвінків міжнародного роумінгу."</string>
+    <string name="labelAI">"Усі вхідні"</string>
+    <string name="messageAI">"Введіть пароль заборони."</string>
+    <string name="sum_ai_enabled">"Доступно"</string>
+    <string name="sum_ai_disabled">"Вимкнено"</string>
+    <string name="enable_ai_forbidden">"Ваш оператор не підтримує включення заборони всіх вхідних викликів."</string>
+    <string name="disable_ai_forbidden">"Ваш оператор не підтримує відключення заборони всіх вхідних викликів."</string>
+    <string name="labelIR">"Вхідні дзвінки під час роумінгу"</string>
+    <string name="messageIR">"Введіть пароль заборони."</string>
+    <string name="sum_ir_enabled">"Доступно"</string>
+    <string name="sum_ir_disabled">"Вимкнено"</string>
+    <string name="enable_ir_forbidden">"Ваш оператор не підтримує включення заборони вхідних дзвінків при роумінгу."</string>
+    <string name="disable_ir_forbidden">"Ваш оператор не підтримує відключення заборони вхідних дзвінків при роумінгу."</string>
+    <string name="labelAB">"Вимкнути все"</string>
+    <string name="messageAB">"Введіть пароль заборони."</string>
+    <string name="sum_ab_enabled">"Доступно"</string>
+    <string name="sum_ab_disabled">"Вимкнено"</string>
+    <string name="enable_ab_forbidden">"Ваш оператор не підтримує відключення всіх послуг."</string>
+    <string name="disable_ab_forbidden">Ваш оператор не підтримує функцію активувати всі. </string>
+    <string name="labelChgPwd">"Змінити пароль"</string>
+    <string name="DlgChgPwd_oldpwd">"Введіть пароль заборони."</string>
+    <string name="DlgChgPwd_newpwd_first">"Введіть новий пароль"</string>
+    <string name="DlgChgPwd_newpwd_last">"Підтвердіть новий пароль"</string>
+    <string name="cb_pw_no_match">"Паролі не збігаються"</string>
+    <string name="cb_pw_error">"Неправильний пароль"</string>
+    <string name="cb_pw_correct">"Пароль було змінено"</string>
+    <string name="labelCB">"Заборона викл."</string>
+    <string name="call_barring_settings">"Настройки заборони дзвінків"</string>
+    <string name="cb_error">"Заборона виклику відхилена"</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Мережа не підключена. Ви бажаєте налаштувати стан мережі?"</string>
+     <string name="dialog_network_selection_title">"Увага"</string>
+     <string name="dialog_network_selection_message">"У режимі ручного управління стільниковий телефон не буде відстежувати мережі інших операторів. У деяких випадках поза зоною обслуговування поточного оператора мережі необхідно виконати ручний пошук мережі або встановити режим автоматичного вибору.Ми рекомендуємо використовувати режим "Автоматичний вибір". Ви хочете вибрати мережу в ручному режимі?"</string>
+     <string name="network_unknown">"Невідомий"</string>
+     <string name="network_inhibit">"Заборонено"</string>
+     <string name="ip_dialing_title">"IP набір номера"</string>
+     <string name="ip_dialing_list_title">"Чорний список IP-набору"</string>
+     <string name="ip_no_number">"«Відсутність IP приставка""</string>
+     <string name="ip_no_number_msg">"IP-префікс не зберігається в пам\'яті телефону."</string>
+     <string name="ip_number_empty_loading">Список IP-набору порожній.</string>
+     <string name="remove">"видалення"</string>
+     <string name="ip_number_is_too_long">"номер IP набору не може перевищувати20 символів"</string>
+     <string name="add_ip_number_str">"Нова"</string>
+     <string name="ip_dialing_num_error">"Можна зберегти тільки 10 числа IP"</string>
+     <string name="ip_dialing_num_repeat">"Повтор номеру, помилка введення"</string>
+     <string name="menu_selected_all">"Вибрати все"</string>
+     <string name="menu_select_none">"всі замовлені"</string>
+     <string name="doneButton">"Виконано"</string>
+     <string name="cancel">"    скасувати"</string>
+     <string name="uplmn_setting_title">"Параметри"</string>
+     <string name="uplmn_setting">"Налаштування UPLMN "</string>
+     <string name="uplmn_index">"Індекс (починаючи з 0):"</string>
+     <string name="uplmn_id">"Ідентифікаційний номер:"</string>
+     <string name="uplmn_type">"Тип (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">Будь ласка, вставте USIM-карту і спробуйте ще раз</string>
+     <string name="index_error_uplmn">"Індекс порожній. Спробуйте знову!"</string>
+     <string name="type_is_emplty_error_uplmn">"Тип порожній. Спробуйте знову!"</string>
+     <string name="number_too_short_uplmn">"Id номер дуже короткий. Спробуйте знову!"</string>
+     <string name="type_is_wrong_uplmn">"Тип має бути 1 або 0.  Спробуйте знову!"</string>
+     <string name="fail_uplmn">"Не вдалося. Спробуйте знову."</string>
+     <string name="set_uplmn_unsuccessful">"Не вдалося встановити uplmn"</string>
+     <string name="menu_new_uplmn">"Новий UPLMN"</string>
+     <string name="menu_delete_uplmn">"Видалити UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"Перевищено об\'єм SIM!"</string>
+     <string name="delete">"видалити "</string>
+     <string name="delete_uplmn_successfully">"uplmn видалено"</string>
+     <string name="id_is_wrong_uplmn">"Ідентифікатор повинен бути заданий спільно з номером!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"обрати режим мережі"</string>
+     <string name="lte_service_switch">"встановлення, зачекайте..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G мульти-режим"</item>
+        <item>"тільки режим "3G/2G"</item>
+        <item>"Тільки режим 2G"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G мульти-режим"</item>
+        <item>"тільки режим "3G/2G"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"GSM тільки"</item>
+        <item>"WCDMA тільки"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"Автоматичний вибір LTE/WCDMA/GSM"</item>
+    </string-array>
+     <string name="fast_dial_settings">"Настройки швидкого набору"</string>
+     <string name="delete_fastdial">"видалити Fast Dial"</string>
+     <string name="update_fastdial">"поновлення Fast Dial"</string>
+     <string name="no_sim_text">"Будь ласка, вставте або активуйте SIM карту"</string>
+     <string name="network_not_on">"Мережа не підключена. Ви бажаєте налаштувати стан мережі?"</string>
+     <string name="one_key_locked_notification">"Цей тип РОЗБЛОКОВАНИЙ, ви хочете його заблокувати?"</string>
+     <string name="one_key_unlocked_notification">"Цей тип ЗАБЛОКОВАНИЙ, ви хочете його розблоковувати?"</string>
+     <string name="one_key_unlocked">"UnLock"</string>
+     <string name="one_key_locked">"Заблокувати"</string>
+     <string name="one_key_operation_success">"Операція виконана успішно, необхідне перезавантаження"</string>
+     <string name="one_key_operation_unsuccess">"Виконати операцію не вдалося, спробуйте знову!"</string>
+     <string name="one_key_query_unsuccess">"Ввести запит на блокування SIM-картки не вдалося!"</string>
+     <string name="one_key_simlock_setting">"Налаштування блокування SIM-карти"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Блокування мережі"</item>
+        <item>"Блокування підгрупи мережі"</item>
+        <item>"Блокування постачальника послуги"</item>
+        <item>"Загальне блокування"</item>
+        <item>"Блокування SIM-карти"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Налаштування заборони вхідних дзвінків"</string>
+     <string name="callout_barring_settings">"Налаштування заборони вихідних дзвінків"</string>
+     <string name="labelCOUT">"Заборона вихідних дзвінків"</string>
+     <string name="labelCIN">"Заборона вхідних дзвінків"</string>
+     <string name="no_sim_text">"Будь ласка, вставте або активуйте SIM карту"</string>
+     <string name="sim_lock_none">"SIM-карта не була заблокована"</string>
+     <string name="sim_lock_try_later">"Будь ласка, спробуйте пізніше"</string>
+     <string name="edit_and_save_fdn">"Редагувати FDN Число"</string>
+     <string name="call_fdn_number_by_sim">"Набрати"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"VT виклику"</string>
+     <string name="airplane_changed_on">"Режим польоту ввімкнено."</string>
+     <string name="number_empty">"Число порожне"</string>
+     <string name="unblock_pin2">"Розблокувати PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Введіть PUK 2, щоб розблокувати SIM-карту"</string>
+     <string name="pin2_Label">PIN2 (залишилось <xliff:g>%s</xliff:g> спроб)</string>
+     <string name="oldPin2_Label">Старий PIN2 (залишилось <xliff:g>%s</xliff:g> спроб)</string>
+     <string name="puk2_code_label">Введіть код PUK2 (залишилось <xliff:g>%s</xliff:g> спроб)</string>
+     <string name="promptWordOne">"Залишається&#160;"</string>
+     <string name="promptWordTwo">"&#160;разів"</string>
+     <string name="adn_full">"ADN переповнений"</string>
+     <string name="no_available_phone_accounts">"Немає доступних звітів про виклики"</string>
+     <string name="lnd_list">Список LND</string>
+     <string name="sdn_list">SDN список</string>
+     <string name="sim_list_title">"Будь ласка, виберіть SIM-карти"</string>
+     <string name="wait_message">"Будь ласка, зачекайте ..."</string>
+     <string name="menu_call">"Набрати конт."</string>
+     <string name="lnd_no_contact_record">"Немає LND запис на цій SIM-карти."</string>
+     <string name="sdn_no_contact_number">"Ця карта SIM не підтримує числа SDN."</string>
+     <string name="remove">"видалення"</string>
+     <string name="delete_selected_contents">"Ви хочете, щоб видалити вибраний вміст?"</string>
+     <string name="sim_notready_can_not_delete">"Тому що SIM-карта не готова, так що можете \ \'т Видалити."</string>
+     <string name="contact_del_failed">"видалити Збій"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Щоб налаштувати голосову пошту, перейдіть у Меню &gt; Налаштування."</string>
+     <string name="simlock_unlocked">"SIM-карта була розблокована"</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"WCDMA тільки"</item>
+        <item>"GSM тільки"</item>
+        <item>"CDMA без EvDo"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"GSM тільки"</item>
+    </string-array>
+</resources>

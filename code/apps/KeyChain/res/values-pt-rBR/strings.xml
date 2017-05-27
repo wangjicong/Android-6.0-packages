@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Corrente de Tecla"</string>
+<string name="title_no_certs">"Sem certificado procurado"</string>
+<string name="title_select_cert">"Escolher certificado"</string>
+<string name="requesting_application">"A aplicação %s solicitou um certificado. Escolhendo um certificado vai deixar a aplicação usar esta identidade com os servidores agora e no futuro."</string>
+<string name="requesting_server">"A aplicação foi identificada o servidor de solicitação como %s, mas você deve apenas dar a aplicação o acesso ao certificado se você confia na aplicação."</string>
+<string name="install_new_cert_message">"Você pode instalar os certificados de um PKCS#12 arquivo com um %1$s ou um %2$s extensão localizada na guarda external."</string>
+<string name="install_new_cert_button_label">"Instalar"</string>
+<string name="allow_button">"Permitir"</string>
+<string name="deny_button">"Negar"</string>
+</resources>

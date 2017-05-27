@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5955735546071433666">"Lydoptager"</string>
+    <string name="record_your_message" msgid="1583671906691662148">"Optag din besked"</string>
+    <string name="message_recorded" msgid="381539460921872233">"Beskeden er registreret"</string>
+    <string name="review_message" msgid="201616012287839474">"Hør besked"</string>
+    <string name="recording" msgid="4426791467211376099">"Optager"</string>
+    <string name="recording_stopped" msgid="1580278719585249612">"Optagelsen blev stoppet"</string>
+    <string name="storage_is_full" msgid="416039755956726221">"Der er ikke mere lagerplads"</string>
+    <string name="max_length_reached" msgid="6398215743584093353">"Maksimal længde nået"</string>
+    <string name="insert_sd_card" product="nosdcard" msgid="4609407750669086933">"Isæt USB-lager"</string>
+    <string name="insert_sd_card" product="default" msgid="1007630222084726808">"Indsæt et SD-kort"</string>
+    <string name="min_available" msgid="5493947690062988925">"<xliff:g id="MINUTES">%d</xliff:g> min. ledige"</string>
+    <string name="sec_available" msgid="2297020788861694399">"<xliff:g id="SECONDS">%d</xliff:g> ledige"</string>
+    <string name="accept" msgid="1888285552128743656">"Færdig"</string>
+    <string name="discard" msgid="761613433029406319">"Kassér"</string>
+    <string name="button_ok" msgid="3004911343723076226">"OK"</string>
+    <!-- no translation found for audio_db_title_format (7912182366970749312) -->
+    <skip />
+    <string name="audio_db_artist_name" msgid="961640229118120080">"Dine optagelser"</string>
+    <string name="audio_db_album_name" msgid="9072588113803264440">"Lydoptagelser"</string>
+    <string name="audio_db_playlist_name" msgid="5592939050047058162">"Mine optagelser"</string>
+    <string name="error_sdcard_access" product="nosdcard" msgid="86629081075681774">"Der kan ikke fås adgang til USB-lager."</string>
+    <string name="error_sdcard_access" product="default" msgid="5750308258096153274">"Der kan ikke fås adgang til SD-kortet."</string>
+    <string name="error_app_internal" msgid="312884382388702022">"Intern applikationsfejl."</string>
+    <string name="error_mediadb_new_record" msgid="261714902333432462">"Lydindspilningen kunne ikke gemmes."</string>
+    <string name="recording_save">"Optagelsen blev gemt"</string>
+     <string name="recording_nosave">"Optagelse gemtes ikke"</string>
+     <string name="phone_message">"Du kan ikke bruge optageren, når du ringer op."</string>
+     <string name="min_and_time_available">"Omkring <xliff:g id="minutes">%d</xliff:g> min og <xliff:g id="seconds">%d</xliff:g> sek tilgængelig"</string>
+     <string name="press_record">"Tryk på Optag"</string>
+     <string name="save">Gem</string>
+     <string name="select_file_type">"Vælg type af optagefil"</string>
+     <string name="record_amr">"type amr (lav kvalitet)"</string>
+     <string name="record_3gpp">"type 3gpp (høj kvalitet)"</string>
+     <string name="button_cancel">Annuller</string>
+     <string name="path_save">"Standardsti gemt"</string>
+     <string name="path_nosave">"Standardsti ikke gemt"</string>
+     <string name="path_default">"Den nuværende sti er ikke skrivbar eller er ugyldig. Det er stien til det interne lager"</string>
+     <string name="menu_set_save_path">"Angive gemmesti"</string>
+     <string name="back">"Tilbage…"</string>
+     <string name="path_label">"Venligst vælg gem sti"</string>
+     <string name="pause">"Pause"</string>
+     <string name="storage_is_not_enough">"Lager er ikke nok!"</string>
+     <string name="menu_recording_file_list">"Optagelses filliste"</string>
+     <string name="recording_list_empty">"Tøm liste"</string>
+     <string name="menu_recording_list_select_all">Vælg alle</string>
+     <string name="menu_recording_list_delete">Slet </string>
+     <string name="menu_recording_list_deselect_all">"Fravælge"</string>
+     <string name="recording_file_delete_success">"Optagelse slettet"</string>
+     <string name="recording_file_database_failed">"Mislykkedes at slette databasefil"</string>
+     <string name="recording_file_delete_failed">"Mislykkedes at slette optagelsesfil"</string>
+     <string name="confirm_del">"Er du sikker på, at du ønsker at slette filerne?"</string>
+     <string name="button_delete">Slet </string>
+     <string name="recording_file_delete_alert_title">Slet </string>
+     <string name="recording_file_delete_alert_message">"Sikke på at slette %1$s ?"</string>
+     <string name="recording_file_list">"Optagelses filliste"</string>
+     <string name="less_than_one_second">"1 sekund"</string>
+     <string name="is_scanning">"MedieSkanner skanner nu. Vent venligst…"</string>
+     <string name="emptylist">"Listen er tom"</string>
+     <string name="choose_file">"Venligst vælg den optagelse du gerne vil slette filer"</string>
+     <string name="error_path">"Stien du valgte eksisterer ikke, venligst nulstil!"</string>
+     <string name="path_miss">"Den gemte sti findes ikke eller kan ikke tilgås!"</string>
+     <string name="low_memory">"Telefonhukommelse er ikke nok, Optagelse stopper!"</string>
+     <string name="record_error">"Optager en undtagelse hændte!"</string>
+     <string name="play_error">"Musikafspilleren er deaktiveret. Kan ikke starte！"</string>
+     <string name="dialog_title">"Venligst vælg"</string>
+     <string name="dialog_message">"Gem optagelsen?"</string>
+     <string name="same_application_running">"Optagelsesenheden bliver brugt af et andet program, venligst luk dette program!"</string>
+     <string name="recording_time_short">"Optagelsestid mindre end 1 sekund, ikke gemt"</string>
+     <string name="file_path_button">"Filsti"</string>
+     <string name="file_name">"Filnavn: "</string>
+     <string name="file_path">"Filsti: "</string>
+     <string name="rename">Omdøb</string>
+     <string name="rename_save">"Omdøbelse lykkedes"</string>
+     <string name="rename_nosave">"Omdøbelse mislykkedes"</string>
+     <string name="filename_is_not_modified">"Filnavn er ikke modificeret"</string>
+     <string name="duplicate_name">"filnavnskopi"</string>
+     <string name="soundpicker_label">"Venligst vælg optagelsesfil"</string>
+     <string name="error_sdcard_path">"sdkort eksistere ikke. Standard gemmesti er blever ændret til internt lager."</string>
+     <string name="input_length_overstep">"Input har nået maks længde"</string>
+     <string name="filename_empty_error">Filnavn kan ikke være tom, gem det originale navn"</string>
+     <string name="please_choose_files">"Venligst vælg filer"</string>
+     <string name="selected_files_count">"har valgt<xliff:g id="COUNTS">%d</xliff:g>"</string>
+     <string name="use_default_path">"Den gemte sti findes ikke, brug standardsti"</string>
+     <string name="stroage_not_mounted">"Lageret er ikke tilsluttet"</string>
+     <string name="special_char_exist">"Specialtegn <xliff:g id="COUNTS">%s</xliff:g> understøttes ikke"</string>
+     <string name="menu_select_more">Vælg flere</string>
+     <string name="menu_select_type">"Angiv filtype"</string>
+     <string name="path_miss_nosave">"Den angivne sti findes ikke. Optagelsen blev ikke gemt！"</string>
+     <string name="dialog_dismiss">"Annuller"</string>
+     <string name="error_permissions">"Appen mangler kritiske tilladelser for at kunne køre. Kontrollér dine indstillinger for tilladelser."</string>
+
+</resources>

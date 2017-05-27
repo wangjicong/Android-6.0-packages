@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@+id/iv_weatherBg" android:layout_width="fill_parent" android:layout_height="90.0dip" android:src="@drawable/unknown_bg" android:layout_alignParentTop="true" />
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/weather_background" android:scaleType="fitXY" android:contentDescription="@string/background" />
+    <ImageView android:id="@+id/iv_weatherIcon" android:layout_width="52.0dip" android:layout_height="52.0dip" android:layout_marginTop="20.0dip" android:src="@drawable/unknown_icon" android:layout_centerHorizontal="true" />
+    <RelativeLayout android:id="@+id/container_temp_info" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="180.0dip" android:layout_alignParentBottom="true">
+        <TextView android:textSize="25.0sp" android:textStyle="bold" android:textColor="#ff000000" android:id="@+id/tv_temp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+        <ProgressBar android:id="@+id/pg_refresh" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/tv_temp" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@+id/iv_refresh" android:visibility="gone" android:layout_width="20.0dip" android:layout_height="20.0dip" android:layout_marginLeft="15.0dip" android:src="@drawable/refresh" android:scaleType="fitXY" android:baselineAlignBottom="true" android:layout_toRightOf="@id/tv_temp" android:layout_alignBaseline="@id/tv_temp" />
+        <TextView android:textSize="25.0sp" android:textStyle="bold" android:textColor="#ff000000" android:id="@+id/tv_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/tv_temp" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="25.0sp" android:textColor="#ff000000" android:id="@+id/tv_countyName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/tv_date" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@+id/iv_locate" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:src="@drawable/locate" android:baselineAlignBottom="true" android:layout_toLeftOf="@id/tv_countyName" android:layout_alignBaseline="@id/tv_countyName" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/location_setting_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="180.0dip" android:layout_alignParentBottom="true">
+        <ImageView android:id="@+id/iv_failed_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="20.0sp" android:textColor="#ff000000" android:gravity="center_horizontal" android:id="@+id/tv_comments" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5.0dip" android:singleLine="false" android:layout_below="@id/iv_failed_icon" android:layout_centerHorizontal="true" />
+        <Button android:id="@+id/btn_try_again" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/try_again" android:layout_below="@id/tv_comments" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</RelativeLayout>

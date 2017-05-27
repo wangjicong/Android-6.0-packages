@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Pirma"</string>
+<string name="pref_title_sms_retry_times">Enable SMS Retry</string>
+<string name="preference_name">"Sagad nga pulongan"</string>
+<string name="select">"Napili"</string>
+<string name="item_cancel">"Kansela"</string>
+<string name="item_delete">"Panas"</string>
+<string name="save_as_teltype">"Para sa telepono"</string>
+<string name="save_as_mmstype">"Para sa Sms"</string>
+<string name="type_to_pharser">"Isulat ang kasarangang hugpong sa mga pulong"</string>
+<string name="add">Dugangan</string>
+<string name="edit">"Usob"</string>
+<string name="delete">"Panas"</string>
+<string name="finish">"Finnish"</string>
+<string name="cancel">"Kansela"</string>
+<string name="add_pharser">"Idugang ang kasarangang hugpong sa mga pulong"</string>
+<string name="edit_pharser">"Usaba ang sagad nga pulongan"</string>
+<string name="pharser_can_modify">"Pinahiangay nga hugpong sa mga pulong""</string>
+<string name="pharser_cannot_modify">"Lig-on nga hugpong sa mga pulong"</string>
+<string name="select_item">"Imong gipili"</string>
+<string name="select_commmon_phrase">Pilia ang kasagaran nga linya</string>
+<string name="common_phrase_empty">"Walay sagad nga mga pulongan"</string>
+<string name="action_add_phrase">"Isukip ang kasarangang hugpong sa mga pulong"</string>
+<string name="pref_other_settings_title">"Uban"</string>
+<string-array name="fixed_mms_phrase">
+<item>Palihug tawagi ako phone sa opisina, salamat.</item>
+<item>Palihug kontaka ko, salamat.</item>
+<item>Palihug sultie ko sa imu lokasyon.</item>
+<item>Palihug tawagi ako cell phone unya, salamat.</item>
+<item>Gikan ko sa gawas, uli sa balay para hatagan ka ug  tawag.</item>
+<item>"Nagmaneho ako ug mobalos lang ko unya"</item>
+<item>"Paadto nako sa dalan, dali ra ko maabot."</item>
+<item>Piit sa trapiko, unya nalang, sori.</item>
+<item>Tawagan ka balik unya.</item>
+<item>Naa ko sa pulong, mutubag lang unya.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Dili ko kastorya karon. Unsay naa?"</item>
+<item>"Mutawag ko pagbalik dayon."</item>
+<item>"Mutawag ko unya."</item>
+<item>"Dili ko kastorya karon. Tawagi ko unya?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Palihug tawaga ako o padad-i ako og sms unya."</item>
+</string-array>
+</resources>

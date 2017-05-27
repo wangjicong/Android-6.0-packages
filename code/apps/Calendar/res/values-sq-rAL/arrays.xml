@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="reminder_methods_labels">
+<item>Njoftim</item>
+<item>Email</item>
+<item>"SMS"</item>
+<item>Alarmi</item>
+</string-array>
+<string-array name="reminder_minutes_labels">
+<item>0 minuta</item>
+<item>1 minutë</item>
+<item>5 minuta</item>
+<item>10 minuta</item>
+<item>15 minuta</item>
+<item>20 minuta</item>
+<item>25 minuta</item>
+<item>30 minuta</item>
+<item>45 minuta</item>
+<item>1 orë</item>
+<item>2 orë</item>
+<item>3 orë</item>
+<item>12 orë</item>
+<item>24 orë</item>
+<item>2 ditë</item>
+<item>"1 javë"</item>
+</string-array>
+<string-array name="preferences_default_reminder_labels">
+<item>Heshtur</item>
+<item>0 minuta</item>
+<item>1 minutë</item>
+<item>5 minuta</item>
+<item>10 minuta</item>
+<item>15 minuta</item>
+<item>20 minuta</item>
+<item>25 minuta</item>
+<item>30 minuta</item>
+<item>45 minuta</item>
+<item>1 orë</item>
+<item>2 orë</item>
+<item>3 orë</item>
+<item>12 orë</item>
+<item>24 orë</item>
+<item>2 ditë</item>
+<item>"1 javë"</item>
+</string-array>
+<string-array name="preferences_week_start_day_labels">
+<item>Lokale standarde</item>
+<item>E shtunë</item>
+<item>E dielë</item>
+<item>E hënë</item>
+</string-array>
+<string-array name="availability">
+<item>I zënë</item>
+<item>E disponueshme</item>
+<item>Tentative</item>
+</string-array>
+<string-array name="visibility">
+<item>Standarde</item>
+<item>Private</item>
+<item>Publike</item>
+</string-array>
+<string-array name="ordinal_labels">
+<item>e para</item>
+<item>e dyta</item>
+<item>e treta</item>
+<item>e katërta</item>
+<item>e fundit</item>
+</string-array>
+<string-array name="response_labels1">
+<item>Asnjë përgjigje</item>
+<item>Po</item>
+<item>Ndoshta</item>
+<item>Jo</item>
+</string-array>
+<string-array name="delete_repeating_labels">
+<item>Vetëm këtë event</item>
+<item>Kjo dhe evente të ardhshme</item>
+<item>Të gjitha eventet</item>
+</string-array>
+<string-array name="delete_repeating_labels_no_selected">
+<item>"Kjo &amp; ngjarje të ardhshme"</item>
+<item>Të gjitha eventet</item>
+</string-array>
+<string-array name="change_response_labels">
+<item>Vetëm këtë event</item>
+<item>Të gjitha eventet në seri</item>
+</string-array>
+<string-array name="buttons_list">
+<item>ditë</item>
+<item>javë</item>
+<item>"Muaji"</item>
+<item>"Axhenda"</item>
+</string-array>
+<string-array name="preferences_skip_reminders_labels">
+<item>Vetëm nëse refuzohet</item>
+<item>Nëse refuzohet ose nuk përgjigjet</item>
+</string-array>
+<string-array name="recurrence_freq">
+<item>PËRSËRIT ÇDO DITË</item>
+<item>PËRSËRIT ÇDO JAVË</item>
+<item>PËRSËRIT ÇDO MUAJ</item>
+<item>PËRSËRIT ÇDO VIT</item>
+</string-array>
+<string-array name="repeat_by_nth_sun">
+<item>në çdo të dielë të parë</item>
+<item>në çdo të dielë të dytë</item>
+<item>në çdo të dielë të tretë</item>
+<item>në çdo të dielë të katërt</item>
+<item>në çdo të dielë të fundit</item>
+</string-array>
+<string-array name="repeat_by_nth_mon">
+<item>në çdo të hënë të parë</item>
+<item>në çdo të hënë të dytë</item>
+<item>në çdo të hënë të tretë</item>
+<item>në çdo të hënë të katërt</item>
+<item>në çdo të hënë të fundit</item>
+</string-array>
+<string-array name="repeat_by_nth_tues">
+<item>në çdo të martë të parë</item>
+<item>në çdo të martë të dytë</item>
+<item>në çdo të martë të tretë</item>
+<item>në çdo të martë të katërt</item>
+<item>në çdo të martë të fundit</item>
+</string-array>
+<string-array name="repeat_by_nth_wed">
+<item>në çdo të mërkurë të parë</item>
+<item>në çdo të mërkurë të dytë</item>
+<item>në çdo të mërkurë të tretë</item>
+<item>në çdo të mërkurë të katërt</item>
+<item>në çdo të mërkurë të fundit</item>
+</string-array>
+<string-array name="repeat_by_nth_thurs">
+<item>në çdo të enjte të parë</item>
+<item>në çdo të enjte të dytë</item>
+<item>në çdo të enjte të tretë</item>
+<item>në çdo të enjte të katërt</item>
+<item>në çdo të enjte të fundit</item>
+</string-array>
+<string-array name="repeat_by_nth_fri">
+<item>në çdo të premte të parë</item>
+<item>në çdo të premte të dytë</item>
+<item>në çdo të premte të tretë</item>
+<item>në çdo të premte të katërt</item>
+<item>në çdo të premte të fundit</item>
+</string-array>
+<string-array name="repeat_by_nth_sat">
+<item>në çdo të shtunë të parë</item>
+<item>në çdo të shtunë të dytë</item>
+<item>në çdo të shtunë të tretë</item>
+<item>në çdo të shtunë të katërt</item>
+<item>në çdo të shtunë të fundit</item>
+</string-array>
+</resources>

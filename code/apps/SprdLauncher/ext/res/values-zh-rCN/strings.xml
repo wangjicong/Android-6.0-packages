@@ -1,0 +1,48 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="folder_mode_title">文件夹模式</string>
+    <string name="line_model">直线</string>
+    <string name="grid_mode">网格</string>
+
+    <!--Add for workspace animation Effects-->
+    <string name="effects_button_text">切换效果</string>
+    <string name="effect_normal_text">经典效果</string>
+    <string name="effect_cross_text">十字翻转</string>
+    <string name="effect_page_text">翻页</string>
+    <string name="effect_cube_in_text">盒子(内)</string>
+    <string name="effect_cube_out_text">盒子(外)</string>
+    <string name="effect_carousel_left_text">旋转木马(左)</string>
+    <string name="effect_carousel_right_text">旋转木马(右)</string>
+    <string name="effect_roate_text">圆盘</string>
+    <string name="effect_layer_text">层叠</string>
+    <string name="effect_fade_text">渐变</string>
+
+    <!--SPRD Add for unreadNotifier function  start-->
+    <string name="unread_notifier_title">未读标记</string>
+    <string name="unread_call">电话</string>
+    <string name="unread_sms">短信</string>
+    <string name="unread_email">电子邮件</string>
+    <string name="unread_calendar">日历</string>
+    <string name="unread_hint">缺乏必要的<xliff:g id="unread_type">%1$s</xliff:g>权限，请先申请权限。</string>
+
+    <string name="app_list_preference_none">请选择一个应用</string>
+
+    <string name="pref_missed_call_count_title">未接来电</string>
+    <string name="pref_missed_call_count_summary">请选择一个应用以显示未接来电个数</string>
+    <string name="pref_unread_sms_count_title">未读信息</string>
+    <string name="pref_unread_sms_count_summary">请选择一个应用以显示未读信息个数</string>
+    <string name="pref_unread_email_count_title">未读电子邮件</string>
+    <string name="pref_unread_email_count_summary">请选择一个应用以显示未读邮件个数</string>
+    <string name="pref_unread_calendar_count_title">未读日历事件</string>
+    <string name="pref_unread_calendar_count_summary">请选择一个应用以显示未读日历事件个数</string>
+
+    <string name="selected_text">已选择</string>
+    <!--SPRD Add for unreadNotifier function  end-->
+
+    <!--SPRD Add for dynamic icon feature start-->
+    <string name="dynamic_icon_title">"动态图标"</string>
+    <!--SPRD Add for dynamic icon feature end-->
+
+    <!--add for circular sliding-->
+    <string name="allow_circular_sliding_title">桌面循环滑动</string>
+    <string name="folder_default_name">文件夹</string>
+</resources>

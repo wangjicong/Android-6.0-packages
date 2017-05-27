@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="uid_label">ஊடகம்</string>
+<string name="app_label">மீடியா சேமிப்பகம்</string>
+<string name="artist_label">கலைஞர்</string>
+<string name="ringtone_default">"இயல்புநிலை ரிங்டோன்"</string>
+<string name="notification_sound_default">"இயல்புநிலை அறிவிப்பிற்கான ஒலி"</string>
+<string name="alarm_sound_default">"இயல்புநிலை அலார ஒலி"</string>
+<string name="root_images">"படங்கள்"</string>
+<string name="root_videos">"வீடியோக்கள்"</string>
+<string name="root_audio">ஆடியோ</string>
+<string name="android_custom_label">“பழக்கமாக்கிய மணியோசைகள்”</string>
+<string name="ringtone_dialog_message">பயன்படுத்தக்கூடிய ஒரு மணியொலி இல்லை</string>
+<string name="ringtone_default_message">மன்னிக்கவும், ரிங்டோன் இயங்கவில்லை</string>
+</resources>

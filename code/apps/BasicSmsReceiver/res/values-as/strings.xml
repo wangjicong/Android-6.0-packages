@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sms_app_name">"সাধাৰণ মেছেজ গ্ৰহীতা"</string>
+<string name="sms_message_from_format">"<xliff:g id="userName">%1$s</xliff:g> ৰ পৰা যোৱা মেছেজ"</string>
+<string name="sms_done_button">"হৈ গৈছে"</string>
+</resources>

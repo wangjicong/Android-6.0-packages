@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Подпись"</string>
+<string name="pref_title_sms_retry_times">Повторное включение SMS</string>
+<string name="preference_name">Общая фраза</string>
+<string name="select">"Избранное"</string>
+<string name="item_cancel">Отмена</string>
+<string name="item_delete">"удалить"</string>
+<string name="save_as_teltype">"Для телефона"</string>
+<string name="save_as_mmstype">"Для SMS"</string>
+<string name="type_to_pharser">"Ввод часто употребляемых фраз"</string>
+<string name="add">"Добавить"</string>
+<string name="edit">"Изменить"</string>
+<string name="delete">"удалить"</string>
+<string name="finish">"Готово"</string>
+<string name="cancel">Отмена</string>
+<string name="add_pharser">"Добавить часто употребляемую фразу"</string>
+<string name="edit_pharser">Редактировать общую фразу</string>
+<string name="pharser_can_modify">"Пользовательская фраза"</string>
+<string name="pharser_cannot_modify">"Исправить фразу"</string>
+<string name="select_item">"Вы выбрали"</string>
+<string name="select_commmon_phrase">Выбрать общую фразу</string>
+<string name="common_phrase_empty">Нет общих фраз</string>
+<string name="action_add_phrase">"Вставить часто употребляемую фразу"</string>
+<string name="pref_other_settings_title">"Другое"</string>
+<string-array name="fixed_mms_phrase">
+<item>Позвоните на мой офисный номер, спасибо.</item>
+<item>Свяжитесь со мной, спасибо.</item>
+<item>Сообщите мне ваше местонахождение.</item>
+<item>Можалуйста, свяжитесь со мной по мобильному телефону чуть позже, спасибо</item>
+<item>Меня сейчас нет, я перезвоню вам когда буду домв</item>
+<item>"В настоящее время я за рулем и отвечу позже"</item>
+<item>"Я уже иду, скоро буду"</item>
+<item>Пробки, буду немного позже, простите.</item>
+<item>Перезвоню вам позже</item>
+<item>Я на собрании, перезвоню позже.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Не могу говорить. Что случилось?"</item>
+<item>"Я сейчас вам перезвоню."</item>
+<item>"Я перезвоню вам позже."</item>
+<item>"Не могу говорить. Позвоните позже."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Пожалуйста, позвоните мне или отправьте сообщение позже"</item>
+</string-array>
+</resources>

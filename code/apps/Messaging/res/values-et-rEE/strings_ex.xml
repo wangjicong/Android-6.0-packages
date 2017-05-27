@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Allkiri"</string>
+<string name="pref_title_sms_retry_times">"Võimalda SMS uuestisaatmine"</string>
+<string name="preference_name">"Levinud fraas"</string>
+<string name="select">"Valitud"</string>
+<string name="item_cancel">"Tühista"</string>
+<string name="item_delete">"Kustuta"</string>
+<string name="save_as_teltype">"Telefoni jaoks"</string>
+<string name="save_as_mmstype">"Sms\'i jaoks"</string>
+<string name="type_to_pharser">"Trüki üldkasutatav fraas"</string>
+<string name="add">"Lisa"</string>
+<string name="edit">"Muuda"</string>
+<string name="delete">"Kustuta"</string>
+<string name="finish">"Lõpeta"</string>
+<string name="cancel">"Tühista"</string>
+<string name="add_pharser">"Lisa üldkasutatav fraas"</string>
+<string name="edit_pharser">"Muuda levinud fraasi"</string>
+<string name="pharser_can_modify">"Personaliseeritud fraas"</string>
+<string name="pharser_cannot_modify">"Paranda fraas"</string>
+<string name="select_item">"Oled valinud"</string>
+<string name="select_commmon_phrase">"Vali üldkasutatav fraas"</string>
+<string name="common_phrase_empty">"Pole levinud fraase"</string>
+<string name="action_add_phrase">"Sisesta üldkasutatav fraas"</string>
+<string name="pref_other_settings_title">"Muu"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Palun helista mu kontorinumbrile, aitäh."</item>
+<item>"Palun võta minuga ühendust, aitäh."</item>
+<item>"Palun ütle mulle oma asukoht."</item>
+<item>"Palun helista mulle hiljem mobiilile, aitäh."</item>
+<item>"Olin väljas, lähen koju ja helistan sulle."</item>
+<item>"Olen sõidus ja vastan hiljem."</item>
+<item>"Olen teel, varsti kohal."</item>
+<item>"Liiklusummikud, jään hiljaks, vabandust."</item>
+<item>"Helistan hiljem tagasi."</item>
+<item>"Olen koosolekul, vastan hiljem."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Ei saa praegu rääkida. Milles asi?"</item>
+<item>"Helistan kohe tagasi."</item>
+<item>"Helistan sulle hiljem."</item>
+<item>"Ei saa rääkida. Helistad hiljem?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Palun helista või saada sms hiljem."</item>
+</string-array>
+</resources>

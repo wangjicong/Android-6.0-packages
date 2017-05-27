@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="reminder_methods_labels">
+<item>"اطلاع"</item>
+<item>"ای میل"</item>
+<item>"SMS"</item>
+<item>"الارم"</item>
+</string-array>
+<string-array name="reminder_minutes_labels">
+<item>"0 منٹ"</item>
+<item>"1 منٹ"</item>
+<item>"5 منٹ"</item>
+<item>"10 منٹ"</item>
+<item>"15 منٹ"</item>
+<item>"20 منٹ"</item>
+<item>"25 منٹ"</item>
+<item>"30 منٹ"</item>
+<item>"45 منٹ"</item>
+<item>"1 گھنٹہ"</item>
+<item>"2 گھنٹے"</item>
+<item>"3 گھنٹے"</item>
+<item>"12 گھنٹے"</item>
+<item>"24 گھنٹے"</item>
+<item>"دو دن"</item>
+<item>"1 ہفتہ"</item>
+</string-array>
+<string-array name="preferences_default_reminder_labels">
+<item>"کوئی نہیں"</item>
+<item>"0 منٹ"</item>
+<item>"1 منٹ"</item>
+<item>"5 منٹ"</item>
+<item>"10 منٹ"</item>
+<item>"15 منٹ"</item>
+<item>"20 منٹ"</item>
+<item>"25 منٹ"</item>
+<item>"30 منٹ"</item>
+<item>"45 منٹ"</item>
+<item>"1 گھنٹہ"</item>
+<item>"2 گھنٹے"</item>
+<item>"3 گھنٹے"</item>
+<item>"12 گھنٹے"</item>
+<item>"24 گھنٹے"</item>
+<item>"دو دن"</item>
+<item>"1 ہفتہ"</item>
+</string-array>
+<string-array name="preferences_week_start_day_labels">
+<item>مقامی ڈیفالٹ</item>
+<item>ہفتہ</item>
+<item>اتوار</item>
+<item>پیر</item>
+</string-array>
+<string-array name="availability">
+<item>"مصروف"</item>
+<item>"دستیاب"</item>
+<item>عارضی</item>
+</string-array>
+<string-array name="visibility">
+<item>ڈیفالٹ </item>
+<item>ذاتی</item>
+<item>عوامی</item>
+</string-array>
+<string-array name="ordinal_labels">
+<item>پہلا</item>
+<item>دوسرا</item>
+<item>تیسرا</item>
+<item>چوتھا</item>
+<item>آخری</item>
+</string-array>
+<string-array name="response_labels1">
+<item>کوئی جواب نہیں</item>
+<item>"ہاں"</item>
+<item>"شاید"</item>
+<item>"نہیں"</item>
+</string-array>
+<string-array name="delete_repeating_labels">
+<item>صرف یہ واقعہ</item>
+<item>یہ اور مستقبل کے واقعات</item>
+<item>تمام واقعات</item>
+</string-array>
+<string-array name="delete_repeating_labels_no_selected">
+<item>"یہ &amp; اور مستقبل کے واقعات"</item>
+<item>تمام واقعات</item>
+</string-array>
+<string-array name="change_response_labels">
+<item>صرف یہ واقعہ</item>
+<item>سلسلہ میں ہونے والے تمام واقعات</item>
+</string-array>
+<string-array name="buttons_list">
+<item>"دن"</item>
+<item>"ہفتہ"</item>
+<item>"مہینہ"</item>
+<item>"ایجنڈا"</item>
+</string-array>
+<string-array name="preferences_skip_reminders_labels">
+<item>صرف اگررد کیا گیا ہو</item>
+<item>اگر رد کیا گیا یا جواب نہ دیا ہو</item>
+</string-array>
+<string-array name="recurrence_freq">
+<item>روزانہ دوہرایں</item>
+<item>ہفتہ وار دوہرایں</item>
+<item>مہانہ دوہرایں</item>
+<item>سالانہ دوہرایں</item>
+</string-array>
+<string-array name="repeat_by_nth_sun">
+<item>ہر پہلے اتوار</item>
+<item>ہر دوسرے اتوار</item>
+<item>ہر تیسرے اتوار</item>
+<item>ہر چوتھے اتوار</item>
+<item>ہر آخری اتوار</item>
+</string-array>
+<string-array name="repeat_by_nth_mon">
+<item>ہر پہلے پیر</item>
+<item>ہر دوسرے پیر</item>
+<item>ہر تیسرے پیر</item>
+<item>ہر چوتھے پیر</item>
+<item>ہر آخری پیر</item>
+</string-array>
+<string-array name="repeat_by_nth_tues">
+<item>ہر پہلے منگل</item>
+<item>ہر دوسرے منگل</item>
+<item>ہر تیسرے منگل</item>
+<item>ہر چوتھے منگل</item>
+<item>ہر آخری منگل</item>
+</string-array>
+<string-array name="repeat_by_nth_wed">
+<item>ہر پہلے بدھ</item>
+<item>ہر دوسرے  بدھ</item>
+<item>ہر تیسرے  بدھ</item>
+<item>ہر چوتھے  بدھ</item>
+<item>ہر آخری  بدھ</item>
+</string-array>
+<string-array name="repeat_by_nth_thurs">
+<item>ہر پہلے جمعرات</item>
+<item>ہر دوسرے جمعرات</item>
+<item>ہر تیسرے جمعرات</item>
+<item>ہر چوتھے جمعرات</item>
+<item>ہر آخری جمعرات</item>
+</string-array>
+<string-array name="repeat_by_nth_fri">
+<item>ہر پہلے جمعے</item>
+<item>ہر دوسرے جمعے</item>
+<item>ہر تیسرے جمعے</item>
+<item>ہر چوتھے جمعے</item>
+<item>ہر آخری جمعے</item>
+</string-array>
+<string-array name="repeat_by_nth_sat">
+<item>ہر پہلے ہفتے</item>
+<item>ہر دوسرے ہفتے</item>
+<item>ہر تیسرے ہفتے</item>
+<item>ہر چوتھے ہفتے</item>
+<item>ہر آخری ہفتے</item>
+</string-array>
+</resources>

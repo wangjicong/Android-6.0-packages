@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"स्वाक्षरी"</string>
+<string name="pref_title_sms_retry_times">"SMS रिट्राय सक्षम करा"</string>
+<string name="preference_name">"सामान्य वाक्य"</string>
+<string name="select">"निवडले"</string>
+<string name="item_cancel">"रद्द करा"</string>
+<string name="item_delete">"डिलिट"</string>
+<string name="save_as_teltype">"फोनसाठी"</string>
+<string name="save_as_mmstype">"एसएमएससाठी"</string>
+<string name="type_to_pharser">"सामाईक वाक्यांश टाईप करा"</string>
+<string name="add">"जोडा"</string>
+<string name="edit">"एडिट"</string>
+<string name="delete">"डिलिट"</string>
+<string name="finish">"संपूर्ण करा"</string>
+<string name="cancel">"रद्द करा"</string>
+<string name="add_pharser">"सामाईक वाक्यांश जोडा"</string>
+<string name="edit_pharser">"सामान्य वाक्य एडिट करा"</string>
+<string name="pharser_can_modify">"वाक्यांश सानुकूल करा"</string>
+<string name="pharser_cannot_modify">"वाक्यांश निश्चित करा"</string>
+<string name="select_item">"आपण निवडले आहे"</string>
+<string name="select_commmon_phrase">"सामाईक वाक्यांश निवडा"</string>
+<string name="common_phrase_empty">"कोणतीही सामान्य वाक्ये नाहीत"</string>
+<string name="action_add_phrase">"सामाईक वाक्यांश इन्सर्ट करा"</string>
+<string name="pref_other_settings_title">"इतर"</string>
+<string-array name="fixed_mms_phrase">
+<item>"कृपया माझ्या ऑफीस फोनवर कॉल करा."</item>
+<item>"कृपया मला कॉन्टक्ट करा, धन्यवाद."</item>
+<item>"कृपया मला आपले लोकेशन सांगा."</item>
+<item>"कृपया माझ्या सेल फोनवर नंतर कॉल करा, धन्यवाद."</item>
+<item>"मी बाहेर होतो, घरी जातो आणि तुला कॉल करतो."</item>
+<item>"मी ड्रायव्हिंग करत आहे आणि नंतर उत्तर देईन."</item>
+<item>"मी रोडवर येतो, त्वरित पोहोचू शकतो."</item>
+<item>"ट्रॅफिक जॅम्स, नंतर साठी, क्षमा करा."</item>
+<item>"तुला नंतर कॉल करतो."</item>
+<item>"मी मिटिंगमध्ये आहे, नंतर उत्तर देतो."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"आता बोलू शकत नाही. काय चालले आहे?"</item>
+<item>"मी तुला लगेच परत फोन करतो."</item>
+<item>"मी तुला नंतर फोन करतो."</item>
+<item>"आता बोलू शकत नाही. नंतर फोन करशील का?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"कृपया मला नंतर कॉल करा किंवा एसएमएस पाठवा."</item>
+</string-array>
+</resources>

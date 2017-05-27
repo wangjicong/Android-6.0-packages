@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Configuració USB"</string>
+<string name="usb_charge_only">"Només càrrega"</string>
+<string name="usb_charge_only_summary">"Fes servir la opció de càrrega només quan es connecti USB"</string>
+<string name="usb_charge_only_storage_active_subtext">"No es pot carregar, quan només s\'utilitza la memòria USB"</string>
+<string name="usb_charge_only_notification">"Connectat només com a càrrega"</string>
+<string name="usb_storage">"Emmagatzematge USB"</string>
+<string name="usb_storage_summary">"Activa l\'emmagatzematge massiu USB"</string>
+<string name="ums_settings">"Configuració UMS"</string>
+<string name="ums_mounted_setting">"S\'està muntant UMS al PC, espereu…"</string>
+<string name="ums_unmounted_setting">"S\'està desmuntant UMS del PC, espereu…"</string>
+<string name="usb_virtual_drive">"Controlador virtual USB"</string>
+<string name="usb_virtual_drive_summary">"Activa el controlador virtual USB"</string>
+<string name="remember_choice">"Recorda la meva selecció"</string>
+<string name="remember_choice_summary">"Recorda la meva selecció i activa les funcions desades de manera automàtica la propera vegada"</string>
+<string name="stand_by_set_changed_prompt">"L\'estat d\'activació de la SIM canviarà, confirmeu si desitgeu continuar"</string>
+<string name="not_stand_by">"Prohibit"</string>
+<string name="primary_card_switching">"Configurant\uff0cespereu..."</string>
+<string name="toggle_data_change_message">"S\'ha activat la connexió de dades <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, tingueu en compte que el trànsit de dades té costos associats."</string>
+<string name="select_primary_card">"Seleccioneu la targeta principal"</string>
+<string name="whether_switch_primary_card">"Confirmeu si voleu fer que la memòria principal sigui aquesta targeta? \n(La memòria del telèfon mòbil també passarà a ser la targeta.)"</string>
+<string name="attention">"Atenció"</string>
+<string name="bt_softap_cannot_coexist">"Quan el punt WLAN està activat o s\'està encenent, Bluetooth no funciona. Si voleu fer servir Bluetooth assegureu-vos de que el punt WLAN estigui desactivat."</string>
+<string name="softap_bt_cannot_coexist">"Quan el Bluetooth està activat o s\'està encenent, el punt WLAN no funciona. Si voleu fer servir el punt WLAN assegureu-vos de que el Bluetooth estigui desactivat."</string>
+<string name="softap_need_mobile_data_enabled">"Per utilitzar un punt d\'accés Wifi cal una connexió de dades mòbils, pot suposar costos addicionals."</string>
+<string-array name="light_color_picker">
+<item>"Verd"</item>
+<item>"Blau"</item>
+<item>"Anyil"</item>
+<item>"Porpra"</item>
+<item>"Rosa"</item>
+<item>"Vermell"</item>
+<item>"Groc"</item>
+</string-array>
+</resources>

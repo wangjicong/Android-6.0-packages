@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="empty_message_top_margin">-15dp</dimen>
+</resources>

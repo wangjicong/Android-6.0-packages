@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Assinatura"</string>
+<string name="pref_title_sms_retry_times">Activar SMS Retentar</string>
+<string name="preference_name">"Frase comúm"</string>
+<string name="select">"Selecionado"</string>
+<string name="item_cancel">Cancelar</string>
+<string name="item_delete">Deletar</string>
+<string name="save_as_teltype">"Para Telefone"</string>
+<string name="save_as_mmstype">"Para SMS"</string>
+<string name="type_to_pharser">"Entrar expressão comum"</string>
+<string name="add">"Adicionar"</string>
+<string name="edit">Editar</string>
+<string name="delete">Deletar</string>
+<string name="finish">"Terminar"</string>
+<string name="cancel">Cancelar</string>
+<string name="add_pharser">"Adicionar expressão comum"</string>
+<string name="edit_pharser">"Editar frase comúm"</string>
+<string name="pharser_can_modify">"Expressão personalizada"</string>
+<string name="pharser_cannot_modify">"Fixar expressão"</string>
+<string name="select_item">"Você já escolheu"</string>
+<string name="select_commmon_phrase">Seleccionar fase comum</string>
+<string name="common_phrase_empty">Sem frase comúm"</string>
+<string name="action_add_phrase">"Inserir expressão comum"</string>
+<string name="pref_other_settings_title">"Outro"</string>
+<string-array name="fixed_mms_phrase">
+<item>Favor chame o telefone do meu escritório, obrigado.</item>
+<item>Favor me contacte, obrigado.</item>
+<item>Favor me diga a sua locação.</item>
+<item>Favor chame meu telemóvel mais tarde, obrigado.</item>
+<item>Estou fora, te chamdo quando volto para casa.</item>
+<item>"Estou a conduzir e vou responder mais tarde."</item>
+<item>"Estou no caminho, vou chegar lá imediatamente."</item>
+<item>Trâfico, vou chegar mais tarde, desculpe.</item>
+<item>Vou chamar-te mais tarde.</item>
+<item>Estou na reunião, vou te responder mais tarde.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Não posso falar agora. Que se passa?"</item>
+<item>"Telefono-lhe já a seguir."</item>
+<item>"Telefono-lhe mais tarde."</item>
+<item>"Pode telefonar-me mais tarde?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Favor me ligue ou envie sms mais tarde."</item>
+</string-array>
+</resources>

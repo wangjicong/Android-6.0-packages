@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <com.sprd.ext.unreadnotifier.call.DefaultPhonePreference
+            android:key="pref_missed_call_count"
+            android:summary="@string/pref_missed_call_count_summary"
+            android:title="@string/pref_missed_call_count_title"
+            />
+
+        <com.sprd.ext.unreadnotifier.sms.DefaultSmsPreference
+            android:key="pref_unread_sms_count"
+            android:summary="@string/pref_unread_sms_count_summary"
+            android:title="@string/pref_unread_sms_count_title"/>
+
+        <com.sprd.ext.unreadnotifier.email.EmailPreference
+            android:key="pref_unread_email_count"
+            android:summary="@string/pref_unread_email_count_summary"
+            android:title="@string/pref_unread_email_count_title" />
+
+        <com.sprd.ext.unreadnotifier.calendar.CalendarPreference
+            android:key="pref_unread_calendar_count"
+            android:summary="@string/pref_unread_calendar_count_summary"
+            android:title="@string/pref_unread_calendar_count_title" />
+</PreferenceScreen>

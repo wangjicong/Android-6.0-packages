@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Ustawienia USB"</string>
+<string name="usb_charge_only">"Tylko ładowanie"</string>
+<string name="usb_charge_only_summary">"Używaj trybu tylko ładowania gdy USB jest podłączone"</string>
+<string name="usb_charge_only_storage_active_subtext">"Nie można ładować gdy w użyciu tylko magazynowanie USB"</string>
+<string name="usb_charge_only_notification">"Podłączono tylko do ładowania"</string>
+<string name="usb_storage">"Nośnik USB"</string>
+<string name="usb_storage_summary">"Włącz pamięć masową USB"</string>
+<string name="ums_settings">"Ustawienia UMS"</string>
+<string name="ums_mounted_setting">"Trwa montowanie ums na komputerze, proszę czekać..."</string>
+<string name="ums_unmounted_setting">"Trwa odmontowanie ums z komputera, proszę czekać..."</string>
+<string name="usb_virtual_drive">"Wirtualny napęd USB"</string>
+<string name="usb_virtual_drive_summary">"Włącz wirtualny napęd USB"</string>
+<string name="remember_choice">"Zapamiętaj mój wybór"</string>
+<string name="remember_choice_summary">"Zapamiętaj mój wybór i następnym razem uruchom zapamiętaną funkcję automatycznie"</string>
+<string name="stand_by_set_changed_prompt">"Stan aktywacji SIM zostanie zmieniony, potwierdź, czy chcesz kontynuować?"</string>
+<string name="not_stand_by">"ZABRONIONE"</string>
+<string name="primary_card_switching">"Ustawianie\uff0czekkaj..."</string>
+<string name="toggle_data_change_message">"Połączenia danych przełączono na kartę SIM <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, uzyska to przepustowość danych i powiązane zmiany"</string>
+<string name="select_primary_card">"Wybierz kartę główną"</string>
+<string name="whether_switch_primary_card">"Potwierdź czy zmienić główną kartę na tę kartę?\n(Dane komórkowe zostaną przeniesione na tę kartę.)"</string>
+<string name="attention">"Uwaga"</string>
+<string name="bt_softap_cannot_coexist">"Kiedy aplikacja programowa jest uruchomiona lub włącza się, Bluetooth nie może zostać uruchomiony, jeśli chcesz skorzystać z Bluetooth, upewnij się, że aplikacja programowa jest wyłączona."</string>
+<string name="softap_bt_cannot_coexist">"Po włączeniu lub podczas włączania bluetooth,softtap nie działa, w celu jego użycia upewnij się, że bluteooth jest wyłączony."</string>
+<string name="softap_need_mobile_data_enabled">"Przenośny hotspot Wi-Fi potrzebuje danych mobilnych do połączenia, może produkować dodatkowe koszty"</string>
+<string-array name="light_color_picker">
+<item>"Zielony"</item>
+<item>"Niebieski"</item>
+<item>"Indygo"</item>
+<item>"Fioletowy"</item>
+<item>"Różowy"</item>
+<item>"Czerwony"</item>
+<item>"Żółty"</item>
+</string-array>
+<!-- smartwake settings up150115-->
+	<string name="smartwake_settings">Wybudzanie gestami</string>
+	<string name="gesture_smartwake">Włącznik wyburzania gestów</string>
+	<string name="smartwake_feature_selection">Wybór funkcji</string>
+	<string name="smartwake_change_music">Narysuj w lewo/prawo, aby włączyć muzykę</string>
+	<string name="smartwake_double_click">Podwójnie kliknij, aby wybudzić wyświetlacz</string>
+	<string name="smartwake_up">Narysuj do góry, aby uruchomić</string>
+	<string name="smartwake_down">Narysuj w dół, aby uruchomić</string>
+	<string name="smartwake_c">Narysuj "c", aby uruchomić</string>
+	<string name="smartwake_e">Narysuj "e", aby uruchomić</string>
+	<string name="smartwake_m">Narysuj "M", aby uruchomić</string>
+	<string name="smartwake_o">Narysuj "o", aby uruchomić</string>
+	<string name="smartwake_s">Narysuj "s", aby uruchomić</string>
+	<string name="smartwake_v">Narysuj "v", aby uruchomić</string>
+	<string name="smartwake_w">Narysuj "w", aby uruchomić</string>
+	<string name="smartwake_z">Narysuj "z", aby uruchomić</string>
+	<string name="gesture_smartwake_summaryOn">On</string>
+	<string name="gesture_smartwake_summaryOff">Off</string>
+	<string name="gesture_music">Muzyka</string>
+	<string name="gesture_camera">Aparat</string>
+	<string name="gesture_dial">Menu wyboru numeru</string>
+	<string name="gesture_video">Multimedia</string>
+	<string name="gesture_browser">Przeglądarka internetowa</string>
+	<string name="gesture_google_play">Play store</string>
+	<string name="gesture_message">Wiadomości</string>
+	<string name="gesture_calc">Kalkulator</string>
+	<string name="gesture_calendar">Kalendarz</string>
+	<string name="gesture_fileexplorer">Menadżer plików</string>
+	<string name="gesture_gallery">Galeria</string>
+	<string name="gesture_settings">Ustawienia</string>	
+	<string name="gesture_unlock">Oblokowanie</string>
+	<string name="gesture_email">Email</string>
+	<string name="gesture_bbm">BBM</string>
+    <!-- @} -->
+    
+   <string name="select_primary_slot_description">(Głowna karta wspiera tryb WCDMA/GSM, Druga karta wspiera tryb GSM.)</string>
+</resources>

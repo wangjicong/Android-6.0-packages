@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.messaging.smil.view.TextImage xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/selectableItemBackground" >
+
+    <LinearLayout
+        android:id="@+id/container_rectangle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:orientation="horizontal" >
+
+        <com.android.messaging.ui.AsyncImageView
+            android:id="@+id/media_img"
+            style="@style/ConversationListItemViewPaddingStyle"
+            android:layout_width="@dimen/conversation_list_image_preview_size"
+            android:layout_height="@dimen/conversation_list_image_preview_size"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/message_image_content_description"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher"
+            app:cornerRadius="@dimen/conversation_list_image_preview_corner_radius" />
+
+        <TextView
+            android:id="@+id/smil_textview"
+            android:layout_width="320dip"
+            android:layout_height="240dip"
+            android:layout_marginLeft="3dp"
+            android:background="@android:color/transparent"
+            android:textColor="@color/color_dark"
+            android:visibility="gone" />
+
+        <EditText
+            android:id="@+id/text_edit"
+            style="?android:attr/textViewStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="3dp"
+            android:layout_marginTop="9dp"
+            android:background="@null"
+            android:gravity="start"
+            android:hint="showsssjjjssjad"
+            android:maxLines="3"
+            android:textColor="@color/color_dark" />
+    </LinearLayout>
+
+</com.android.messaging.smil.view.TextImage>

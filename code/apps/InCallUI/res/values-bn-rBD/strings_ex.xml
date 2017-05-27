@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">মূল কার্ড</string>
+<string name="vice_card_slot">ভাইস কার্ড</string>
+<string name="record_time">"রেকর্ড সময়"</string>
+<string name="onscreenShowRecodText">রেকর্ড </string>
+<string name="recorderr">"রেকর্ডিং সংরক্ষণ করতে ব্যর্থ!"</string>
+<string name="audio_db_artist_name">আপনার রেকর্ডিং</string>
+<string name="audio_db_album_name">"কল রেকর্ডিং "</string>
+<string name="audio_db_playlist_name">আমার রেকর্ডিং</string>
+<string name="app_name">"ফোন অ্যাপ"</string>
+<string name="error_mediadb_new_record">রেকর্ড অডিও সংরক্ষণ করতে ব্যর্থ</string>
+<string name="sdcard_access_error">sdকার্ড ব্যবহার করা যাচ্ছেনা</string>
+<string name="no_sd_card">"কোন SD কার্ড অথবা আনমাউন্ট নেই"</string>
+<string name="insert_sd_card">"একটি SD কার্ড সন্নিবেশ করুন"</string>
+<string name="storage_is_full">স্টোরেজ পূর্ণ</string>
+<string name="recording">"রেকর্ডিং "</string>
+<string name="used_by_other_applications">"রেকর্ডিং সরঞ্জাম অন্য কর্মসূচিগুলির দ্বারা ব্যবহ্নত হয়েছে, অনুগ্রহ করে কর্মসূচি বন্ধ করুন"      </string>
+<string name="prompt_record_finish">রেকর্ডিং ফাইল সেভ্ হয়ে গেছে এতে</string>
+<string name="ok">ঠিক আছে</string>
+<string name="permission_no_record">"আপনার কল রেকর্ডিংয়ের জন্য অনুমতি নেই"</string>
+<string name="hangup_hold_and_answer">ধরে রাখা কল তুলুন এবং উত্তর দিন</string>
+<string name="hangup_active_and_answer">সক্রিয় কল তুলুন এবং উত্তর দিন</string>
+<string name="hangup_all_and_answer">সমস্ত কল তুলুন এবং উত্তর দিন</string>
+<string name="onActive">সক্রিয়</string>
+<string name="hold_current_call_and_answer">বর্তমান কলটি হোল্ড করুন এবং উত্তর করুন </string>
+<string name="hangup_current_call_and_answer">"বর্তমান কল বন্ধ করুন এবং উত্তর দিন"</string>
+</resources>

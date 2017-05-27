@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">"کیمرہ کی خرابی"</string>
+<string name="cannot_connect_camera">"کیمرہ سے موبوط نہیں ہو سکتا ہے۔"</string>
+<string name="camera_disabled">"سیکیورٹی کی پالیسیوں کی وجہ سے کیمرہ غیر فعال کر دیا گیا ہے۔"</string>
+<string name="camera_label">"کیمرا"</string>
+<string name="video_camera_label">"کیم کورڈر"</string>
+<string name="gallery_camera_bucket_name">کیمرہ تصاویر</string>
+<string name="gallery_camera_videos_bucket_name">کیمرہ ویڈیوز</string>
+<string name="wait">"براہ کرم انتظار کریں…"</string>
+<string name="no_storage" product="nosdcard">کیمرہ استعمال کرنے سے پہلے USB ذخیرہ مرتب کر لیں۔</string>
+<string name="no_storage" product="default">"‏کیمرہ استعمال کرنے سے پہلے ایک SD کارڈ داخل کریں۔"</string>
+<string name="not_enough_space" product="nosdcard">آپ کا USB ذخیرہ بھرا ہوا ہے۔</string>
+<string name="not_enough_space" product="default">آپ کا SD کارڈ بھرا ہوا ہے۔</string>
+<string name="preparing_sd" product="nosdcard">USB ذخیرہ کو تیار کیاجا رہاہےu2026\</string>
+<string name="preparing_sd" product="default">"USB ذخیرہ کوتیار کر رہا ہے \u2026"</string>
+<string name="access_sd_fail" product="nosdcard">USB ذخیرہ تک رسائی حاصل نہیں کی جا سکی.</string>
+<string name="access_sd_fail" product="default">"‏SD کارڈ تک رسائی حاصل نہیں کر سکا۔"</string>
+<string name="confirm_restore_title">"ڈیفالٹس کو بحال کریں"</string>
+<string name="confirm_restore_message">کیمرے پہلے سے طے شدہ ترتیبات کو بحال کردیں؟</string>
+<string name="review_play">"چلائیں"</string>
+<string name="review_cancel">"منسوخ کریں"</string>
+<string name="review_ok">"ہوگیا"</string>
+<string name="review_retake">"دوبارہ لیں"</string>
+<string name="camera_gallery_photos_text">"گیلری"</string>
+<string name="switch_camera_id">"کیمرہ سوئچ کریں"</string>
+<string name="time_lapse_title">"ٹائم لیپس کی ریکارڈنگ"</string>
+<string name="pref_camera_id_title">کیمرے کو منتخب کریں</string>
+<string name="pref_camera_id_entry_back">"واپس جائیں"</string>
+<string name="pref_camera_id_entry_front">"فرنٹ"</string>
+<string name="pref_camera_recordlocation_title">محل وقوع محفوظ کریں</string>
+<string name="pref_camera_recordlocation_entry_off">"غیر فعال"</string>
+<string name="pref_camera_recordlocation_entry_on">"آن"</string>
+<string name="pref_video_quality_title">"ویڈیو کا معیار"</string>
+<string name="pref_video_time_lapse_frame_interval_title">وقت گزرنےکا وقفہ</string>
+<string name="pref_camera_settings_category">"کیمرہ کی ترتیبات"</string>
+<string name="pref_camcorder_settings_category">"کیم کوڈر کی ترتیبات"</string>
+<string name="pref_camera_picturesize_title">"تصویر کا سائز"</string>
+<string name="pref_camera_picturesize_entry_2592x1936">5میگا پکسلز</string>
+<string name="pref_camera_picturesize_entry_2048x1536">3میگا پکسلز</string>
+<string name="pref_camera_picturesize_entry_1600x1200">2میگا پکسلز</string>
+<string name="pref_camera_picturesize_entry_1280x960">1.3میگا پکسلز</string>
+<string name="pref_camera_picturesize_entry_1024x768">1میگا پکسلز</string>
+<string name="pref_camera_focusmode_title">"فوکس کی وضع"</string>
+<string name="pref_camera_focusmode_entry_auto">"خودکار"</string>
+<string name="pref_camera_focusmode_entry_infinity">"انفینٹی"</string>
+<string name="pref_camera_focusmode_entry_macro">"میکرو"</string>
+<string name="pref_camera_flashmode_title">"فلیش وضع"</string>
+<string name="pref_camera_flashmode_entry_auto">"خودکار"</string>
+<string name="pref_camera_flashmode_entry_on">"آن"</string>
+<string name="pref_camera_flashmode_entry_off">"غیر فعال"</string>
+<string name="pref_camera_whitebalance_title">"وہائٹ بیلنس"</string>
+<string name="pref_camera_whitebalance_entry_auto">"خودکار"</string>
+<string name="pref_camera_whitebalance_entry_incandescent">"تیز چمک"</string>
+<string name="pref_camera_whitebalance_entry_daylight">"دن کی روشنی"</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">"فلوریسنٹ"</string>
+<string name="pref_camera_whitebalance_entry_cloudy">"ابر آلود"</string>
+<string name="pref_camera_scenemode_title">"منظر وضع"</string>
+<string name="pref_camera_scenemode_entry_auto">"خودکار"</string>
+<string name="pref_camera_scenemode_entry_action">"عمل"</string>
+<string name="pref_camera_scenemode_entry_night">"رات"</string>
+<string name="pref_camera_scenemode_entry_sunset">"غروب"</string>
+<string name="pref_camera_scenemode_entry_party">"پارٹی"</string>
+<string name="not_selectable_in_scene_mode">"منظر وضع میں قابل انتخاب نہیں ہے۔"</string>
+<string name="pref_restore_title">"کیمرہ کی ترتیبات"</string>
+<string name="pref_restore_detail">"ڈیفالٹس کو بحال کریں"</string>
+<string name="pref_exposure_title">"ایکسپوژر"</string>
+<string name="dialog_ok">"ٹھیک ہے"</string>
+<string name="spaceIsLow_content" product="nosdcard">آپ کا USB ذخیرہ جگہ کی کمی ہو رہی ہے۔ معیارترتیب کو تبدیل کریں یا کچھ شبیہات یا دیگر فائلیں حذف کریں۔</string>
+<string name="spaceIsLow_content" product="default">آپ کے SD کارڈ میں جگہ کی کمی ہورہی ہے۔ معیارترتیب تبدیل کریں یا کچھ تصاویر یا دیگر فائلیں حذف کریں۔</string>
+<string name="video_reach_size_limit">"سائز کی حد تک پہنچ گئی۔"</string>
+<string name="switch_to_camera_label">کیمرے پر جائیں</string>
+<string name="switch_to_video_label">"ویڈیو پر سوئچ کریں"</string>
+<string name="switch_to_panorama_label">"پینوراما پر سوئچ کریں"</string>
+<string name="share_picture_via">تصویرکو شیئرکریں بذریعہ</string>
+<string name="share_video_via">ویڈیو کا اشتراک کریں بزریعہ</string>
+<string name="no_picture_to_share">بانٹنے کے لئے کوئی تصویر نہیں.</string>
+<string name="no_video_to_share">بانٹنے کے لئے کوئی ویڈیو نہیں.</string>
+<string name="pano_too_fast_prompt">"بہت تیز"</string>
+<string name="pano_dialog_prepare_preview">"پینوراما تیار ہو رہا ہے"</string>
+<string name="pano_dialog_panorama_failed">"پینوراما محفوظ نہیں ہو سکا۔"</string>
+<string name="pano_dialog_title">"پینوراما"</string>
+<string name="pano_capture_indication">"پینوراما کیپچر ہو رہا ہے"</string>
+<string name="pano_review_saving_indication_str">"محفوظ ہو رہا ہے…"</string>
+<string name="tap_to_focus">"فوکس کرنے کیلئے ٹچ کریں۔"</string>
+<string name="pref_video_effect_title">"اثرات"</string>
+<string name="effect_none">"کوئی نہیں"</string>
+<string name="effect_goofy_face_squeeze">"دبائیں"</string>
+<string name="effect_goofy_face_big_eyes">"بڑی آنکھیں"</string>
+<string name="effect_goofy_face_big_mouth">"بڑا منھ"</string>
+<string name="effect_goofy_face_small_mouth">"چھوٹا منہ"</string>
+<string name="effect_goofy_face_big_nose">"بڑی ناک"</string>
+<string name="effect_goofy_face_small_eyes">"چھوٹی آنکھیں"</string>
+<string name="effect_backdropper_space">"جگہ میں"</string>
+<string name="effect_backdropper_sunset">"غروب"</string>
+<string name="effect_backdropper_gallery">اپنی مرضی کیمطابق انتخاب کریں</string>
+<string name="bg_replacement_message">اپنےآلےکواترا ہوامقرر کریںn\ایک لمحےکے لئےمنظرسے اوجھل کریں</string>
+<string name="not_selectable_in_effect">جب اثرچالوہو تو ناقابل انتخاب ہے.</string>
+<string name="video_snapshot_hint">ویڈیو ریکارڈنگ کے دوران پیش نظارہ سکرین کو چھونے سے ایک تصویر لے لو.</string>
+<string name="disable_video_snapshot_hint">جب خاص اثرات چالو ہیں تو فوری طورپر ویڈیو بنانا غیر فعال ہے.</string>
+<string name="clear_effects">"اثرات ہٹائیں"</string>
+<string name="effect_silly_faces">"نادان چہرے"</string>
+<string name="effect_background">"پس منظر"</string>
+<string name="accessibility_shutter_button">شٹرکا بٹن</string>
+<string name="accessibility_review_thumbnail">تازہ تریں حالیہ تصویر</string>
+<string name="accessibility_camera_picker">کیمرے کی سامنے اور پیچھے کی لحاظ سے تبدیلی</string>
+<string name="accessibility_mode_picker">کیمرے، ویڈیو، یا پورے منظر کاانتخاب کنندہ۔</string>
+<string name="accessibility_second_level_indicators">مزید ترتیبات کا کنٹرول</string>
+<string name="accessibility_back_to_first_level">ترتیبات  کنٹرول بند کریں</string>
+<string name="accessibility_zoom_control">زوم کنٹرول</string>
+<string name="accessibility_decrement">%1$s کم کریں</string>
+<string name="accessibility_increment">%1$s زیادہ کریں</string>
+<string name="accessibility_switch">%1$s سوئچ</string>
+</resources>

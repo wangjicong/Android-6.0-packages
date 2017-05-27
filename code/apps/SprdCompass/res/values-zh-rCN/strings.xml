@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="direction_north">北</string>
+    <string name="direction_south">南</string>
+    <string name="direction_east">东</string>
+    <string name="direction_west">西</string>
+
+</resources>

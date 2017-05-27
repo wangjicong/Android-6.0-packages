@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+	<carrier_config spn="Cherry Prepaid">
+        <boolean name="mvno" value="true"/>
+		<string name="spn">Cherry Prepaid</string>
+    </carrier_config>
+	<carrier_config spn="Cherry Mobile">
+        <boolean name="mvno" value="true"/>
+		<string name="spn">Cherry Prepaid</string>
+    </carrier_config>
+	<carrier_config spn="TM">
+        <boolean name="mvno" value="true"/>
+		<string name="spn">TM</string>
+    </carrier_config>
+	<carrier_config spn="ABS-CBN">
+        <boolean name="mvno" value="true"/>
+		<string name="spn">ABS-CBN</string>
+    </carrier_config>
+</carrier_config_list>

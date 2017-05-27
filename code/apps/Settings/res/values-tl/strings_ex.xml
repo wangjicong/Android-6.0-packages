@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Mga itinakda sa USB"</string>
+<string name="usb_charge_only">"Charge lamang"</string>
+<string name="usb_charge_only_summary">"Gumamit ng moda na charge lamang kung ang USB ay naka-konekta"</string>
+<string name="usb_charge_only_storage_active_subtext">"Hindi makapag-charge lamang kung ang USB na imbakan ay ginagamit"</string>
+<string name="usb_charge_only_notification">"Nakakonekta bilang pang-charge lamang"</string>
+<string name="usb_storage">"Imbakan na USB"</string>
+<string name="usb_storage_summary">"Paganahin ang USB mass storage"</string>
+<string name="ums_settings">"Mga seting ng UMS"</string>
+<string name="ums_mounted_setting">"Ikabit ang ums sa PC ngayon, mangyaring maghintay..."</string>
+<string name="ums_unmounted_setting">"Tanggalin ang ums mula sa PC ngayon, mangyaring maghintay..."</string>
+<string name="usb_virtual_drive">"USB birtuwal drayib"</string>
+<string name="usb_virtual_drive_summary">"Paganahin ang USB birtuwal drayib"</string>
+<string name="remember_choice">"Tandaan ang aking pinili"</string>
+<string name="remember_choice_summary">"Tandaan ang aking mga napili at simulan ang pagtatanda na tungkulin sa susunod na pagkakataon"</string>
+<string name="stand_by_set_changed_prompt">"Ang Sim na aktibasyon ay nagbago ng estado, mangyaring kumpirmahin kung magpapatuloy?"</string>
+<string name="not_stand_by">"PINAGBABAWAL"</string>
+<string name="primary_card_switching">"Mga Setting\uff0cmangyaring maghintay..."</string>
+<string name="toggle_data_change_message">"Ang koneksyon ng datus ay lumipat sa sim kard <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, ito\'y magkaroon ng datus sa buo at maugnayin na mga bayarin, pakiusap tandaan."</string>
+<string name="select_primary_card">"Pumili ng pangunahing kard"</string>
+<string name="whether_switch_primary_card">"Mangyaring kumpirmahin kung pagpalitin ang pangunahing kard sa kard na ito?\n(Ang Selyular na data ay ililipat din sa kard.)"</string>
+<string name="attention">"Atensiyon"</string>
+<string name="bt_softap_cannot_coexist">"Kapag ang softap ay gumagana o pinapagana, ang bluetooth ay hindi gumagana, kung gusto mong gumamit ng bluetooth, mangyaring siguraduhin na ang softap ay hindi gumagana."</string>
+<string name="softap_bt_cannot_coexist">"Kapag ang bluetooth ay napagana o pinapagana, ang soptap ay hindi gumana, kung gusto mong gamitin ang soptap, pakiusap siguraduhin na ang bluetooth ay nakasarado."</string>
+<string name="softap_need_mobile_data_enabled">"Kailangan ng nalilipat na hotspot ng Wi-Fi na kumonekta sa mobayl na datus, maaaring makagawa ito ng mga karagdagang gastos."</string>
+<string-array name="light_color_picker">
+<item>"Berde"</item>
+<item>"Asul"</item>
+<item>"Indigo"</item>
+<item>"Lila"</item>
+<item>"Pink"</item>
+<item>"Pula"</item>
+<item>"Dilaw"</item>
+</string-array>
+</resources>

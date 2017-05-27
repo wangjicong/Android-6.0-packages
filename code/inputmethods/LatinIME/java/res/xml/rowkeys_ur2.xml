@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin" >
+
+    <Key latin:keySpec="ٹ" />
+    <Key
+        latin:additionalMoreKeys="آ"
+        latin:keySpec="ا"
+        latin:moreKeys="أ" />
+    <Key latin:keySpec="س" />
+    <Key
+        latin:additionalMoreKeys="ڈ"
+        latin:keySpec="د"
+        latin:moreKeys="ذ" />
+    <Key latin:keySpec="ف" />
+    <Key latin:keySpec="گ" />
+    <Key latin:keySpec="ھ" />
+    <Key
+        latin:additionalMoreKeys="ح"
+        latin:keySpec="ج"
+        latin:moreKeys="خ" />
+    <Key latin:keySpec="ک" />
+    <Key latin:keySpec="ل" />
+
+</merge>

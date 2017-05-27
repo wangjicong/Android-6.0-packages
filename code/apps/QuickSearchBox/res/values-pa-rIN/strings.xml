@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ਖੋਜੋ"</string>
+<string name="remove_from_history_failed">ਆਈਟਮ ਨੂੰ ਇਤਿਹਾਸ ਵਿੱਚੋਂ ਨਹੀਂ ਮਿਟਾ ਸਕਿਆ।</string>
+<string name="corpus_selection_heading">"ਖੋਜੋ"</string>
+<string name="menu_settings">ਖੋਜ ਸੈਟਿੰਗਸ</string>
+<string name="system_search_category_title">"ਫੋਨ"</string>
+<string name="clear_shortcuts_summary">ਹਾਲ ਵਿੱਚ ਹੀ ਚੁਣੀਆਂ ਗਈਆਂ ਖੋਜ ਸਲਾਹਾਂ ਲਈ ਸ਼ੌਰਟਕਟ ਮਿਟਾਓ</string>
+<string name="menu_help">ਸਹਾਇਤਾ</string>
+<string name="google_search_hint">Google ਖੋਜ</string>
+<string name="google_search_description">Google ਖੋਜ ਸੁਝਾਅ</string>
+<string name="voice_search_hint_title">ਦਰਸਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ:</string>
+</resources>

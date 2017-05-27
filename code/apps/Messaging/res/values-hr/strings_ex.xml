@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Potpis"</string>
+<string name="pref_title_sms_retry_times">"Pokreni ponovno slanje SMS-a"</string>
+<string name="preference_name">"Uobičajena rečenica"</string>
+<string name="select">"Odabrano"</string>
+<string name="item_cancel">"Odustani"</string>
+<string name="item_delete">"Izbriši"</string>
+<string name="save_as_teltype">"Za telefon"</string>
+<string name="save_as_mmstype">"Za Sms"</string>
+<string name="type_to_pharser">"Ukucajte uobičajenu frazu"</string>
+<string name="add">"Dodavanje"</string>
+<string name="edit">"Uređivanje"</string>
+<string name="delete">"Izbriši"</string>
+<string name="finish">"Završi"</string>
+<string name="cancel">"Odustani"</string>
+<string name="add_pharser">"Dodajte uobičajenu frazu"</string>
+<string name="edit_pharser">"Izmjeni uobičajenu rečenicu"</string>
+<string name="pharser_can_modify">"Podešena fraza"</string>
+<string name="pharser_cannot_modify">"Popravite frazu"</string>
+<string name="select_item">"Odabrali ste"</string>
+<string name="select_commmon_phrase">"Odaberite uobičajenu frazu"</string>
+<string name="common_phrase_empty">"Nema uobičajenih rečenica"</string>
+<string name="action_add_phrase">"Unesite uobičajenu frazu"</string>
+<string name="pref_other_settings_title">"Drugo"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Molim pozovite moj uredski broj, hvala."</item>
+<item>"Molim kontaktirajte me, hvala"</item>
+<item>"Molim recite mi gdje ste."</item>
+<item>"Molim pozovite kasnije moj broj mobitela, hvala."</item>
+<item>"Izašao sam, pozvat ću vas kad se vratim kući."</item>
+<item>"Vozim i javit ću vam se kasnije."</item>
+<item>"Bit ću dostupan čim budem na cesti."</item>
+<item>"Oprostite, zastoj je u saobraćaju, javit ću vam se kasnije."</item>
+<item>"Pozvat ću vas kasnije."</item>
+<item>"Na sastanku sam, javit ću vam se kasnije."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Sada ne mogu razgovarati. Što ima?"</item>
+<item>"Nazvat ću vas odmah."</item>
+<item>"Zvat ću vas kasnije."</item>
+<item>"Sada ne mogu razgovarati. Nazovite me kasnije."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Molim pozovi me ili mi kasnije pošalji SMS"</item>
+</string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Configuracion de USB"</string>
+<string name="usb_charge_only">"Sólo cargar"</string>
+<string name="usb_charge_only_summary">"Usar sólo modo de carga cuando se conecta USB"</string>
+<string name="usb_charge_only_storage_active_subtext">"No se puede cargar sólo cuando el almacenamiento USB está en uso"</string>
+<string name="usb_charge_only_notification">"Conectado sólo como carga"</string>
+<string name="usb_storage">"Almacenamiento USB"</string>
+<string name="usb_storage_summary">"Habilitar almacenamiento masivo USB"</string>
+<string name="ums_settings">"Configuraciones UMS"</string>
+<string name="ums_mounted_setting">"Montaje de ums a PC, por favor espere..."</string>
+<string name="ums_unmounted_setting">"Desmontaje de ums desde la PC, por favor espere..."</string>
+<string name="usb_virtual_drive">"Unidad virtual USB"</string>
+<string name="usb_virtual_drive_summary">"Habilitar unidad virtual USB"</string>
+<string name="remember_choice">"Recordar opción seleccionada"</string>
+<string name="remember_choice_summary">"Recordar mi opcion y empezar la funcion recordada automaticamente la siguiente vez"</string>
+<string name="stand_by_set_changed_prompt">"El estado de activación de Sim sera cambiado, por favor confirmar si se continua o no?"</string>
+<string name="not_stand_by">PROHIBIDO</string>
+<string name="primary_card_switching">"Configurando\uff0cpor favor esperar..."</string>
+<string name="toggle_data_change_message">"Conexión de datos ha cambiado a la tarjeta SIM <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, se producirá el rendimiento de datos y los gastos correlativos, por favor, tenga en cuenta."</string>
+<string name="select_primary_card">"seleccionar tarjeta primaria"</string>
+<string name="whether_switch_primary_card">"Por favor confirmar si ¿cambiar la tarjeta principal a esta tarjeta?\n(Los datos del móvil también se transferirán al coche.)"</string>
+<string name="attention">Atención</string>
+<string name="bt_softap_cannot_coexist">"Cuando el punto de acceso portable de WLAN este activado o encendido, el bluetooth no funcionará, si desea usar el bluetooth, asegúrese de que el punto de acceso portable de WLAN esta desactivado."</string>
+<string name="softap_bt_cannot_coexist">"Cuando Bluetooth está activado o se enciende, el SoftAP no puede trabajar, si desea utilizar el SoftAP, por favor asegúrese de que el bluetooth está desactivado."</string>
+<string name="softap_need_mobile_data_enabled">"El punto de conexión WI-FI portatil necesita conexión de datos, incurriria en costos adicionales"</string>
+<string-array name="light_color_picker">
+<item>"Verde"</item>
+<item>"Azul"</item>
+<item>"Índigo"</item>
+<item>"Violeta"</item>
+<item>"Rosa"</item>
+<item>"Roja"</item>
+<item>"Amarillo"</item>
+</string-array>
+</resources>

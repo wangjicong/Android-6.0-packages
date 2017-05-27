@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<favorites xmlns:launcher="http://schemas.android.com/apk/res-auto/com.android.launcher3" >
+
+    <!-- Screen [1] -->
+    <folder
+        launcher:enable="1"
+        launcher:screen="1"
+        launcher:title="@string/volte_folder_title" >
+        <favorite
+            launcher:packageName="com.jiochat.jiochatapp"
+            launcher:screen="1"
+            launcher:x="0"
+            launcher:y="0" />
+        <favorite
+            launcher:packageName="com.inn.nvconsumer"
+            launcher:screen="1"
+            launcher:x="0"
+            launcher:y="1" />
+        <favorite
+            launcher:packageName="com.newbay.syncdrive.android.reliance"
+            launcher:screen="1"
+            launcher:x="0"
+            launcher:y="2" />
+        <favorite
+            launcher:packageName="com.jio.mhood.services"
+            launcher:screen="1"
+            launcher:x="1"
+            launcher:y="0" />
+        <favorite
+            launcher:packageName="com.jio.media.mags"
+            launcher:screen="1"
+            launcher:x="1"
+            launcher:y="1" />
+        <favorite
+            launcher:packageName="com.jio.media.xpress.news"
+            launcher:screen="1"
+            launcher:x="1"
+            launcher:y="2" />
+        <favorite
+            launcher:packageName="com.jio.media.beats"
+            launcher:screen="1"
+            launcher:x="2"
+            launcher:y="0" />
+        <favorite
+            launcher:packageName="com.jio.media.jod"
+            launcher:screen="1"
+            launcher:x="2"
+            launcher:y="1" />
+        <favorite
+            launcher:packageName="com.adups.fota"
+            launcher:screen="1"
+            launcher:x="2"
+            launcher:y="2" />
+    </folder>
+
+</favorites>

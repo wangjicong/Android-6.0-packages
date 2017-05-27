@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="uid_label">Media</string>
+<string name="app_label">Almacenamento medio</string>
+<string name="artist_label">Artista</string>
+<string name="ringtone_default">Ton por defecto</string>
+<string name="notification_sound_default">Son da notificación por defecto</string>
+<string name="alarm_sound_default">Son de alarma por defecto</string>
+<string name="root_images">Imaxes</string>
+<string name="root_videos">Vídeos</string>
+<string name="root_audio">Audio</string>
+<string name="android_custom_label">"Tons de chamada personalizados"</string>
+<string name="ringtone_dialog_message">Non hai ton que poda usarse.</string>
+<string name="ringtone_default_message">"Sentímolo, o ton non se reproduciu"</string>
+</resources>

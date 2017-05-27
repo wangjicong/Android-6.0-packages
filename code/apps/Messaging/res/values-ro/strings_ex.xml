@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Semnătură"</string>
+<string name="pref_title_sms_retry_times">Activati incercare retransmitere SMS</string>
+<string name="preference_name">Expresie obişnuită</string>
+<string name="select">"Selectat"</string>
+<string name="item_cancel">Anulare</string>
+<string name="item_delete">Ştergere</string>
+<string name="save_as_teltype">"Pentru telefon"</string>
+<string name="save_as_mmstype">"Pentru Sms"</string>
+<string name="type_to_pharser">"Tastați fraza comună"</string>
+<string name="add">"Adăugaţi"</string>
+<string name="edit">Editează</string>
+<string name="delete">Ştergere</string>
+<string name="finish">"Finalizați"</string>
+<string name="cancel">Anulare</string>
+<string name="add_pharser">"Adăugați fraza comună"</string>
+<string name="edit_pharser">Editează expresia obişnuită</string>
+<string name="pharser_can_modify">"Frază personalizată"</string>
+<string name="pharser_cannot_modify">"Fraza nu se poate modifica"</string>
+<string name="select_item">"Ați selectat"</string>
+<string name="select_commmon_phrase">Selectati propozitia comuna</string>
+<string name="common_phrase_empty">"Fără expresii obişnuite"</string>
+<string name="action_add_phrase">"Introduceți fraza comună"</string>
+<string name="pref_other_settings_title">"Altele"</string>
+<string-array name="fixed_mms_phrase">
+<item>Va rugam apelati telefonul de serviciu, va multumim.</item>
+<item>Va rog sa ma contactati, multumesc.</item>
+<item>Va rugam comunicati locatia dvs</item>
+<item>Va rugam sa apelati telefonul mobil mai tarziu, multumim</item>
+<item>Am fost indisponibil, cand ajung acasa va apelez.</item>
+<item>"Conduc, voi răspunde mai târziu."</item>
+<item>"Sunt pe drum, vă contactez imediat."</item>
+<item>Blocaje in trafic, ne auzim mai tarziu, imi pare rau.</item>
+<item>Te sun mai tarziu.</item>
+<item>Sunt intr-o sedinta, voi reveni cu un telefon mai tarziu</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Nu pot acum. Despre ce e vorba?"</item>
+<item>"Te sun imediat înapoi."</item>
+<item>"Te sun mai târziu."</item>
+<item>"Nu pot acum. Vorbim mai târziu?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Sunați-mă sau trimiteți-mi sms mai târziu."</item>
+</string-array>
+</resources>

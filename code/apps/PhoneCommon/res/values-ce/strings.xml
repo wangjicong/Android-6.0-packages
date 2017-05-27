@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_dialpad_overflow">Daghang mga opsyon</string>
+<string name="description_delete_button">"ibalik"</string>
+<string name="description_image_button_plus">"dugang"</string>
+<string name="description_voicemail_button">Voicemail</string>
+<string name="default_notification_description">"Anaa na daan nga tingog (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="callFailed_userBusy">Abala pa ang linya</string>
+<string name="callFailed_congestion">Abala ang network</string>
+<string name="callFailed_timedOut">Walay tubag, natime out</string>
+<string name="callFailed_server_unreachable">Server dili maabot</string>
+<string name="callFailed_number_unreachable">Numero dili maabot</string>
+<string name="callFailed_invalid_credentials">Dili mao nga username o password</string>
+<string name="callFailed_out_of_network">"Tawag nga gawas sa network"</string>
+<string name="callFailed_server_error">Mali sa Server. Suwayi balik.</string>
+<string name="callFailed_noSignal">Walay signal</string>
+<string name="callFailed_limitExceeded">ACM napalas sa limitasyon</string>
+<string name="callFailed_powerOff">"Pawng ang radyo"</string>
+<string name="callFailed_simError">Walay SIM, o Mali sa SIM</string>
+<string name="callFailed_outOfService">"Walay network sa selyular nga makuha"</string>
+<string name="callFailed_fdn_only">Mga outgoing nga tawag kay gipahugot sa FDN.</string>
+<string name="callFailed_cb_enabled">"Dili makahimo og mga tawag sa gawas samtang ang bar sa tawag naggana."</string>
+<string name="callFailed_dsac_restricted">"Mga tawag gidili sa akses kontrol."</string>
+<string name="callFailed_dsac_restricted_emergency">"Mga emerhensya nga tawag gidili sa akses kontrol."</string>
+<string name="callFailed_dsac_restricted_normal">"Mga normal nga tawag gidili sa akses kontrol."</string>
+<string name="callFailed_unobtainable_number">Dili pwede nga numero</string>
+<string name="incall_error_missing_voicemail_number">"Tingog nga suwat nga numero kay wala ilhi."</string>
+<string name="ringtone_silent">"Wala"</string>
+<string name="ringtone_unknown">"Wala mailhan nga ringtone"</string>
+</resources>

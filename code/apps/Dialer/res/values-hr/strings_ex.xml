@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Podešavanje IP biranja"</string>
+    <string name="ip_dial_menu">"IP BIRANJE"</string>
+    <string name="ip_dialing_title">"IP biranje"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Podešavanje brzog biranja"</string>
+    <string name="no_fast_dial_number">"Broj za brzo biranje nije podešen."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"odlazno"</string>
+     <string name="call_log_incoming_title">"dolazno"</string>
+     <string name="recentOutgoing_empty">"Nemate odlaznih poziva."</string>
+     <string name="recentIncoming_empty">"Nemate dolaznih poziva."</string>
+     <string name="view_setting">"Prikaži"</string>
+     <string name="item_all_calls">"Zapisi svih poziva"</string>
+     <string name="item_sim_calls">"Zapisi poziva SIM%d"</string>
+     <string name="unselect_all">"Poništi odabir svega"</string>
+     <string name="select_all_sprd">"Odaberi sve"</string>
+     <string name="doneButton">"Gotovo"</string>
+     <string name="cancel">"Odustani"</string>
+     <string name="delete_selected_calls">"Jeste li sigurni da želite obrisati odabrane zapise?"</string>
+     <string name="clearCallLogProgress_title">"Brisanje dnevnika poziva..."</string>
+     <string name="delete_success">"Uspješno izbrisano"</string>
+     <string name="clear_all_call_log">"Izbrišite sve zapise poziva"</string>
+     <string name="clear_selected_call_log">"Izbrisati odabrane zapise poziva"</string>
+     <string name="select_all">"Odaberi sve"</string>
+     <string name="unselect_all">"Poništi sve"</string>
+     <string name="delete_all_calls_confirm">"Želite li izbrisati sve vaše zapise?"</string>
+     <string name="do_not_select">"Niste odabrali zapis koji treba izbrisati"</string>
+     <string name="delete_calls">"Izbriši"</string>
+     <string name="number_anr_isnull">"Broj kontakta je prazan"</string>
+     <string name="call_recording_setting_title">"Snimanje poziva"</string>
+     <string name="automatic_recording_title">"Automatsko snimanje"</string>
+     <string name="dialog_phone_permission_deny">"Kako biste koristili IP biranje,\n uključite dozvolu telefona."</string>
+     <string name="search_description">"Pretraži zapisnik poziva"</string>
+     <string name="call_log_add_to_blacklist">"DODAJTE U CRNI POPIS"</string>
+     <string name="make_video_call_menu">"Uputite videopoziv"</string>
+
+</resources>

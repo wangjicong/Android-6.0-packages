@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Paramètres de USB"</string>
+<string name="usb_charge_only">"Charger uniquement"</string>
+<string name="usb_charge_only_summary">Utiliser le mode charge uniquement lorsque USB est connecté</string>
+<string name="usb_charge_only_storage_active_subtext">Ne peut pas charger uniquement lorsque le stockage USB en cours d\'utilisation</string>
+<string name="usb_charge_only_notification">"Connecté en tant que chargeur seulement"</string>
+<string name="usb_storage">"Mémoire USB"</string>
+<string name="usb_storage_summary">"Activer la mémoire de stockage de masse USB"</string>
+<string name="ums_settings"> Paramètres UMS</string>
+<string name="ums_mounted_setting">"Montez ums au PC maintenant, patientez SVP..."</string>
+<string name="ums_unmounted_setting">"Démontez ums au PC maintenant, patientez SVP..."</string>
+<string name="usb_virtual_drive">Lecteur virtuel USB</string>
+<string name="usb_virtual_drive_summary">Activer lecteur virtuel USB</string>
+<string name="remember_choice">"Mémoriser mon choix"</string>
+<string name="remember_choice_summary">"Mémoriser mon choix et lancer la fonction rappeler automatiquement la prochaine fois"</string>
+<string name="stand_by_set_changed_prompt">"L\'état d\'activation Sim sera modifié, veuillez SVP confirmer si vous voulez continuer?"</string>
+<string name="not_stand_by">"INTERDIT"</string>
+<string name="primary_card_switching">"Paramètre\uff0c patientez s\'il vous plaît…"</string>
+<string name="toggle_data_change_message">"La connexion des données a été changé dans la carte sim <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, cela produirait  une consommation de donnée et des charges correlatifs ,veuillez noter."</string>
+<string name="select_primary_card">"Sélectionnez la carte principale"</string>
+<string name="whether_switch_primary_card">"S\'il vous plaît confirmer si vous voulez faire de cette carte la carte principale?\n (Données cellulaires seront également déplacé à la carte.)"</string>
+<string name="attention">"Attention"</string>
+<string name="bt_softap_cannot_coexist">"Lorsque softap est activé ou allumé, le Bluetooth ne fonctionne pas. Si vous souhaitez utiliser le Bluetooth, vérifiez que le softap est désactivé."</string>
+<string name="softap_bt_cannot_coexist">Lorsque Bluetooth est activé ou allumé, le Softap ne peut pas travailler, si vous souhaitez utiliser le Softap, veuillez vous assurer que le Bluetooth est désactivé.</string>
+<string name="softap_need_mobile_data_enabled">"Le hotspot Wi-Fi portable nécessite une connexion de données pouvant générer des coûts additionnels."</string>
+<string-array name="light_color_picker">
+<item>"Vert"</item>
+<item>"Bleu"</item>
+<item>"Indigo"</item>
+<item>"Violet"</item>
+<item>"Rose"</item>
+<item>"Rouge"</item>
+<item>"Jaune"</item>
+</string-array>
+</resources>

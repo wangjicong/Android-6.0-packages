@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="app_name">Aging test</string>
+	<string name="attentions">Note:\n 1, can not be tested simultaneously with a microphone and earpiece speaker.\n 2, camera, Bluetooth, wifi only be tested separately.</string>
+	<string name="lcd_name">Lcd</string>
+	<string name="speaker_name">Speaker</string>
+	<string name="vibrator_name">Vibrator</string>
+	<string name="mic_name">Microphone</string>
+	<string name="earpiece_name">Earpiece</string>
+	<string name="flashlight_name">Flashlight</string>
+	<string name="camera_name">Camera</string>
+	<string name="wifi_name">WiFi</string>
+	<string name="bluetooth_name">Bluetooth</string>
+	<string name="start_test">Start</string>
+	<string name="flash_open_fail">Flashlight opened fail.</string>
+	<string name="test_interval">Every time waiting for <xliff:g id="testId">%1$s</xliff:g> on / off time: 20s</string>
+	<string name="WiFi_success">The success of the test</string>
+	<string name="WiFi_failed">Test failed</string>
+	<string name="WiFi_scaning">Looking for ...</string>
+	<string name="WiFi_info_closeing">WiFi is shutting down....</string>
+	<string name="WiFi_info_close">WiFi has been shut down</string>
+	<string name="WiFi_info_opening">WiFi is opening</string>
+	<string name="WiFi_info_open">WiFi is already open</string>
+	<string name="WiFi_info_unknown">Unknown state</string>
+	<string name="WiFi_connecting">Connecting...</string>
+	<string name="WiFi_notfound_openap">Open the connection point not found</string>
+	<string name="Bluetooth_open">Bluetooth has been opened</string>
+	<string name="Bluetooth_close">Bluetooth has been closed</string>
+	<string name="Bluetooth_opening">Bluetooth is open...</string>
+	<string name="Bluetooth_scaning">Looking for...</string>
+	<string name="Bluetooth_mac">MAC address:</string>
+	<string name="Bluetooth_scan_success">Find the finish</string>
+	<string name="error_permissions">The app does not have critical permissions needed to run. Please check your permissions settings.</string>
+</resources>

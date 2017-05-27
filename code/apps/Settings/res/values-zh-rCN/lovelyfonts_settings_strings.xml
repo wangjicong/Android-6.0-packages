@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="font_setting_title">字体风格</string>
+	 <string name="default_font">系统出厂字体</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP Numara Ayarları"</string>
+    <string name="ip_dial_menu">IP Arama</string>
+    <string name="ip_dialing_title">IP Arama</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Hızlı Arama Ayarları "</string>
+    <string name="no_fast_dial_number">"Hızlı arama numarası ayarlanmadı ."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">Giden</string>
+     <string name="call_log_incoming_title">"Gelen"</string>
+     <string name="recentOutgoing_empty">"Giden aramanız yok."</string>
+     <string name="recentIncoming_empty">"Gelen aramanız yok."</string>
+     <string name="view_setting">"Görüntüleme"</string>
+     <string name="item_all_calls">"Tüm çağrı kayıtları"</string>
+     <string name="item_sim_calls">"SIM%d çağrı kayıtları"</string>
+     <string name="unselect_all">Tümünün Seçimini Kaldır</string>
+     <string name="select_all_sprd">Tümünü Seç</string>
+     <string name="doneButton">Bitti</string>
+     <string name="cancel">İptal</string>
+     <string name="delete_selected_calls">"Seçilen kayıtları silmek istediğinizden emin misiniz?"</string>
+     <string name="clearCallLogProgress_title">"Arama kaydı temizleniyor\u2026"</string>
+     <string name="delete_success">"Başarılı bir şekilde silindi"</string>
+     <string name="clear_all_call_log">"Tüm çağrı kayıtlarını sil"</string>
+     <string name="clear_selected_call_log">"Seçilen çağrı kaydını sil"</string>
+     <string name="select_all">Tümünü Seç</string>
+     <string name="unselect_all">"Tüm Seçimi kaldır"</string>
+     <string name="delete_all_calls_confirm">"Tüm kayıtlarınızın silinmesini istiyor musunuz?"</string>
+     <string name="do_not_select">"Silmek için kaydı seçmediniz"</string>
+     <string name="delete_calls">Sil</string>
+     <string name="number_anr_isnull">"İrtibat numarası boş"</string>
+     <string name="call_recording_setting_title">"Arama kaydı"</string>
+     <string name="automatic_recording_title">"Otomatik kayıt"</string>
+     <string name="dialog_phone_permission_deny">"IP aramasını kullanmak için,\n Telefon iznini açın."</string>
+     <string name="search_description">arama kaydı ara</string>
+     <string name="call_log_add_to_blacklist">"Kara listeye ekle"</string>
+     <string name="make_video_call_menu">"Video görüşmesi yap"</string>
+
+</resources>

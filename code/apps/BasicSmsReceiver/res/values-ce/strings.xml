@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sms_app_name">"Tigdawat sa yano nga mensahe"</string>
+<string name="sms_message_from_format">"Mensahe gikan <xliff:g id="userName">%1$s</xliff:g>"</string>
+<string name="sms_done_button">"Human"</string>
+</resources>

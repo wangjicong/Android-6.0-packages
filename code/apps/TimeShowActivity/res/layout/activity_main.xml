@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+	android:background="#000000" android:paddingLeft="0dip"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.example.timeshowactivity.AnalogClock
+            android:id="@+id/analog_clock"
+            android:layout_width="250dip"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/circle_margin_top"
+            android:layout_marginLeft="@dimen/analog_clock_margin"
+            android:layout_marginRight="@dimen/analog_clock_margin"
+            android:layout_gravity="center_horizontal"
+            android:dial="@drawable/clock_analog_dial"
+            android:hand_hour="@drawable/clock_analog_hour"
+            android:hand_minute="@drawable/clock_analog_minute"
+            android:layout_marginBottom="@dimen/time_margin_bottom"/>
+        <TextView android:id="@+id/analog_clock_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#89929f"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/date_margin_top"
+            />
+        <include layout="@layout/activity_digital_clock"
+            android:id="@+id/digital_clock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/time_margin_top"
+            android:layout_marginBottom="@dimen/digital_margin_bottom"
+            />
+    </FrameLayout>
+</LinearLayout>

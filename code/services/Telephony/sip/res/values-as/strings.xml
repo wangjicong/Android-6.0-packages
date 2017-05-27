@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sip_settings">"SIP ছেটিংছ"</string>
+<string name="sip_accounts">"SIP একাউণ্ট"</string>
+<string name="sip_accounts_title">"হিচাপ-বিৱৰণ"</string>
+<string name="sip_receive_calls">"ইনকামিং কল গ্ৰহণ"</string>
+<string name="sip_receive_calls_summary">"বেটাৰীৰ জীৱনকাল অধিক ব্যৱহাৰ হয়"</string>
+<string name="sip_call_options_title">"SIP কলিং ব্যৱহাৰ কৰক"</string>
+<string name="sip_call_options_wifi_only_title">"SIP কলিং ব্যৱহাৰ কৰক (কেৱল Wi-Fi) "</string>
+<string name="sip_call_options_entry_1">"ডাটা নেটৱৰ্ক উপলব্ধ থকা সময়ছোৱাত আটাইবোৰ কলৰ "বাবে</string>
+<string name="sip_call_options_entry_2">"কেৱল SIP কলৰ বাবে"</string>
+<string name="sip_call_options_wifi_only_entry_1">"আটাইবোৰ কলৰ বাবে"</string>
+<string name="add_sip_account">"একাউণ্ট যোগ কৰক"</string>
+<string name="remove_sip_account">"একাওণ্ট মোহাৰি পেলাওক।"</string>
+<string name="sip_account_list">"SIP একাউণ্ট"</string>
+<string name="saving_account">"একাউণ্টটো সংৰক্ষণ হৈ আছে\u2026"</string>
+<string name="removing_account">"একাউণ্টটো মচি থকা হৈছে\u2026"</string>
+<string name="sip_menu_save">"সংৰক্ষণ কৰা "</string>
+<string name="sip_menu_discard">"অগ্ৰাহ্য"</string>
+<string name="alert_dialog_close">"প্ৰ’ফাইলটো বন্ধ কৰক"</string>
+<string name="alert_dialog_ok">"ঠিক আছে"</string>
+<string name="close_profile">"বন্ধ"</string>
+<string name="registration_status_checking_status">"স্থিতি পৰীক্ষা কৰি থকা হৈছে৷"</string>
+<string name="registration_status_registering">"পঞ্জীয়ণ হৈ আছে\u2026"</string>
+<string name="registration_status_still_trying">"এতিয়াও চেষ্টা কৰি থকা হৈছে\u2026"</string>
+<string name="registration_status_not_receiving">"কল গ্ৰহণ কৰা নাই"</string>
+<string name="registration_status_no_data">"কোনো ইণ্টাৰনেট সংযোগ নথকা বাবে একাউণ্টৰ পঞ্জীয়ন বন্ধ হৈছে৷"</string>
+<string name="registration_status_no_wifi_data">"কোনো Wi-Fi সংযোগ নথকা বাবে একাউণ্টৰ পঞ্জীয়ন বন্ধ হৈছে৷"</string>
+<string name="registration_status_not_running">"একাউণ্টৰ পঞ্জীয়ন অসফল"</string>
+<string name="registration_status_done">"কল গ্ৰহণ হৈ আছে"</string>
+<string name="registration_status_failed_try_later">"একাউণ্টৰ পঞ্জীয়ন অসফল: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); পিছত চেষ্টা কৰিব৷"</string>
+<string name="registration_status_invalid_credentials">"একাউণ্টৰ পঞ্জীয়ন অসফল: ব্যৱহাৰকাৰীৰ নাম বা পাছৱৰ্ড ভুল৷"</string>
+<string name="registration_status_server_unreachable">"একাউণ্টৰ পঞ্জীয়ন অসফল: চাৰ্ভাৰৰ নাম পৰীক্ষা কৰক"</string>
+<string name="third_party_account_summary">"এই একাউণ্টটো সম্প্ৰতি <xliff:g id="account_owner" example="Google Talk">%s</xliff:g> app ৰ দ্বাৰা ব্যৱহৃত হৈ আছে৷"</string>
+<string name="sip_edit_title">"SIP একাউণ্টৰ সবিশেষ"</string>
+<string name="sip_edit_new_title">"SIP একাউণ্টৰ সবিশেষ"</string>
+<string name="domain_address_title">"চাৰ্ভাৰ"</string>
+<string name="username_title">"ব্যৱহাৰকাৰীৰ নাম"</string>
+<string name="password_title">"পাছৱৰ্ড"</string>
+<string name="display_name_title">"ডিছপ্লেৰ নাম"</string>
+<string name="proxy_address_title">"আউটবাউণ্ড প্ৰক্সি ঠিকনা"</string>
+<string name="port_title">"প’ৰ্ট নম্বৰ"</string>
+<string name="transport_title">"ট্ৰান্সপ’ৰ্টৰ ধৰণ"</string>
+<string name="send_keepalive_title">"কীপ-এলাইভ পঠিয়াওঁক"</string>
+<string name="advanced_settings">"অপশ্যনেল ছেটিংছ"</string>
+<string name="auth_username_title">"ব্যৱহাৰকাৰীৰ নামৰ প্ৰামাণিকীকৰণ"</string>
+<string name="auth_username_summary">"প্ৰামাণিকীকৰণৰ বাবে ব্যৱহাৰকাৰীৰ নামৰ ব্যৱহাৰ"</string>
+<string name="default_preference_summary">"&lt;সেট হোৱা নাই &gt;"</string>
+<string name="display_name_summary">"&lt;ব্যৱহাৰকাৰীৰ নামৰ সৈতে একে&gt;"</string>
+<string name="optional_summary">"&lt;অপশ্যনেল&gt;"</string>
+<string name="advanced_settings_show">"▷ আটাইবোৰ প্ৰদৰ্শন কৰিবলৈ স্পৰ্শ কৰক"</string>
+<string name="advanced_settings_hide">"▽ আটাইবোৰ উহ্য ৰাখিবলৈ স্পৰ্শ কৰক"</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> প্ৰয়োজনীয় আৰু ইয়াক খালী কৰি ৰাখিব নোৱাৰিব৷"</string>
+<string name="not_a_valid_port">"প’ৰ্ট নম্বৰ 1000 আৰু 65534 ৰ ভিতৰত হ’ব লাগে৷"</string>
+<string name="no_internet_available">"SIP কল কৰিবলৈ, আপোনাৰ ইন্টাৰনেট সংযোগ প্রথমে পৰীক্ষা কৰক।"</string>
+<string name="no_wifi_available">"SIP কল কৰিবলে আপুনি Wi-Fi নেটৱর্কৰ সৈতে সংযোগ কৰিব লাগিব (ৱায়াৰলেচ &amp; নেটৱর্ক ছেটিং ব্যৱহাৰ কৰক)।"</string>
+<string name="no_voip">"SIP কল সমর্থিত নহয়"</string>
+<string name="sip_system_decide">"স্বয়ংক্ৰিয়"</string>
+<string name="sip_always_send_keepalive">"সদায় পঠিওঁৱা হয়"</string>
+<string name="sip_connection_service_label">"বিল্ট-ইন SIP কল"</string>
+</resources>

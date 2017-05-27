@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 7731hd, density 2.0 -->
+<resources>
+
+    <dimen name="compass_view_margin_side">36dip</dimen>
+    <dimen name="title_margin_top">40dip</dimen>
+    <dimen name="compass_margin_top">120dip</dimen>
+    <dimen name="text_title_size">45.0px</dimen>
+    <dimen name="text_degree_top">22dip</dimen>
+    <dimen name="text_degree_size">60px</dimen>
+    <dimen name="degree_location_disatnce">18dp</dimen>
+    <dimen name="location_height_disatnce">6dp</dimen>
+
+</resources>

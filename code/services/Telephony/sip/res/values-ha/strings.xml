@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sip_settings">"Saitukan SIP"</string>
+<string name="sip_accounts">"Asusan SIP"</string>
+<string name="sip_accounts_title">"Asusu"</string>
+<string name="sip_receive_calls">"Ana karbar kira masu shigowa"</string>
+<string name="sip_receive_calls_summary">"Yana amfani da karfin batiri da yawa"</string>
+<string name="sip_call_options_title">"Yi amfani da kiran SIP"</string>
+<string name="sip_call_options_wifi_only_title">"Yi amfani da kiran SIP (Wi-Fi kadai)"</string>
+<string name="sip_call_options_entry_1">"Don dukkan kira yayin ake da hanyar sadarwar bayanai"</string>
+<string name="sip_call_options_entry_2">"Don kiran SIP kadai"</string>
+<string name="sip_call_options_wifi_only_entry_1">"Don dukkan kira"</string>
+<string name="add_sip_account">"Kara asusu"</string>
+<string name="remove_sip_account">"Cire asusu"</string>
+<string name="sip_account_list">"Asusan SIP"</string>
+<string name="saving_account">"Adana Ma\'ajiya\u2026"</string>
+<string name="removing_account">"Cire Ma\'ajiyar\u2026"</string>
+<string name="sip_menu_save">"Adana"</string>
+<string name="sip_menu_discard">"Watsar"</string>
+<string name="alert_dialog_close">"Rufe bayanan tarihin"</string>
+<string name="alert_dialog_ok">"YA YI"</string>
+<string name="close_profile">"Rufe"</string>
+<string name="registration_status_checking_status">"Ana duba matsayi..."</string>
+<string name="registration_status_registering">"Ana rajista\u2026"</string>
+<string name="registration_status_still_trying">"Ana gwadawa\u2026"</string>
+<string name="registration_status_not_receiving">"Ba a karbar kira."</string>
+<string name="registration_status_no_data">"Yi wa Ma\'ajiya rajista ya tsaya saboda babu mahadi da intanet."</string>
+<string name="registration_status_no_wifi_data">"Yi wa Ma\'ajiya rajista ya tsaya saboda babu mahadi da Wi-Fi."</string>
+<string name="registration_status_not_running">"Yi wa Ma\'ajiya rajista bai yi nasara ba."</string>
+<string name="registration_status_done">"Ana karbar kira."</string>
+<string name="registration_status_failed_try_later">"An kasa rijistar asusu: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); za a gwada wani lokaci"</string>
+<string name="registration_status_invalid_credentials">"Yi wa Ma\'ajiya rajista bai yi nasara ba: Sunan mai amfani ko kalmar shiga ba daidai ba."</string>
+<string name="registration_status_server_unreachable">"Yi wa Ma\'ajiya rajista bai yi nasara ba: Duba sunan uwar garke."</string>
+<string name="third_party_account_summary">"Wannan Ma\'ajiyar yanzu ana amfani da shi daga <xliff:g id="account_owner" example="Google Talk">%s</xliff:g> masarrafi."</string>
+<string name="sip_edit_title">"Bayanin asusun SIP"</string>
+<string name="sip_edit_new_title">"Bayanin asusun SIP"</string>
+<string name="domain_address_title">"Saba"</string>
+<string name="username_title">"Sunan mai amfani"</string>
+<string name="password_title">"Kalmar shiga"</string>
+<string name="display_name_title">"Sunan bijirowa"</string>
+<string name="proxy_address_title">"Adireshin wakili mai fita waje"</string>
+<string name="port_title">"Lambar gurbi"</string>
+<string name="transport_title">"Nau\'in zirga zirga"</string>
+<string name="send_keepalive_title">"Aika kasance-a-raye"</string>
+<string name="advanced_settings">"Tsari mafi ci gaba"</string>
+<string name="auth_username_title">"Adireshin akwatin tabbatarwa"</string>
+<string name="auth_username_summary">"Adireshin akwati da aka yi amfani don tabbatarwa"</string>
+<string name="default_preference_summary">"&lt;Ba a saita ba&gt;"</string>
+<string name="display_name_summary">"&lt;Daya da sunan mai amfani da&gt;"</string>
+<string name="optional_summary">"&lt;Na zabi&gt;"</string>
+<string name="advanced_settings_show">"▷ Taba don nuna gaba daya"</string>
+<string name="advanced_settings_hide">"▽ Taba don boye gaba daya"</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> ana bukatar sa kuma ba za a bar shi fanko ba."</string>
+<string name="not_a_valid_port">"Lambar kogo ya kasance tsakanin 1000 da 65534."</string>
+<string name="no_internet_available">"Don yin kiran SIP, fara duba sadarwar ka ta intanet tukuna."</string>
+<string name="no_wifi_available">"Kana bukatar hadawa da hanyar sadarwa ta Wi-Fi don kiran SIP (yi amfani da wayales  &amp; Situkan hanyar sadarwa)."</string>
+<string name="no_voip">"Kana bukatar hadawa da hanyar sadarwa ta Wi-Fi don kiran SIP (yi amfani da wayales  &amp; Situkan hanyar sadarwa).Kana bukatar hadawa da hanyar sadarwa ta Wi-Fi don kiran SIP (yi amfani da wayales  &amp; Situkan hanyar sadarwa).Kiran SIP bai yi daidai a nan ba"</string>
+<string name="sip_system_decide">"Kai tsaye"</string>
+<string name="sip_always_send_keepalive">"Aika Koda yaushe"</string>
+<string name="sip_connection_service_label">"Kiran SIP da aka gina a ciki"</string>
+</resources>

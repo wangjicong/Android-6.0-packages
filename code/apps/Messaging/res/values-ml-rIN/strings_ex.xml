@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"സിഗ്നേച്ചര്‍"</string>
+<string name="pref_title_sms_retry_times">"SMS പുനര്‍ശ്രമം സാധ്യമാക്കുക"</string>
+<string name="preference_name">"സാധാരണമായ ശൈലി"</string>
+<string name="select">"തെരഞ്ഞെടുത്തു"</string>
+<string name="item_cancel">"റദ്ദാക്കുക"</string>
+<string name="item_delete">"നീക്കം ചെയ്യുക"</string>
+<string name="save_as_teltype">"ഫോണിന്"</string>
+<string name="save_as_mmstype">"Smsന്"</string>
+<string name="type_to_pharser">"പൊതുവായ ശൈലി ടൈപ്പ് ചെയ്യുക "</string>
+<string name="add">"ചേര്‍ക്കുക"</string>
+<string name="edit">"തിരുത്തുക"</string>
+<string name="delete">"നീക്കം ചെയ്യുക"</string>
+<string name="finish">"പൂര്‍ത്തിയാക്കുക"</string>
+<string name="cancel">"റദ്ദാക്കുക"</string>
+<string name="add_pharser">"പൊതുവായ ശൈലി കൂട്ടിച്ചേര്‍ക്കുക"</string>
+<string name="edit_pharser">"സാധാരണ ശൈലി എഡിറ്റ് ചെയ്യുക"</string>
+<string name="pharser_can_modify">"കസ്റ്റമൈസ് ചെയ്ത ശൈലി"</string>
+<string name="pharser_cannot_modify">"ശൈലി ഫിക്സ് ചെയ്യുക"</string>
+<string name="select_item">"നിങ്ങള്‍ തെരഞ്ഞെടുത്തിരിക്കുന്നു"</string>
+<string name="select_commmon_phrase">"പൊതുവായ ശൈലി തെരഞ്ഞെടുക്കുക"</string>
+<string name="common_phrase_empty">"സാധാരണമായ ശൈലികളില്ല"</string>
+<string name="action_add_phrase">"പൊതുവായ ശൈലി ഇന്‍സേര്‍ട്ട് ചെയ്യുക"</string>
+<string name="pref_other_settings_title">"മറ്റുള്ളവ"</string>
+<string-array name="fixed_mms_phrase">
+<item>"ദയവായി എന്റെ ഓഫീസ് ഫോണില്‍ വിളിക്കുക, നന്ദി."</item>
+<item>"ദയവായി എന്നെ ബന്ധപ്പെടുക, നന്ദി."</item>
+<item>"ദയവായി നിങ്ങളുടെ സ്ഥാനം പറയുക."</item>
+<item>"ദയവായി എന്റെ സെല്‍ ഫോണില്‍ പിന്നീട് വിളിക്കുക, നന്ദി."</item>
+<item>"ഞാന്‍ പുറത്താണ്, വീട്ടിലെത്തുമ്പോള്‍ നിങ്ങളെ വിളിക്കും."</item>
+<item>"ഞാന്‍ ഡ്രൈവ് ചെയ്യുകയാണ്, പിന്നീട് പ്രതികരിക്കാം."</item>
+<item>"ഞാന്‍ വഴിയിലാണ്, ഉടനെത്തും."</item>
+<item>"ട്രാഫിക് ജാമുകള്‍, വൈകും, ക്ഷമിക്കുക."</item>
+<item>"നിങ്ങളെ പിന്നീട് വിളിക്കാം."</item>
+<item>"ഞാനൊരു മീറ്റിങ്ങിലാണ്, പിന്നീട് പ്രതികരിക്കാം."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"ഇപ്പോള്‍ സംസാരിക്കാനാവില്ല. എന്ത് ചെയ്യും?"</item>
+<item>"ഞാന്‍ നിങ്ങളെ ഉടന്‍ തിരികെ വിളിക്കും."</item>
+<item>"ഞാന്‍ നിങ്ങളെ പിന്നീട് വിളിക്കാം."</item>
+<item>"ഇപ്പോള്‍ സംസാരിക്കാനാവില്ല. എന്നെ പിന്നീട് വിളിക്കുക?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"ദയവായി എന്നെ വിളിക്കുക അല്ലെങ്കില്‍ എന്നെ പിന്നീട് വിളിക്കുക."</item>
+</string-array>
+</resources>

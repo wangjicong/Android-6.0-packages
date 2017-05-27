@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Podpis"</string>
+<string name="pref_title_sms_retry_times">Aktivovat obnovení SMS</string>
+<string name="preference_name">"Běžná fráze"</string>
+<string name="select">"Zvoleno"</string>
+<string name="item_cancel">Zrušit</string>
+<string name="item_delete">Smazat</string>
+<string name="save_as_teltype">"Pro telefon"</string>
+<string name="save_as_mmstype">"Pro Sms"</string>
+<string name="type_to_pharser">"Napsat běžnou frázi"</string>
+<string name="add">"Přidat"</string>
+<string name="edit">"Editovat"</string>
+<string name="delete">Smazat</string>
+<string name="finish">"Dokončit"</string>
+<string name="cancel">Zrušit</string>
+<string name="add_pharser">"Přidat běžnou frázi"</string>
+<string name="edit_pharser">"Editovat běžnou frázy"</string>
+<string name="pharser_can_modify">"Přizpůsobená fráze"</string>
+<string name="pharser_cannot_modify">"Pevná fráze"</string>
+<string name="select_item">"Vybrali jste si"</string>
+<string name="select_commmon_phrase">Zvolit běžnou frázi</string>
+<string name="common_phrase_empty">"Žádné běžné frázy"</string>
+<string name="action_add_phrase">"Vložit běžnou frázi"</string>
+<string name="pref_other_settings_title">"Jiné"</string>
+<string-array name="fixed_mms_phrase">
+<item>Prosím, zavolejte mi do práce, děkuji</item>
+<item>Prosím, kontaktujte mně, děkuji.</item>
+<item>Prosím, řekněte mi Vaše umístění.</item>
+<item>Prosím, zavolejte mi na mobol později, děkuji.</item>
+<item>Byl jsem ven, půjdu domů a zavolám Vám.</item>
+<item>"Řídím a odpovím později."</item>
+<item>"Jsem na cestě, ihned budu zastihnutelný."</item>
+<item>Dopravní zácpy, také později, omlouvám se.</item>
+<item>Zavolám Vám později.</item>
+<item>Jsem na schůzi, odpovím později.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Teď nemůžu telefonovat, o co jde?"</item>
+<item>"Zavolám zpátky."</item>
+<item>"Zavolám později."</item>
+<item>"Nemůžu telefonovat, volejte jindy."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Prosím, zavolejte mi anebo později pošlete  sms."</item>
+</string-array>
+</resources>

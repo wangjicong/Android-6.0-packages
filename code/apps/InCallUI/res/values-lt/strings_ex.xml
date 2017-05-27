@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Pagrindinė kortelė :"</string>
+<string name="vice_card_slot">"Pagalbinė kortelė :"</string>
+<string name="record_time">"Įrašo laikas:"</string>
+<string name="onscreenShowRecodText">Įrašyti</string>
+<string name="recorderr">"Garso įrašo išsaugoti nepavyko!"</string>
+<string name="audio_db_artist_name">"Jūsų įrašai"</string>
+<string name="audio_db_album_name">"Skambučių įrašymai"</string>
+<string name="audio_db_playlist_name">"Mano įrašai"</string>
+<string name="app_name">"Telefono programėlė"</string>
+<string name="error_mediadb_new_record">"Nepavyko išsaugoti įrašyto garso."</string>
+<string name="sdcard_access_error">"SD kortelė nepasiekiama"</string>
+<string name="no_sd_card">"NĖRA SD kortelės arba ATJUNGTA"</string>
+<string name="insert_sd_card">"Prašom įdėti SD kortelę"</string>
+<string name="storage_is_full">"Saugykla pilna"</string>
+<string name="recording">"Įrašinėjama "</string>
+<string name="used_by_other_applications">"Įrašymo įrenginys naudojamas kitose programose, uždarykite programą"</string>
+<string name="prompt_record_finish">"Įrašomas failas buvo išsaugotas"</string>
+<string name="ok">"Gerai"</string>
+<string name="permission_no_record">"Neturite leidimų skambučio įrašymui"</string>
+<string name="hangup_hold_and_answer">"Baigti laukiantį pokalbį ir Atsiliepti"</string>
+<string name="hangup_active_and_answer">"Baigti aktyvų pokalbį ir Atsiliepti"</string>
+<string name="hangup_all_and_answer">"Baigti visus pokalbius ir Atsiliepti"</string>
+<string name="onActive">"Aktyvus"</string>
+<string name="hold_current_call_and_answer">"Užlaikyti šį pokalbį ir Atsiliepti"</string>
+<string name="hangup_current_call_and_answer">"Baigti šį pokalbį ir atsiliepti"</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"మెయిన్ కార్డ్:"</string>
+<string name="vice_card_slot">"వైజ్ కార్డ్:"</string>
+<string name="record_time">"రికార్డ్ టైమ్:"</string>
+<string name="onscreenShowRecodText">"రికార్డ్"</string>
+<string name="recorderr">"రికార్డింగ్ సేవ్ చేయడం విఫలమైంది!"</string>
+<string name="audio_db_artist_name">"మీ రికార్డింగ్స్"</string>
+<string name="audio_db_album_name">"కాల్ రికార్డింగ్స్"</string>
+<string name="audio_db_playlist_name">"నా రికార్డింగ్స్"</string>
+<string name="app_name">"ఫోన్ యాప్"</string>
+<string name="error_mediadb_new_record">"రికార్డ్ చేయబడిన ఆడియో సేవ్ చేయలేకపోయాము"</string>
+<string name="sdcard_access_error">sd కార్డ్ ను యాక్సెస్ చేయలేము.</string>
+<string name="no_sd_card">SD కార్డ్ లేదు లేదా అన్ మౌంట్ చేయబడింది  </string>
+<string name="insert_sd_card">"దయచేసి ఒక SD కార్డ్ ఇన్సర్ట్ చేయండి"</string>
+<string name="storage_is_full">"స్టోరేజ్ నిండుగా ఉన్నది"</string>
+<string name="recording">"రికార్డింగ్ "</string>
+<string name="used_by_other_applications">"రికార్డింగ్ పరికరాలు ఇతర ప్రోగ్రాములచే ఉపయోగించబడుతున్నాయి, దయచేసి ప్రోగ్రామును షట్ డౌన్ చేయండి"</string>
+<string name="prompt_record_finish">"రికార్దింగ్ ఫైల్ దీనికి సేవ్ చేయబడింది"</string>
+<string name="ok">సరి</string>
+<string name="permission_no_record">"కాల్ రికార్డింగ్ కొరకు మీకు అనుమతి లేదు"</string>
+<string name="hangup_hold_and_answer">"హెల్డ్ చేయబడిన కాల్ ను హాప్ అప్ చేయండి మరియు సమాధానము చేయండి"</string>
+<string name="hangup_active_and_answer">"యాక్టివేట్ చేయబడిన కాల్ ను హాప్ అప్ చేయండి మరియు సమాధానము చేయండి"</string>
+<string name="hangup_all_and_answer">"అన్ని కాల్స్ ను హాంగ్ చేయండి మరియు సమాధానము చేయండి"</string>
+<string name="onActive">"యాక్టివేట్"</string>
+<string name="hold_current_call_and_answer">ప్రస్తుత కాల్ ను హోల్డ్ చేయండి మరియు ఆన్సర్ చేయండి.</string>
+<string name="hangup_current_call_and_answer">"ప్రస్తుత కాల్ హ్యాంగ్ అప్ మరియు జవాబివ్వండి"</string>
+</resources>

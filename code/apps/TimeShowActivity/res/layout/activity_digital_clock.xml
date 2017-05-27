@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:paddingLeft="0dip"
+    android:paddingTop="10dip" >
+    
+        <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" >
+
+	<LinearLayout android:id="@+id/time_setting"
+		android:layout_gravity="center" android:paddingTop="100dip"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:paddingLeft="20dip"  android:orientation="horizontal" >
+		<ImageView android:id="@+id/hour_high" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:src="@drawable/time_number_00" />
+		<ImageView android:id="@+id/hour_low" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:src="@drawable/time_number_00" />
+		<ImageView android:id="@+id/hour_min_sepretor"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:src="@drawable/time_sepretor" />
+		<ImageView android:id="@+id/min_high" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:src="@drawable/time_number_00" />
+		<ImageView android:id="@+id/min_low" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:src="@drawable/time_number_00" />
+		
+	</LinearLayout>
+    </RelativeLayout>
+
+	<!--wlj 1016 add start-->
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" >
+	
+	<LinearLayout 
+	android:orientation="horizontal"
+	android:background="#000000"
+	android:paddingTop="10dip"
+	android:paddingLeft="20dip"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<ImageView android:id="@+id/time_formate"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"
+	android:src="@drawable/am" />
+	</LinearLayout>
+	<!--wlj 1016 add end-->	
+    </RelativeLayout>
+
+     <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" 
+        android:paddingTop="10dip">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/miss_call_imageview"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/ic_call" />
+
+            <TextView
+                android:id="@+id/miss_call_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textSize="@dimen/unread_font_size"
+                android:paddingLeft="5dip"                
+                android:paddingRight="20dip"/>
+
+            <ImageView
+                android:id="@+id/unread_message_imageview"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingLeft="20dip"
+                android:src="@drawable/ic_message" />
+
+            <TextView
+                android:id="@+id/unread_message_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dip"                
+                android:textSize="@dimen/unread_font_size"
+                android:layout_weight="1"/>
+        </LinearLayout>   
+    </RelativeLayout>
+
+	<!--
+      <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" 
+        android:paddingTop="2dip">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="95dip"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal" >
+
+		<TextView android:id="@+id/phoneName"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="@dimen/phoneName_font_size"
+		android:singleLine="true"
+		android:ellipsize="marquee"
+		android:textColor="#ffffff"
+		android:marqueeRepeatLimit="marquee_forever"  />
+        </LinearLayout>   
+    </RelativeLayout>
+
+      <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+	  android:paddingLeft="20dip"        
+        android:paddingTop="2dip">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal" >
+
+                <TextView android:id="@+id/phoneNumber"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="6dp"
+                    android:textSize="@dimen/phoneNumber_font_size"
+                    android:textColor="#ffffff"
+                    android:singleLine="false"
+                    android:gravity="center_horizontal" />
+        </LinearLayout>   
+    </RelativeLayout>
+
+<RelativeLayout 
+            android:id="@+id/answer_new_panel"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/timeshow_answer_new_panel_height">
+
+            <ImageView
+                android:id="@+id/drap_handle"
+                android:layout_width="@dimen/timeshow_answer_new_panel_height"
+                android:layout_height="@dimen/timeshow_answer_new_panel_height"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ic_drap_normal" />
+
+            <ImageView
+                android:id="@+id/decline"
+                android:layout_marginLeft="20dip"
+                android:layout_width="@dimen/timeshow_answer_new_panel_height"
+                android:layout_height="@dimen/timeshow_answer_new_panel_height"
+                android:layout_alignBottom="@+id/drap_handle"
+                android:layout_alignParentLeft="true"
+                android:layout_alignTop="@+id/drap_handle"
+                android:src="@drawable/ic_lockscreen_decline_normal" />
+
+            <ImageView
+                android:id="@+id/answer"
+                android:layout_marginRight="20dip"
+                android:layout_width="@dimen/timeshow_answer_new_panel_height"
+                android:layout_height="@dimen/timeshow_answer_new_panel_height"
+                android:layout_alignBottom="@+id/drap_handle"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@+id/drap_handle"
+                android:src="@drawable/ic_lockscreen_answer_normal" />
+</RelativeLayout>
+-->
+
+</LinearLayout>

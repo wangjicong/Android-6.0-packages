@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"શોધ"</string>
+<string name="remove_from_history_failed">ઇતિહાસમાંથી આઇટમ દૂર કરી શકાઇ નથી.</string>
+<string name="corpus_selection_heading">"શોધ"</string>
+<string name="menu_settings">ગોઠવણી શોધો</string>
+<string name="system_search_category_title">"ફોન"</string>
+<string name="clear_shortcuts_summary">તાજેતરના શોધ સૂચનોમાંથી પસંદ થયેલ શોર્ટકટ સાફ કરો</string>
+<string name="menu_help">મદદ</string>
+<string name="google_search_hint">Google સર્ચ</string>
+<string name="google_search_description">ગૂગલ સર્ચ સુચનો</string>
+<string name="voice_search_hint_title">કહેવાનો પ્રયાસ કરો:</string>
+</resources>

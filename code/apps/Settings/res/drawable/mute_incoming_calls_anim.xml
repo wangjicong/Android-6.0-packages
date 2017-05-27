@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadtrum -->
+
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/mute_incoming_calls_anim_1" android:duration="300"></item>
+    <item android:drawable="@drawable/mute_incoming_calls_anim_2" android:duration="300"></item>
+    <item android:drawable="@drawable/mute_incoming_calls_anim_3" android:duration="800"></item>
+
+</animation-list>

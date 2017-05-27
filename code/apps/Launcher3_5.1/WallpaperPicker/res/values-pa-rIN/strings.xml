@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpaper_instructions">ਵਾਲਪੇਪਰ  ਸੈਟ ਕਰੋ</string>
+<string name="image_load_fail">"ਚਿੱਤਰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ"</string>
+<string name="wallpaper_load_fail">"ਚਿੱਤਰ ਨੂੰ ਵਾਲਪੇਪਰ ਦੇ ਤੌਰ ਤੇ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਿਆ"</string>
+<plurals name="number_of_items_selected">
+<item quantity="zero">%1$d ਚੁਣਿਆ ਗਿਆ</item>
+<item quantity="one">%1$d ਚੁਣਿਆ ਗਿਆ</item>
+</plurals>
+<plurals name="number_of_items_selected">
+<item quantity="other">%1$d ਚੁਣਿਆ ਗਿਆ</item>
+</plurals>
+<string name="wallpaper_accessibility_name">"%2$d" ਦਾ %1$d ਵਾਲਪੇਪਰ</string>
+<string name="announce_selection">"ਚੁਣਿਆ ਗਿਆ <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g>"</string>
+<string name="wallpaper_delete">ਮਿਟਾਉ</string>
+<string name="pick_image">"ਚਿੱਤਰ ਚੁਣੋ"</string>
+<string name="pick_wallpaper">ਵਾਲਪੇਪਰ</string>
+<string name="crop_wallpaper">"ਵਾਲਪੇਪਰ ਛੋਟਾ ਕਰੋ"</string>
+</resources>

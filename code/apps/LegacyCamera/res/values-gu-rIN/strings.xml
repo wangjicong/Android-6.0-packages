@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">કેમેરા ભૂલ</string>
+<string name="cannot_connect_camera">કેમેરા સાથે જોડી શકાયું નથી.</string>
+<string name="camera_disabled">સલામતી નીતિઓને કારણે કેમેરો અક્ષમ થઇ ગયો છે.</string>
+<string name="camera_label">કેમેરા</string>
+<string name="video_camera_label">કેમકોર્ડર</string>
+<string name="gallery_camera_bucket_name">કેમેરા ચિત્રો</string>
+<string name="gallery_camera_videos_bucket_name">કેમેરા વિડીયોઝ</string>
+<string name="wait">કૃપા કરી પ્રતિક્ષા કરો\u2026</string>
+<string name="no_storage" product="nosdcard">કેમેરાનો ઉપયોગ કરતા પહેલા USB સ્ટોરેજનો ઉપયોગ કરો.</string>
+<string name="no_storage" product="default">કેમેરાનો ઉઉપયોગ કરતા પહેલા SD કાર્ડ ઇન્સર્ટ કરો.</string>
+<string name="not_enough_space" product="nosdcard">તમારો USB સંગ્રહ પૂર્ણ છે.</string>
+<string name="not_enough_space" product="default">તમારું SD કાર્ડ પૂર્ણ છે.</string>
+<string name="preparing_sd" product="nosdcard">USB સંગ્રહ તૈયાર થાય છે\u2026</string>
+<string name="preparing_sd" product="default">પસંદગીનું SD કાર્ડ\u2026</string>
+<string name="access_sd_fail" product="nosdcard">USB સ્ટોરેજમાં ઍક્સેસ કરી શકાયો નથી.</string>
+<string name="access_sd_fail" product="default">SD કાર્ડમાં ઍક્સેસ કરી શકાયો નથી.</string>
+<string name="confirm_restore_title">પૂર્વનિર્ધારીત પુનઃસ્થાપન કરો</string>
+<string name="confirm_restore_message">કેમેરાના ડિફોલ્ટ સેટ્ટીંગ્સ પુનઃસ્થાપિત કરવા છે?</string>
+<string name="review_play">પ્લે</string>
+<string name="review_cancel">"રદ્દ"</string>
+<string name="review_ok">"પૂર્ણ"</string>
+<string name="review_retake">રીટેક</string>
+<string name="camera_gallery_photos_text">ગેલેરી</string>
+<string name="switch_camera_id">કેમેરા બદલો</string>
+<string name="time_lapse_title">રેકોર્ડીંગનો સમય ચૂકી જવાયો છે</string>
+<string name="pref_camera_id_title">કેમેરા પસંદ કરો</string>
+<string name="pref_camera_id_entry_back">પાછળ</string>
+<string name="pref_camera_id_entry_front">આગળ</string>
+<string name="pref_camera_recordlocation_title">સ્થળ સંગ્રહ કરો</string>
+<string name="pref_camera_recordlocation_entry_off">બંધ </string>
+<string name="pref_camera_recordlocation_entry_on">"ચાલુ"</string>
+<string name="pref_video_quality_title">વિડીયો ગુણવત્તા</string>
+<string name="pref_video_time_lapse_frame_interval_title">વિરામનો સમય ચૂકી જવાયો છે</string>
+<string name="pref_camera_settings_category">કેમેરા ગોઠવણી</string>
+<string name="pref_camcorder_settings_category">કેમકોર્ડર ગોઠવણી</string>
+<string name="pref_camera_picturesize_title">ચિત્ર કદ</string>
+<string name="pref_camera_picturesize_entry_2592x1936">5M પિક્સલ્સ</string>
+<string name="pref_camera_picturesize_entry_2048x1536">3M પિક્સલ્સ</string>
+<string name="pref_camera_picturesize_entry_1600x1200">2M પિક્સલ્સ</string>
+<string name="pref_camera_picturesize_entry_1280x960">1.3M પિક્સલ્સ</string>
+<string name="pref_camera_picturesize_entry_1024x768">1M પિક્સલ્સ</string>
+<string name="pref_camera_focusmode_title">ફોકસ મોડ</string>
+<string name="pref_camera_focusmode_entry_auto">"ઓટો"</string>
+<string name="pref_camera_focusmode_entry_infinity">અમર્યાદ</string>
+<string name="pref_camera_focusmode_entry_macro">મકાઉ</string>
+<string name="pref_camera_flashmode_title">ફ્લેશ મોડ</string>
+<string name="pref_camera_flashmode_entry_auto">"ઓટો"</string>
+<string name="pref_camera_flashmode_entry_on">"ચાલુ"</string>
+<string name="pref_camera_flashmode_entry_off">બંધ </string>
+<string name="pref_camera_whitebalance_title">સફેદ સંતુલન</string>
+<string name="pref_camera_whitebalance_entry_auto">"ઓટો"</string>
+<string name="pref_camera_whitebalance_entry_incandescent">ઇનકેન્ડિસન્ટ</string>
+<string name="pref_camera_whitebalance_entry_daylight">દિવસપ્રકાશ</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">ફ્લોરોસેન્ટ</string>
+<string name="pref_camera_whitebalance_entry_cloudy">ક્લાઉડી</string>
+<string name="pref_camera_scenemode_title">સીન મોડ</string>
+<string name="pref_camera_scenemode_entry_auto">"ઓટો"</string>
+<string name="pref_camera_scenemode_entry_action">પગલું</string>
+<string name="pref_camera_scenemode_entry_night">રાત્રિ</string>
+<string name="pref_camera_scenemode_entry_sunset">સૂર્યાસ્ત</string>
+<string name="pref_camera_scenemode_entry_party">પાર્ટી</string>
+<string name="not_selectable_in_scene_mode">સીન મોડમાં કોઇ સિલેક્ટેબલ નથી.</string>
+<string name="pref_restore_title">કેમેરા ગોઠવણી</string>
+<string name="pref_restore_detail">પૂર્વનિર્ધારીત પુનઃસ્થાપન કરો</string>
+<string name="pref_exposure_title">જાહેરાત</string>
+<string name="dialog_ok">ઓકે</string>
+<string name="spaceIsLow_content" product="nosdcard">તમારો USB સંગ્રહ અવકાશની મર્યાદા બહાર ચાલે છે. ગુણવત્તા ગોઠવણી બદલાવો અથવા અમૂક ઇમેજો અથવા અન્ય ફાઇલો ભૂંસો.</string>
+<string name="spaceIsLow_content" product="default">તમારું SD કાર્ડ અવકાશની મર્યાદા બહાર ચાલે છે. ગુણવત્તા ગોઠવણી બદલાવો અથવા અમૂક ઇમેજો અથવા અન્ય ફાઇલો ભૂંસો.</string>
+<string name="video_reach_size_limit">કદ મર્યાદા આગમન.</string>
+<string name="switch_to_camera_label">કેમેરામાં બદલી કરો</string>
+<string name="switch_to_video_label">વિડિયોમાં બદલી કરો</string>
+<string name="switch_to_panorama_label">પેનોરમામાં જાઓ</string>
+<string name="share_picture_via">ચિત્ર મારફતે સહિયારું કરો</string>
+<string name="share_video_via">વિડીયો મારફતે સહિયારું કરો</string>
+<string name="no_picture_to_share">આપલે કરવા માટે કોઇ પિક્ચર નથી.</string>
+<string name="no_video_to_share">આપલે કરવા માટે કોઇ વિડીયો નથી.</string>
+<string name="pano_too_fast_prompt">ઘણું ઝડપી</string>
+<string name="pano_dialog_prepare_preview">પેનોરમા તૈયાર કરે છે</string>
+<string name="pano_dialog_panorama_failed">પેનોરમા સેવ કરી શકાયું નથી.</string>
+<string name="pano_dialog_title">પેનોરમા</string>
+<string name="pano_capture_indication">પેનોરમા કેપ્ચર કરે છે</string>
+<string name="pano_review_saving_indication_str">સેવિંગ \u2026</string>
+<string name="tap_to_focus">ધ્યાન કેન્દ્રિત કરવા માટે ટચ કરો</string>
+<string name="pref_video_effect_title">"પ્રભાવો"</string>
+<string name="effect_none">કોઇ નહીં</string>
+<string name="effect_goofy_face_squeeze">સંકોચન</string>
+<string name="effect_goofy_face_big_eyes">મોટી આંખો</string>
+<string name="effect_goofy_face_big_mouth">મોટું મોઢું</string>
+<string name="effect_goofy_face_small_mouth">નાનું મોઢું</string>
+<string name="effect_goofy_face_big_nose">મોટું નાક</string>
+<string name="effect_goofy_face_small_eyes">નાની આંખો</string>
+<string name="effect_backdropper_space">જગ્યામાં </string>
+<string name="effect_backdropper_sunset">સૂર્યાસ્ત</string>
+<string name="effect_backdropper_gallery">તમારા પોતાના પસંદ કરો</string>
+<string name="bg_replacement_message">તમારા ડવાઇસને નીચે સેટ કરો\nએક ક્ષણ માટે દ્રશ્યમાંથી બહાર નીકળી જાઓ.</string>
+<string name="not_selectable_in_effect">જ્યારે અસર ચાલુ હોય ત્યારે સિલેક્ટ થઇ શકે તેમ નથી.</string>
+<string name="video_snapshot_hint">પ્રિવ્યૂ સ્ક્રીનને ટચ કરીને વિડીયો રેકોર્ડીંગ દરમિયાન ફોટો લો. </string>
+<string name="disable_video_snapshot_hint">જ્યારે ખાસ પ્રકારની અસરો ચાલુ હોય ત્યારે વિડીયો સ્નેપશોટ અક્ષમ થઇ જાય છે.</string>
+<string name="clear_effects">અસરો ક્લિયર કરો.</string>
+<string name="effect_silly_faces">સિલી ફેસીસ</string>
+<string name="effect_background">બેકગ્રાઉન્ડ</string>
+<string name="accessibility_shutter_button">શટર બટન </string>
+<string name="accessibility_review_thumbnail">અત્યંત તાજેતરના ફોટો</string>
+<string name="accessibility_camera_picker">આગળની અને પાછળની કેમેરા સ્વીચ</string>
+<string name="accessibility_mode_picker">કમેરો, વિડીયો અથવા પેનોરમા સિલેક્ટર</string>
+<string name="accessibility_second_level_indicators">વધુ સેટ્ટીંગ કંટ્રોલ્સ</string>
+<string name="accessibility_back_to_first_level">સેટીંગ કંટ્રોલ્સ બંધ કરો</string>
+<string name="accessibility_zoom_control">ઝૂમ કંટ્રોલ</string>
+<string name="accessibility_decrement">ઘટાડો %1$s</string>
+<string name="accessibility_increment">વધારો %1$s</string>
+<string name="accessibility_switch">%1$s સ્વીચ</string>
+</resources>

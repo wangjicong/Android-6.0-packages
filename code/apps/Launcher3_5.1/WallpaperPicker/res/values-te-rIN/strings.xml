@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpaper_instructions">వాల్ పేపర్ గా సెట్ చెయ్యి</string>
+<string name="image_load_fail">"చిత్రాన్ని లోడ్ చేయడం కుదరదు"</string>
+<string name="wallpaper_load_fail">"ఇమేజ్ ను వాల్ పేపర్ గా లోడ్ చేయలేము"</string>
+<plurals name="number_of_items_selected">
+<item quantity="zero">%1$d ఎంచుకున్నవి</item>
+<item quantity="one">%1$d ఎంచుకున్నవి</item>
+</plurals>
+<plurals name="number_of_items_selected">
+<item quantity="other">%1$d ఎంచుకున్నవి</item>
+</plurals>
+<string name="wallpaper_accessibility_name">"వాల్ పేపర్ %1$d of %2$d"</string>
+<string name="announce_selection">"ఎంపికైంది <xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g>"</string>
+<string name="wallpaper_delete">"తొలగించాలా"</string>
+<string name="pick_image">"చిత్రాన్ని ఎంచుకోండి"</string>
+<string name="pick_wallpaper">వాల్ పేపర్లు</string>
+<string name="crop_wallpaper">"వాల్ పేపర్ ను క్రాప్ చేయండి"</string>
+</resources>

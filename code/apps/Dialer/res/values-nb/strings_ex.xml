@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">"utgående"</string>
+<string name="call_log_incoming_title">"innkommende"</string>
+<string name="recentOutgoing_empty">"Du har ingen utgående samtaler."</string>
+<string name="recentIncoming_empty">"Du har ingen innkommende samtaler."</string>
+<string name="view_setting">"Se"</string>
+<string name="item_all_calls">"Alle samtalelogger"</string>
+<string name="item_sim_calls">"SIM%d anropslogg"</string>
+<string name="unselect_all">"Fjern alle markeringer"</string>
+<string name="select_all_sprd">"Merk alle"</string>
+<string name="doneButton">"Ferdig"</string>
+<string name="cancel">"Avbryt"</string>
+<string name="delete_selected_calls">"Er du sikker på at du vil slette valgte registre?"</string>
+<string name="clearCallLogProgress_title">"Tømmer anropsloggen \u2026"</string>
+<string name="delete_success">"Slettet"</string>
+<string name="clear_all_call_log">"Slett hele anropsloggen"</string>
+<string name="clear_selected_call_log">"Slett den valgte anropsloggen"</string>
+<string name="select_all">"Merk alle"</string>
+<string name="unselect_all">"Fjern all merking"</string>
+<string name="delete_all_calls_confirm">"Ønsker du å slette alle dine registre?"</string>
+<string name="do_not_select">"Du har ikke valgt opptak du vil slette"</string>
+<string name="delete_calls">"Slett"</string>
+<string name="number_anr_isnull">"Kontaktnummeret er tomt"</string>
+<string name="call_recording_setting_title">"Samtaleopptak"</string>
+<string name="automatic_recording_title">"Automatisk opptak"</string>
+<string name="ip_dialing_list_title">"IP oppringing innstillinger"</string>
+<string name="ip_dial_menu">"IP OPPRINGING"</string>
+<string name="ip_dialing_title">"IP oppringing"</string>
+<string name="dialog_phone_permission_deny">"For å bruke IP-oppringing,\n tillat bruk av telefonen."</string>
+<string name="search_description">"Søk anropslogg"</string>
+<string name="fast_dial_title">"Hurtigoppringning"</string>
+<string name="no_fast_dial_number">"Fast sendingsnummer ikke satt."</string>
+<string name="call_log_add_to_blacklist">"Legg til i svarteliste"</string>
+<string name="make_video_call_menu">"Start en videosamtale"</string>
+</resources>

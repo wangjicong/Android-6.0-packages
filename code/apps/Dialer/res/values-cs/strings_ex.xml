@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Nastavení IP vytáčení"</string>
+    <string name="ip_dial_menu">"IP VYTÁČENÍ"</string>
+    <string name="ip_dialing_title">IP vytáčení</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Nastavení rychlého vytáčení"</string>
+    <string name="no_fast_dial_number">"Rychlé vytáčení čísla není nastaveno."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"\'Odchozí"</string>
+     <string name="call_log_incoming_title">"Příchozí"</string>
+     <string name="recentOutgoing_empty">"Nemáte žádné odcházející hovory."</string>
+     <string name="recentIncoming_empty">"Nemáte žádné příchozí hovory."</string>
+     <string name="view_setting">"Náhled"</string>
+     <string name="item_all_calls">"Všechny přihlášení hovoru"</string>
+     <string name="item_sim_calls">"Přihlášení hovoru SIM %d"</string>
+     <string name="unselect_all">Zrušit výběr všech</string>
+     <string name="select_all_sprd">Vybrat vše</string>
+     <string name="doneButton">Hotovo</string>
+     <string name="cancel">Zrušit</string>
+     <string name="delete_selected_calls">"Skutečně chcete vymazat zvolené záznamy?"</string>
+     <string name="clearCallLogProgress_title">"Vymazání protokolu hovoru\u2026"</string>
+     <string name="delete_success">"Vymazání se povedlo"</string>
+     <string name="clear_all_call_log">"Vymazat všechny přihlášení hovoru"</string>
+     <string name="clear_selected_call_log">"Vymazat zvolené přihlášení hovoru"</string>
+     <string name="select_all">Vybrat vše</string>
+     <string name="unselect_all">"Zrušit všechno"</string>
+     <string name="delete_all_calls_confirm">"Chcete vymazat všechny vaše záznamy?"</string>
+     <string name="do_not_select">"Nezvolili jste záznam k odstranění"</string>
+     <string name="delete_calls">Smazat</string>
+     <string name="number_anr_isnull">"Číslo kontaktu je prázdné"</string>
+     <string name="call_recording_setting_title">"Nahrávání hovoru"</string>
+     <string name="automatic_recording_title">"Automatické nahrávání"</string>
+     <string name="dialog_phone_permission_deny">"Pro použití vytáčení IP,\n zapněte povolení telefonu."</string>
+     <string name="search_description">"Vyhledat Přihlášení hovoru"</string>
+     <string name="call_log_add_to_blacklist">"Přidat k černé listině"</string>
+     <string name="make_video_call_menu">"Uskutečnit videohovor"</string>
+
+</resources>

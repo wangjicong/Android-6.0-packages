@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--xihe add for app icon size start-->
+    <string-array name = "app_package">
+        
+    </string-array>
+    <!--jiazhenl 20160919 add classname replace,you can use app_package or app_classname -->
+    <string-array name = "app_classname">
+         <item>com.android.vending.AssetBrowserActivity</item>
+    </string-array>
+    
+    <string-array name = "app_icon">
+         <item>@drawable/google_vending</item>
+    </string-array>
+    <!--xihe add for app icon size end-->
+    
+</resources>

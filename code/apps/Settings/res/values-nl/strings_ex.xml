@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB instellingen"</string>
+<string name="usb_charge_only">"Enkel wijzigen"</string>
+<string name="usb_charge_only_summary">"Gebruik laden modus alleen wanneer USB aangesloten is"</string>
+<string name="usb_charge_only_storage_active_subtext">"Kan niet laden wanneer alleen USB-opslag in gebruik is"</string>
+<string name="usb_charge_only_notification">"Verbonden als laden enkel"</string>
+<string name="usb_storage">"USB-opslag"</string>
+<string name="usb_storage_summary">"USB-massaopslag inschakelen"</string>
+<string name="ums_settings">"UMS Instellingen"</string>
+<string name="ums_mounted_setting">"UMS aan PC koppelen, even geduld…"</string>
+<string name="ums_unmounted_setting">"UMS van PC ontkoppelen, even geduld…"</string>
+<string name="usb_virtual_drive">"USB virtuele schijf"</string>
+<string name="usb_virtual_drive_summary">"USB virtuele schijf inschakelen"</string>
+<string name="remember_choice">"Mijn keuze onthouden"</string>
+<string name="remember_choice_summary">"Mijn keuze onthouden en de volgende keer automatisch de herinnerde functie starten"</string>
+<string name="stand_by_set_changed_prompt">"Sim activering staat zal worden gewijzigd, kunt u bevestigen of u wilt doorgaan?"</string>
+<string name="not_stand_by">"VERBODEN"</string>
+<string name="primary_card_switching">"Aan het instellen\uff0ceven geduld..."</string>
+<string name="toggle_data_change_message">"Data verbinding is verwisseld op sim-kaart <xliff:g id= "NEW_DATA_CARD">%1$d</xliff:g>, zal datadoorvoer en correlatieve kosten produceren, let op"</string>
+<string name="select_primary_card">"Kies primaire kaart"</string>
+<string name="whether_switch_primary_card">"Gelieve te bevestigen om de primaire kaart te veranderen naar deze kaart?\n(Mobiele data zal ook verplaatst worden naar de kaart.)"</string>
+<string name="attention">"Attentie"</string>
+<string name="bt_softap_cannot_coexist">"Wanneer softap ingeschakeld is of aan staat,kan de bluetooth niet werken, wanneer u de bluetooth wilt gebruiken, overtuig u er alstublieft van dat de softap is ingeschakeld."</string>
+<string name="softap_bt_cannot_coexist">"Als bluetooth ingeschakeld is of opstart, kan de SoftAP niet werken, als je de SoftAP wil gebruiken, moet u ervoor zorgen dat de Bluetooth uitgeschakeld is."</string>
+<string name="softap_need_mobile_data_enabled">"Draagbare Wi-Fi hotspot heeft mobiele gegevensverbindng nodig, kan extra kosten opleveren"</string>
+<string-array name="light_color_picker">
+<item>"Groen"</item>
+<item>"Blauw"</item>
+<item>"Indigo"</item>
+<item>"Paars"</item>
+<item>"Roze"</item>
+<item>"Rood"</item>
+<item>"Geel"</item>
+</string-array>
+</resources>

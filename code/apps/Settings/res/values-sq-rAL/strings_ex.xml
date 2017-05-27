@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">Parametrat e USB</string>
+<string name="usb_charge_only">Vetëm karikim</string>
+<string name="usb_charge_only_summary">Përdor metodën vetëm karikim kur lidhet USB</string>
+<string name="usb_charge_only_storage_active_subtext">Nuk mund vetëm të karikojë kur memoria USB është në përdorim</string>
+<string name="usb_charge_only_notification">Lidhur vetëm si karikim</string>
+<string name="usb_storage">Memoria USB</string>
+<string name="usb_storage_summary">Aktivizo memorien e masës USB</string>
+<string name="ums_settings">Parametrat e UMS</string>
+<string name="ums_mounted_setting">Monto ums në PC tani, ju lutem prisni...</string>
+<string name="ums_unmounted_setting">Çmonto ums nga PC tani, ju lutem prisni...</string>
+<string name="usb_virtual_drive">Pajisja virtuale USB</string>
+<string name="usb_virtual_drive_summary">Aktivizo pajisjen virtuale USB</string>
+<string name="remember_choice">Mbaj mend zgjedhjen time</string>
+<string name="remember_choice_summary">Mbaj mend zgjedhjen time dhe fillo funksionin e mbajtur mend automatikisht herën tjetër</string>
+<string name="stand_by_set_changed_prompt">Gjendja e aktivizimit të Sim do të ndryshohet, ju lutem konfirmoni nëse doni të vazhdoni?</string>
+<string name="not_stand_by">E ndaluar</string>
+<string name="primary_card_switching">""Duke vendosur\uff0cju lutem prisni...""</string>
+<string name="toggle_data_change_message">"Lidhja e internetit ka kaluar në kartën sim <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, do të prodhojë nxjerrje të dhënash dhe tarifa përkatëse, ju lutem vini re."</string>
+<string name="select_primary_card">Zgjidh kartën primare</string>
+<string name="whether_switch_primary_card">""Ju lutem konfirmoni nëse doni ta kaloni kartën kryesore në këtë kartë?\n(Interneti celular do të kalohet gjithashtu në kartë.)""</string>
+<string name="attention">Kujdes</string>
+<string name="bt_softap_cannot_coexist">Kur softap është i aktivizuar ose i ndezur, Bluetooth nuk punon, nëse doni të përdorni Bluetooth ju lutem sigurohuni që softap është i çaktivizuar.</string>
+<string name="softap_bt_cannot_coexist">"Kur Bluetooth është i aktivizuar ose është i ndezur, softap nuk mund të punojë, nëse doni të përdorni softap, ju lutem sigurohuni që Bluetooth është i çaktivizuar."</string>
+<string name="softap_need_mobile_data_enabled">Hotspotet Wi-fi portative kanë nevojë për lidhje interneti celular, mund të krijojnë kosto të tjera.</string>
+<string-array name="light_color_picker">
+<item>jeshile</item>
+<item>Blu</item>
+<item>"Indigo"</item>
+<item>lejla</item>
+<item>"Rozë"</item>
+<item>E kuqe</item>
+<item>E verdhë</item>
+</string-array>
+</resources>

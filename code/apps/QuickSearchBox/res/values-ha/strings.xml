@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Bincika"</string>
+<string name="remove_from_history_failed">"Ba zai iya cire abu ba daga tarihi."</string>
+<string name="corpus_selection_heading">"Bincika"</string>
+<string name="menu_settings">"Bincika Tsari"</string>
+<string name="system_search_category_title">"Waya"</string>
+<string name="clear_shortcuts_summary">"Share yanke yanke ga zababbun shawarwarin bincike a kwana nan"</string>
+<string name="menu_help">"Taimako"</string>
+<string name="google_search_hint">"Binciken Google"</string>
+<string name="google_search_description">"Bayanan shawara kan binciken Google"</string>
+<string name="voice_search_hint_title">"Gwada fadin:"</string>
+</resources>

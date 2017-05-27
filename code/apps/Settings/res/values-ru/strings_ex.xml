@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"настройки USB"</string>
+<string name="usb_charge_only">"Только зарядка"</string>
+<string name="usb_charge_only_summary">"В случае подключения USB использовать режим "Только зарядка" </string>
+<string name="usb_charge_only_storage_active_subtext">"В случае использования USB-накопителя режим "Только зарядка" активировать нельзя" </string>
+<string name="usb_charge_only_notification">"Подключение функционирует только в режиме зарядного устройства"</string>
+<string name="usb_storage">USB носитель</string>
+<string name="usb_storage_summary">"Включить запоминающее устройство USB"</string>
+<string name="ums_settings">"Настройки UMS"</string>
+<string name="ums_mounted_setting">"подключите ums к ПК, пожалуйста, подождите..."</string>
+<string name="ums_unmounted_setting">"отсоедините ums от ПК, пожалуйста, подождите..."</string>
+<string name="usb_virtual_drive">"Виртуальный диск USB"</string>
+<string name="usb_virtual_drive_summary">"Подключение виртуального диска USB"</string>
+<string name="remember_choice">"Запомнить выбор"</string>
+<string name="remember_choice_summary">"запомнить мой выбор и начинать с запоминаемой функции с ледующий раз автоматически"</string>
+<string name="stand_by_set_changed_prompt">"Активация SIM  будет изменена. Продолжить?" </string>
+<string name="not_stand_by">ЗАПРЕЩЕНО</string>
+<string name="primary_card_switching">"Настройка\uff0cпожалуйста, ожидайте..."</string>
+<string name="toggle_data_change_message">"Процесс передачи данных переключен на SIM-карту <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, пожалуйста, примите во внимание, что это увеличит скорость передачи данных и приведет к возникновению связанных с этим расходов."</string>
+<string name="select_primary_card">" выбрать основную карту"</string>
+<string name="whether_switch_primary_card">"Пожалуйста, подтвердите переключение режима работы с основной карты на данную карту?\n(Данные сотовой сети также будут перемещены на новую карту)"</string>
+<string name="attention">Внимание</string>
+<string name="bt_softap_cannot_coexist">"bluetooth не работает при включенной точке WLAN ; для запуска bluetooth, отключите точку WLAN"</string>
+<string name="softap_bt_cannot_coexist">"Программная точка доступа может не работать _x005F
+при включенном режиме Bluetooth. Для использования программной точки доступа, пожалуйста, удостоверьтесь в том, что Bluetooth отключен</string>
+<string name="softap_need_mobile_data_enabled">"Для мобильной передачи данных необходима портативная беспроводная точка доступа, это может привести к дополнительным расходам."</string>
+<string-array name="light_color_picker">
+<item>"Зеленый"</item>
+<item>"Синий"</item>
+<item>"Индиго"</item>
+<item>"Фиолетовый"</item>
+<item>"Розовый"</item>
+<item>"Красный"</item>
+<item>"Желтый"</item>
+</string-array>
+</resources>

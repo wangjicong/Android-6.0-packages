@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"Сви одлазећи"</string>
+    <string name="messageAO">"Унети лозинку забране позива."</string>
+    <string name="sum_ao_enabled_indicator">"Прослеђивање свих позива"</string>
+    <string name="sum_ao_enabled">"Омогућено"</string>
+    <string name="sum_ao_disabled">"Онемогућено"</string>
+    <string name="enable_ao_forbidden">"Ваш продавач не подржава омогућавање забране свих одлазних позива"</string>
+    <string name="disable_ao_forbidden">"Ваш продавач не подржава онемогућавање забране свих одлазних позива"</string>
+    <string name="labelOI">"Одлазни међународни"</string>
+    <string name="messageOI">"Унети лозинку забране позива."</string>
+    <string name="sum_oi_enabled">"Омогућено"</string>
+    <string name="sum_oi_disabled">"Онемогућено"</string>
+    <string name="enable_oi_forbidden">"Ваш продавач не подржава омогућавање забране свих одлазних међународних позива"</string>
+    <string name="disable_oi_forbidden">"Ваш продавач не подржава онемогућавање забране свих одлазних међународних позива"</string>
+    <string name="labelOX">"Роаминг одлазних међународних позива"</string>
+    <string name="messageOX">"Унети лозинку забране позива."</string>
+    <string name="sum_ox_enabled">"Омогућено"</string>
+    <string name="sum_ox_disabled">"Онемогућено"</string>
+    <string name="enable_ox_forbidden">"Ваш продавач не подржава омогућавање забране свих одлазних међународних позива у Роамингу"</string>
+    <string name="disable_ox_forbidden">"Ваш продавач не подржава онемогућавање забране свих одлазних међународних позива у Роамингу"</string>
+    <string name="labelAI">"Сви долазећи"</string>
+    <string name="messageAI">"Унети лозинку забране позива."</string>
+    <string name="sum_ai_enabled">"Омогућено"</string>
+    <string name="sum_ai_disabled">"Онемогућено"</string>
+    <string name="enable_ai_forbidden">"Ваш продавач не подржава омогућавање забране свих долазних позива"</string>
+    <string name="disable_ai_forbidden">"Ваш продавач не подржава онемогућавање забране свих долазних позива"</string>
+    <string name="labelIR">"Долазни позиви у Роамингу"</string>
+    <string name="messageIR">"Унети лозинку забране позива."</string>
+    <string name="sum_ir_enabled">"Омогућено"</string>
+    <string name="sum_ir_disabled">"Онемогућено"</string>
+    <string name="enable_ir_forbidden">"Ваш продавач не подржава омогућавање забране свих долазних позива у Роамингу"</string>
+    <string name="disable_ir_forbidden">"Ваш продавач не подржава онемогућавање забране свих долазних позива у Роамингу"</string>
+    <string name="labelAB">"Деактивирајте све"</string>
+    <string name="messageAB">"Унети лозинку забране позива."</string>
+    <string name="sum_ab_enabled">"Омогућено"</string>
+    <string name="sum_ab_disabled">"Онемогућено"</string>
+    <string name="enable_ab_forbidden">"Ваш продавач не подржава деактивирање свега."</string>
+    <string name="disable_ab_forbidden">"Ваш продавач не подржава активирање свега."</string>
+    <string name="labelChgPwd">"Промени лозинку"</string>
+    <string name="DlgChgPwd_oldpwd">"Унети лозинку забране позива."</string>
+    <string name="DlgChgPwd_newpwd_first">"Унесите нову лозинку"</string>
+    <string name="DlgChgPwd_newpwd_last">"Потврдите нову лозинку"</string>
+    <string name="cb_pw_no_match">"Лозинке се не подударају"</string>
+    <string name="cb_pw_error">"Лозинка је неисправна"</string>
+    <string name="cb_pw_correct">"Лозинка је промењена"</string>
+    <string name="labelCB">"Ограничавање позива"</string>
+    <string name="call_barring_settings">"Подешавање забране позива"</string>
+    <string name="cb_error">"Забрана позива одбијена"</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Мрежа није укључена. Да ли желите да поставите статус мреже?"</string>
+     <string name="dialog_network_selection_title">"Пажња"</string>
+     <string name="dialog_network_selection_message">"Мобилни телефон неће одабрати друге оператере за вас у начину рада ручног одабира." Некада ћете морати урадити ручни одабир поново или променити опет на начин рада аутоматског одабира када изгубите услугу одабраног оператера. Препоручујемо да користите "Аутоматски одабир". "Да ли желите ручно одабрати мрежу?"</string>
+     <string name="network_unknown">"Непознато"</string>
+     <string name="network_inhibit">"Забрањено"</string>
+     <string name="ip_dialing_title">"IP бирање"</string>
+     <string name="ip_dialing_list_title">"Листа IP бирања"</string>
+     <string name="ip_no_number">"Недостатак IP префикса"</string>
+     <string name="ip_no_number_msg">"IP префикс није похрањен на телефону."</string>
+     <string name="ip_number_empty_loading">"IP листа је празна."</string>
+     <string name="remove">"Уклони"</string>
+     <string name="ip_number_is_too_long">"Бројеви за IP бирање не могу бити већи од 20."</string>
+     <string name="add_ip_number_str">"Ново"</string>
+     <string name="ip_dialing_num_error">"Може се снимити само 10 IP бројева"</string>
+     <string name="ip_dialing_num_repeat">"Поновите број, додавање није успело"</string>
+     <string name="menu_selected_all">"Изабери све"</string>
+     <string name="menu_select_none">"Поништи све изборе"</string>
+     <string name="doneButton">Завршено</string>
+     <string name="cancel">"Откажи"</string>
+     <string name="uplmn_setting_title">"Подешавања"</string>
+     <string name="uplmn_setting">"UPLMN поставке"</string>
+     <string name="uplmn_index">"Индекс (почиње од 0):"</string>
+     <string name="uplmn_id">"Идентификациони број:"</string>
+     <string name="uplmn_type">"Врста (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">"Молимо убаците USIM картицу и покушајте поново"</string>
+     <string name="index_error_uplmn">"Индекс је празан, покушајте поново!"</string>
+     <string name="type_is_emplty_error_uplmn">"Поље за врсту је празно, покушајте поново!"</string>
+     <string name="number_too_short_uplmn">"Идентификациони број је прекратак, покушајте поново!"</string>
+     <string name="type_is_wrong_uplmn">"Врста би требала бити 1 или 0, покушајте поново!"</string>
+     <string name="fail_uplmn">"Није успело, покушајте поново."</string>
+     <string name="set_uplmn_unsuccessful">"Постављање уплмн није успело"</string>
+     <string name="menu_new_uplmn">"Нови UPLMN"</string>
+     <string name="menu_delete_uplmn">"Избрисати UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"Број прелази капацитет sim картице!"</string>
+     <string name="delete">"Избриши"</string>
+     <string name="delete_uplmn_successfully">"Брисање uplmn је успело!"</string>
+     <string name="id_is_wrong_uplmn">"Идентификациони број мора бити подешен са бројем!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Одаберите начин мреже"</string>
+     <string name="lte_service_switch">"Подешавање, молимо сачекајте."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G Мулти Начин"</item>
+        <item>"4G/3G/2G  једини начин"</item>
+        <item>"Начин рада Само 2G"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G Мулти Начин"</item>
+        <item>"4G/3G/2G  једини начин"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"Само GSM"</item>
+        <item>"Само WCDMA"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Аутоматски)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"Подешавање брзог бирања"</string>
+     <string name="delete_fastdial">"Избришите брзо бирање"</string>
+     <string name="update_fastdial">"Ажурирајте брзо бирање"</string>
+     <string name="no_sim_text">"Молимо уметните или покрените SIM картицу."</string>
+     <string name="network_not_on">"Мрежа није укључена. Да ли желите да поставите статус мреже?"</string>
+     <string name="one_key_locked_notification">"Ова врста НИЈЕ ЗАКЉУЧАНА, Желите ли је закључати?"</string>
+     <string name="one_key_unlocked_notification">"Ова врста ЈЕ ЗАКЉУЧАНА, Желите ли је закључати?"</string>
+     <string name="one_key_unlocked">"Откључај"</string>
+     <string name="one_key_locked">"Катанац"</string>
+     <string name="one_key_operation_success">"Радња је била успешна, систем се сада мора поново подићи."</string>
+     <string name="one_key_operation_unsuccess">"Радња није успела, можете покушати поново!"</string>
+     <string name="one_key_query_unsuccess">"Врста упита simlock није успела!"</string>
+     <string name="one_key_simlock_setting">"SIMLOCK поставке"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Закључавање мреже"</item>
+        <item>"Закључавање NetworkSubset-а"</item>
+        <item>"Закључавање ServiceProvider-а"</item>
+        <item>"Корпоративно закључавање"</item>
+        <item>"Закључавање SIM картице"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Поставке забране долазних позива"</string>
+     <string name="callout_barring_settings">"Поставке забране одлазних позива"</string>
+     <string name="labelCOUT">"Забрана одлазних позива"</string>
+     <string name="labelCIN">"Забрана долазних позива"</string>
+     <string name="no_sim_text">"Молимо уметните или покрените SIM картицу."</string>
+     <string name="sim_lock_none">"Ни једна SIM картица није закључана"</string>
+     <string name="sim_lock_try_later">"Молимо покушајте касније"</string>
+     <string name="edit_and_save_fdn">"Измените FDN број"</string>
+     <string name="call_fdn_number_by_sim">"Позови"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"VT позив"</string>
+     <string name="airplane_changed_on">"Режим рада у авиону је укључен."</string>
+     <string name="number_empty">"Број је празан"</string>
+     <string name="unblock_pin2">"Деблокирати PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Унесите PUK2 за деблокирање SIM картице"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> преостали број покушаја(с))"</string>
+     <string name="oldPin2_Label">"Стари PIN2 (<xliff:g>%s</xliff:g> преостали број покушаја(с))"</string>
+     <string name="puk2_code_label">"Укуцајте код PUK2(<xliff:g>%s</xliff:g> преостали број покушаја(с))"</string>
+     <string name="promptWordOne">"Преостало&#160;"</string>
+     <string name="promptWordTwo">"&#160;пут(а)"</string>
+     <string name="adn_full">"Листа FDN-а је пуна"</string>
+     <string name="no_available_phone_accounts">"Нема доступних рачуна за звање"</string>
+     <string name="lnd_list">"LND листа"</string>
+     <string name="sdn_list">"SDN листа"</string>
+     <string name="sim_list_title">"Молимо одаберите SIM картицу"</string>
+     <string name="wait_message">"Молимо сачекајте..."</string>
+     <string name="menu_call">"Позови контакт"</string>
+     <string name="lnd_no_contact_record">"Нема LDN записа на овој SIM картици."</string>
+     <string name="sdn_no_contact_number">"Ова SIM картица не подржава SDN број."</string>
+     <string name="remove">"Уклони"</string>
+     <string name="delete_selected_contents">"Да ли сте сигурни да желите избрисати одабрани садржај?"</string>
+     <string name="sim_notready_can_not_delete">"Није могуће обрисати јер SIM картица не постоји."</string>
+     <string name="contact_del_failed">"Брисање није успело"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Да бисте подесили говорну пошту, идите у Мени &gt; Подешавања."</string>
+     <string name="simlock_unlocked">"Simlock је откључан."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"Само WCDMA"</item>
+        <item>"Само GSM"</item>
+        <item>"аутоматскo"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"Само GSM"</item>
+    </string-array>
+</resources>

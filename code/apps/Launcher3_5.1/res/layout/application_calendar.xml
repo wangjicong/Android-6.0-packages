@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+
+<com.android.launcher3.CalendarBubbleTextView xmlns:android="http://schemas.android.com/apk/res/android"
+   style="@style/WorkspaceIcon"
+   android:focusable="true" />

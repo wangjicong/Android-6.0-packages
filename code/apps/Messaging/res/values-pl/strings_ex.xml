@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Podpis"</string>
+<string name="pref_title_sms_retry_times">Włącz odzyskiwanie SMS</string>
+<string name="preference_name">"Często używany zwrot"</string>
+<string name="select">"Wybrano"</string>
+<string name="item_cancel">Anuluj</string>
+<string name="item_delete">Usuń</string>
+<string name="save_as_teltype">"Dla telefonu"</string>
+<string name="save_as_mmstype">"Dla SMS"</string>
+<string name="type_to_pharser">"Wpisz typową frazę"</string>
+<string name="add">"Dodaj"</string>
+<string name="edit">"Edytuj"</string>
+<string name="delete">Usuń</string>
+<string name="finish">"Zakończ"</string>
+<string name="cancel">Anuluj</string>
+<string name="add_pharser">"Dodaj typową frazę"</string>
+<string name="edit_pharser">"Edytuj często używany zwrot"</string>
+<string name="pharser_can_modify">"Własna fraza"</string>
+<string name="pharser_cannot_modify">"Popraw frazę"</string>
+<string name="select_item">"Wybrano."</string>
+<string name="select_commmon_phrase">Wybierz popularną frazę</string>
+<string name="common_phrase_empty">"Brak często używanych zwrotów"</string>
+<string name="action_add_phrase">"Wprowadź typową frazę"</string>
+<string name="pref_other_settings_title">"Inny"</string>
+<string-array name="fixed_mms_phrase">
+<item>Proszę o telefon pod mój numer biurowy, dziękuję.</item>
+<item>Proszę o kontakt, dziękuję.</item>
+<item>Proszę podać swoją lokalizację.</item>
+<item>Proszę o telefon pod mój numer komórkowy później, dziękuję.</item>
+<item>Byłem poza zasięgiem, po powrocie do domu zadzwonię do Ciebie.</item>
+<item>"Prowadzę, odpowiem później."</item>
+<item>"Jestem na drodze, nie mogę odebrać"</item>
+<item>Korek, spóźnię się, przepraszam.</item>
+<item>Oddzwonię później.</item>
+<item>Jestem na spotkaniu, odpowiem później.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Nie mogę rozmawiać. Co słychać?"</item>
+<item>"Za chwilę do Ciebie oddzwonię."</item>
+<item>"Zadzwonię do Ciebie później."</item>
+<item>"Nie mogę rozmawiać. Zadzwonisz później?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Proszę zadzwonić lub wysyłać sms później."</item>
+</string-array>
+</resources>

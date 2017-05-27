@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Add by SPRD for Bug:501210 2015.11.24 Start !-->
+    <color name="transparent">#00000000</color>
+    <!-- Add by SPRD for Bug:501210 2015.11.24 End !-->
+    <color name="attachment_chooser_vcalendar_background">#eeeeee</color>
+    <!-- bug 478514: Add for MmsFolderView Feature Begin -->
+    <color name="subject_label">#646464</color>
+    <color name="box_detail_date">@color/subject_label</color>
+    <color name="download_button">@color/subject_label</color>
+    <color name="color_dark">#000000</color>
+    <color name="contextmenu_item_pressed">#DDDDDD</color>
+    <!-- bug 478514: Add for MmsFolderView Feature End -->
+
+    <!-- Sprd add for sms merge forward begin -->
+    <color name="text_color_empty_list">#888888</color>
+    <color name="convresation_item_selected_background">#787878</color>
+    <color name="convresation_item_content_selected">#FFFFFF</color>
+    <color name="section_title">#757575</color>
+    <color name="convresation_item_from_read">#000000</color>
+    <color name="action_mode_background">#0288d1</color>
+    <!-- Sprd add for sms merge forward end -->
+    <!-- bug 495194 : add for search feature begin -->
+    <color name="subtitle_color_searchactivity">#0096ff</color>
+    <color name="action_bar_button_disable_text_color">#7FFFFFFF</color>
+    <color name="send_slideshow_button_enable_text_color">#0099cc</color>
+    <color name="send_slideshow_button_disable_text_color">#7F000000</color>
+    <color name="solid_white">#ffffffff</color>
+    <color name="text_shadow_color_light">#33000000</color>
+    <!-- bug 495194 : add for search feature end -->
+</resources>

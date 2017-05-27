@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <attr name="RoundProgressBar_roundColor" format="color" />
+        <attr name="RoundProgressBar_roundProgressColor" format="color" />
+        <attr name="RoundProgressBar_roundWidth" format="dimension" />
+        <attr name="RoundProgressBar_textColor" format="color" />
+        <attr name="RoundProgressBar_textSize" format="dimension" />
+        <attr name="RoundProgressBar_max" format="integer" />
+        <attr name="RoundProgressBar_textIsDisplayable" format="boolean" />
+
+        <attr name="circlelayout_radius" format="dimension" />
+        <attr name="circlelayout_offset" format="integer" />
+        
+        <attr name="hour_image1" format="reference" />
+        <attr name="minute_image1" format="reference" />
+        <attr name="second_image1" format="reference" />
+        <attr name="hour_rotate_pointX1" format="integer" />
+        <attr name="hour_rotate_pointY1" format="integer" />
+        <attr name="minute_rotate_pointX1" format="integer" />
+        <attr name="minute_rotate_pointY1" format="integer" />
+        <attr name="second_rotate_pointX1" format="integer" />
+        <attr name="second_rotate_pointY1" format="integer" />
+
+    <declare-styleable name="CircleLayout">
+
+        <attr name="circlelayout_radius" />
+        <attr name="circlelayout_offset" />
+    </declare-styleable>
+
+    <declare-styleable name="RoundProgressBar">
+        <attr name="RoundProgressBar_roundColor" />
+        <attr name="RoundProgressBar_roundProgressColor" />
+        <attr name="RoundProgressBar_roundWidth" />
+        <attr name="RoundProgressBar_textColor" />
+        <attr name="RoundProgressBar_textSize" />
+        <attr name="RoundProgressBar_max" />
+        <attr name="RoundProgressBar_textIsDisplayable" />
+        <attr name="style" />
+    </declare-styleable>
+
+    <attr name="style">
+        <enum name="FILL" value="1" />
+        <enum name="STROKE" value="0" />
+    </attr>
+
+    <declare-styleable name="ClockLayout">
+        <attr name="hour_image1" />
+        <attr name="minute_image1" />
+        <attr name="second_image1" />
+        <attr name="hour_rotate_pointX1" />
+        <attr name="hour_rotate_pointY1" />
+        <attr name="minute_rotate_pointX1" />
+        <attr name="minute_rotate_pointY1" />
+        <attr name="second_rotate_pointX1" />
+        <attr name="second_rotate_pointY1" />
+    </declare-styleable>
+
+</resources>

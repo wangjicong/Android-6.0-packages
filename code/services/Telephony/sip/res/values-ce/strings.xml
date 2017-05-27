@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sip_settings">"SIP nga mga gitakda"</string>
+<string name="sip_accounts">"SIP nga mga akawnt"</string>
+<string name="sip_accounts_title">account:</string>
+<string name="sip_receive_calls">"Nagdawat ug padung nga mga tawag"</string>
+<string name="sip_receive_calls_summary">"Naggamit ug mas daghan nga bateri"</string>
+<string name="sip_call_options_title">"Gamit ug SIP nga pagtawag"</string>
+<string name="sip_call_options_wifi_only_title">"Gamit ug SIP nga pagtawag (Wi-Fi lamang)"</string>
+<string name="sip_call_options_entry_1">"Para sa tanan nga tawag kung ang datus nga network kay magamit"</string>
+<string name="sip_call_options_entry_2">"Para lamang sa SIP nga mga tawag"</string>
+<string name="sip_call_options_wifi_only_entry_1">"Para sa tanan tawag"</string>
+<string name="add_sip_account">Dugang ug account</string>
+<string name="remove_sip_account">"Tanggala ang account"</string>
+<string name="sip_account_list">"SIP nga mga akawnt"</string>
+<string name="saving_account">"Itigum ang akawnt\u2026"</string>
+<string name="removing_account">"Tangtangun ang akawnt\u2026"</string>
+<string name="sip_menu_save">Luwas</string>
+<string name="sip_menu_discard">Ilabay</string>
+<string name="alert_dialog_close">"Isirado ang propayl"</string>
+<string name="alert_dialog_ok">"OK"</string>
+<string name="close_profile">"Sirado"</string>
+<string name="registration_status_checking_status">"Nagsusi sa kahimtang..."</string>
+<string name="registration_status_registering">" Nagrehistro\u2026"</string>
+<string name="registration_status_still_trying">"Nagsulay pa gihapon\u2026"</string>
+<string name="registration_status_not_receiving">"Walay nadawat nga mga tawag."</string>
+<string name="registration_status_no_data">"Ang pagrehistro sa akawnt kay giundang kay walay koneksyon sa Internet."</string>
+<string name="registration_status_no_wifi_data">"Ang pagrehistro sa akawnt kay giundang kay walay koneksyon sa Wi-Fi."</string>
+<string name="registration_status_not_running">"Dili malampuson ang pagrehistro sa akawnt."</string>
+<string name="registration_status_done">"Nagdawat ug tawag."</string>
+<string name="registration_status_failed_try_later">"Dili malampuson ang pagrehistro sa akawnt: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); musulay balik unya"</string>
+<string name="registration_status_invalid_credentials">"Dili malampuson ang pagrehistro sa akawnt: Satop ang username o pasword."</string>
+<string name="registration_status_server_unreachable">"Dili malampuson ang pagrehistro sa akawnt: Susiha ang ngalan sa server."</string>
+<string name="third_party_account_summary">"Kani nga akawnt kay kasamtangan nga gigamit sa <xliff:g id="account_owner" example="Google Talk">%s</xliff:g> nga app."</string>
+<string name="sip_edit_title">"Detalye sa SIP nga account"</string>
+<string name="sip_edit_new_title">"Detalye sa SIP nga account"</string>
+<string name="domain_address_title">"Server"</string>
+<string name="username_title">Username</string>
+<string name="password_title">Password</string>
+<string name="display_name_title">"Ipakita ang ngalan"</string>
+<string name="proxy_address_title">"Pagpagawas sa proxy nga adres"</string>
+<string name="port_title">"Numero sa pantalan"</string>
+<string name="transport_title">"Matang sa paghatod"</string>
+<string name="send_keepalive_title">"Ang pagpadala ipadayon nga buhi"</string>
+<string name="advanced_settings">"Mapili ra nga gitakda"</string>
+<string name="auth_username_title">"Pagpamatuod nga username"</string>
+<string name="auth_username_summary">"Gigamit nga username para sa pagpamatuod"</string>
+<string name="default_preference_summary">"&lt;Wala natakda&gt;"</string>
+<string name="display_name_summary">"&lt;Pareho sa username&gt;"</string>
+<string name="optional_summary">"&lt;Opsyunal&gt;"</string>
+<string name="advanced_settings_show">"▷ Hikapa para makita tanan"</string>
+<string name="advanced_settings_hide">"▽ Hikapa para matago tanan"</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> kay gikinahanglan ug dili mahimong walay sulod."</string>
+<string name="not_a_valid_port">"Ang numero sa pantalan kay dapat anaa sulod sa 1000 ug 65534."</string>
+<string name="no_internet_available">"Para magbutang ug SIP nga tawag, susiha ang imong Internet nga koneksyon paguna."</string>
+<string name="no_wifi_available">"Ikaw kinahanglan nga konektado sa Wi-Fi nga network para sa SIP nga mga tawag (gamit ug walay wire &amp; nga network sa mga gitakda)."</string>
+<string name="no_voip">"SIP nga pagtawag kay dili suportado"</string>
+<string name="sip_system_decide">Awtomatik</string>
+<string name="sip_always_send_keepalive">"Kanunay magpadala"</string>
+<string name="sip_connection_service_label">"Anaa na daan nga SIP nga pagtawag"</string>
+</resources>

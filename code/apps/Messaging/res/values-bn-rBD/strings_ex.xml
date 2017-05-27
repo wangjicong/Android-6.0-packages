@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">স্বাক্ষর</string>
+<string name="pref_title_sms_retry_times">SMS পুনরায় চেষ্টা সক্ষম করুন</string>
+<string name="preference_name">"প্রচলিত বাক্যাংশ"</string>
+<string name="select">"নির্বাচিত"</string>
+<string name="item_cancel">বাতিল</string>
+<string name="item_delete">মুছে দিন</string>
+<string name="save_as_teltype">"ফোনের জন্য"</string>
+<string name="save_as_mmstype">"Sms -এর জন্য"</string>
+<string name="type_to_pharser">"সাধারণ ফ্রেজ টাইপ করুন"</string>
+<string name="add">"জুড়ুন"</string>
+<string name="edit">সম্পাদন</string>
+<string name="delete">মুছে দিন</string>
+<string name="finish">"শেষ"</string>
+<string name="cancel">বাতিল</string>
+<string name="add_pharser">"সাধারণ ফ্রেজ যোগ করুন"</string>
+<string name="edit_pharser">"সাধারণ বাক্যাংশ সম্পাদনা করুন"</string>
+<string name="pharser_can_modify">"ফ্রেজ নিজস্বকরণ করুন"</string>
+<string name="pharser_cannot_modify">"ফ্রেজ নির্দিষ্ট করুন"</string>
+<string name="select_item">"আপনি বেছে নিয়েছেন"</string>
+<string name="select_commmon_phrase">সাধারণ শব্দগুচ্ছ নির্বাচন করুন</string>
+<string name="common_phrase_empty">"কোন সাধারণ বাক্যাংশ নেই"</string>
+<string name="action_add_phrase">"সাধারণ ফ্রেজ ঢোকান"</string>
+<string name="pref_other_settings_title">অন্যান্য</string>
+<string-array name="fixed_mms_phrase">
+<item>আমার অফিসে ফোন কল করুন, আপনাকে ধন্যবাদ.</item>
+<item>আমার সাথে যোগাযোগ করুন, আপনাকে ধন্যবাদ.</item>
+<item>আমার সম্পর্কে আপনার অবস্থান বলুন.</item>
+<item>পরে আমার সেল ফোন কল করুন, আপনাকে ধন্যবাদ.</item>
+<item>আমি বাড়িতে যান এবং আপনি একটি কল করা, আউট ছিল.</item>
+<item>"আমি গাড়ি চালাচ্ছি এবং পরে উত্তর দেব।"      </item>
+<item>"আমি রাস্তায়, এখুনি পৌছাব।"      </item>
+<item>ট্রাফিক জ্যাম, পরে, দুঃখিত. </item>
+<item>পরে আপনি ফিরে কল করুন.</item>
+<item>আমি একটি মিটিং আছি, পরে উত্তর দিন.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>এখন কথা বলতে পারবনা. কি খবর?</item>
+<item>আমি ঠিক পরে আপনাকে কল করব।</item>
+<item>আমি আপনাকে পরে ফোন করবো.</item>
+<item>এখন কথা বলা যাবেনা।আমাকে কি পরে কল করবেন?</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"অনুগ্রহ করে আমাকে ফোন করুন বা পরে আমাকে sms পাঠান।"</item>
+</string-array>
+</resources>

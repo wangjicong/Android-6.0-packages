@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">Carte principale:</string>
+<string name="vice_card_slot">Carte Secondaire:</string>
+<string name="record_time">"Durée d\'enregistrement :"</string>
+<string name="onscreenShowRecodText">Enregistrer</string>
+<string name="recorderr">"L\'enregistrement n\'arrive pas à être sauvegardé!"</string>
+<string name="audio_db_artist_name">"Vos enregistrements"</string>
+<string name="audio_db_album_name">"Enregistrements d\'appels"</string>
+<string name="audio_db_playlist_name">Mes enregistrements</string>
+<string name="app_name">"Application Téléphone"</string>
+<string name="error_mediadb_new_record">Impossible de sauvegarder l\'enregistrement audio</string>
+<string name="sdcard_access_error">Accès impossible à la carte SD</string>
+<string name="no_sd_card">"PAS de carte SD ou NON MONTE"</string>
+<string name="insert_sd_card">"Merci d\'insérer une carte SD"</string>
+<string name="storage_is_full">"Espace de stockage plein"</string>
+<string name="recording">"Enregistrement "</string>
+<string name="used_by_other_applications">"L\'équipement d\'enregistrement sont utilisés par d\'autres programmes, arrêter SVP le programme"</string>
+<string name="prompt_record_finish">"Le fichier d\'enregistrement a été sauvegardé"</string>
+<string name="ok">OK</string>
+<string name="permission_no_record">"Vous n\'avez pas la permission pour l\'enregistrement d\'appel"</string>
+<string name="hangup_hold_and_answer">"Raccrocher l\' appel en attente et répondre"</string>
+<string name="hangup_active_and_answer">"Raccrocher l\' appel actif et répondre"</string>
+<string name="hangup_all_and_answer">"Raccrocher tous les appels et répondre"</string>
+<string name="onActive">"Actif"</string>
+<string name="hold_current_call_and_answer">Mettre l\'appel en cours en attente et répondre</string>
+<string name="hangup_current_call_and_answer">"Raccrocher l\' appel en cours et répondre"</string>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.gallery3d.ui.FloatFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000" >
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#000000">
+    </ImageView>
+
+    <SurfaceView
+        android:id="@+id/float_surfaceview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </SurfaceView>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:orientation="vertical">
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/btn_close_win"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:src="@drawable/tp_btn_floatview_close_selector"
+                android:visibility="gone">
+            </ImageView>
+        </FrameLayout>
+        <TextView
+            android:id="@+id/video_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:gravity="center"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:textSize="12sp">
+        </TextView>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/video_load"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:lines="1"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/loading"
+        android:visibility="gone">
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+        <LinearLayout
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+            <ImageView
+                android:id="@+id/btn_back_to_normal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:src="@drawable/tp_btn_floatview_switch_selector"
+                android:visibility="gone" >
+            </ImageView>
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/btn_pause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center"
+                android:src="@drawable/tp_btn_float_play_selector"
+                android:visibility="gone" >
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/btn_pre_video"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|left"
+                android:src="@drawable/tp_btn_float_pre_selector"
+                android:visibility="gone" >
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/btn_next_video"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|right"
+                android:src="@drawable/tp_btn_float_next_selector"
+                android:visibility="gone" >
+            </ImageView>
+        </FrameLayout>
+    </LinearLayout>
+
+</com.android.gallery3d.ui.FloatFrameLayout>

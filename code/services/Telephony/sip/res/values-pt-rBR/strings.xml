@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sip_settings">"SIP ajustes"</string>
+<string name="sip_accounts">"SIP contas"</string>
+<string name="sip_accounts_title">"Contas"</string>
+<string name="sip_receive_calls">"Receber as chamadas de entrada"</string>
+<string name="sip_receive_calls_summary">"Usa mais vida de bateria"</string>
+<string name="sip_call_options_title">"Usar SIP chamada"</string>
+<string name="sip_call_options_wifi_only_title">"Usar SIP chamada (Wi-Fi apenas)"</string>
+<string name="sip_call_options_entry_1">"Para todas as chamadas quando o rede de dados é disponível"</string>
+<string name="sip_call_options_entry_2">"Apenas para SIP chamadas"</string>
+<string name="sip_call_options_wifi_only_entry_1">"Para todas as chamadas"</string>
+<string name="add_sip_account">"Adicionar conta"</string>
+<string name="remove_sip_account">"Remover conta"</string>
+<string name="sip_account_list">"SIP contas"</string>
+<string name="saving_account">"Guardando a conta\u2026"</string>
+<string name="removing_account">"Removendo a conta\u2026"</string>
+<string name="sip_menu_save">"Salvar"</string>
+<string name="sip_menu_discard">"Descartar"</string>
+<string name="alert_dialog_close">"Fechar o perfil"</string>
+<string name="alert_dialog_ok">"OK"</string>
+<string name="close_profile">"Fechar"</string>
+<string name="registration_status_checking_status">"Verificando o estado..."</string>
+<string name="registration_status_registering">"Registrando\u2026"</string>
+<string name="registration_status_still_trying">"Ainda tentando\u2026"</string>
+<string name="registration_status_not_receiving">"Não recebendo as chamadas."</string>
+<string name="registration_status_no_data">"Registração de conta parada porque há nenhuma conexão de Internet."</string>
+<string name="registration_status_no_wifi_data">"Registração de conta parada porque há nenhuma conexão de Wi-Fi."</string>
+<string name="registration_status_not_running">"Registração de conta sem sucesso."</string>
+<string name="registration_status_done">"Recebendo as chamadas."</string>
+<string name="registration_status_failed_try_later">"Registração de conta sem sucesso: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); vai tentar mais tarde"</string>
+<string name="registration_status_invalid_credentials">"Registração de conta sem sucesso: Nome ou senha de usuário incorreta."</string>
+<string name="registration_status_server_unreachable">"Registração de conta sem sucesso: Verificar o nome de servidor."</string>
+<string name="third_party_account_summary">"Esta conta é atualmente no uso por <xliff:g id="account_owner" example="Google Talk">%s</xliff:g> aplicação."</string>
+<string name="sip_edit_title">"Detalhes de conta de SIP"</string>
+<string name="sip_edit_new_title">"Detalhes de conta de SIP"</string>
+<string name="domain_address_title">"Servidor"</string>
+<string name="username_title">"Nome de usuário"</string>
+<string name="password_title">"Senha"</string>
+<string name="display_name_title">"Display nome"</string>
+<string name="proxy_address_title">"Endereço de proxy de saída"</string>
+<string name="port_title">"Número de porta"</string>
+<string name="transport_title">"Tipo de transportação"</string>
+<string name="send_keepalive_title">"Enviar manter-vivo"</string>
+<string name="advanced_settings">"Ajustes opcionais"</string>
+<string name="auth_username_title">"Nome de usuário de atenticação"</string>
+<string name="auth_username_summary">"Nome de usuário usado para autenticação"</string>
+<string name="default_preference_summary">"&lt;Não ajuste&gt;"</string>
+<string name="display_name_summary">"&lt;Igual com nome de usuário&gt;"</string>
+<string name="optional_summary">"&lt;Opcional&gt;"</string>
+<string name="advanced_settings_show">"▷ Toque para mostrar tudo"</string>
+<string name="advanced_settings_hide">"▽ Toque para esconder tudo"</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> é solicitado e não pode ser deixado em branco."</string>
+<string name="not_a_valid_port">"O número de porta deve ser dentro de 1000 e 65534."</string>
+<string name="no_internet_available">"Para colocar uma SIP chamada, verifique a sua ligação de Internet primeiro."</string>
+<string name="no_wifi_available">"Você precisa de ser ligado com um rede de Wi-Fi para as SIP chamadas (usar os ajustes de Sem Fio &amp; Rede)."</string>
+<string name="no_voip">"SIP chamada não suportada"</string>
+<string name="sip_system_decide">"Automático"</string>
+<string name="sip_always_send_keepalive">"Sempre enviar"</string>
+<string name="sip_connection_service_label">"SIP chamada interna"</string>
+</resources>

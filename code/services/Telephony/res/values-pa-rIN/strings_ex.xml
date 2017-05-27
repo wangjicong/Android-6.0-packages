@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">ਸਾਰੀਆਂ ਆਊਟਗੋਇੰਗ</string>
+    <string name="messageAO">ਕਾੱਲ ਬਾਰਿੰਗ ਪਾਸਵਰਡ ਭਰੋ।</string>
+    <string name="sum_ao_enabled_indicator">ਸਾਰੀਆਂ ਕਾਲਾਂ ਫਾਰਵਰਡ ਕਰੋ</string>
+    <string name="sum_ao_enabled">ਸਕ੍ਰਿਅ </string>
+    <string name="sum_ao_disabled">ਅਸਕ੍ਰਿਅ </string>
+    <string name="enable_ao_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਸਾਰੀਆਂ ਬਾਰਿੰਗ ਆਊਟਗੋਇੰਗ ਕਾੱਲਾਂ ਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀ ਕਰਦਾ।</string>
+    <string name="disable_ao_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਸਾਰੀਆਂ ਬਾਰਿੰਗ ਆਊਟਗੋਇੰਗ ਕਾੱਲਾਂ ਅਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ।</string>
+    <string name="labelOI">ਆਊਟਗੋਇੰਗ ਅੰਤਰਰਾਸ਼ਟਰੀ</string>
+    <string name="messageOI">ਕਾੱਲ ਬਾਰਿੰਗ ਪਾਸਵਰਡ ਭਰੋ।</string>
+    <string name="sum_oi_enabled">ਸਕ੍ਰਿਅ </string>
+    <string name="sum_oi_disabled">ਅਸਕ੍ਰਿਅ </string>
+    <string name="enable_oi_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਬਾਰਿੰਗ ਆਊਟਗੋਇੰਗ ਅੰਤਰਰਾਸ਼ਟਰੀ ਕਾੱਲ ਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀ ਕਰਦਾ।</string>
+    <string name="disable_oi_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਬਾਰਿੰਗ ਆਊਟਗੋਇੰਗ ਅੰਤਰਰਾਸ਼ਟਰੀ ਕਾੱਲ ਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀ ਕਰਦਾ।</string>
+    <string name="labelOX">ਆਊਟਗੋਇੰਗ ਅੰਤਰਰਾਸ਼ਟਰੀ ਰੋਮਿੰਗ</string>
+    <string name="messageOX">ਕਾੱਲ ਬਾਰਿੰਗ ਪਾਸਵਰਡ ਭਰੋ।</string>
+    <string name="sum_ox_enabled">ਸਕ੍ਰਿਅ </string>
+    <string name="sum_ox_disabled">ਅਸਕ੍ਰਿਅ </string>
+    <string name="enable_ox_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਬਾਰਿੰਗ ਆਊਟਗੋਇੰਗ ਅੰਤਰਰਾਸ਼ਟਰੀ ਰੋਮਿੰਗ ਕਾੱਲ ਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀ ਕਰਦਾ।</string>
+    <string name="disable_ox_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਬਾਰਿੰਗ ਆਊਟਗੋਇੰਗ ਅੰਤਰਰਾਸ਼ਟਰੀ ਰੋਮਿੰਗ ਕਾੱਲ ਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀ ਕਰਦਾ।</string>
+    <string name="labelAI">ਸਾਰੀਆਂ ਇਨਕਮਿੰਗ</string>
+    <string name="messageAI">ਕਾੱਲ ਬਾਰਿੰਗ ਪਾਸਵਰਡ ਭਰੋ।</string>
+    <string name="sum_ai_enabled">ਸਕ੍ਰਿਅ </string>
+    <string name="sum_ai_disabled">ਅਸਕ੍ਰਿਅ </string>
+    <string name="enable_ai_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਸਾਰੀਆਂ ਬਾਰਿੰਗ ਇਨਕਮਿੰਗ ਕਾੱਲਾਂ ਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀ ਕਰਦਾ।</string>
+    <string name="disable_ai_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਸਾਰੀਆਂ ਬਾਰਿੰਗ ਇਨਕਮਿੰਗ ਕਾੱਲਾਂ ਅਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀ ਕਰਦਾ।</string>
+    <string name="labelIR">ਰੋਮਿੰਗ ਵੇਲੇ ਇਨਕਮਿੰਗ ਕਾੱਲਾਂ</string>
+    <string name="messageIR">ਕਾੱਲ ਬਾਰਿੰਗ ਪਾਸਵਰਡ ਭਰੋ।</string>
+    <string name="sum_ir_enabled">ਸਕ੍ਰਿਅ </string>
+    <string name="sum_ir_disabled">ਅਸਕ੍ਰਿਅ </string>
+    <string name="enable_ir_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਰੋਮਿੰਗ ਕਾੱਲ ਦੌਰਾਨ ਬਾਰਿੰਗ ਇਨਕਮਿੰਗ ਕਾੱਲਾਂ ਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀ ਕਰਦਾ।</string>
+    <string name="disable_ir_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਰੋਮਿੰਗ ਦੌਰਾਨ ਬਾਰਿੰਗ ਇਨਕਮਿੰਗ ਕਾੱਲਾਂ ਅਸਕ੍ਰਿਅ ਕਰਨ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ।</string>
+    <string name="labelAB">"ਸਾਰਿਆਂ ਨੂੰ ਨਿਸ਼ਕ੍ਰਿਏ ਕਰੋ"</string>
+    <string name="messageAB">ਕਾੱਲ ਬਾਰਿੰਗ ਪਾਸਵਰਡ ਭਰੋ।</string>
+    <string name="sum_ab_enabled">ਸਕ੍ਰਿਅ </string>
+    <string name="sum_ab_disabled">ਅਸਕ੍ਰਿਅ </string>
+    <string name="enable_ab_forbidden">ਤੁਹਾਡਾ ਵਾਹਕ ਸਾਰਿਆਂ ਨੂੰ ਅਸਕ੍ਰਿਅ ਕਰਨ ਵਿੱਚ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ।</string>
+    <string name="disable_ab_forbidden">"ਤੁਹਾਡਾ ਕੈਰੀਅਰ ਸਾਰਿਆਂ ਨੂੰ ਸਕ੍ਰਿਏ ਕਰੋ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ।"</string>
+    <string name="labelChgPwd">ਪਾਸਵਰਡ ਬਦਲੋ</string>
+    <string name="DlgChgPwd_oldpwd">ਕਾੱਲ ਬਾਰਿੰਗ ਪਾਸਵਰਡ ਭਰੋ।</string>
+    <string name="DlgChgPwd_newpwd_first">ਨਵਾਂ ਪਾਸਵਰਡ ਭਰੋ</string>
+    <string name="DlgChgPwd_newpwd_last">ਨਵੇਂ ਪਾਸਵਰਡ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="cb_pw_no_match">ਪਾਸਵਰਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ</string>
+    <string name="cb_pw_error">ਪਾਸਵਰਡ ਗਲਤ ਹੈ</string>
+    <string name="cb_pw_correct">ਪਾਸਵਰਡ ਬਦਲ ਦਿੱਤਾ ਗਿਆ ਹੈ</string>
+    <string name="labelCB">ਕਾੱਲ ਬਾਰਿੰਗ</string>
+    <string name="call_barring_settings">ਕਾੱਲ ਬਾਰਿੰਗ ਸੈਟਿੰਗਾਂ</string>
+    <string name="cb_error">ਕਾੱਲ ਬਾਰਿੰਗ ਖਾਰਿਜ</string>
+    <!-- SPRD: function call barring support. END-->
+    <string name="network_not_on">"ਨੈਟਵਰਕ ਚਾਲੂ ਹੈ, ਕੀ ਤੁਸੀਂ ਨੈਟਵਰਕ ਸਥਿਤੀ ਸੈਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+     <string name="dialog_network_selection_title">"ਧਿਆਨ"</string>
+     <string name="dialog_network_selection_message">"ਮੋਬਾਈਲ ਫੋਨ ਮੈਨੁਅਲ ਚੋਣ ਮੋਡ ਵਿੱਚ ਤੁਹਾਡੇ ਲਈ ਹੋਰ ਓਪਰੇਟਰ ਨਹੀਂ ਚੁਣੇਗਾ। ਕਦੇ-ਕਦਾਈਂ ਤੁਹਾਨੂੰ ਮੈਨੁਅਲ ਚੋਣ ਦੁਬਾਰਾ ਕਰਨੀ ਜਾਂ ਆਟੋਮੈਟਿਕ ਚੋਣ ਮੋਡ ਵਿੱਚ ਵਾਪਸ ਬਦਲਣਾ ਪੈ ਸਕਦਾ ਹੈ, ਜਦੋਂ ਚੁਣੇ ਗਏ ਓਪਰੇਟਰ ਦੀ ਸੇਵਾ ਤੁਹਾਡੇ ਲਈ ਨਸ਼ਟ ਹੋ ਜਾਏ। ਅਸੀਂ ਸਿਫ਼ਾਰਿਸ਼ ਕਰਦੇ ਹਾਂ ਕਿ ਤੁਸੀਂ "ਆਟੋਮੈਟਿਕਲੀ ਚੁਣੋ" ਨੂੰ ਵਰਤੋ। ਕੀ ਤੁਸੀਂ ਮੈਨੁਅਲੀ ਨੈਟਵਰਕ ਚੁਣਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+     <string name="network_unknown">ਅਗਿਆਤ</string>
+     <string name="network_inhibit">"ਵਰਜਤ"</string>
+     <string name="ip_dialing_title">"IP ਡਾਇਲਿੰਗ"</string>
+     <string name="ip_dialing_list_title">IP ਡਾਇਲ ਸੂਚੀ</string>
+     <string name="ip_no_number">IP ਪ੍ਰੀਫਿਕਸ ਦੀ ਘਾਟ</string>
+     <string name="ip_no_number_msg">IP ਪ੍ਰੀਫਿਕਸ ਫੋਨ ਤੇ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਹੋਇਆ ਹੈ।</string>
+     <string name="ip_number_empty_loading">"IP ਡਾਇਲ ਸੂਚੀ ਖਾਲੀ ਹੈ।"</string>
+     <string name="remove">"ਮਿਟਾਓ"</string>
+     <string name="ip_number_is_too_long">"IP ਡਾਇਲ ਨੰਬਰ 20 ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋ ਸਕਦੇ।"</string>
+     <string name="add_ip_number_str">"ਨਵਾਂ"</string>
+     <string name="ip_dialing_num_error">ਕੇਵਲ 10 IP ਨੰਬਰ ਸੁਰੱਖਿਅਤ ਕਰ ਸਕਦਾ ਹੈ</string>
+     <string name="ip_dialing_num_repeat">ਨੰਬਰ ਦੁਹਰਾਓ, ਜੋੜਣਾ ਅਸਫਲ ਹੋ ਗਿਆ</string>
+     <string name="menu_selected_all">"ਸਾਰੇ ਚੁਣੋ"</string>
+     <string name="menu_select_none">ਸਾਰਿਆਂ ਨੂੰ ਅਨਸਲੈਕਟ ਕਰੋ</string>
+     <string name="doneButton">ਹੋ ਗਿਆ</string>
+     <string name="cancel">ਰੱਦ ਕਰੋ</string>
+     <string name="uplmn_setting_title">"ਤਰਜੀਹਾਂ"</string>
+     <string name="uplmn_setting">"UPLMN ਸੈਟਿੰਗਾਂ"</string>
+     <string name="uplmn_index">"ਇੰਡੈਕਸ (0 ਤੋਂ ਸ਼ੁਰੂ):"</string>
+     <string name="uplmn_id">"Id ਨੰਬਰ:"</string>
+     <string name="uplmn_type">"ਪ੍ਰਕਾਰ (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">ਕਿਰਪਾ ਕਰਕੇ USIM ਕਾਰਡ ਪਾਓ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+     <string name="index_error_uplmn">"ਇੰਡੈਕਸ ਖਾਲੀ ਹੈ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"</string>
+     <string name="type_is_emplty_error_uplmn">"ਪ੍ਰਕਾਰ ਖਾਲੀ ਹੈ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"</string>
+     <string name="number_too_short_uplmn">"Id ਨੰਬਰ ਬਹੁਤ ਜ਼ਿਆਦਾ ਛੋਟਾ ਹੈ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"</string>
+     <string name="type_is_wrong_uplmn">"ਪ੍ਰਕਾਰ 1 ਜਾਂ 0 ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!"</string>
+     <string name="fail_uplmn">"ਅਸਫਲ ਹੋਇਆ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+     <string name="set_uplmn_unsuccessful">"uplmn ਸੈਟ ਕਰਨਾ ਅਸਫਲ!"</string>
+     <string name="menu_new_uplmn">"ਨਵਾਂ UPLMN"</string>
+     <string name="menu_delete_uplmn">"UPLMN ਮਿਟਾਓ"</string>
+     <string name="uplmn_exceeds_capacity">"ਸੰਖਿਆ sim ਦੀ ਸਮਰੱਥਾ ਤੋਂ ਵਧ ਗਈ!"</string>
+     <string name="delete">ਮਿਟਾਓ</string>
+     <string name="delete_uplmn_successfully">"ਸਫਲਤਾਪੂਰਵਕ uplmn ਮਿਟਾਓ"</string>
+     <string name="id_is_wrong_uplmn">"ID ਇੱਕ ਨੰਬਰ ਨਾਲ ਸੈਟ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"ਨੈਟਵਰਕ ਮੋਡ ਚੁਣੋ"</string>
+     <string name="lte_service_switch">"ਸੈਟ ਕਰ ਰਿਹਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਠਹਿਰੋ..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"ਕੇਵਲ 4G/3G/2G ਮੋਡ"</item>
+        <item>"ਕੇਵਲ 3G/2G ਮੋਡ"</item>
+        <item>"ਕੇਵਲ 2G ਮੋਡ"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"ਕੇਵਲ 4G/3G/2G ਮੋਡ"</item>
+        <item>"ਕੇਵਲ 3G/2G ਮੋਡ"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"GSM ਕੇਵਲ"</item>
+        <item>WCDMA ਕੇਵਲ</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (ਆਟੋ)"</item>
+    </string-array>
+     <string name="fast_dial_settings">ਤੇਜ਼ ਡਾਇਲ ਸੈਟਿੰਗਸ</string>
+     <string name="delete_fastdial">ਤੇਜ਼ ਡਾਇਲ ਮਿਟਾਓ</string>
+     <string name="update_fastdial">ਤੇਜ਼ ਡਾਇਲ ਅਪਡੇਟ ਕਰੋ</string>
+     <string name="no_sim_text">"ਕਿਰਪਾ ਕਰਕੇ SIM ਕਾਰਡ ਪਾਓ ਜਾਂ ਲੌਂਚ ਕਰੋ"</string>
+     <string name="network_not_on">"ਨੈਟਵਰਕ ਚਾਲੂ ਹੈ, ਕੀ ਤੁਸੀਂ ਨੈਟਵਰਕ ਸਥਿਤੀ ਸੈਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+     <string name="one_key_locked_notification">"ਇਹ ਪ੍ਰਕਾਰ ਅਨਲੌਕ ਕੀਤਾ ਹੋਇਆ ਹੈ, ਕੀ ਤੁਸੀਂ ਇਸਨੂੰ ਲੌਕ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+     <string name="one_key_unlocked_notification">"ਇਹ ਪ੍ਰਕਾਰ ਲੌਕ ਕੀਤਾ ਹੋਇਆ ਹੈ, ਕੀ ਤੁਸੀਂ ਇਸਨੂੰ ਅਨਲੌਕ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"</string>
+     <string name="one_key_unlocked">ਲਾੱਕ ਖੋਲ੍ਹੋ</string>
+     <string name="one_key_locked">ਲੌਕ</string>
+     <string name="one_key_operation_success">"ਓਪਰੇਸ਼ਨ ਸਫਲ, ਹੁਣ ਰੀਬੂਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।"</string>
+     <string name="one_key_operation_unsuccess">"ਓਪਰੇਸ਼ਨ ਅਸਫਲ, ਤੁਸੀਂ ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ!"</string>
+     <string name="one_key_query_unsuccess">"ਪੁੱਛਗਿੱਛ ਸਿਮਲੌਕ ਪ੍ਰਕਾਰ ਅਸਫਲ!"</string>
+     <string name="one_key_simlock_setting">"SIMLOCK ਸੈਟਿੰਗ"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"ਨੈਟਵਰਕ ਲੌਕ"</item>
+        <item>"ਨੈਟਵਰਕ ਸਬਸੈਟ ਲੌਕ"</item>
+        <item>"ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਲੌਕ"</item>
+        <item>"ਕਾਰਪੋਰੇਟ ਲੌਕ"</item>
+        <item>"SIM ਲੌਕ"</item>
+    </string-array>
+     <string name="callin_barring_settings">"ਇਨਕਮਿੰਗ ਕਾਲ ਬੈਰਿੰਗ ਸੈਟਿੰਗਾਂ"</string>
+     <string name="callout_barring_settings">"ਆਉਟਗੋਇੰਗ ਕਾਲ ਬੈਰਿੰਗ ਸੈਟਿੰਗਾਂ"</string>
+     <string name="labelCOUT">"ਆਉਟਗੋਇੰਗ ਕਾਲ ਬੈਰਿੰਗ"</string>
+     <string name="labelCIN">"ਇਨਕਮਿੰਗ ਬੈਰਿੰਗ"</string>
+     <string name="no_sim_text">"ਕਿਰਪਾ ਕਰਕੇ SIM ਕਾਰਡ ਪਾਓ ਜਾਂ ਲੌਂਚ ਕਰੋ"</string>
+     <string name="sim_lock_none">"ਕੋਈ SIM ਲੌਕ ਨਹੀਂ ਕੀਤਾ ਗਿਆ।"</string>
+     <string name="sim_lock_try_later">"ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
+     <string name="edit_and_save_fdn">"Fdn ਨੰਬਰ ਸੰਪਾਦਿਤ ਕਰੋ"</string>
+     <string name="call_fdn_number_by_sim">"ਕਾਲ ਕਰੋ"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"VT ਕਾਲ"</string>
+     <string name="airplane_changed_on">"ਏਅਰਪਲੇਨ ਮੋਡ ਚਾਲੂ ਕੀਤਾ।"</string>
+     <string name="number_empty">"ਨੰਬਰ ਖਾਲੀ ਹੈ"</string>
+     <string name="unblock_pin2">"PIN2 ਅਨਬਲੌਕ ਕਰੋ"</string>
+     <string name="sum_fdn_unblock_pin2">"ਆਪਣਾ SIM ਕਾਰਡ ਅਨਬਲੌਕ ਕਰਨ ਲਈ PUK2 ਦਰਜ ਕਰੋ"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> ਬਾਕੀ ਕੋਸ਼ਿਸ਼(ਕੋਸ਼ਿਸ਼ਾਂ))"</string>
+     <string name="oldPin2_Label">"ਪੁਰਾਣਾ PIN2 (<xliff:g>%s</xliff:g> ਬਾਕੀ ਕੋਸ਼ਿਸ਼(ਕੋਸ਼ਿਸ਼ਾਂ))"</string>
+     <string name="puk2_code_label">"PUK2 ਕੋਡ ਟਾਈਪ ਕਰੋ (<xliff:g>%s</xliff:g> ਬਾਕੀ ਕੋਸ਼ਿਸ਼(ਕੋਸ਼ਿਸ਼ਾਂ))"</string>
+     <string name="promptWordOne">"ਬਾਕੀ&#160;"</string>
+     <string name="promptWordTwo">"&#160;ਸਮਾਂ(ਸ)"</string>
+     <string name="adn_full">FDN ਸੂਚੀ ਪੂਰੀ ਭਰੀ ਹੈ</string>
+     <string name="no_available_phone_accounts">"ਕੋਈ ਉਪਲਬਧ ਕਾਲਿੰਗ ਖਾਤੇ ਨਹੀਂ"</string>
+     <string name="lnd_list">LND ਸੂਚੀ</string>
+     <string name="sdn_list">SDN ਸੂਚੀ</string>
+     <string name="sim_list_title">ਕਿਰਪਾ ਕਰਕੇ SIM ਕਾਰਡ ਚੁਣੋ</string>
+     <string name="wait_message">ਕਿਰਪਾ ਕਰਕੇ ਠਹਿਰੋ...</string>
+     <string name="menu_call">"ਸੰਪਰਕ ਨੂੰ ਕਾਲ ਕਰੋ"</string>
+     <string name="lnd_no_contact_record">ਇਸ SIM ਕਾਰਡ ਤੇ ਕੋਈ LND ਰਿਕਾਰਡ ਨਹੀਂ।</string>
+     <string name="sdn_no_contact_number">ਇਹ SIM SDN ਨੰਬਰ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ।</string>
+     <string name="remove">"ਮਿਟਾਓ"</string>
+     <string name="delete_selected_contents">ਕੀ ਤੁਸੀਂ ਚੁਣੇ ਗਏ ਸੰਪਰਕਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+     <string name="sim_notready_can_not_delete">ਕਿਉਂਕਿ sim ਕਾਰਡ ਤਿਆਰ ਨਹੀਂ ਹੈ, ਇਸ ਲਈ ਮਿਟਾ ਨਹੀਂ ਸਕਦਾ।</string>
+     <string name="contact_del_failed">"ਸਾਰੇ ਮਿਟਾਓ"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"ਵੌਇਸਮੇਲ ਸੈਟ ਅਪ ਕਰਨ ਲਈ, ਮੀਨੂ &gt; ਸੈਟਿੰਗਾਂ ਤੇ ਜਾਓ।"</string>
+     <string name="simlock_unlocked">"Simlock ਅਨਲੌਕ ਕੀਤਾ ਗਿਆ ਹੈ।"</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>WCDMA ਕੇਵਲ</item>
+        <item>"GSM ਕੇਵਲ"</item>
+        <item>ਸਵੈ</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"GSM ਕੇਵਲ"</item>
+    </string-array>
+</resources>

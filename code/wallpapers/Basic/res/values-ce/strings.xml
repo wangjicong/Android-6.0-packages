@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpapers">Android Live Wallpapers</string>
+<string name="wallpaper_walkaround">Kita lapos lapos</string>
+<string name="wallpaper_walkaround_desc">Makita lapos lapos ang telepono ug lakaw maski asa dili ka ma aksidente.</string>
+<string name="wallpaper_clock">Polar nga relo</string>
+<string name="wallpaper_clock_desc">Nagpakita sa petsa ug oras nga nagpa balik sa arco nga: bulan, adlaw, oras, minuto, ug segundo. </string>
+<string name="clock_settings">Polar orasan nga mga setting</string>
+<string name="show_seconds">Ipakita ang segundo</string>
+<string name="variable_line_width">Nagka lain lain nga bagting </string>
+<string name="palette">Color paleta</string>
+<string name="palette_gray">Plantsa</string>
+<string name="palette_violet">"tunga nga gabie"</string>
+<string name="palette_matrix">Berdeng Iskrin</string>
+<string name="palette_white_c">Polar Bear (dynamic)</string>
+<string name="palette_black_c">Itom nga buslot (dynamic)</string>
+<string name="palette_halloween">Kalbasa nga Pie</string>
+<string name="palette_zenburn">Dayuhang salad na prutas</string>
+<string name="palette_oceanic">Bughaw na Laser</string>
+</resources>

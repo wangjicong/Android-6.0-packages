@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP 拨号设置"</string>
+    <string name="ip_dial_menu">"IP 拨号"</string>
+    <string name="ip_dialing_title">"IP 拨号"</string>
+    <string name="dialog_phone_permission_deny">要使用IP拨号设置，请开启“电话”权限</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE -->
+    <string name="fast_dial_title">"快速拨号设置"</string>
+    <string name="no_fast_dial_number">"当前按键未设置快速拨号号码。"</string>
+    <!-- @} -->
+    <!-- SPRD: Flip to silence from incoming calls. See bug473877 -->
+    <string name="incomingcall_flipping_silence_title">来电翻转静音</string>
+    <!-- SPRD: FILTER CALL LOG TYPE FEATURE. @{ -->
+    <string name="call_log_outgoing_title">"已拨电话"</string>
+    <string name="call_log_incoming_title">"已接电话"</string>
+    <string name="recentOutgoing_empty">"您没有任何已拨电话。"</string>
+    <string name="recentIncoming_empty">"您没有任何已接来电。"</string>
+    <!-- SPRD: FILTER CALL LOGS BY SIM FEATURE. @{ -->
+    <string name="view_setting">"查看"</string>
+    <string name="item_all_calls">"所有通话记录"</string>
+    <string name="item_sim_calls">"SIM%d 通话记录"</string>
+    <!-- @} -->
+    <!-- SPRD: Add identification for sim card  @{ -->
+    <string name="sim">"SIM"</string>
+    <!-- SPRD: CLEAR CALL LOG FEATURE. @{ -->
+    <string name="unselect_all">"全部不选中"</string>
+    <string name="select_all_sprd">"全部选中"</string>
+    <string name="doneButton">"完成"</string>
+    <string name="cancel">"取消"</string>
+    <string name="delete_selected_calls">"您确定要删除全部选中的记录吗？"</string>
+    <string name="clearCallLogProgress_title">"删除所有通话记录\u2026"</string>
+    <string name="delete_success">"删除成功"</string>
+    <string name="clear_all_call_log">"删除所有通话记录"</string>
+    <string name="clear_selected_call_log">"删除全部选中的通话记录"</string>
+    <string name="select_all">"全选"</string>
+    <string name="unselect_all">"取消全选"</string>
+    <string name="delete_all_calls_confirm">"您确定要删除全部选中的记录吗？"</string>
+    <string name="do_not_select">您没有选择要删除的记录</string>
+    <string name="delete_calls">"删除"</string>
+    <!-- @} -->
+
+    <!-- SPRD: Bug494062 Show Toast  -->
+    <string name="number_anr_isnull">"联系人号码为空"</string>
+
+    <!-- SPRD: add for search call log in google search box feature @{ -->
+    <string name="search_description">"搜索通话记录"</string>
+    <!-- @} -->
+
+    <!-- SPRD: AUTOMATIC RECORD FEATURE. @{ -->
+    <string name="call_recording_setting_title">"通话录音"</string>
+    <string name="automatic_recording_title">"自动录音"</string>
+    <!-- @} -->
+    <!-- SPRD: add for blacklist. -->
+    <string name="call_log_add_to_blacklist">"添加至黑名单"</string>
+
+    <!-- SPRD: modify for bug 512521 show Toast -->
+    <string name="no_available_number">"无可用号码"</string>
+
+    <!-- SPRD: add for bug501696 -->
+    <string name="make_video_call_menu">"发起视频通话"</string>
+    <!-- SPRD: add for bug515612 -->
+    <string name="error_permissions">"此应用缺少运行所需的必要权限。请检查您的权限设置。"</string>
+    <string name="dialpad_multi_call_menu">"会议电话"</string>
+    <string name="cound_not_make_mutil_call">"无法发起多方通话"</string>
+    <!-- SPRD: vibration feedback for call connection. See bug#505177 @{ -->
+    <string name="vibration_feedback_for_call_connection_setting_title">"通话连接提示"</string>
+    <string name="vibration_feedback_for_call_connection_title">"去电连接后发出振动反馈"</string>
+    <!-- @} -->
+    <string name="emergency_call">"紧急呼叫"</string>
+
+    <!-- SUN:jicong.wang add for at list -->
+    <string name="show_mmiVersion_hint" >软件版本号：</string>
+    <string name="open_factoryTest_hint">工厂测试：</string>
+    <string name="open_engineerMode_hint">工程测试：</string>
+    <string name="open_bootselect_hint">多套开关机：</string>
+    <string name="open_AgingTest_hint">老化测试：</string>
+    <string name="open_setimei_hint">Imei:</string>
+    <string name="open_SalesTracker_hint">销量统计：</string>
+    <string name="open_sensorsid_hint">外设信息：</string>   
+    <!-- SUN:jicong.wang add for at list -->     
+</resources>

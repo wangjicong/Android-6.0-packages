@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB सेटिंग्ज"</string>
+<string name="usb_charge_only">"फक्त चार्ज"</string>
+<string name="usb_charge_only_summary">"USB कनेक्ट केले असतानाच केवळ चार्ज करा"</string>
+<string name="usb_charge_only_storage_active_subtext">"USB स्टोरेज वापरात असताना चार्ज करता येणार नाही"</string>
+<string name="usb_charge_only_notification">"फक्त चार्ज म्हणून जोडले गेले"</string>
+<string name="usb_storage">"USB स्टोअरेज"</string>
+<string name="usb_storage_summary">"USB मास स्टोरेज एनेबल करा"</string>
+<string name="ums_settings">"UMS सेटिंग्ज"</string>
+<string name="ums_mounted_setting">"ums आता पीसीवर लावा, कृपया प्रतीक्षा करा ..."</string>
+<string name="ums_unmounted_setting">"ums आता पीसी पासून अनारोहित करा, कृपया प्रतीक्षा करा ..."</string>
+<string name="usb_virtual_drive">"USB आभासी ड्राइव्ह"</string>
+<string name="usb_virtual_drive_summary">"USB आभासी ड्राइव्ह सक्षम करा"</string>
+<string name="remember_choice">"माझी निवड लक्षात ठेवा"</string>
+<string name="remember_choice_summary">"माझी निवड लक्षात ठेवा आणि आपोआप पुढच्या वेळी आठवण कार्य सुरू करा"</string>
+<string name="stand_by_set_changed_prompt">"Sim एक्टिव्हेशन स्टेट बदलली जाईल, कृपया सुरू ठेवायचे का, हे कन्फर्म करा"</string>
+<string name="not_stand_by">"फॉर्बिडन"</string>
+<string name="primary_card_switching">"सेटिंग\uff0cकृपया प्रतिक्षा करा..."</string>
+<string name="toggle_data_change_message">"डेटा कनेक्शन <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g> sim कार्डवर स्विच झाले आहे, ते डेटा व्यवहार करेल व त्याला संबंधित शुल्क लागेल ह्याची कृपया नोंद घ्या."</string>
+<string name="select_primary_card">"प्राथमिक कार्ड निवडा"</string>
+<string name="whether_switch_primary_card">"कृपया पुष्टी करा की प्राथमिक कार्ड या कार्डला स्विच करायचे का?\n(सेल्युलर डेटाही या कार्डवर स्थानांतरीत होईल.)"</string>
+<string name="attention">"लक्ष द्या"</string>
+<string name="bt_softap_cannot_coexist">"जेव्हा सॉफ्टॅप सक्षम असतो किंवा चालू केलेला असतो, ब्ल्युटूथ काम करू शकत नाही, जर आपल्याला ब्ल्युटूथ वापरायचे असेल, कृपया सॉफ्टॅप अक्षम असल्याची निश्चिती करा."</string>
+<string name="softap_bt_cannot_coexist">"जेव्हा ब्ल्यूटूथ एनेबल असेल किंवा ऑन असेल, तेव्हा सॉफ्टॅप काम करू शकणार नाही. जर आपल्याला सॉफ्टॅप वापरायचे असेल, तर ब्ल्यूटूथ डिसेबल आहे, ह्याची खात्री करा."</string>
+<string name="softap_need_mobile_data_enabled">"पोर्टेबल WI-FI हॉट स्पॉट साठी मोबाइल डेटा कनेक्ट आवश्यक असल्याने ते अतिरिक्त खर्च निर्माण करतात."</string>
+<string-array name="light_color_picker">
+<item>"हिरवा"</item>
+<item>"निळा"</item>
+<item>"नीळ"</item>
+<item>"जांभळा"</item>
+<item>"गुलाबी"</item>
+<item>"लाल"</item>
+<item>"पिवळा"</item>
+</string-array>
+</resources>

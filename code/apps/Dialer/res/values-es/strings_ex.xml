@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Configuracion de marcacion IP"</string>
+    <string name="ip_dial_menu">"IP DIAL"</string>
+    <string name="ip_dialing_title">Marcación IP</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Configuracion de marcacion rapida"</string>
+    <string name="no_fast_dial_number">"No se ha enviado numero de marcacion rapida."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"Salientes"</string>
+     <string name="call_log_incoming_title">Entrante</string>
+     <string name="recentOutgoing_empty">"No tiene llamadas salientes."</string>
+     <string name="recentIncoming_empty">"No tiene llamadas entrantes."</string>
+     <string name="view_setting">Ver</string>
+     <string name="item_all_calls">Todos los registros de llamadas</string>
+     <string name="item_sim_calls">Registro de llamadas SIM%d</string>
+     <string name="unselect_all">Desmarcar todo</string>
+     <string name="select_all_sprd">Seleccionar</string>
+     <string name="doneButton">Hecho</string>
+     <string name="cancel">Cancelar</string>
+     <string name="delete_selected_calls">"¿Está seguro en borrar los registros seleccionados?"</string>
+     <string name="clearCallLogProgress_title">"Eliminación del registro de llamadas\u2026"</string>
+     <string name="delete_success">"Eliminado con éxito"</string>
+     <string name="clear_all_call_log">Borrar todos los registrs de llamadas</string>
+     <string name="clear_selected_call_log">Borrar los registros de llamadas seleccionados</string>
+     <string name="select_all">Seleccionar</string>
+     <string name="unselect_all">Desmarcar todos</string>
+     <string name="delete_all_calls_confirm">Desea borrar todos los registros?</string>
+     <string name="do_not_select">"No escogio un registro para borrar"</string>
+     <string name="delete_calls">Borrar</string>
+     <string name="number_anr_isnull">"El número de contacto esta vacío"</string>
+     <string name="call_recording_setting_title">"Grabación de llamadas"</string>
+     <string name="automatic_recording_title">"Grabación automática"</string>
+     <string name="dialog_phone_permission_deny">"Para usar el dial IP,\n encender el permiso del teléfono."</string>
+     <string name="search_description">Buscar registros de llamadas</string>
+     <string name="call_log_add_to_blacklist">añadir a lista negra</string>
+     <string name="make_video_call_menu">"Hacer videollamada"</string>
+
+</resources>

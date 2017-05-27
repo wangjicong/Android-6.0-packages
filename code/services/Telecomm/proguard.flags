@@ -1,0 +1,11 @@
+-verbose
+-keep @com.android.internal.annotations.VisibleForTesting class *
+-keep class com.android.server.telecom.TelecomSystem {
+  *;
+}
+-keep class com.android.server.telecom.Log {
+  *;
+}
+-keep class com.android.server.telecom.CallState {*;}
+-keep class com.android.server.telecom.Ringer {*;}
+-keep class com.android.server.telecom.CallsManager {*;}

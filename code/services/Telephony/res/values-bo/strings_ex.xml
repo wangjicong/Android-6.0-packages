@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">ཚང་མ་ཕྱིར་འབོད།</string>
+    <string name="messageAO">ཨང་འབོད་ལ་གསང་ཨང་གི་ཚད་བཀག་འདུག</string>
+    <string name="sum_ao_enabled_indicator">ཁ་པར་ཡོང་ཚད་བརྒྱུད་ལེན།</string>
+    <string name="sum_ao_enabled">འགོ་སློང་ཟིན།</string>
+    <string name="sum_ao_disabled">མི་ཆོག་པ།</string>
+    <string name="enable_ao_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་ཕྱིར་འབོད་ནུས་པ་ཚང་མར་ཚད་བཀག་འགོ་སློང་བའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="disable_ao_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་ཕྱིར་འབོད་ནུས་པ་ཚང་མར་ཚད་བཀག་འགོག་པའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="labelOI">རྒྱལ་སྤྱིའི་ཐག་རིང་སྐད་འབོད།</string>
+    <string name="messageOI">ཨང་འབོད་ལ་གསང་ཨང་གི་ཚད་བཀག་འདུག</string>
+    <string name="sum_oi_enabled">འགོ་སློང་ཟིན།</string>
+    <string name="sum_oi_disabled">མི་ཆོག་པ།</string>
+    <string name="enable_oi_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་རྒྱལ་སྤྱིའི་ཐག་རིང་སྐད་འབོད་ནུས་པ་ཚང་མར་ཚད་བཀག་འགོ་སློང་བའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="disable_oi_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་རྒྱལ་སྤྱིའི་ཐག་རིང་སྐད་འབོད་ནུས་པ་ཚང་མར་ཚད་བཀག་འགོག་པའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="labelOX">རྒྱལ་སྤྱིའི་རྒྱང་རིང་འཁྱམ་མྱུལ་ཕྱིར་འབོད།</string>
+    <string name="messageOX">ཨང་འབོད་ལ་གསང་ཨང་གི་ཚད་བཀག་འདུག</string>
+    <string name="sum_ox_enabled">འགོ་སློང་ཟིན།</string>
+    <string name="sum_ox_disabled">མི་ཆོག་པ།</string>
+    <string name="enable_ox_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་རྒྱལ་སྤྱིའི་ཐག་རིང་མྱུལ་བའི་སྐད་འབོད་ནུས་པ་ཚང་མར་ཚད་བཀག་འགོ་སློང་བའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="disable_ox_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་རྒྱལ་སྤྱིའི་ཐག་རིང་མྱུལ་བའི་སྐད་འབོད་ནུས་པ་ཚང་མར་ཚད་འགོག་པའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="labelAI">ཁ་པར་ཡོང་ཚད།</string>
+    <string name="messageAI">ཨང་འབོད་ལ་གསང་ཨང་གི་ཚད་བཀག་འདུག</string>
+    <string name="sum_ai_enabled">འགོ་སློང་ཟིན།</string>
+    <string name="sum_ai_disabled">མི་ཆོག་པ།</string>
+    <string name="enable_ai_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་ཁ་པར་ཡོང་ཚད་ཀྱི་ནུས་པ་ཚང་མར་ཚད་བཀག་འགོ་སློང་བའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="disable_ai_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་ཁ་པར་ཡོང་ཚད་ཀྱི་ནུས་པ་ཚང་མར་ཚད་བཀག་འགོག་པའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="labelIR">མྱུལ་བའི་སྐབས་ཁ་པར་ཡོང་བ།</string>
+    <string name="messageIR">ཨང་འབོད་ལ་གསང་ཨང་གི་ཚད་བཀག་འདུག</string>
+    <string name="sum_ir_enabled">འགོ་སློང་ཟིན།</string>
+    <string name="sum_ir_disabled">མི་ཆོག་པ།</string>
+    <string name="enable_ir_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་མྱུལ་བའི་སྐབས་ཁ་པར་ཡོང་བའི་ནུས་པ་ཚང་མར་ཚད་བཀག་འགོ་སློང་བའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="disable_ir_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་མྱུལ་བའི་སྐབས་ཁ་པར་ཡོང་བའི་ནུས་པ་ཚང་མར་ཚད་བཀག་འགོག་པའི་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="labelAB">ཡོད་ཚད་སྐྱུར་བ།</string>
+    <string name="messageAB">ཨང་འབོད་ལ་གསང་ཨང་གི་ཚད་བཀག་འདུག</string>
+    <string name="sum_ab_enabled">འགོ་སློང་ཟིན།</string>
+    <string name="sum_ab_disabled">མི་ཆོག་པ།</string>
+    <string name="enable_ab_forbidden">ཁྱེད་ཀྱི་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱིས་སྐད་འབོད་ཚད་བཀག་ཡོད་ཚད་སྐྱུར་བར་རྒྱབ་སྐྱོར་མེད།</string>
+    <string name="disable_ab_forbidden">"ཁྱེད་ཀྱི་ཚོང་གཉེར་པས་མཐའ་དག་གྲུང་པོར་སྐུལ་བར་རྒྱབ་སྐྱོར་མི་བྱེད།"</string>
+    <string name="labelChgPwd">གསང་ཨང་བཟོ་བཅོས།</string>
+    <string name="DlgChgPwd_oldpwd">ཨང་འབོད་ལ་གསང་ཨང་གི་ཚད་བཀག་འདུག</string>
+    <string name="DlgChgPwd_newpwd_first">གསང་ཨང་གསར་པ་ནང་འཇུག</string>
+    <string name="DlgChgPwd_newpwd_last">གསང་ཨང་གསར་པ་གཏན་འཁེལ།</string>
+    <string name="cb_pw_no_match">གསང་ཨང་ཟླ་སྒྲིག་མེད།</string>
+    <string name="cb_pw_error">གསང་ཨང་ནོར་འདུག</string>
+    <string name="cb_pw_correct">གསང་ཨང་སྒྱུར་ཟིན།</string>
+    <string name="labelCB">སྐད་འབོད་ཚད་བཀག</string>
+    <string name="call_barring_settings">སྐད་འབོད་ཚད་བཀག</string>
+    <string name="cb_error">སྐད་འབོད་ཚད་བཀག་དང་ལེན་མི་བྱེད་པ།</string>
+    <!-- SPRD: function call barring support. END-->
+
+</resources>

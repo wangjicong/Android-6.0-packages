@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"التوقيع"</string>
+<string name="pref_title_sms_retry_times">تفعيل إعادة محاولة SMS</string>
+<string name="preference_name">"عبارة شائعة"</string>
+<string name="select">"تم الاختيار"</string>
+<string name="item_cancel">"إلغاء"</string>
+<string name="item_delete">"حذف"</string>
+<string name="save_as_teltype">"للهاتف"</string>
+<string name="save_as_mmstype">"للرسائل النصية"</string>
+<string name="type_to_pharser">"اكتب عبارة شائعة"</string>
+<string name="add">إضافة</string>
+<string name="edit">تعديل</string>
+<string name="delete">"حذف"</string>
+<string name="finish">"انتهاء"</string>
+<string name="cancel">"إلغاء"</string>
+<string name="add_pharser">"أضف عبارة شائعة"</string>
+<string name="edit_pharser">"تحرير العبارات الشائعة"</string>
+<string name="pharser_can_modify">"عبارة مخصصة"</string>
+<string name="pharser_cannot_modify">"إصلاح عبارة"</string>
+<string name="select_item">"لقد اخترت"</string>
+<string name="select_commmon_phrase">اختيار العبارة الشائعة</string>
+<string name="common_phrase_empty">"لا توجد عبارات شائعة"</string>
+<string name="action_add_phrase">"إدخال عبارة شائعة"</string>
+<string name="pref_other_settings_title">"أخرى"</string>
+<string-array name="fixed_mms_phrase">
+<item>يرجى الاتصال بهاتف مكتبي، وشكرا لكم.</item>
+<item>يرجى الاتصال بي، وشكرا لكم.</item>
+<item>من فضلك قل لي الموقع الخاص بك.</item>
+<item>يرجى الاتصال بهاتفي الخلوي في وقت لاحق، وشكرا لكم.</item>
+<item>كنت خارج، سوف اتصل بك حين عودتي.</item>
+<item>"أنا أقود الآن و سأرد عليك فيما بعد."</item>
+<item>"أنا في الطريق الآن، و حالا سأصل."</item>
+<item>ازدحام المرور، في وقت لاحق، آسف.</item>
+<item>سوف اتصل  بك  في وقت لاحق.</item>
+<item>أنا في اجتماع سوف اتصل بك في وقت لاحق.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"لا يمكنني التحدث الآن. ماذا هناك؟"</item>
+<item>"سأعاود الاتصال بك."</item>
+<item>"سأتصل بك لاحقًا."</item>
+<item>"لا يمكنني التحدث الآن. اتصل بي لاحقًا."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"يرجى الاتصال بي أو إرسال رسالة نصية لي لاحقا."</item>
+</string-array>
+</resources>

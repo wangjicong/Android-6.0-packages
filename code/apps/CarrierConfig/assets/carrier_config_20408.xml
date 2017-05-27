@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <string name="vmnumber">1233</string>
+        <string name="roamingvm">+31612001233</string>
+    </carrier_config>
+    <carrier_config pnn="simyo">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Simyo</string>
+    </carrier_config>
+    <carrier_config spn="simyo">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Simyo</string>
+    </carrier_config>
+    <carrier_config spn="Ortel NL">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Ortel NL</string>
+        <string name="vmnumber">1233</string>
+        <string name="roamingvm">+31612001233</string>
+    </carrier_config>
+    <carrier_config spn="Vectone">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Vectone</string>
+    </carrier_config>
+    <carrier_config spn="Lebara">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Lebara</string>
+        <string name="vmnumber">1233</string>
+        <string name="roamingvm">+31619001233</string>
+    </carrier_config>
+    <carrier_config spn="Hi">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Hi</string>
+    </carrier_config>
+    <carrier_config spn="Rabo Mobiel">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Rabo Mobiel</string>
+    </carrier_config>
+</carrier_config_list>

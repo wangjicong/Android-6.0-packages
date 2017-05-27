@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPRD: add for 9830 -->
+<resources>
+    <dimen name="empty_message_top_padding">0dp</dimen>
+    <dimen name="empty_message_bottom_padding">0dp</dimen>
+</resources>

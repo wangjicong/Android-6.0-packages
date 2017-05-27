@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">"Ralat kamera"</string>
+<string name="cannot_connect_camera">"Tidak boleh menyambung kepada kamera."</string>
+<string name="camera_disabled">"Kamera telah dilumpuhkan kerana dasar keselamatan."</string>
+<string name="camera_label">"Kamera"</string>
+<string name="video_camera_label">"Kamkorder"</string>
+<string name="gallery_camera_bucket_name">"Gambar kamera"</string>
+<string name="gallery_camera_videos_bucket_name">"Video kamera"</string>
+<string name="wait">"Sila tunggu..."</string>
+<string name="no_storage" product="nosdcard">"Lekapkan storan USB sebelum menggunakan kamera."</string>
+<string name="no_storage" product="default">"Masukkan kad SD sebelum menggunakan kamera."</string>
+<string name="not_enough_space" product="nosdcard">"Simpanan USB anda penuh."</string>
+<string name="not_enough_space" product="default">"Kad SD anda penuh."</string>
+<string name="preparing_sd" product="nosdcard">"Menyediakan storan USB..."</string>
+<string name="preparing_sd" product="default">"Menyediakan kad SD..."</string>
+<string name="access_sd_fail" product="nosdcard">"Tidak dapat mengakses storan USB."</string>
+<string name="access_sd_fail" product="default">"Tidak dapat mengakses kad SD."</string>
+<string name="confirm_restore_title">"Pulihkan lalai"</string>
+<string name="confirm_restore_message">"Pulihkan tetapan lalai Kamera?"</string>
+<string name="review_play">"Main"</string>
+<string name="review_cancel">Batal</string>
+<string name="review_ok">Selesai</string>
+<string name="review_retake">"Ambil semula"</string>
+<string name="camera_gallery_photos_text">"Galeri"</string>
+<string name="switch_camera_id">Tukar Kamera</string>
+<string name="time_lapse_title">"Rakaman selang masa"</string>
+<string name="pref_camera_id_title">"Pilih kamera"</string>
+<string name="pref_camera_id_entry_back">Undur</string>
+<string name="pref_camera_id_entry_front">"Depan"</string>
+<string name="pref_camera_recordlocation_title">"Lokasi stor"</string>
+<string name="pref_camera_recordlocation_entry_off">"Matikan"</string>
+<string name="pref_camera_recordlocation_entry_on">"Hidupkan"</string>
+<string name="pref_video_quality_title">"Kualiti video"</string>
+<string name="pref_video_time_lapse_frame_interval_title">"Selang masa berlalu"</string>
+<string name="pref_camera_settings_category">"Tetapan kamera"</string>
+<string name="pref_camcorder_settings_category">"Tetapan kamkorder"</string>
+<string name="pref_camera_picturesize_title">"Saiz gambar"</string>
+<string name="pref_camera_picturesize_entry_2592x1936">"5M piksel"</string>
+<string name="pref_camera_picturesize_entry_2048x1536">"3M piksel"</string>
+<string name="pref_camera_picturesize_entry_1600x1200">"2M piksel"</string>
+<string name="pref_camera_picturesize_entry_1280x960">"1.3M piksel"</string>
+<string name="pref_camera_picturesize_entry_1024x768">"1M piksel"</string>
+<string name="pref_camera_focusmode_title">"Mod fokus"</string>
+<string name="pref_camera_focusmode_entry_auto">Auto</string>
+<string name="pref_camera_focusmode_entry_infinity">"INFINITI"</string>
+<string name="pref_camera_focusmode_entry_macro">"MAKRO"</string>
+<string name="pref_camera_flashmode_title">"MOD DENYAR"</string>
+<string name="pref_camera_flashmode_entry_auto">Auto</string>
+<string name="pref_camera_flashmode_entry_on">"Hidupkan"</string>
+<string name="pref_camera_flashmode_entry_off">"Matikan"</string>
+<string name="pref_camera_whitebalance_title">"IMBANGAN PUTIH"</string>
+<string name="pref_camera_whitebalance_entry_auto">Auto</string>
+<string name="pref_camera_whitebalance_entry_incandescent">"PIJAR"</string>
+<string name="pref_camera_whitebalance_entry_daylight">"SIANG HARI"</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">"PENDARFLUOR"</string>
+<string name="pref_camera_whitebalance_entry_cloudy">"MENDUNG"</string>
+<string name="pref_camera_scenemode_title">"Mod pemandangan"</string>
+<string name="pref_camera_scenemode_entry_auto">Auto</string>
+<string name="pref_camera_scenemode_entry_action">"TINDAKAN"</string>
+<string name="pref_camera_scenemode_entry_night">"MALAM"</string>
+<string name="pref_camera_scenemode_entry_sunset">"Matahari Terbenam"</string>
+<string name="pref_camera_scenemode_entry_party">"PARTI"</string>
+<string name="not_selectable_in_scene_mode">"Tidak boleh dipilih dalam mod pemandangan."</string>
+<string name="pref_restore_title">"Tetapan kamera"</string>
+<string name="pref_restore_detail">"Pulihkan lalai"</string>
+<string name="pref_exposure_title">"DEDAHAN"</string>
+<string name="dialog_ok">OK</string>
+<string name="spaceIsLow_content" product="nosdcard">"Storan USB anda kehabisan ruang. Tukar tetapan mutu atau padamkan beberapa imej atau fail lain."</string>
+<string name="spaceIsLow_content" product="default">"Kad SD anda kehabisan ruang. Tukar tetapan mutu atau padamkan beberapa imej atau fail lain."</string>
+<string name="video_reach_size_limit">"Had saiz dicapai."</string>
+<string name="switch_to_camera_label">"Bertukar kepada kamera"</string>
+<string name="switch_to_video_label">"Tukar kepada video"</string>
+<string name="switch_to_panorama_label">"Tukar kepada panorama"</string>
+<string name="share_picture_via">"Kongsi gambar melalui"</string>
+<string name="share_video_via">"Kongsi video melalui"</string>
+<string name="no_picture_to_share">"Tiada gambar untuk dikongsi."</string>
+<string name="no_video_to_share">"Tiada video untuk dikongsi."</string>
+<string name="pano_too_fast_prompt">"Trlalu cepat"</string>
+<string name="pano_dialog_prepare_preview">"Menyediakan panorama"</string>
+<string name="pano_dialog_panorama_failed">"Tidak dapat menyimpan panorama."</string>
+<string name="pano_dialog_title">"Panorama"</string>
+<string name="pano_capture_indication">"Menangkap gambar panorama"</string>
+<string name="pano_review_saving_indication_str">"Menyimpan…"</string>
+<string name="tap_to_focus">"Sentuh untuk memfokus."</string>
+<string name="pref_video_effect_title">"Kesan"</string>
+<string name="effect_none">"Tiada"</string>
+<string name="effect_goofy_face_squeeze">"Picit"</string>
+<string name="effect_goofy_face_big_eyes">"Mata besar"</string>
+<string name="effect_goofy_face_big_mouth">"Mulut besar"</string>
+<string name="effect_goofy_face_small_mouth">"Mulut kecil"</string>
+<string name="effect_goofy_face_big_nose">"Hidung besar"</string>
+<string name="effect_goofy_face_small_eyes">"Mata kecil"</string>
+<string name="effect_backdropper_space">"Di angkasa"</string>
+<string name="effect_backdropper_sunset">"Matahari Terbenam"</string>
+<string name="effect_backdropper_gallery">"Pilih milik anda."</string>
+<string name="bg_replacement_message">"Setkan peranti anda ke bawah\nLangkah keluar dari pandangan untuk seketika"</string>
+<string name="not_selectable_in_effect">"Tidak boleh dipilih apabila kesan dihidupkan."</string>
+<string name="video_snapshot_hint">"Ambil foto semasa merakam video dengan menyentuh skrin sebelumnya."</string>
+<string name="disable_video_snapshot_hint">"Petikan video dilumpuhkan apabila kesan khas dihidupkan."</string>
+<string name="clear_effects">"Padamkan kesan"</string>
+<string name="effect_silly_faces">"MUKA BODOH"</string>
+<string name="effect_background">"Latar belakang"</string>
+<string name="accessibility_shutter_button">"Butang pengatup"</string>
+<string name="accessibility_review_thumbnail">"Foto paling terbaru"</string>
+<string name="accessibility_camera_picker">"Suis kamera depan dan belakang"</string>
+<string name="accessibility_mode_picker">"Pemilih kamera, video atau panorama"</string>
+<string name="accessibility_second_level_indicators">"Lagi kawalan tetapan"</string>
+<string name="accessibility_back_to_first_level">"Tutup kawalan tetapan"</string>
+<string name="accessibility_zoom_control">"Kawalan zum"</string>
+<string name="accessibility_decrement">"Pengurangan %1$s"</string>
+<string name="accessibility_increment">"Tingkatkan %1$s"</string>
+<string name="accessibility_switch">"%1$s suis"</string>
+</resources>

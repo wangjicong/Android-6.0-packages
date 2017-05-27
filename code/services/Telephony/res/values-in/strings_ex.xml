@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"Semua yang keluar"</string>
+    <string name="messageAO">"Masukkan kata sandi pembatas telepon."</string>
+    <string name="sum_ao_enabled_indicator">"Meneruskan semua panggilan"</string>
+    <string name="sum_ao_enabled">"Aktifkan"</string>
+    <string name="sum_ao_disabled">nonaktif</string>
+    <string name="enable_ao_forbidden">"Operator Anda tidak mendukung mengaktifkan pembatasan semua panggilan keluar."</string>
+    <string name="disable_ao_forbidden">"Operator Anda tidak mendukung penonaktifan pembatasan semua panggilan keluar."</string>
+    <string name="labelOI">"Panggilan keluar internasional"</string>
+    <string name="messageOI">"Masukkan kata sandi pembatas telepon."</string>
+    <string name="sum_oi_enabled">"Aktifkan"</string>
+    <string name="sum_oi_disabled">nonaktif</string>
+    <string name="enable_oi_forbidden">"Operator Anda tidak mendukung mengaktifkan pembatasan semua panggilan internasional keluar."</string>
+    <string name="disable_oi_forbidden">"Operator Anda tidak mendukung penonaktifan pembatasan panggilan keluar internasional."</string>
+    <string name="labelOX">"Roaming panggilan keluar internasional"</string>
+    <string name="messageOX">"Masukkan kata sandi pembatas telepon."</string>
+    <string name="sum_ox_enabled">"Aktifkan"</string>
+    <string name="sum_ox_disabled">nonaktif</string>
+    <string name="enable_ox_forbidden">"Operator Anda tidak mendukung mengaktifkan pembatasan semua panggilan roaming internasional keluar."</string>
+    <string name="disable_ox_forbidden">"Operator Anda tidak mendukung penonaktifan pembatasan panggilan keluar pada saat roaming."</string>
+    <string name="labelAI">"Semua yang masuk"</string>
+    <string name="messageAI">"Masukkan kata sandi pembatas telepon."</string>
+    <string name="sum_ai_enabled">"Aktifkan"</string>
+    <string name="sum_ai_disabled">nonaktif</string>
+    <string name="enable_ai_forbidden">"Operator Anda tidak mendukung mengaktifkan pembatasan semua panggilan masuk."</string>
+    <string name="disable_ai_forbidden">"Operator Anda tidak mendukung penonaktifan pembatasan semua panggilan masuk."</string>
+    <string name="labelIR">Panggilan masuk ketika roaming</string>
+    <string name="messageIR">"Masukkan kata sandi pembatas telepon."</string>
+    <string name="sum_ir_enabled">"Aktifkan"</string>
+    <string name="sum_ir_disabled">nonaktif</string>
+    <string name="enable_ir_forbidden">"Operator Anda tidak mendukung mengaktifkan pembatasan semua panggilan masuk saat roaming."</string>
+    <string name="disable_ir_forbidden">"Operator Anda tidak mendukung penonaktifan pembatasan panggilan masuk pada saat roaming."</string>
+    <string name="labelAB">"Matikan semua"</string>
+    <string name="messageAB">"Masukkan kata sandi pembatas telepon."</string>
+    <string name="sum_ab_enabled">"Aktifkan"</string>
+    <string name="sum_ab_disabled">nonaktif</string>
+    <string name="enable_ab_forbidden">"Operator Anda tidak mendukung penonaktifan semua."</string>
+    <string name="disable_ab_forbidden">"Operator Anda tidak mendukung pengaktifan semua."</string>
+    <string name="labelChgPwd">"Ubah sandi"</string>
+    <string name="DlgChgPwd_oldpwd">"Masukkan kata sandi pembatas telepon."</string>
+    <string name="DlgChgPwd_newpwd_first">"Masukkan kata sandi baru"</string>
+    <string name="DlgChgPwd_newpwd_last">Konfirmasi kata sandi baru</string>
+    <string name="cb_pw_no_match">"Kata sandi tidak cocok"</string>
+    <string name="cb_pw_error">"Kata sandi tidak benar"</string>
+    <string name="cb_pw_correct">"Kata sandi telah diubah"</string>
+    <string name="labelCB">"Pemblokiran panggilan"</string>
+    <string name="call_barring_settings">"Pemblokiran panggilan"</string>
+    <string name="cb_error">"Pemblokiran panggilan ditolak"</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Jaringan tidak aktif, Apakah Anda ingin mengatur status jaringan?"</string>
+     <string name="dialog_network_selection_title">Peringatan</string>
+     <string name="dialog_network_selection_message">Ponsel tidak akan memilih operator lain untuk Anda dalam mode seleksi manual. Kadang-kadang Anda harus melakukan seleksi manual lagi atau berubah kembali ke seleksi otomatis ketika Anda kehilangan layanan dari operator. Kami menyarankan Anda menggunakan Pilih otomatis ". Apakah Anda ingin memilih jaringan secara manual?"</string>
+     <string name="network_unknown">"Tidak diketahui"</string>
+     <string name="network_inhibit">DILARANG</string>
+     <string name="ip_dialing_title">IP memanggil</string>
+     <string name="ip_dialing_list_title">Daftar IP Dial</string>
+     <string name="ip_no_number">"Kekurangan dari IP prefix"</string>
+     <string name="ip_no_number_msg">"IP prefix tidak tersimpan di telepon"</string>
+     <string name="ip_number_empty_loading">"Daftar panggilan IP tidak ada"</string>
+     <string name="remove">"Hapus"</string>
+     <string name="ip_number_is_too_long">"Nomor panggilan IP tidak dapat lebih besar dari 20." </string>
+     <string name="add_ip_number_str">"Baru"</string>
+     <string name="ip_dialing_num_error">Hanya dapat menyimpan 10 nomor IP</string>
+     <string name="ip_dialing_num_repeat">Ulangi nomor, penambahan gagal</string>
+     <string name="menu_selected_all">pilih semua</string>
+     <string name="menu_select_none">Batal pilih semua</string>
+     <string name="doneButton">Selesai</string>
+     <string name="cancel">"Batal"</string>
+     <string name="uplmn_setting_title">"Preferensi"</string>
+     <string name="uplmn_setting">"Pengaturan UPLMN"</string>
+     <string name="uplmn_index">"Indeks (dimulai dari 0):"</string>
+     <string name="uplmn_id">"Nomor ID:"</string>
+     <string name="uplmn_type">"Tipe (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">Silahkan masukan kartu USIM dan coba lagi</string>
+     <string name="index_error_uplmn">"Tidak ada indeks. cobalah kembali!"</string>
+     <string name="type_is_emplty_error_uplmn">"Tidak ada tipe. cobalah kembali!"</string>
+     <string name="number_too_short_uplmn">"Nomor Id terlalu singkat, cobalah kembali!"</string>
+     <string name="type_is_wrong_uplmn">"Tipe harus 1 atau 0. cobalah kembali!"</string>
+     <string name="fail_uplmn">"Gagal dan cobalah kembali."</string>
+     <string name="set_uplmn_unsuccessful">"Pengaturan uplmn tidak berhasil!"</string>
+     <string name="menu_new_uplmn">"UPLMN baru"</string>
+     <string name="menu_delete_uplmn">"Menghapus UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"Jumlah melebihi kapasitas sim!"</string>
+     <string name="delete">"Hapus"</string>
+     <string name="delete_uplmn_successfully">"Berhasil menghapus uplmn"</string>
+     <string name="id_is_wrong_uplmn">"ID harus di atur dengan nomor!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Pilih mode jaringan"</string>
+     <string name="lte_service_switch">"Mengatur, silahkan tunggu..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G Multi Mode"</item>
+        <item>"3G/2G Mode tunggal"</item>
+        <item>"Hanya mode 2G"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G Multi Mode"</item>
+        <item>"3G/2G Mode tunggal"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"GSM saja"</item>
+        <item>"WCDMA saja"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Otomatis)"</item>
+    </string-array>
+     <string name="fast_dial_settings">Pengaturan putar cepat</string>
+     <string name="delete_fastdial">hapus panggilan cepat</string>
+     <string name="update_fastdial">perbarui panggilan cepat</string>
+     <string name="no_sim_text">"SIlahkan masukkan atau meluncurkan kartu SIM" </string>
+     <string name="network_not_on">"Jaringan tidak aktif, Apakah Anda ingin mengatur status jaringan?"</string>
+     <string name="one_key_locked_notification">""Tipe ini tidak terkunci, Apakah anda mau menguncinya?"</string>
+     <string name="one_key_unlocked_notification">""Tipe ini terkunci, apakah anda mau tidak menguncinya?"</string>
+     <string name="one_key_unlocked">"Buka kunci"</string>
+     <string name="one_key_locked">"Gembok"</string>
+     <string name="one_key_operation_success">"Pengerjaan berhasil, butuh memulai ulang sekarang."</string>
+     <string name="one_key_operation_unsuccess">"Pengerjaan tidak berhasil, anda dapat mengulangi lagi!"</string>
+     <string name="one_key_query_unsuccess">"Permintaan jenis kunci sim gagal!"</string>
+     <string name="one_key_simlock_setting">"Pengaturan kUNCISIM"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Kunci Jaringan"</item>
+        <item>"Kunci JaringanSubset"</item>
+        <item>"Kunci PenyediaLayanan"</item>
+        <item>"Kunci Bersama"</item>
+        <item>"Kunci SIM"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Pengaturan pembatasan panggilan masuk"</string>
+     <string name="callout_barring_settings">"Pengaturan pembatasan panggilan keluar"</string>
+     <string name="labelCOUT">"Pembatasan panggilan keluar"</string>
+     <string name="labelCIN">"Pembatasan panggilan masuk"</string>
+     <string name="no_sim_text">"SIlahkan masukkan atau meluncurkan kartu SIM" </string>
+     <string name="sim_lock_none">"Tidak ada SIM terkunci"</string>
+     <string name="sim_lock_try_later">"Silahkan ulangi lagi nanti."</string>
+     <string name="edit_and_save_fdn">Edit Nomor Fdn</string>
+     <string name="call_fdn_number_by_sim">"Telepon"</string>
+     <string name="vt_call_fdn_numberr_by_sim">Panggilan VT</string>
+     <string name="airplane_changed_on">"Mode pesawat diaktifkan."</string>
+     <string name="number_empty">"Nomor tidak ada"</string>
+     <string name="unblock_pin2">"Tidak memblokir PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Masukkan PUK2 untuk memblokir kartu SIM anda"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> mencoba bersisa)"</string>
+     <string name="oldPin2_Label">"PIN2 yang lama(<xliff:g>%s</xliff:g> mencoba bersisa)"</string>
+     <string name="puk2_code_label">Tipe kode PUK2 (<xliff:g>%s</xliff:g> mencoba bersisa.)"</string>
+     <string name="promptWordOne">"Tersisa&#160;"</string>
+     <string name="promptWordTwo">"&#160;waktu(d)"</string>
+     <string name="adn_full">AND penuh</string>
+     <string name="no_available_phone_accounts">"Tidak terdapat akun terhubung"</string>
+     <string name="lnd_list">"Daftar LND"</string>
+     <string name="sdn_list">"Daftar SDN"</string>
+     <string name="sim_list_title">Silakan pilih kartu SIM</string>
+     <string name="wait_message">Harap tunggu...</string>
+     <string name="menu_call">"Kontak panggilan"</string>
+     <string name="lnd_no_contact_record">Tidak ada data LND di kartu SIM ini.</string>
+     <string name="sdn_no_contact_number">Kartu SIM ini tidak mendukung nomor SDN.</string>
+     <string name="remove">"Hapus"</string>
+     <string name="delete_selected_contents">Apakah Anda ingin menghapus konten yang dipilih?</string>
+     <string name="sim_notready_can_not_delete">Karena kartu sim belum siap, jadi tidak dapat dihapus.</string>
+     <string name="contact_del_failed">Penghapusan Gagal</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Untuk menyiapkan kotak pesan, buka Menu &gt; Setelan."</string>
+     <string name="simlock_unlocked">"Kunci sim telah tidak terkunci."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"WCDMA saja"</item>
+        <item>"GSM saja"</item>
+        <item>"Otomatis"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"GSM saja"</item>
+    </string-array>
+</resources>

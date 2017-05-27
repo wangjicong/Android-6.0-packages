@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/open_speed_context_menu_id"
+      android:title="@string/open"/>
+    <item android:id="@+id/edit_speed_context_menu_id"
+      android:title="@string/edit"/>
+    <item android:id="@+id/delete_speed_context_menu_id"
+      android:title="@string/delete"/>
+</menu>

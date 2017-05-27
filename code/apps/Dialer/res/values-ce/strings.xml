@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="applicationLabel">telepono</string>
+<string name="launcherActivityLabel">telepono</string>
+<string name="dialerIconLabel">telepono</string>
+<string name="recentCallsIconLabel">"Kaagi sa tawag"</string>
+<string name="recentCalls_callNumber">"Tawag <xliff:g id="name">%s</xliff:g> "</string>
+<string name="call_detail_menu_report">"I-sumbong ang dili tukma nga numero"</string>
+<string name="recentCalls_editNumberBeforeCall">"Usbon ang numero usa mutawag"</string>
+<string name="recentCalls_addToContact">"I-dugang ngadto sa kontak"</string>
+<string name="recentCalls_removeFromRecentList">"Papasa gikan sa history sa tawag"</string>
+<string name="recentCalls_deleteAll">"Hawani ang history sa tawag"</string>
+<string name="recentCalls_trashVoicemail">"Panason ang voicemail"</string>
+<string name="recentCalls_shareVoicemail">"Ibahin ang voicemail"</string>
+<string name="recentCalls_empty">"Ang imong listahan sa tawag walay sulod"</string>
+<string name="recentCalls_empty_action">"Himu ug tawag"</string>
+<string name="clearCallLogConfirmation_title">"Hawani ang history sa tawag?"</string>
+<string name="clearCallLogConfirmation">"Kini mopapas sa tanang mga tawag sa imong history"</string>
+<string name="clearCallLogProgress_title">"Paghawan sa history sa tawag\u2026"</string>
+<string name="notification_action_voicemail_play">Andar</string>
+<string name="notification_voicemail_callers_list">"<xliff:g id="newer_callers">%1$s</xliff:g>, <xliff:g id="older_caller">%2$s</xliff:g> "</string>
+<string name="notification_new_voicemail_ticker">"Bag-o nga voicemail gikan kang <xliff:g id="caller">%1$s</xliff:g> "</string>
+<string name="voicemail_playback_error">"Dili mapatukar ang voicemail"</string>
+<string name="voicemail_buffering">"Nagkarga\u2026"</string>
+<string name="voicemail_fetching_content">"Nagkarga sa voicemail\u2026"</string>
+<string name="voicemail_fetching_timout">"Dili makakarga sa voicemail"</string>
+<string name="call_log_voicemail_header">"Mga tawag nga anaay voicemail lang"</string>
+<string name="call_log_incoming_header">"Sumusulod nga mga tawag lang"</string>
+<string name="call_log_outgoing_header">"Gumagawas nga mga tawag lang"</string>
+<string name="call_log_missed_header">"Nasipyat nga mga tawag lang"</string>
+<string name="visual_voicemail_title">"Makita nga voicemail"</string>
+<string name="visual_voicemail_text">"Tan-aw ug paminaw sa imong voicemail, nga dili kinahanglan motawag og numero. Ang mga gastos sa data mo-aplay. "</string>
+<string name="visual_voicemail_settings">Mga setting</string>
+<string name="voicemail_status_voicemail_not_available">"Ang pag-apdeyt sa Voicemail dili makuha"</string>
+<string name="voicemail_status_messages_waiting">"Bag-o nga voicemail naghulat. Dili pa makarga karon dayon."</string>
+<string name="voicemail_status_configure_voicemail">"Itakda up ang imong voicemail"</string>
+<string name="voicemail_status_audio_not_available">"Walay awdyo nga makuha"</string>
+<string name="voicemail_status_action_configure">"Itakda"</string>
+<string name="voicemail_status_action_call_server">"Tawagi ang voicemail"</string>
+<string name="call_log_item_count_and_date">"(<xliff:g id="count">%1$d</xliff:g>) <xliff:g id="date">%2$s</xliff:g> "</string>
+<string name="sms_disambig_title">"Pili ug numero"</string>
+<string name="call_disambig_title">"Pili ug numero"</string>
+<string name="make_primary">"Hinumdumi ang gipili"</string>
+<string name="description_search_button">Pangita</string>
+<string name="description_dial_button">"dayal"</string>
+<string name="description_digits_edittext">"numero para idayal"</string>
+<string name="description_playback_start_stop">"Padagan o hunong ang pagpadagan balik"</string>
+<string name="description_playback_speakerphone">"Ipagana o ipawng ang ispiker sa telepono"</string>
+<string name="description_playback_seek">"Pangita ug padagan balik nga posisyon"</string>
+<string name="description_rate_decrease">"Ubusan ang pagpadagan balik nga bili"</string>
+<string name="description_rate_increase">"Patasan ang pagpadagan balik nga bili"</string>
+<string name="action_menu_call_history_description">"Kaagi sa tawag"</string>
+<string name="action_menu_overflow_description">Daghang mga opsyon</string>
+<string name="action_menu_dialpad_button">"dayal nga pad"</string>
+<string name="menu_copy">"kopya"</string>
+<string name="menu_show_outgoing_only">"Ipakita ang gumagawas lang"</string>
+<string name="menu_show_incoming_only">"Ipakita ang sumusulod lang"</string>
+<string name="menu_show_missed_only">"Ipakita ang nasipyat lang"</string>
+<string name="menu_show_voicemails_only">"Ipakita ang mga voicemail lang"</string>
+<string name="menu_show_all_calls">"Ipakita tanan tawag"</string>
+<string name="add_2sec_pause">"Pagdugang ug 2 ka sugondo nga hunong"</string>
+<string name="add_wait">"Pagdugang ug huwat"</string>
+<string name="dialer_settings_label">Mga setting</string>
+<string name="menu_newContact">"Bago nga kontak"</string>
+<string name="menu_allContacts">Tanan mga kontak</string>
+<string name="callDetailTitle">"Detalye sa tawag"</string>
+<string name="toast_call_detail_error">"Mga detalye dili makuha"</string>
+<string name="dialer_useDtmfDialpad">"Gamita ang keypad nga anaay panghikap nga tono"</string>
+<string name="dialer_returnToInCallScreen">"Ibalik sa tawag nga nagpadayon"</string>
+<string name="dialer_addAnotherCall">"Pagdugang ug tawag"</string>
+<string name="type_incoming">"Sumusulod nga tawag"</string>
+<string name="type_outgoing">"Gumagawas nga tawag"</string>
+<string name="type_missed">"Nasipyat nga tawag"</string>
+<string name="type_incoming_video">"Papasulod nga bidyo nga tawg"</string>
+<string name="type_outgoing_video">"Papagawas nga bidyo nga tawag"</string>
+<string name="type_missed_video">"Wala magka-abot nga bidyo nga tawag"</string>
+<string name="type_voicemail">Voicemail</string>
+<string name="actionIncomingCall">"Sumusulod nga mga tawag"</string>
+<string name="description_call_log_play_button">"Ipadagan ang voicemail"</string>
+<string name="description_view_contact">"Tanawa ang kontak <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_call">"Tawag <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_contact_details">"Kontak sa detalye para sa <xliff:g id="nameOrNumber">%1$s</xliff:g>"</string>
+<string name="description_new_voicemail">"Bag-o nga tingog nga suwat."</string>
+<string name="description_num_calls">"<xliff:g id="numberOfCalls">%1$s</xliff:g> mga tawag."</string>
+<string name="description_video_call">"Bidyo nga mga tawag."</string>
+<string name="description_send_text_message">"Ipadala ang SMS ngadto ni <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_call_log_unheard_voicemail">"Dili mabati nga voicemail"</string>
+<string name="description_start_voice_search">"Sugdan ang pagpangita sa voice"</string>
+<string name="menu_callNumber">"Tawag <xliff:g id="number">%s</xliff:g>"</string>
+<string name="unknown">Wala mailhan</string>
+<string name="voicemail">Voicemail</string>
+<string name="private_num">"Pribado nga numero"</string>
+<string name="payphone">"May bayad nga telepono"</string>
+<string name="callDetailsShortDurationFormat">"<xliff:g id="seconds" example="28">%s</xliff:g> ka gutling"</string>
+<string name="callDetailsDurationFormat">"<xliff:g id="minutes" example="42">%s</xliff:g> ka minuto <xliff:g id="seconds" example="28">%s</xliff:g> ka gutling"</string>
+<string name="dialog_phone_call_prohibited_message">"Dili makatawag niini nga numero"</string>
+<string name="dialog_voicemail_not_ready_message">"Para makatakda ug tingog nga suwat, ngadto sa Pilianan &gt; Mga gitakda."</string>
+<string name="dialog_voicemail_airplane_mode_message">"Para mutawag sa voicemail, ipawng paguna ang moda sa eruplano."</string>
+<string name="contact_list_loading">Nagload\u2026</string>
+<string name="imei">"IMEI"</string>
+<string name="simContacts_emptyLoading">"Nagkarga gikan sa SIM nga kard\u2026"</string>
+<string name="simContacts_title">"SIM kard nga mga kontak"</string>
+<string name="add_contact_not_available">"Walay kontak nga app nga makuha"</string>
+<string name="voice_search_not_available">"Pagpangita sa tingog dili makuha"</string>
+<string name="call_not_available">"Dili makahimo ug telepono nga tawag kay ang Telepono nga aplikasyon kay gipawng."</string>
+<string name="activity_not_available">"Walay app para niana niini nga kahimanan"</string>
+<string name="dialer_hint_find_contact">"I-entra ang pangalan ug numero sa telepono"</string>
+<string name="recentMissed_empty">"Wala kay sipyat nga mga tawag."</string>
+<string name="recentVoicemails_empty">"Ang imong inbox sa imong voicemail walay sulod."</string>
+<string name="show_favorites_only">"Ipakita ang mga paborito lang"</string>
+<string name="call_log_activity_title">"Kasaysayan"</string>
+<string name="call_log_all_title">Tanan</string>
+<string name="call_log_missed_title">"Nawala"</string>
+<string name="call_log_voicemail_title">Voicemail</string>
+<string name="tab_speed_dial">"Paspas nga pagdayal"</string>
+<string name="tab_recents">"Bag-o"</string>
+<string name="tab_all_contacts">Mga kontak</string>
+<string name="tab_voicemail">Voicemail</string>
+<string name="favorite_hidden">"Tangtangun sa mga paborito"</string>
+<string name="favorite_hidden_undo">"IBALIK"</string>
+<string name="search_shortcut_call_number">"Tawag <xliff:g id="number">%s</xliff:g> "</string>
+<string name="search_shortcut_create_new_contact">Himu ug bago nga kontak</string>
+<string name="search_shortcut_add_to_contact">"I-dugang ngadto sa kontak"</string>
+<string name="search_shortcut_send_sms_message">"Magpadala ug SMS"</string>
+<string name="search_shortcut_make_video_call">"Maghimo ug bidyo nga tawag"</string>
+<string name="show_call_history">"Tanawa ang tibuok tawag nga kaagi"</string>
+<string name="num_missed_calls">"<xliff:g id="number">%s</xliff:g> ka bago nga mga nasipyat nga tawag"</string>
+<string name="speed_dial_empty">"Wala pay bisa\'g usa nga anaa sa imong speed dial"</string>
+<string name="speed_dial_empty_add_favorite_action">"Pagdugang og paborito"</string>
+<string name="all_contacts_empty">"Wala ka pay bisa\'g usa ka kontak"</string>
+<string name="all_contacts_empty_add_contact_action">"Pagdugang og kontak"</string>
+<string name="contact_tooltip">"Hikapa ang imahe aron makita ang tanang mga numero o hikapa ug dugay aron han-ayon."</string>
+<string name="remove_contact">"Tangtang"</string>
+<string name="call_log_action_video_call">Video tawag</string>
+<string name="call_log_action_send_message">"Magpadala ug mensahe"</string>
+<string name="call_log_action_details">"Detalye sa tawag"</string>
+<string name="call_log_action_call">"Tawag <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g> "</string>
+<string name="description_incoming_missed_call">"Sipyat nga tawag gikan ni <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g>, <xliff:g id="typeOrLocation" example="Mobile">^2</xliff:g>, <xliff:g id="timeOfCall" example="2 min ago">^3</xliff:g>, <xliff:g id="phoneAccount" example="on SIM 1">^4</xliff:g>."</string>
+<string name="description_incoming_answered_call">"Tawag nga natubag gikan kang <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g>, <xliff:g id="typeOrLocation" example="Mobile">^2</xliff:g>, <xliff:g id="timeOfCall" example="2 min ago">^3</xliff:g>, <xliff:g id="phoneAccount" example="on SIM 1">^4</xliff:g>."</string>
+<string name="description_outgoing_call">"Tawag ngadto kang <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g>, <xliff:g id="typeOrLocation" example="Mobile">^2</xliff:g>, <xliff:g id="timeOfCall" example="2 min ago">^3</xliff:g>, <xliff:g id="phoneAccount" example="on SIM 1">^4</xliff:g>."</string>
+<string name="description_phone_account">"on <xliff:g id="phoneAccount" example="SIM 1">^1</xliff:g>"</string>
+<string name="description_call_log_call_action">"Tawag"</string>
+<string name="description_call_action">"Tawag <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g> "</string>
+<string name="description_video_call_action">" Tawag nga may Bidyo <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g>. "</string>
+<string name="description_voicemail_action">" Paminaw sa voicemail gikan ni <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g> "</string>
+<string name="description_voicemail_play">" Ipatukar ang voicemail gikan ni <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g> "</string>
+<string name="description_voicemail_pause">" Ipahunong ang voicemail gikan ni <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g> "</string>
+<string name="description_voicemail_delete">" Papasa ang voicemail nga gikan ni <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g> "</string>
+<string name="description_create_new_contact_action">" Pagmugna og kontak para ni <xliff:g  id="nameOrNumber" example="John Smith">^1</xliff:g> "</string>
+<string name="description_add_to_existing_contact_action">" Idugang <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g> sa nahaunang kontak"</string>
+<string name="description_details_action">"Detalye sa tawag para ni <xliff:g id="nameOrNumber" example="John Smith">^1</xliff:g> "</string>
+<string name="toast_entry_removed">"gipapas gikan sa history sa tawag"</string>
+<string name="call_log_header_today">"Karon"</string>
+<string name="call_log_header_yesterday">"gahapon"</string>
+<string name="call_log_header_other">Mas daan</string>
+<string name="call_detail_list_header">"Listahan para sa mga tawag"</string>
+<string name="voicemail_speaker_on">"Ipagana ang ispiker."</string>
+<string name="voicemail_speaker_off">"Pawngon ang ispiker."</string>
+<string name="voicemail_play_faster">"Ipadagan ug paspas."</string>
+<string name="voicemail_play_slower">"Ipadagan ug hinay."</string>
+<string name="voicemail_play_start_pause">"Sugod o hunong sa pagpadagan balik."</string>
+<string name="display_options_title">Mga opsyon sa pagpakita</string>
+<string name="sounds_and_vibration_title">"Mga tingog ug dahunog"</string>
+<string name="accessibility_settings_title">"Pagkaaccess"</string>
+<string name="ringtone_title">"Ringtone sa phone"</string>
+<string name="vibrate_on_ring_title">""Uy-og sad para sa mga tawag"</string>
+<string name="dtmf_tone_enable_title">"Tono sa mga dayal nga pad"</string>
+<string name="dtmf_tone_length_title">"Gitas-on sa tono sa Dialpad"</string>
+<string-array name="dtmf_tone_length_entries">
+<item>"Kasagaran"</item>
+<item>"Taas"</item>
+</string-array>
+<string name="respond_via_sms_setting_title">"Paspas nga mga tubag"</string>
+<string name="call_settings_label">"Mga tawag"</string>
+<string name="phone_account_settings_label">"Telepono nga akawnt nga mga gitakda"</string>
+<string name="permission_single_turn_on">"I-on"</string>
+<string name="permission_multiple_turn_on">"Itakda ang mga pagtugot"</string>
+<string name="permission_no_speeddial">"Aron mapagana ang speed dial,\n i-ON ang pagtugot sa mga Kontak."</string>
+<string name="permission_no_calllog">"Aron tan-awon ang imong listahan sa tawag,\n i-ON ang pagtugot sa Telepono."</string>
+<string name="permission_no_contacts">"Aron makita ang imong mga kontak,\n i-ON ang pagtugot sa mga Kontak."</string>
+<string name="permission_no_voicemail">"Aron ma-akses ang imong voicemail,\n i-ON ang pagtugot sa Telepono."</string>
+<string name="permission_no_search">"Aron pangitaon ang imong mga kontak, i-ON ang pagtugot sa mga Kontak."</string>
+<string name="permission_place_call">"Aron ka makatawag,\n  i-ON ang pagtugot sa Telepono."</string>
+<string name="toast_cannot_write_system_settings">"Ang app sa telepono walay pagtugot nga mosulat ngadto sa sistema sa mga seting."</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/white_circle_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@+id/btn_left" android:background="@drawable/left_btn_bg" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_centerVertical="true" />
+    <Button android:id="@+id/btn_right" android:background="@drawable/right_btn_bg" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <android.support.v4.view.ViewPager android:id="@+id/clock_container" android:layout_width="@dimen/clock_chose_view_width" android:layout_height="@dimen/clock_chose_view_height" android:layout_marginTop="40.0dip" android:layout_centerInParent="true" />
+    <TextView android:textSize="18sp"
+    	android:textColor="#ff000000"
+    	android:id="@+id/tv_clock_title"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:layout_marginTop="@dimen/choose_clock_title_marginTop"
+    	android:layout_centerHorizontal="true" />
+</RelativeLayout>

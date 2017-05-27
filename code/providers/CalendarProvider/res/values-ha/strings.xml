@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="calendar_storage">"Ma\'ajiyar kalanda"</string>
+<string name="calendar_default_name">na asali</string>
+<string name="calendar_info">"Labarin kalanda"</string>
+<string name="calendar_info_error">"Kuskure"</string>
+<string name="calendar_info_no_calendars">"Babu kalandoji"</string>
+<string name="calendar_info_events">"Sha\'ani: <xliff:g id = "events">%1$d</xliff:g>"</string>
+<string name="calendar_info_events_dirty">"Sha\'ani: <xliff:g id = "events">%1$d</xliff:g>, wanda ba a ajiye ba: <xliff:g id = "dirty events">%2$d</xliff:g>"</string>
+<string name="provider_label">"kalanda"</string>
+<string name="debug_tool_delete_button">"Share yanzu"</string>
+<string name="debug_tool_start_button">"Fara"</string>
+<string name="debug_tool_message">"Kana gab da 1) kwafar rumbun kalandarka zuwa ma\'adanar katin SD/USB, wadda kowane shiri kan iya karantawa, sannan kuma 2) ka aika shi ta imel.Tuna ka goge kwafin da zarar ka yi nasarar kwafarsa daga jikin na\'urar ko in an karbi imel din."</string>
+<string name="debug_tool_email_sender_picker">"Zabi wani tsari da za ka aika bayanan kan ka"</string>
+<string name="debug_tool_email_subject">"An lika Db na kalanda"</string>
+<string name="debug_tool_email_body">"A like rumbun Kalanda ta ne tare da duk alkawuran ganawata da bayanan kashin kaina. Ka rike da lura."</string>
+<string name="no_title_label">"(Babu take)"</string>
+</resources>

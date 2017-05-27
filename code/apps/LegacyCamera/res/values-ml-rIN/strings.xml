@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">"ക്യാമറ പിഴ"</string>
+<string name="cannot_connect_camera">"ക്യാമറ കണക്ട് ചെയ്യാനായില്ല."</string>
+<string name="camera_disabled">"സെക്യൂരിറ്റി പോളിസികള്‍ മൂലം ക്യാമറ പ്രവര്‍ത്തനരഹിതമാക്കിയിരിക്കുന്നു."</string>
+<string name="camera_label">"ക്യാമറ"</string>
+<string name="video_camera_label">"ക്യാംകോഡര്‍"</string>
+<string name="gallery_camera_bucket_name">"ക്യാമറ ചിത്രങ്ങള്‍ "</string>
+<string name="gallery_camera_videos_bucket_name">"ക്യാമറ വീഡിയോകള്‍ "</string>
+<string name="wait">"ദയവായി കാത്തിരിക്കുക\u2026"</string>
+<string name="no_storage" product="nosdcard">"ക്യാമറ ഉപയോഗിക്കുന്നതിനു മുമ്പ് USB സ്റ്റോറേജ് മൗണ്ട് ചെയ്യുക."</string>
+<string name="no_storage" product="default">"ക്യാമറ ഉപയോഗിക്കുന്നതിനു മുമ്പ് SD കാര്‍ഡ് ഇടുക."</string>
+<string name="not_enough_space" product="nosdcard">"താങ്കളുടെ USB സ്റ്റോറേജ് പൂര്‍ണ്ണമാണ്."</string>
+<string name="not_enough_space" product="default">"താങ്കളുടെ SD കാര്‍ഡ് പൂര്‍ണ്ണമാണ്”</string>
+<string name="preparing_sd" product="nosdcard">"USB സ്റ്റോറേജ് സജ്ജമാക്കുന്നു\u2026"</string>
+<string name="preparing_sd" product="default">"SD കാര്‍ഡ് സജ്ജമാക്കുന്നു\u2026"</string>
+<string name="access_sd_fail" product="nosdcard">"USB സ്റ്റോറേജ് പരിശോധിക്കാന്‍ കഴിഞ്ഞില്ല."</string>
+<string name="access_sd_fail" product="default">"SD കാര്‍ഡ് പരിശോധിക്കാന്‍ കഴിഞ്ഞില്ല."</string>
+<string name="confirm_restore_title">"ഡീഫോള്‍ട്ട് സ്ഥിതിയിലാക്കുക"</string>
+<string name="confirm_restore_message">"ക്യാമറ ഡിഫോള്‍ട്ട് ക്രമീകരണങ്ങള്‍ പുനസ്ഥാപിക്കണോ?"</string>
+<string name="review_play">"പ്ലേ"</string>
+<string name="review_cancel">"റദ്ദാക്കുക"</string>
+<string name="review_ok">ചെയ്തു കഴിഞ്ഞു</string>
+<string name="review_retake">"റീടേക്ക്"</string>
+<string name="camera_gallery_photos_text">"ഗാലറി"</string>
+<string name="switch_camera_id">"ക്യാമറ ആരംഭിക്കുക"</string>
+<string name="time_lapse_title">"ടൈം ലാപ്സ് റെക്കാര്‍ഡിംഗ്"</string>
+<string name="pref_camera_id_title">"ക്യാമറ തെരഞ്ഞെടുക്കുക"</string>
+<string name="pref_camera_id_entry_back">"പുറകോട്ട്"</string>
+<string name="pref_camera_id_entry_front">"മുന്‍ഭാഗം"</string>
+<string name="pref_camera_recordlocation_title">"സ്റ്റോര്‍ ലൊക്കേഷന്‍"</string>
+<string name="pref_camera_recordlocation_entry_off">"ഓഫ്"</string>
+<string name="pref_camera_recordlocation_entry_on">"ഓണ്‍"</string>
+<string name="pref_video_quality_title">"വീഡിയോ നിലവാരം"</string>
+<string name="pref_video_time_lapse_frame_interval_title">"സമയ പിഴവ് ഇടവേള"</string>
+<string name="pref_camera_settings_category">"ക്യാമറ ക്രമീകരണങ്ങള്‍"</string>
+<string name="pref_camcorder_settings_category">"ക്യാംകോഡര്‍ ക്രമീകരങ്ങള്‍"</string>
+<string name="pref_camera_picturesize_title">"പിക്ചര്‍ വലിപ്പം"</string>
+<string name="pref_camera_picturesize_entry_2592x1936">"5M പിക്സലുകള്‍"</string>
+<string name="pref_camera_picturesize_entry_2048x1536">"3M പിക്സലുകള്‍"</string>
+<string name="pref_camera_picturesize_entry_1600x1200">"2M പിക്സലുകള്‍"</string>
+<string name="pref_camera_picturesize_entry_1280x960">"1.3M പിക്സലുകള്‍"</string>
+<string name="pref_camera_picturesize_entry_1024x768">"1M പിക്സലുകള്‍"</string>
+<string name="pref_camera_focusmode_title">"ഫോക്കസ് മോഡ്"</string>
+<string name="pref_camera_focusmode_entry_auto">"സ്വയം"</string>
+<string name="pref_camera_focusmode_entry_infinity">"ഇന്‍ഫിനിറ്റി"</string>
+<string name="pref_camera_focusmode_entry_macro">"മാക്രോ"</string>
+<string name="pref_camera_flashmode_title">"ഫ്ലാഷ് മോഡ്"</string>
+<string name="pref_camera_flashmode_entry_auto">"സ്വയം"</string>
+<string name="pref_camera_flashmode_entry_on">"ഓണ്‍"</string>
+<string name="pref_camera_flashmode_entry_off">"ഓഫ്"</string>
+<string name="pref_camera_whitebalance_title">"വൈറ്റ് ബാലന്‍സ്"</string>
+<string name="pref_camera_whitebalance_entry_auto">"സ്വയം"</string>
+<string name="pref_camera_whitebalance_entry_incandescent">"ഇന്‍കാന്‍ഡസന്റ്"</string>
+<string name="pref_camera_whitebalance_entry_daylight">"പകല്‍ വെളിച്ചം"</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">"ഫ്ലൂറസന്റ്"</string>
+<string name="pref_camera_whitebalance_entry_cloudy">"മേഘാവൃതം"</string>
+<string name="pref_camera_scenemode_title">"സീന്‍ മോഡ്"</string>
+<string name="pref_camera_scenemode_entry_auto">"സ്വയം"</string>
+<string name="pref_camera_scenemode_entry_action">"ആക്ഷന്‍"</string>
+<string name="pref_camera_scenemode_entry_night">"രാത്രി"</string>
+<string name="pref_camera_scenemode_entry_sunset">"അസ്തമയം"</string>
+<string name="pref_camera_scenemode_entry_party">"പാര്‍ട്ടി"</string>
+<string name="not_selectable_in_scene_mode">"തെരഞ്ഞെടുക്കാന്‍ സീന്‍ മോഡ് ഇല്ല."</string>
+<string name="pref_restore_title">"ക്യാമറ ക്രമീകരണങ്ങള്‍"</string>
+<string name="pref_restore_detail">"ഡീഫോള്‍ട്ട് സ്ഥിതിയിലാക്കുക"</string>
+<string name="pref_exposure_title">"എക്സ്പോഷര്‍"</string>
+<string name="dialog_ok">"ശരി"</string>
+<string name="spaceIsLow_content" product="nosdcard">"USB സ്റ്റോറേജില്‍ സ്ഥലം കുറവാണ്. പിക്ചര്‍ നിലവാരം ക്രമീകരിക്കുക അഥവാ ചിത്രങ്ങളോ മറ്റു ഫയലുകളോ നീക്കം ചെയ്യുക"</string>
+<string name="spaceIsLow_content" product="default">"SD കാര്‍ഡ്ല്‍ സ്ഥലം കുറവാണ്. പിക്ചര്‍ നിലവാരം ക്രമീകരിക്കുക അഥവാ ചിത്രങ്ങളോ മറ്റു ഫയലുകളോ നീക്കം ചെയ്യുക"</string>
+<string name="video_reach_size_limit">"വലിപ്പം പരിധിയില്‍ കൂടുതലാണ്."</string>
+<string name="switch_to_camera_label">"ക്യാമറയിലേക്കു മാറുക"</string>
+<string name="switch_to_video_label">"വീഡിയോയിലേക്ക് മാറുക"</string>
+<string name="switch_to_panorama_label">"പനോരമയിലേക്ക് മാറുക"</string>
+<string name="share_picture_via">"വഴി ചിത്രം പങ്കുവെയ്ക്കുക"</string>
+<string name="share_video_via">"വഴി വീഡിയോ പങ്കുവെയ്ക്കുക"</string>
+<string name="no_picture_to_share">"പങ്കുവെയ്ക്കാന്‍ ചിത്രങ്ങളില്ല."</string>
+<string name="no_video_to_share">"പങ്കുവെയ്ക്കാന്‍ വീഡിയോകളില്ല."</string>
+<string name="pano_too_fast_prompt">"വളരെ വേഗത്തിലാണ്"</string>
+<string name="pano_dialog_prepare_preview">"പനോരമ തയ്യാറാക്കുന്നു"</string>
+<string name="pano_dialog_panorama_failed">"പനോരമ സൂക്ഷിക്കാന്‍ കഴിഞ്ഞില്ല."</string>
+<string name="pano_dialog_title">"പനോരമ"</string>
+<string name="pano_capture_indication">"പനോരമ പിടിച്ചെടുക്കുന്നു"</string>
+<string name="pano_review_saving_indication_str">"സംരക്ഷിക്കുന്നു\u2026"</string>
+<string name="tap_to_focus">"ഫോക്കസ് ചെയ്യാന്‍ തൊടുക."</string>
+<string name="pref_video_effect_title">"ഇഫക്ടുകള്‍"</string>
+<string name="effect_none">"ഒന്നുമില്ല"</string>
+<string name="effect_goofy_face_squeeze">"സ്ക്വീസ് ചെയ്യുക"</string>
+<string name="effect_goofy_face_big_eyes">"വലിയ കണ്ണുകള്‍"</string>
+<string name="effect_goofy_face_big_mouth">"വലിയ വായ"</string>
+<string name="effect_goofy_face_small_mouth">"ചെറിയ വായ"</string>
+<string name="effect_goofy_face_big_nose">"വലിയ മൂക്ക്"</string>
+<string name="effect_goofy_face_small_eyes">"ചെറിയ കണ്ണുകള്‍"</string>
+<string name="effect_backdropper_space">"സ്പേസില്‍"</string>
+<string name="effect_backdropper_sunset">"അസ്തമയം"</string>
+<string name="effect_backdropper_gallery">"നിങ്ങളുടെ സ്വന്തം തെരഞ്ഞെടുക്കുക"</string>
+<string name="bg_replacement_message">"ഒരു നിമിഷത്തേക്ക് നിങ്ങളുടെ ഉപകരണത്തിന്റെ ഡൗണ്‍ സ്റ്റെപ്പ് ഔട്ട് ഓഫ് വ്യു ക്രമീകരിക്കുക" </string>
+<string name="not_selectable_in_effect">"ഇഫക്ട് ഓണായിരിക്കുമ്പോള്‍ സെലക്ട് ചെയ്യാനാവില്ല."</string>
+<string name="video_snapshot_hint">"പ്രിവ്യു സ്ക്രീനില്‍ ടച്ച് ചെയ്ത് വീഡിയോ റെക്കോഡിങ്ങ് സമയത്ത് ചിത്രമെടുക്കുക."</string>
+<string name="disable_video_snapshot_hint">"സ്പെഷല്‍ ഇഫക്ടുകള്‍ ഉള്ളപ്പോള്‍ വീഡിയോ സ്നാപ്ഷോട്ടുകള്‍ പ്രവര്‍ത്തിക്കില്ല."</string>
+<string name="clear_effects">"ഇഫക്ടുകള്‍ പൂര്‍വ്വസ്ഥിതിയിലാക്കുക"</string>
+<string name="effect_silly_faces">"സില്ലി ഫേസുകള്‍"</string>
+<string name="effect_background">"പശ്ചാത്തലം"</string>
+<string name="accessibility_shutter_button">"ഷട്ടര്‍ ബട്ടന്‍"</string>
+<string name="accessibility_review_thumbnail">"ഏറ്റവും പുതിയ ഫോട്ടോ"</string>
+<string name="accessibility_camera_picker">"മുന്‍ പിന്‍ ക്യാമറ സ്വിച്ച്"</string>
+<string name="accessibility_mode_picker">"ക്യാമറ വീഡിയോ പനോരമ സെലക്ടര്‍"</string>
+<string name="accessibility_second_level_indicators">"കൂടുതല്‍ ക്രമീകരണങ്ങള്‍"</string>
+<string name="accessibility_back_to_first_level">"ക്രമീകരണങ്ങള്‍ അടക്കുക"</string>
+<string name="accessibility_zoom_control">"സൂം ക്രമീകരണം"</string>
+<string name="accessibility_decrement">"%1$s കുറയ്ക്കുക"</string>
+<string name="accessibility_increment">"%1$s കൂട്ടുക"</string>
+<string name="accessibility_switch">"%1$s സ്വിച്ച്"</string>
+</resources>

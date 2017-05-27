@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5955735546071433666">"ശബ്‌ദ റെക്കോർഡർ"</string>
+    <string name="record_your_message" msgid="1583671906691662148">"നിങ്ങളുടെ സന്ദേശം റെക്കോർഡുചെയ്യുക"</string>
+    <string name="message_recorded" msgid="381539460921872233">"സന്ദേശം റെക്കോർഡുചെയ്‌തു"</string>
+    <string name="review_message" msgid="201616012287839474">"സന്ദേശം അവലോകനം ചെയ്യുക"</string>
+    <string name="recording" msgid="4426791467211376099">"റെക്കോർഡിംഗ്"</string>
+    <string name="recording_stopped" msgid="1580278719585249612">"റെക്കോർഡിംഗ് നിർത്തി"</string>
+    <string name="storage_is_full" msgid="416039755956726221">"സ്റ്റോറേജ്  നിറഞ്ഞു"</string>
+    <string name="max_length_reached" msgid="6398215743584093353">"പരമാവധി ദൈർഘ്യത്തിലെത്തി"</string>
+    <string name="insert_sd_card" product="nosdcard" msgid="4609407750669086933">"USB സ്റ്റോറേജ്  മൗണ്ടുചെയ്യുക"</string>
+    <string name="insert_sd_card" product="default" msgid="1007630222084726808">"ഒരു SD കാർഡ് ചേർക്കുക"</string>
+    <string name="min_available" msgid="5493947690062988925">"<xliff:g id="MINUTES">%d</xliff:g> മിനിറ്റ് ലഭ്യമാണ്"</string>
+    <string name="sec_available" msgid="2297020788861694399">"<xliff:g id="SECONDS">%d</xliff:g>സെ. ലഭ്യമാണ്"</string>
+    <string name="accept" msgid="1888285552128743656">"പൂർത്തിയായി"</string>
+    <string name="discard" msgid="761613433029406319">"നിരസിക്കുക"</string>
+    <string name="button_ok" msgid="3004911343723076226">"ശരി"</string>
+    <!-- no translation found for audio_db_title_format (7912182366970749312) -->
+    <skip />
+    <string name="audio_db_artist_name" msgid="961640229118120080">"നിങ്ങളുടെ റെക്കോർഡിംഗുകൾ"</string>
+    <string name="audio_db_album_name" msgid="9072588113803264440">"ഓഡിയോ റെക്കോർഡിംഗുകൾ"</string>
+    <string name="audio_db_playlist_name" msgid="5592939050047058162">"എന്റെ റെക്കോർഡിംഗുകൾ"</string>
+    <string name="error_sdcard_access" product="nosdcard" msgid="86629081075681774">"USB സ്റ്റോറേജ്  ആക്‌സസ്സുചെയ്യാനായില്ല."</string>
+    <string name="error_sdcard_access" product="default" msgid="5750308258096153274">"SD കാർഡ് ആക്‌സസ്സുചെയ്യാനായില്ല."</string>
+    <string name="error_app_internal" msgid="312884382388702022">"ആന്തരിക അപ്ലിക്കേഷൻ പിശക്."</string>
+    <string name="error_mediadb_new_record" msgid="261714902333432462">"റെക്കോർഡുചെയ്‌ത ഓഡിയോ സംരക്ഷിയ്ക്കാനായില്ല."</string>
+    <string name="recording_save">"റെക്കോര്‍ഡിംഗ് സൂക്ഷിച്ചു"</string>
+     <string name="recording_nosave">"റെക്കോര്‍ഡിംഗ് സൂക്ഷിച്ചിട്ടില്ല"</string>
+     <string name="phone_message">"കോള്‍ ചെയ്യുമ്പോള്‍ സൌണ്ട് റിക്കോര്‍ഡര്‍ ഓണ്‍ ചെയ്യാനാവില്ല."</string>
+     <string name="min_and_time_available">"ഏകദേശം <xliff:g id="minutes">%d</xliff:g> മിനുട്ടും <xliff:g id="seconds">%d</xliff:g> സെക്കന്റും ലഭ്യമാണ്"</string>
+     <string name="press_record">"റെക്കോര്‍ഡ് അമര്‍ത്തുക"</string>
+     <string name="save">"സൂക്ഷിക്കുക"</string>
+     <string name="select_file_type">"റെക്കോര്‍ഡ് ഫയല്‍ ഇനം തെരഞ്ഞെടുക്കുക"</string>
+     <string name="record_amr">"amr ടൈപ്പ്(താഴ്ന്ന ഗുണനിലവാരം)"</string>
+     <string name="record_3gpp">"3gpp ടൈപ്പ്(ഉയര്‍ന്ന ഗുണനിലവാരം)"</string>
+     <string name="button_cancel">"റദ്ദാക്കുക"</string>
+     <string name="path_save">"ഡീഫോള്‍ട്ട് പാത സൂക്ഷിച്ചു"</string>
+     <string name="path_nosave">"ഡീഫോള്‍ട്ട് പാത സൂക്ഷിച്ചിട്ടില്ല"</string>
+     <string name="path_default">"ഈ പാത അസാധുവോ റീഡിംഗ് മാത്രമോ ആണ്. ഇത് ആന്തരിക സ്റ്റോറേജ് പാത ആണ്"</string>
+     <string name="menu_set_save_path">"സൂക്ഷിക്കേണ്ട പാത സെറ്റ് ചെയ്യുക"</string>
+     <string name="back">"പിന്നോട്ട് പോവുക.."</string>
+     <string name="path_label">"ദയവായി സൂക്ഷിക്കേണ്ട പാത തെരഞ്ഞെടുക്കുക"</string>
+     <string name="pause">"വിരാമം"</string>
+     <string name="storage_is_not_enough">"സ്റ്റോറേജ് പോര"</string>
+     <string name="menu_recording_file_list">"റെക്കോര്‍ഡിംഗ് ഫയല്‍ ലിസ്റ്റ്"</string>
+     <string name="recording_list_empty">"ലിസ്റ്റ് കാലിയാക്കുക"</string>
+     <string name="menu_recording_list_select_all">എല്ലാം തിരഞ്ഞെ</string>
+     <string name="menu_recording_list_delete">"നീക്കം ചെയ്യുക"</string>
+     <string name="menu_recording_list_deselect_all">"അൺചെക്ക്"</string>
+     <string name="recording_file_delete_success">"റെക്കോര്‍ഡിംഗ് നീക്കം ചെയ്തു"</string>
+     <string name="recording_file_database_failed">"ഡാറ്റാബേസ് ഫയല്‍ നീക്കം ചെയ്യാനായില്ല"</string>
+     <string name="recording_file_delete_failed">"റെക്കോര്‍ഡിംഗ് ഫയല്‍ നീക്കം ചെയ്യാനായില്ല"</string>
+     <string name="confirm_del">"ഈ ഫയലുകള്‍ നീക്കം ചെയ്യണോ?"</string>
+     <string name="button_delete">"നീക്കം ചെയ്യുക"</string>
+     <string name="recording_file_delete_alert_title">"നീക്കം ചെയ്യുക"</string>
+     <string name="recording_file_delete_alert_message">"%1$s നീക്കം ചെയ്യണോ?"</string>
+     <string name="recording_file_list">"റെക്കോര്‍ഡിംഗ് ഫയല്‍ ലിസ്റ്റ്"</string>
+     <string name="less_than_one_second">"1 സെക്കന്റ്"</string>
+     <string name="is_scanning">"മീഡിയ സ്കാനര്‍ സ്കാന്‍ ചെയ്തു കൊണ്ടിരിക്കുന്നു, ദയവായി കാത്തിരിക്കുക..."</string>
+     <string name="emptylist">"ലിസ്റ്റ് ശൂന്യമായണ്"</string>
+     <string name="choose_file">"ദയവായി നീക്കം ചെയ്യേണ്ട റെക്കോര്‍ഡ് ഫയലുകള്‍ തെരഞ്ഞെടുക്കുക!"</string>
+     <string name="error_path">"താങ്കള്‍ തെരഞ്ഞെടുത്ത പാത നിലവിലില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക!"</string>
+     <string name="path_miss">"സൂക്ഷിച്ച പാത നിലവിലില്ല അഥവാ ആക്സസ് ചെയ്യാന്‍ കഴിയില്ല!"</string>
+     <string name="low_memory">"ഫോണ്‍ മെമ്മറി പോര. റെക്കോര്‍ഡിംഗ് നിര്‍ത്തുന്നു!"</string>
+     <string name="record_error">"റെക്കോര്‍ഡിംഗ് എക്സപ്ഷന്‍ സംഭവിച്ചു!"</string>
+     <string name="play_error">"മ്യൂസിക് പ്ലയര്‍ പ്രവര്‍ത്തനരഹിതമാണ്. അത് തുറക്കാനായി പ്രവര്‍ത്തനക്ഷമമാക്കുക！"</string>
+     <string name="dialog_title">"ദയവായി തെരഞ്ഞെടുക്കുക"</string>
+     <string name="dialog_message">"റിക്കോര്‍ഡിംഗ് സേവ് ചെയ്യണോ?"</string>
+     <string name="same_application_running">"മറ്റൊരു പ്രോഗ്രാം റെക്കോര്‍ഡിംഗ് ഡിവൈസ് ഉപയോഗിച്ചുകൊണ്ടിരിക്കുന്നു , ദയവായി ആ പ്രോഗ്രാം അടയ്ക്കുക!"</string>
+     <string name="recording_time_short">"റെക്കോര്‍ഡിംഗ് സമയം 1 സെക്കന്റില്‍ കുറവാണ്, അതുകൊണ്ട് സൂക്ഷിച്ചിട്ടില്ല"</string>
+     <string name="file_path_button">"ഫയല്‍ പാത്ത്"</string>
+     <string name="file_name">"ഫയല്‍ പേര്："</string>
+     <string name="file_path">"ഫയല്‍ പാത്ത്："</string>
+     <string name="rename">"പുനര്‍നാമകരണം"</string>
+     <string name="rename_save">"പേര് വിജയകരമായി മാറ്റി"</string>
+     <string name="rename_nosave">"പേരു മാറ്റാനായില്ല"</string>
+     <string name="filename_is_not_modified">"ഫയല്‍ പേരു മാറ്റിയില്ല"</string>
+     <string name="duplicate_name">"ഫയല്‍ പേര് പകര്‍പ്പാണ്"</string>
+     <string name="soundpicker_label">"ദയവായി റെക്കോര്‍ഡിംഗ് ഫയല്‍ തെരഞ്ഞെടുക്കുക"</string>
+     <string name="error_sdcard_path">"sd കാര്‍ഡ് നിലവിലില്ല. ഡീഫോള്‍ട്ടായി സൂക്ഷിക്കേണ്ട പാത ആന്തരിക സ്റ്റോറേജിലേക്ക് മാറ്റി."</string>
+     <string name="input_length_overstep">"ഇന്‍പുട്ട് പരമാവധി നീളം എത്തി"</string>
+     <string name="filename_empty_error">"ഫയല്‍ പേര് ശൂന്യമാകാന്‍ പാടില്ല, യഥാര്‍ത്ഥ പേര് തന്നെ സൂക്ഷിക്കുന്നു"</string>
+     <string name="please_choose_files">"ദയവായി ഫയലുകള്‍ സൂക്ഷിക്കുക"</string>
+     <string name="selected_files_count">"<xliff:g id="COUNTS">%d</xliff:g> ഫയലുകള്‍ തെരഞ്ഞെടുത്തു"</string>
+     <string name="use_default_path">"സൂക്ഷിക്കേണ്ട പാത നിലവിലില്ല, ഡീഫോള്‍ട്ട് പാത ഉപയോഗിക്കുന്നു"</string>
+     <string name="stroage_not_mounted">സ്റ്റോറേജ് മൌണ്ട് ചെയ്തിട്ടില്ല</string>
+     <string name="special_char_exist">"<xliff:g id="COUNTS">%s</xliff:g> വിശേഷ ക്യാരക്ടറുകള്‍ പിന്തുണയ്ക്കുന്നില്ല"</string>
+     <string name="menu_select_more">"കൂടുതല്‍ സെലക്ട് ചെയ്യുക"</string>
+     <string name="menu_select_type">"ഫയല്‍ ഇനം ക്രമീക്കരിക്കുക"</string>
+     <string name="path_miss_nosave">"സൂക്ഷിക്കേണ്ട പാത നിലനില്‍ക്കുന്നില്ല,റിക്കോര്‍ഡിംഗ് സൂക്ഷിച്ചിട്ടില്ല！"</string>
+     <string name="dialog_dismiss">"ബഹിഷ്കരിക്കുക"</string>
+     <string name="error_permissions">"പ്രവർത്തിക്കുന്നതിന് ആവശ്യമായ സുപ്രധാന അനുമതികൾ ആപ്പിനില്ല. നിങ്ങളുടെ അനുമതി ക്രമീകരണം പരിശോധിക്കുക."</string>
+
+</resources>

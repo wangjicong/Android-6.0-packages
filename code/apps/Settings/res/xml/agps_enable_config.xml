@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/agps_enable_option_tailebar" >
+
+    <PreferenceCategory
+        android:key="enable_agps_option_group"
+        android:title="@string/agps_enable_option_tailebar" />
+    <!-- SPRD: MODIFY change the CheckBox into RadioButton -->
+    <com.android.settings.location.RadioButtonPreference
+        android:key="enable_agps_registered"
+        android:persistent="false"
+        android:title="@string/agps_enable_option_registered" />
+    <!-- SPRD: MODIFY change the CheckBox into RadioButton -->
+    <com.android.settings.location.RadioButtonPreference
+        android:key="enable_agps_all"
+        android:persistent="false"
+        android:title="@string/agps_enable_option_all" />
+    <!-- SPRD: MODIFY change the CheckBox into RadioButton -->
+    <com.android.settings.location.RadioButtonPreference
+        android:key="enable_agps_none"
+        android:persistent="false"
+        android:title="@string/agps_enable_option_none" />
+
+    <PreferenceCategory
+        android:key="default_set_title"
+        android:title="@string/settings_other" />
+
+    <PreferenceScreen
+        android:key="default_set_button"
+        android:summary="@string/agps_enable_default_set_text"
+        android:title="@string/agps_enable_default_set_button" />
+    <PreferenceScreen
+        android:key="config_agps_help_title"
+        android:summary="@string/agps_config_help_text"
+        android:title="@string/agps_config_help_tailebar" />
+
+</PreferenceScreen>

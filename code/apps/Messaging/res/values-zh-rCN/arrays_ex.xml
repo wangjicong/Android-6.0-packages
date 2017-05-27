@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modify by SPRD for bug 526653 Start -->
+    <!-- Choices for mms validity  -->
+    <string-array name="mms_validity_pref_entries">
+        <item>1小时</item>
+        <item>12小时</item>
+        <item>24小时</item>
+        <item>2天</item>
+        <item>最长</item>
+    </string-array>
+    <string-array name="mms_validity_pref_entry_values">
+        <item>"3600"</item>
+        <item>"43200"</item>
+        <item>"86400"</item>
+        <item>"172800"</item>
+        <item>"604800"</item>
+    </string-array>
+    <!-- Choices for sms validity  -->
+    <string-array name="sms_validity_pref_entries">
+        <item>不设定</item>
+        <item>1小时</item>
+        <item>12小时</item>
+        <item>24小时</item>
+        <item>2天</item>
+        <item>最长</item>
+    </string-array>
+    <string-array name="sms_validity_pref_entry_values">
+        <item>"-1"</item>
+        <item>"3600"</item>
+        <item>"43200"</item>
+        <item>"86400"</item>
+        <item>"172800"</item>
+        <item>"604800"</item>
+    </string-array>
+    <!-- Modify by SPRD for bug 526653 End -->
+    <!-- sprd #542214 start  -->
+    <string-array name="sms_save_to_sim_pref_entries">
+        <item>短信优先存储在sim卡里</item>
+        <item>短信存储在信息应用数据库里</item>
+    </string-array>
+    <string-array name="sms_save_to_sim_pref_entry_values">
+        <item>"true"</item>
+        <item>"false"</item>
+    </string-array>
+    <!-- sprd #542214 end -->
+</resources>

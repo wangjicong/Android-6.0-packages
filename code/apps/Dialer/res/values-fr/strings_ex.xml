@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"Réglage Numérotation IP"</string>
+    <string name="ip_dial_menu">"Numérotation IP"</string>
+    <string name="ip_dialing_title">Composition IP</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Réglage Numérotation rapide"</string>
+    <string name="no_fast_dial_number">"Numéro de composition rapide non définie."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"Sortant"</string>
+     <string name="call_log_incoming_title">"Entrant"</string>
+     <string name="recentOutgoing_empty">"Vous n\'avez pas d\'appels sortants."</string>
+     <string name="recentIncoming_empty">"Vous n\'avez pas d\'appels entrants."</string>
+     <string name="view_setting">"Voir"</string>
+     <string name="item_all_calls">Kaikki puhelulokit</string>
+     <string name="item_sim_calls">"SIM%d journaux d'appels"</string>
+     <string name="unselect_all">Tout déselectionner</string>
+     <string name="select_all_sprd">Tout sélectionner</string>
+     <string name="doneButton">Effectué</string>
+     <string name="cancel">Annuler</string>
+     <string name="delete_selected_calls">"Êtes-vous sûr de vouloir supprimer les enregistrements sélectionnés?"</string>
+     <string name="clearCallLogProgress_title">Effacer journal des appels\u2026</string>
+     <string name="delete_success">Supprimé avec succès</string>
+     <string name="clear_all_call_log">Tyhjennä kaikki puhelulokit</string>
+     <string name="clear_selected_call_log">"Supprimer les éléments sélectionnés du registre d\'appel"</string>
+     <string name="select_all">Tout sélectionner</string>
+     <string name="unselect_all">"Tout désélectionner"</string>
+     <string name="delete_all_calls_confirm">"Voulez-vous supprimer tous vos enregistrements ?"</string>
+     <string name="do_not_select">"Vous n\'avez pas choisi d\'enregistrement pour supprimer"</string>
+     <string name="delete_calls">Supprimer</string>
+     <string name="number_anr_isnull">"Le nombre de contacts est vide"</string>
+     <string name="call_recording_setting_title">Enregistrement d\'appel</string>
+     <string name="automatic_recording_title">Enregistrement automatique</string>
+     <string name="dialog_phone_permission_deny">"Pour utiliser l\'adresse IP, \n allumer la permission du téléphone."</string>
+     <string name="search_description">"Rechercher registre d\'appel"</string>
+     <string name="call_log_add_to_blacklist">"Ajouter à la liste noire"</string>
+     <string name="make_video_call_menu">"Passer un appel vidéo"</string>
+
+</resources>

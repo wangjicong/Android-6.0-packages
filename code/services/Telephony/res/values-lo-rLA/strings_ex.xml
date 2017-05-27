@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"ສາຍເອີ້ນເຂົ້າທັງໝົດ"</string>
+    <string name="messageAO">"ພິມລະຫັດໂທຍົກເວັ້ນ."</string>
+    <string name="sum_ao_enabled_indicator">"ໂອນສາຍເອີ້ນເຂົ້າທັງໝົດ"</string>
+    <string name="sum_ao_enabled">"ໄດ້ເປີດໃຊ້"</string>
+    <string name="sum_ao_disabled">"ໄດ້ຢຸດໃຊ້"</string>
+    <string name="enable_ao_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັ້ບສະໜູນການເປີດໃຊ້ງານທຸກຟັງຊັ້ນຂໍາກັດໂທເຂົ້າມາ."</string>
+    <string name="disable_ao_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັບສະໜູນການເປີດໃຊ້ງານຟັງຊັ້ນຈໍາກັດໂທເຂົ້າອອກ."</string>
+    <string name="labelOI">"ໂທອອກທາງຕ່າງປະເທດ"</string>
+    <string name="messageOI">"ພິມລະຫັດໂທຍົກເວັ້ນ."</string>
+    <string name="sum_oi_enabled">"ໄດ້ເປີດໃຊ້"</string>
+    <string name="sum_oi_disabled">"ໄດ້ຢຸດໃຊ້"</string>
+    <string name="enable_oi_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັ້ບສະໜູນການເປີດໃຊ້ງານທຸກຟັງຊັ້ນຈໍາກັດໂທອອກທາງໄກ."</string>
+    <string name="disable_oi_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັບສະໜູນການເປີດໃຊ້ງານຟັງຊັ້ນຈໍາກັດໂທອອກທາງໄກ."</string>
+    <string name="labelOX">"ໂທອອກທາງຕ່າງປະເທດບໍລິການຂ້າມແດນ"</string>
+    <string name="messageOX">"ພິມລະຫັດໂທຍົກເວັ້ນ."</string>
+    <string name="sum_ox_enabled">"ໄດ້ເປີດໃຊ້"</string>
+    <string name="sum_ox_disabled">"ໄດ້ຢຸດໃຊ້"</string>
+    <string name="enable_ox_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັ້ບສະໜູນການເປີດໃຊ້ງານທຸກຟັງຊັ້ນຈໍາກັດໂທອອກທາງໄກບໍລິການຂ້າມແດນ."</string>
+    <string name="disable_ox_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັບສະໜູນການເປີດໃຊ້ງານຟັງຊັ້ນຈໍາກັດໂທບໍລິການຂ້າມແດນຕ່າງປະເທດ."</string>
+    <string name="labelAI">"ສາຍເອີ້ນເຂົ້າທັງໝົດ"</string>
+    <string name="messageAI">"ພິມລະຫັດໂທຍົກເວັ້ນ."</string>
+    <string name="sum_ai_enabled">"ໄດ້ເປີດໃຊ້"</string>
+    <string name="sum_ai_disabled">"ໄດ້ຢຸດໃຊ້"</string>
+    <string name="enable_ai_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັ້ບສະໜູນການປິດໃຊ້ງານທຸກຟັງຊັ້ນຂໍາກັດໂທເຂົ້າມາ."</string>
+    <string name="disable_ai_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັບສະໜູນການເປີດໃຊ້ງານຟັງຊັ້ນຈໍາກັດໂທເຂົ້າມາ."</string>
+    <string name="labelIR">"ບໍລິການຂ້າມແດນສາຍເຂົ້າ"</string>
+    <string name="messageIR">"ພິມລະຫັດໂທຍົກເວັ້ນ."</string>
+    <string name="sum_ir_enabled">"ໄດ້ເປີດໃຊ້"</string>
+    <string name="sum_ir_disabled">"ໄດ້ຢຸດໃຊ້"</string>
+    <string name="enable_ir_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັ້ບສະໜູນການເປີດໃຊ້ງານທຸກຟັງຊັ້ນຈໍາກັດບໍລິການຂ້າມແດນ."</string>
+    <string name="disable_ir_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັບສະໜູນການເປີດໃຊ້ງານຟັງຊັ້ນຈໍາກັດໂທບໍລິການຂ້າມແດນ."</string>
+    <string name="labelAB">"ຍົກເລີກທັງໝົດ"</string>
+    <string name="messageAB">"ພິມລະຫັດໂທຍົກເວັ້ນ."</string>
+    <string name="sum_ab_enabled">"ໄດ້ເປີດໃຊ້"</string>
+    <string name="sum_ab_disabled">"ໄດ້ຢຸດໃຊ້"</string>
+    <string name="enable_ab_forbidden">"ຜູ້ໃຫ້ບໍລິການຂອງທ່ານບໍ່ສະໜັບສະໜູນການພົກເລີກຂອງທຸກຟັງຊັ້ນຍົກເວັ້ນໂທ."</string>
+    <string name="disable_ab_forbidden">"ຜູ້​ໃຫ້​ບໍ​ລິ​ການ​ຂອງ​ທ່ານບໍ່​ສະ​ໜັບ​ສະ​ໜຸນ​ການ​ປີດ​ໃຊ້​ງານ​ທັ້ງ​ໝົດ."</string>
+    <string name="labelChgPwd">ດັດແກ້ລະຫັດ</string>
+    <string name="DlgChgPwd_oldpwd">"ພິມລະຫັດໂທຍົກເວັ້ນ."</string>
+    <string name="DlgChgPwd_newpwd_first">ພິມລະຫັດໃໝ່</string>
+    <string name="DlgChgPwd_newpwd_last">ຢືນຢັນລະຫັດໃໝ່</string>
+    <string name="cb_pw_no_match">ລະຫັດບໍ່ກົງກັນ</string>
+    <string name="cb_pw_error">ລະຫັດບໍ່ຖືກຕ້ອງ</string>
+    <string name="cb_pw_correct">ລະຫັດໄດ້ປັບປຸງ</string>
+    <string name="labelCB">"ຈໍາກັດສາຍໂທອອກ"</string>
+    <string name="call_barring_settings">ຍົກເວັ້ນການຕັ້ງຄ່າໂທ</string>
+    <string name="cb_error">"ຈໍາກັດສາຍໂທອອກຖຶກປະຕິເສດ"</string>
+    <!-- SPRD: function call barring support. END-->
+
+</resources>

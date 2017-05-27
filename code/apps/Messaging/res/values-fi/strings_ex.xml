@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Allekirjoitus"</string>
+<string name="pref_title_sms_retry_times">"Kytke SMS uudelleenyritys päälle"</string>
+<string name="preference_name">"Yleislauseke"</string>
+<string name="select">"Valittu"</string>
+<string name="item_cancel">"Peruuta"</string>
+<string name="item_delete">"Poista"</string>
+<string name="save_as_teltype">"Puhelimelle"</string>
+<string name="save_as_mmstype">"Tekstiviestille"</string>
+<string name="type_to_pharser">"Kirjoita tavallinen lause"</string>
+<string name="add">"Lisää"</string>
+<string name="edit">"Muokkaa"</string>
+<string name="delete">"Poista"</string>
+<string name="finish">"Valmis"</string>
+<string name="cancel">"Peruuta"</string>
+<string name="add_pharser">"Lisää tavallinen lause"</string>
+<string name="edit_pharser">"Muokkaa yleislauseke"</string>
+<string name="pharser_can_modify">"Muokattu lause"</string>
+<string name="pharser_cannot_modify">"Korjaa lause"</string>
+<string name="select_item">"Olet valinnut"</string>
+<string name="select_commmon_phrase">"Valitse tavallinen lause"</string>
+<string name="common_phrase_empty">"Ei yleislausekkeita"</string>
+<string name="action_add_phrase">"Syötä tavallinen lause"</string>
+<string name="pref_other_settings_title">"Muu"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Soita toimistoni puhelimeen, kiitos."</item>
+<item>"Ota minuun yhteys, kiitos."</item>
+<item>"Kerro minulle sijaintisi."</item>
+<item>"Soita matkapuhelimeeni myöhemmin, kiitos."</item>
+<item>"Olin ulkona, menen kotiin ja soitan sinulle."</item>
+<item>"Minä ajan ja vastaan myöhemmin."</item>
+<item>"Tulen tieltä, voit saavuttaa minut välittömästi."</item>
+<item>"Liikennejumit, myöhemmin, olen pahoillani."</item>
+<item>"Soitan sinulle myöhemmin."</item>
+<item>"Olen kokouksessa, vastaan myöhemmin."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"En voi vastata - mitä asiaa?"</item>
+<item>"Soitan sinulle pian."</item>
+<item>"Soitan sinulle myöhemmin."</item>
+<item>"En voi vastata. Soitatko myöhemmin?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Soita tai lähetä tekstiviesti myöhemmin."</item>
+</string-array>
+</resources>

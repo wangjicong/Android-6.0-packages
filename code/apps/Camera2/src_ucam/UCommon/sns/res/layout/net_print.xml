@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2012,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:paddingTop = "16dip"
+        android:paddingBottom ="16dip"
+        android:background = "@drawable/net_print_background"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <!-- <LinearLayout
+            android:id="@+id/linear_shi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="38dp"
+            android:layout_marginRight="38dp"
+            android:orientation="vertical"
+            android:background="@drawable/net_print_select_bg" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/net_print_shi"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:id="@+id/net_print_shi"
+                android:layout_width="match_parent"
+                style="@style/sns_dialog_message_style"
+                android:text="@string/sns_net_shi_description" />
+
+        </LinearLayout> -->
+        <TextView
+            android:id="@+id/net_print_shi"
+            style="@style/sns_dialog_message_style"
+            android:drawableTop="@drawable/net_print_shi"
+            android:text="@string/sns_net_shi_description"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/net_print_select_bg"
+            android:padding="10dp" />
+        <ImageView
+            android:layout_width = "match_parent"
+            android:layout_height = "1dip"
+            android:background = "@drawable/net_print_background_line"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp" />
+        <TextView
+            android:id="@+id/net_print_tolot"
+            style="@style/sns_dialog_message_style"
+            android:drawableTop="@drawable/net_print_tolot"
+            android:text="@string/sns_net_print_tolot"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/net_print_select_bg"
+            android:padding="10dp" />
+        <Button
+            android:layout_marginTop="10dp"
+            android:id="@+id/net_print_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/sns_net_print_back"
+            android:background="@drawable/sns_net_print_btn"
+            android:padding="10dp"/>
+    </LinearLayout>
+
+</RelativeLayout>

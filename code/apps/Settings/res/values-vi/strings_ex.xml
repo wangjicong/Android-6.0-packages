@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Cài đặt USB"</string>
+<string name="usb_charge_only">"Chỉ sạc"</string>
+<string name="usb_charge_only_summary">"Sử dụng chế độ chỉ sạc khi USB được kết nối"</string>
+<string name="usb_charge_only_storage_active_subtext">Không thể bật chế độ chỉ sạc khi lưu trữ USB được sử dụng</string>
+<string name="usb_charge_only_notification">"Chỉ tính phí khi được kết nối"</string>
+<string name="usb_storage">"Bộ nhớ USB"</string>
+<string name="usb_storage_summary">"Bật thiết bị lưu trữ USB"</string>
+<string name="ums_settings">"Cài đặt UMS"</string>
+<string name="ums_mounted_setting">"Gắn ums với PC bây giờ, vui lòng đợi…"</string>
+<string name="ums_unmounted_setting">"Bỏ gắn ums từ PC bây giờ, vui lòng đợi…"</string>
+<string name="usb_virtual_drive">"Ổ đĩa ảo USB"</string>
+<string name="usb_virtual_drive_summary">"Bật ổ đĩa ảo USB"</string>
+<string name="remember_choice">"Nhớ lựa chọn của tôi"</string>
+<string name="remember_choice_summary">"Ghi lựa chọn của tôi và lần sau bắt đầu tự động chức năng đã ghi nhớ" </string>
+<string name="stand_by_set_changed_prompt">"Trạng thái kích hoạt sim sẽ bị thay đổi, vui lòng xác nhận tiếp tục hay không?"</string>
+<string name="not_stand_by">"CẤM"</string>
+<string name="primary_card_switching">"Đang thiết lập\uff0c vui lòng đợi..."</string>
+<string name="toggle_data_change_message">"Kết nối dữ liệu đã chuyển sang thẻ sim <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, nó sẽ tạo ra thông lượng dữ liệu và các chi phí tương ứng, vui lòng lưu ý."</string>
+<string name="select_primary_card">"Chọn thẻ chính"</string>
+<string name="whether_switch_primary_card">"Hãy xác nhận để chuyển đổi thẻ chính tới thẻ này?\n(Dữ liệu di động cũng sẽ được chuyển vào thẻ.)"</string>
+<string name="attention">"Chú ý"</string>
+<string name="bt_softap_cannot_coexist">"Khi kích hoặc hoặc đang bật softap, bluetooth không thể hoạt động, nếu bạn muốn sử dụng bluetooth, hãy đảm bảo đã tắt softap."</string>
+<string name="softap_bt_cannot_coexist">"Khi bluetooth được kích hoạt hoặc được bật, các ứng dụng phần mềm không thể làm việc, nếu bạn muốn sử dụng các ứng dụng phần mềm, xin vui lòng chắc chắn rằng bluetooth đã được tắt."</string>
+<string name="softap_need_mobile_data_enabled">"Điểm truy cập Wi-fi di động cần kết nối dữ liệu di động có thể làm phát sinh các chi phí." </string>
+<string-array name="light_color_picker">
+<item>"Lục"</item>
+<item>"Lam"</item>
+<item>"Chàm"</item>
+<item>"Tía"</item>
+<item>"Hồng"</item>
+<item>"Đỏ"</item>
+<item>"Vàng"</item>
+</string-array>
+<string name="select_primary_slot_description">(SIM chính hỗ trợ WCDMA/GSM,SIM phụ chỉ hỗ trợ GSM)</string>
+<string name="data_always_online">Dữ liệu di động luôn luôn trực tuyến</string>
+
+    <!-- SPRD: Add traffic class Info in APN editor. @{ -->
+    <string name="traffic_class">Lớp giao thông</string>
+    <!-- SPRD: Add for sim language @{ -->
+    <string name="edit_sim_lang">"Ngôn ngữ trong thẻ SIM"</string>
+    <string name="edit_sim_lang_more">"Chỉnh sửa ngôn ngữ trong thẻ SIM"</string>
+	<!-- smartwake settings up150115-->
+	<string name="smartwake_settings">Thức dậy thông minh</string>
+	<string name="gesture_smartwake">Cử chỉ thông minh thức dậy</string>
+	<string name="smartwake_feature_selection">Lựa chọn tính năng</string>
+	<string name="smartwake_change_music">Trái / phải glide cho nhạc chuyển</string>
+	<string name="smartwake_double_click">Nhấn đúp cho màn hình đánh thức</string>
+	<string name="smartwake_up">Lên lướt</string>
+	<string name="smartwake_down">Trượt xuống</string>
+	<string name="smartwake_c">Vẽ tranh C</string>
+	<string name="smartwake_e">Vẽ tranh e</string>
+	<string name="smartwake_m">Vẽ tranh M</string>
+	<string name="smartwake_o">Vẽ tranh O</string>
+	<string name="smartwake_s">Vẽ tranh S</string>
+	<string name="smartwake_v">Vẽ tranh V</string>
+	<string name="smartwake_w">Vẽ tranh W</string>
+	<string name="smartwake_z">Vẽ tranh Z</string>
+	<string name="gesture_smartwake_summaryOn">Trên</string>
+	<string name="gesture_smartwake_summaryOff">Tắt</string>
+	<string name="gesture_music">Âm nhạc</string>
+	<string name="gesture_camera">Máy ảnh</string>
+	<string name="gesture_dial">Bàn phím số</string>
+	<string name="gesture_browser">Trình duyệt</string>
+	<string name="gesture_message">Thông điệp</string>
+	<string name="gesture_calc">máy tính</string>
+	<string name="gesture_calendar">Lịch</string>
+	<string name="gesture_fileexplorer">Quản lý tập tin</string>
+	<string name="gesture_gallery">Bộ sưu tập</string>
+	<string name="gesture_settings">Cài đặt</string>	
+	<string name="gesture_unlock">Mở khóa</string>
+    <!-- @} -->
+    <!-- SPRD: Add for bug 543820 Toggle master card reminder @{ -->
+    <string name="select_primary_slot_description_4g">(Thẻ chính hỗ trợ dịch vụ 4G / 3G / 2G, thẻ phụ chỉ hỗ trợ dịch vụ 2G.)</string>
+    <!-- @} -->
+</resources>

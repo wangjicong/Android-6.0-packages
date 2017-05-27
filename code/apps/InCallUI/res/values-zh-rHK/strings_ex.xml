@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: show main/vice card for bug473889 @{ -->
+    <string name="main_card_slot">"主卡 :"</string>
+    <string name="vice_card_slot">"副卡 :"</string>
+    <!-- @} -->
+    <!-- SPRD: Add for recorder. && bug501927 && bug521012 @{ -->
+    <string name="recording">"錄音" </string>
+    <string name="record_time">"記錄時間："</string>
+    <string name="onscreenShowRecodText">"錄音"</string>
+    <string name="onscreenShowStopRecodText">"停止錄音"</string>
+    <string name="recorderr">"記錄檔儲存失敗"</string>
+    <string name="audio_db_artist_name">"您的錄音"</string>
+    <string name="audio_db_album_name">"電話錄音"</string>
+    <string name="audio_db_playlist_name">"我的錄音"</string>
+    <string name="app_name">"手機應用程式"</string>
+    <string name="error_mediadb_new_record">"無法儲存錄製的音訊"</string>
+    <string name="sdcard_access_error">"無法訪問SD卡"</string>
+    <string name="no_sd_card">"無SD卡或未掛載"</string>
+    <string name="insert_sd_card">"請插入SD卡"</string>
+    <string name="storage_is_full">"存儲空間已滿"</string>
+    <string name="used_by_other_applications">"錄音設備正在被其他程序使用中，請先關閉此類程序"</string>
+    <string name="prompt_record_finish">"錄音文件已儲存到"</string>
+    <string name="ok">"確 定"</string>
+    <string name="permission_no_record">"您沒有通話錄音權限"</string>
+    <string name="no_available_storage">"沒有可用存儲，錄音保存失敗"</string>
+    <!-- @} -->
+    <!-- SPRD: Add strings for Multi-Part-Call -->
+    <string name="hangup_hold_and_answer">"掛斷保持中電話並接聽"</string>
+    <string name="hangup_active_and_answer">"掛斷通話中電話並接聽"</string>
+    <string name="hangup_all_and_answer">"掛斷全部並接聽"</string>
+    <string name="onActive">"通話中"</string>
+    <string name="hold_current_call_and_answer">"保留目前通話並接聽"</string>
+    <string name="hangup_current_call_and_answer">"結束目前通話並接聽"</string>
+    <!-- @} -->
+    <!-- SPRD: Add for volte. @{ -->
+    <string name="invite_call">"邀請"</string>
+    <string name="onscreenAudioCallText">"語音通話"</string>
+    <!-- @} -->
+    <string name="onscreenTransferCallText">"轉移"</string>
+    <!-- SPRD: Porting Caller Address Feature. @{ -->
+    <string name="fixed">"固話"</string>
+    <string name="unknown_area">"不明號碼區域"</string>
+    <!-- @} -->
+    <!-- SPRD: modify for bug531878 @{ -->
+    <string name="camera_fail_to_operate">"請在通話恢復後重新點擊"</string>
+    <!-- @} -->
+    <!-- add for Bug535394 -->
+    <string name="incall_error_supp_service_hold">"當前網絡不支持呼叫保持"</string>
+    <!-- @} -->
+    <!-- add for Bug537766 -->
+    <string name="card_title_video_pause_call_switching">"已經暫停本地視頻"</string>
+    <!-- SPRD:add for Bug539991 -->
+    <string name="onscreenResumeVideoText">"恢復視頻"</string>
+    <!-- @} -->
+</resources>

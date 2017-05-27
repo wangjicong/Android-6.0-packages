@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ucomm.sns</string>
+    <string name="sns_label_sina">Sina</string>
+    <string name="sns_label_sohu">Sohu</string>
+    <string name="sns_label_tencent">Tencent</string>
+    <string name="sns_label_qzone">QZone</string>
+    <string name="sns_label_renren">Renren</string>
+    <string name="sns_label_kaixin">Kaixin</string>
+    <string name="sns_label_facebook">Facebook</string>
+    <string name="sns_label_tumblr">Tumblr</string>
+    <string name="sns_label_flickr">Flickr</string>
+    <string name="sns_label_twitter">Twitter</string>
+    <string name="sns_label_mixi">Mixi</string>
+    <string name="sns_label_share">Berbagi</string>
+    <string name="sns_label_account_setup">Setup Akun</string>
+    <string name="sns_label_more_share">Berbagi lebih banyak</string>
+    <string name="sns_label_bind">Mengikat</string>
+    <string name="sns_label_unbind">Mengbebaskan</string>
+    <string name="sns_label_hide_location">Sembunyi info lokasi</string>
+    <string name="sns_msg_getting_location">Mendapat info lokasi…</string>
+    <string name="sns_msg_please_choose_share_account">Silakan pilih akun target.</string>
+    <string name="sns_msg_missing_share_pic">Silahkan klik thumbnail untuk memilih gambar, kemudian berbagi</string>
+    <string name="sns_msg_fail_login">Gagal login, silakan coba lagi nanti.</string>
+    <string name="sns_msg_connecting">Menghubungi…</string>
+    <string name="sns_msg_loading">Menload…</string>
+    <string name="sns_msg_network_unavailable">Network tak tersedia, silakan coba lagi nanti.</string>
+    <string name="sns_msg_from_ucam">Dari UCam</string>
+    <string name="sns_title_account_settings">Pengaturan Akun</string>
+    <string name="sns_title_share_to">Berbagi ke…</string>
+    <string name="sns_title_share">Berbagi</string>
+    <string name="sns_title_sync">Men-sinkronisasi </string>
+    <string name="sns_title_login">Login</string>
+    <string name="sns_title_privacy">Pernyataan Privasi</string>
+    <string name="sns_msg_privacy">Itu adalah kebijakan UCam untuk menghargai
+         privasi penggunanya. \n
+         UCam menggunakan protokol keamanan seperti OAuth untuk mengakses situs SNS, karena itu tidak akan terkait langsung dengan informasi akun anda. \n
+         Kecuali seperti yang dijelaskan dalam Pernyataan ini, UCam tidak akan menerbitkan atau menyebarkan informasi akun anda yang manapun tanpa izin tertulis dari Anda, kecuali untuk:\n
+         (i) mematuhi hukum, peraturan, panggilan pengadilan, atau perintah pengadilan; atau
+         (ii) merespon terhadap permintaan informasi berwenang dari polisi dan otoritas pemerintah.</string>
+    <string name="sns_ucam_link">"&lt;a href=\"http://www.u-camera.com\" &gt;UCam&lt;a/&gt;</string>
+    <string name="sns_ucam_share">#Berbagi gambar UCam#</string>
+    <string name="sns_toast_location_error">Gagal mendapatkan lokasi</string>
+    <string name = "text_activity_is_not_found">Aktivitas tak ditemukan</string>
+    <string name = "text_edit_share_title">Gunakan untuk aksi ini.</string>
+    <string name="edit_operation_failure_tip">Operasi gagal.</string>
+</resources>

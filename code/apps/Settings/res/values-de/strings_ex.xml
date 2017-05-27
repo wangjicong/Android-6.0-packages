@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB-Einstellungen"</string>
+<string name="usb_charge_only">"Nur Aufladen"</string>
+<string name="usb_charge_only_summary">"Nur Aufladen verwenden, wenn ein USB-Gerät angeschlossen ist"</string>
+<string name="usb_charge_only_storage_active_subtext">"Nur aufladen kann nicht verwendet werden, wenn der USB-Speicher in Verwendung ist"</string>
+<string name="usb_charge_only_notification">"Nur zum Aufladen verbunden"</string>
+<string name="usb_storage">"USB-Speicher"</string>
+<string name="usb_storage_summary">"USB-Massenspeicher aktivieren"</string>
+<string name="ums_settings">"UMS-Einstellungen"</string>
+<string name="ums_mounted_setting">"Speichermedium wird gerade am PC angebracht, bitte warten..."</string>
+<string name="ums_unmounted_setting">"Speichermedium wird gerade vom PC entfernt, bitte warten..."</string>
+<string name="usb_virtual_drive">"Virtueller USB-Drive"</string>
+<string name="usb_virtual_drive_summary">"Virtuellen USB-Drive aktivieren"</string>
+<string name="remember_choice">"Auswahl merken"</string>
+<string name="remember_choice_summary">"Meine Auswahl merken und beim nächsten Mal auomatisch die gemerkte Funktion starten"</string>
+<string name="stand_by_set_changed_prompt">"SIM-Aktivierungsstatus wird geändert. Möchten Sie fortfahren?"</string>
+<string name="not_stand_by">"VERBOTEN"</string>
+<string name="primary_card_switching">"Einstellen\uff0cbitte warten..."</string>
+<string name="toggle_data_change_message">"Die Datenverbindung ist auf die SIM-Kate gewechselt <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, dies verursacht Datendurchsatzund damit verbundene Kosten.  Bitte beachten Sie dies."</string>
+<string name="select_primary_card">"Hauptkarte auswählen"</string>
+<string name="whether_switch_primary_card">"Soll die Primärkarte auf diese Karte gewechselt werden?\n(Telefondaten werden auch auf die Karte verschoben.)"</string>
+<string name="attention">"Achtung"</string>
+<string name="bt_softap_cannot_coexist">"Wenn Softap aktiviert oder am angehen ist, funktioniert Bluetooth nicht. Wenn Sie Bluetooth verwenden wollen, stellen Sie bitte sicher, dass Softap deaktiviert ist.."</string>
+<string name="softap_bt_cannot_coexist">"Wenn Bluetooth aktiviert oder am angehen ist, funktioniert Softap nicht. Wenn Sie Softap verwenden wollen, stellen Sie bitte sicher, dass Bluetooth deaktiviert ist."</string>
+<string name="softap_need_mobile_data_enabled">"Tragbarer Wi-Fi Hotspot braucht Verbindung zu den Handy Daten, kann extra Kosten verursachen."</string>
+<string-array name="light_color_picker">
+<item>"Grün"</item>
+<item>"Blau"</item>
+<item>"Indigo"</item>
+<item>"Lila"</item>
+<item>"Pink"</item>
+<item>"Rot"</item>
+<item>"Gelb"</item>
+</string-array>
+</resources>

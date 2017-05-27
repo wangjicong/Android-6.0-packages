@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <int name="maxImageHeight" value="1944"/>
+        <int name="maxMessageSize" value="614400"/>
+        <int name="maxImageWidth" value="2592"/>
+    </carrier_config>
+    <carrier_config>
+        <string name="vmnumber">333</string>
+    </carrier_config>
+    <carrier_config pnn="Fonic">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Fonic</string>
+        <string name="vmnumber">333</string>
+        <string name="roamingvm">+491793000333</string>
+    </carrier_config>
+    <carrier_config spn="Tchibo">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Tchibo</string>
+    </carrier_config>
+</carrier_config_list>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"கையொப்பம்"</string>
+<string name="pref_title_sms_retry_times">SMS திரும்ப முயற்சித்தல் செயல்படுத்தப்பட்டது</string>
+<string name="preference_name">பொதுவான சொற்றொடர்</string>
+<string name="select">"தேர்வுசெய்யப்பட்டது"</string>
+<string name="item_cancel">ரத்து செய்க</string>
+<string name="item_delete">அழிக்கவும்</string>
+<string name="save_as_teltype">"தொலைபேசிக்கு"</string>
+<string name="save_as_mmstype">"Sms க்கு"</string>
+<string name="type_to_pharser">"பொதுவான தொடரை தட்டச்சுசெய்யவும்"</string>
+<string name="add">சேர்</string>
+<string name="edit">திருத்து</string>
+<string name="delete">அழிக்கவும்</string>
+<string name="finish">முடிக்கவும்</string>
+<string name="cancel">ரத்து செய்க</string>
+<string name="add_pharser">""பொதுவான தொடரைச் சேர்க்கவும்" "</string>
+<string name="edit_pharser">பொதுவான சொற்றொடர் திருத்துக</string>
+<string name="pharser_can_modify">"தனிப்பயனாக்கப்பட்ட தொடர்"</string>
+<string name="pharser_cannot_modify">"தொடரைத் பொருத்து"</string>
+<string name="select_item">"நீங்கள் தேர்வு செய்துள்ளீர்கள்"</string>
+<string name="select_commmon_phrase">பொதுவான சொற்றொடரைத் தேர்வுசெய்க</string>
+<string name="common_phrase_empty">"பொது வாக்கியங்கள் இல்லை"</string>
+<string name="action_add_phrase">"பொதுவான தொடரைச் சொருகவும்"</string>
+<string name="pref_other_settings_title">மற்ற</string>
+<string-array name="fixed_mms_phrase">
+<item>தயவுசெய்து எனது அலுவலக ஃபோனிற்கு அழைக்கவும், நன்றி.</item>
+<item>தயவுசெய்து என்னை தொடர்பு கொள்ளவும், நன்றி.</item>
+<item>தயவுசெய்து உங்களது இருப்பிடத்தை எனக்கு கூறவும்.</item>
+<item>தயவுசெய்து எனது கைப்பேசிக்கு பிறகு அழைக்கவும், நன்றி.</item>
+<item>நான் வெளியே இருக்கிறேன், வீட்டுக்கு சென்றவுடன் என்னை அழைக்கவும்.</item>
+<item>"நான் டிரைவ் செய்து கொண்டிருக்கின்றேன், பின்னர் தொடர்பு கொள்வேன்."</item>
+<item>"நான் சாலையில் வந்து கொண்டிருக்கின்றேன், உடனடியாக வந்தடைவேன்."</item>
+<item>போக்குவரத்து நெரிசல், பிறகு அழைக்கிறேன், மன்னிக்கவும்.</item>
+<item>பிறகு அழைக்கிறேன்.</item>
+<item>நான் மீட்டிங்கில் உள்ளேன், திரும்ப அழைக்கிறேன்.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"இப்பொழுது பேச முடியாது. எப்படி போய்க்கொண்டிருக்கின்றது?"</item>
+<item>"நான் உங்களை திரும்ப அழைக்கிறேன்."</item>
+<item>"நான் பின்னர் உங்களை அழைக்கிறேன்."</item>
+<item>"இப்பொழுது பேச முடியாது. என்னை பின்னர் அழைக்கிறீர்களா?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"தயவுசெய்து என்னை அழைக்கவும் அல்லது பின்னர் எனக்கு sms அனுப்பவும்."</item>
+</string-array>
+</resources>

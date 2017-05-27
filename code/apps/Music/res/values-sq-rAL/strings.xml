@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">1 këngë</string>
+<plurals name="Nsongs">
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> këngë"</item>
+</plurals>
+<plurals name="Nsongscomp">
+<item quantity="other">"<xliff:g id="count_for_artist">%2$d</xliff:g> nga <xliff:g id="total_count">%1$d</xliff:g> këngë"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">1 album</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> albume"</item>
+</plurals>
+<string name="goto_start">Librari</string>
+<string name="party_shuffle">Përzierje feste</string>
+<string name="party_shuffle_off">Përzierja e festës joaktive</string>
+<string name="delete_item">Fshi</string>
+<string name="shuffle_all">Përzie të gjitha</string>
+<string name="play_all">Luaj të gjitha</string>
+<string name="delete_artist_desc">"Fshi përfundimisht të gjitha këngët nga <xliff:g id="artist">%s</xliff:g> nga karta SD?"</string>
+<string name="delete_artist_desc_nosdcard">"Fshi përfundimisht të gjitha këngët nga <xliff:g id="artist">%s</xliff:g> nga memoria USB?"</string>
+<string name="delete_album_desc">"Fshi përfundimisht të gjithë albumin \"<xliff:g id="album">%s</xliff:g>\" nga karta SD?"</string>
+<string name="delete_album_desc_nosdcard">"Fshi përfundimisht të gjithë albumin \"<xliff:g id="album">%s</xliff:g>\" nga memoria USB?"</string>
+<string name="delete_song_desc">"Fshi përfundimisht \"<xliff:g id="song">%s</xliff:g>\" nga karta SD?"</string>
+<string name="delete_song_desc_nosdcard">"Fshi përfundimisht \"<xliff:g id="song">%s</xliff:g>\" nga memoria USB?"</string>
+<string name="delete_confirm_button_text">"OK"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">1 këngë u fshi</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> këngë u fshinë."</item>
+</plurals>
+<string name="scanning">Duke skanuar kartën SD...</string>
+<string name="scanning_nosdcard">Duke skanuar memorien USB...</string>
+<string name="nowplaying_title">Luan tani</string>
+<string name="partyshuffle_title">Përzierje feste</string>
+<string name="artists_title">Artistë</string>
+<string name="albums_menu">Albumet</string>
+<string name="albums_title">Albumet</string>
+<string name="tracks_menu">Këngë</string>
+<string name="tracks_title">Këngë</string>
+<string name="playlists_menu">Lista luajtjeje</string>
+<string name="playlists_title">Lista luajtjeje</string>
+<string name="videos_title">Videot</string>
+<string name="all_title">Të gjitha mediat</string>
+<string name="browse_menu">Artistë</string>
+<string name="search_title">Kërko</string>
+<string name="no_tracks_title">Asnjë këngë</string>
+<string name="no_videos_title">Asnjë video</string>
+<string name="no_playlists_title">Asnjë listë luajtjeje</string>
+<string name="delete_playlist_menu">Fshi</string>
+<string name="edit_playlist_menu">Ndrysho</string>
+<string name="rename_playlist_menu">Riemëro</string>
+<string name="playlist_deleted_message">Lista e luajtjes u fshi.</string>
+<string name="playlist_renamed_message">Lista e luajtjes u riemërua.</string>
+<string name="recentlyadded">Të shtuara së fundi</string>
+<string name="recentlyadded_title">Të shtuara së fundi</string>
+<string name="podcasts_listitem">Podkaste</string>
+<string name="podcasts_title">Podkaste</string>
+<string name="sdcard_missing_title">Ska kartë SD</string>
+<string name="sdcard_missing_title_nosdcard">Asnjë memorie USB</string>
+<string name="sdcard_missing_message">Telefoni yt nuk ka kartë SD të vendosur</string>
+<string name="sdcard_missing_message_nosdcard">Telefoni yt nuk ka memorie USB.</string>
+<string name="sdcard_busy_title">Karta SD e padisponueshme</string>
+<string name="sdcard_busy_title_nosdcard">Memoria USB e padisponueshme</string>
+<string name="sdcard_busy_message">Karta SD është e zënë.</string>
+<string name="sdcard_busy_message_nosdcard">Memoria USB është e zënë.</string>
+<string name="sdcard_error_title">Gabim në kartën SD</string>
+<string name="sdcard_error_title_nosdcard">Gabim në memorien USB</string>
+<string name="sdcard_error_message">Ndodhi një gabim në kartën SD.</string>
+<string name="sdcard_error_message_nosdcard">Ndodhi një gabim në memorien USB.</string>
+<string name="unknown_artist_name">Artist i panjohur</string>
+<string name="unknown_album_name">Album i panjohur</string>
+<string name="shuffle_on_notif">Përzierja është aktive.</string>
+<string name="shuffle_off_notif">Përzierja është joaktive.</string>
+<string name="repeat_off_notif">Përsëritja është joaktive.</string>
+<string name="repeat_current_notif">Duke përsëritur këngën aktuale.</string>
+<string name="repeat_all_notif">Duke përsëritur të gjitha këngët.</string>
+<string name="ringtone_menu">Përdor telefonin si rington</string>
+<string name="ringtone_menu_short">Përdor si rington</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" vendos si rington telefoni."</string>
+<string name="play_selection">Luaj</string>
+<string name="add_to_playlist">Shto në listën e luajtjes</string>
+<string name="queue">Lista aktuale e luajtjes</string>
+<string name="new_playlist">E re</string>
+<string name="new_playlist_name_template">"Listë këngësh e re <xliff:g id="number">%d</xliff:g>"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">1 këngë u shtua në listën e luajtjes.</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> këngë u shtuan në listën e këngëve."</item>
+</plurals>
+<string name="emptyplaylist">Lista e zgjedhur e luajtjes është bosh.</string>
+<string name="create_playlist_create_text">Ruaj</string>
+<string name="create_playlist_overwrite_text">Mbishkruaj</string>
+<string name="service_start_error_title">Problem në luajtje</string>
+<string name="service_start_error_msg">Kënga nuk mund të luhet.</string>
+<string name="service_start_error_button">"OK"</string>
+<string-array name="weeklist">
+<item>"1 javë"</item>
+<item>"2 javë"</item>
+<item>"3 javë"</item>
+<item>"4 javë"</item>
+<item>"5 javë"</item>
+<item>"6 javë"</item>
+<item>"7 javë"</item>
+<item>"8 javë"</item>
+<item>"9 javë"</item>
+<item>"10 javë"</item>
+<item>"11 javë"</item>
+<item>"12 javë"</item>
+</string-array>
+<string name="weekpicker_set">U krye</string>
+<string name="weekpicker_title">vendos orën</string>
+<string name="save_as_playlist">"Ruaj si listë këngësh</string>
+<string name="clear_playlist">Pastro listën e luajtjes</string>
+<string name="musicbrowserlabel">Muzika</string>
+<string name="musicshortcutlabel">Lista e luajtjes të muzikës</string>
+<string name="mediaplaybacklabel">Muzika</string>
+<string name="videobrowserlabel">Videot</string>
+<string name="mediapickerlabel">Muzika</string>
+<string name="playback_failed">Luajtësi nuk suporton këtë lloj skedari audio.</string>
+<string name="cancel">Anulo</string>
+<string name="remove_from_playlist">Hiq nga lista e luajtjes</string>
+<string name="streamloadingtext">"Duke u lidhur me <xliff:g id="host">%s</xliff:g>\u2026"</string>
+<string name="mediasearch">"Kërko për <xliff:g id="term" example="Beethoven">%s</xliff:g> duke përdorur:"</string>
+<string name="working_artists">Artistë...</string>
+<string name="working_albums">Albume...</string>
+<string name="working_songs">Këngë...</string>
+<string name="working_playlists">Lista luajtjeje...</string>
+<string name="loading">Duke ngarkuar...</string>
+<string name="sort_by_track">Këngë</string>
+<string name="sort_by_album">Albumet</string>
+<string name="sort_by_artist">Artistë</string>
+<string name="music_picker_title">Zgjidh këngën e muzikës</string>
+<string name="search_settings_description">Artistë, albume dhe këngë</string>
+<string name="search_hint">Kërko muzikë</string>
+<string name="fast_scroll_alphabet">"\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+<string name="widget_initial_text">Prek për të zgjedhur muzikën.</string>
+<string name="effectspanel">"Efekte tingulli"</string>
+<string name="no_play">Momentalisht e pamundur të luhet!</string>
+<string name="activity_title_delete">Hiq këngët</string>
+<string name="activity_title">Shto muzikë</string>
+<string name="add_music">Shto muzikë</string>
+<string name="music_selected_all">Zgjidh të gjitha</string>
+<string name="confirm_add">Shto</string>
+<string name="cancel_add">Anulo</string>
+<string name="delete_all_music">Hiq</string>
+<string name="confirm_delete">Hiq</string>
+<string name="music_selected_all_delete">Zgjidhni një çelës bosh</string>
+<string name="music_cancle_selected_all">Anulo të gjitha</string>
+<string name="being_add">Po shtohet, ju lutem prisni...</string>
+<string name="remove_track">Po hiqet, ju lutem prisni...</string>
+<string name="invalid">Kjo direktori nuk mund të hapet</string>
+<string name="from_library">Shto muzikë nga libraria</string>
+<string name="from_folder">Shto muzikë nga folderi</string>
+<string name="lyrics_edit_title">Ndrysho tekstin</string>
+<string name="nolrc">Nuk ka tekst ose skeda është e pavlefshme</string>
+<string name="del_track">Duke fshirë artikujt, ju lutem prisni...</string>
+<string name="ringtone_title_sim1">Ringtoni i telefonit SIM1</string>
+<string name="ringtone_title_sim2">Ringtoni i telefonit SIM2</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" vendosur si Rington telefoni SIM1."</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" vendosur si Rington telefoni SIM2."</string>
+<string name="ring_set_fail">"Na vjen keq, kënga nuk mund të luhet. Ju lutem zgjidhni një këngë tjetër si rington"</string>
+<string name="ring_set_silent_vibrate">"Ringtonet personale nuk suportohen në këtë metodë"</string>
+<string name="please_insert_sim_card">Ju lutem vendosni një kartë SIM të paktën</string>
+<string name="create_playlist_warning">Nuk mund të përdoret i njëjti emër me të sapo shtuarin</string>
+<string name="overwrite_playlist_alert">"Të dhënat e listës të këngëve në “<xliff:g id="NAME">%s</xliff:g>” do të pastrohen."</string>
+<string name="playlist_created_message">Lista e këngëve u pastrua.</string>
+<string name="overwrite_playlist_alert_rename">"Të dhënat e listës të këngëve “<xliff:g id="NAME">%s</xliff:g>” do të mbulohen."</string>
+<string name="delete_artist">"Fshi përfundimisht të gjitha këngët nga \"<xliff:g id="artist">%s</xliff:g>\" nga pajisja?"</string>
+<string name="delete_album">"Fshi përfundimisht të gjithë albumin \"<xliff:g id="album">%s</xliff:g>\" nga pajisja</string>
+<string name="delete_song">"Fshi përfundimisht \"<xliff:g id="song">%s</xliff:g>\" nga pajisja?"</string>
+<string name="display_music">Muzika</string>
+<string name="quit">Mbyll</string>
+<string name="delete_playlist_message">"Jeni të sigurt që doni ta fshini listën e këngëve "%1$s"？"</string>
+<string name="delete_all_playlist">Pastro të gjitha listat</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">Kënga ka ekzistuar në listë.</item>
+<item quantity="other">Këngët kanë ekzistuar në listë.</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 këngë u shtua,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> këngë u shtuan,"</item>
+</plurals>
+<plurals name="NNNsongAlreadyExist">
+<item quantity="one">"1 këngë ekziston tashmë në listën e luajtjes."</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> këngë ekzistojnë tashmë në listë."</item>
+</plurals>
+<string name="length_limited">"Emri deri në gjatësinë maksimale"</string>
+<string name="no_search_result">Nuk janë gjetur këngë</string>
+<string name="search_title_hint">"Artistët, Këngët ose Albumet"</string>
+<string name="error_permissions">"Aplikacioni nuk ka leje të rëndësishme të nevojshme për ekzekutimin. Kontrollo cilësimet e lejeve."</string>
+<string name="dialog_dismiss">Hiq</string>
+<string name="toast_fileexplorer_internal_error">"Ka ndodhur një gabim i brendshëm në Muzika!"</string>
+</resources>

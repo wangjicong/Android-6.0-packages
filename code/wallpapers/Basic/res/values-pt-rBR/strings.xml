@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpapers">"Papeis de Parede Vivos de Android"</string>
+<string name="wallpaper_walkaround">"Veja através"</string>
+<string name="wallpaper_walkaround_desc">"Veja através do seu telefone e anda em volta sem acidentes de arriscar"</string>
+<string name="wallpaper_clock">"Relógio polar"</string>
+<string name="wallpaper_clock_desc">"Presente data e tempo como arcs no sentido anti-horário: mês, dia, hora, minuto, e segundo."</string>
+<string name="clock_settings">"Ajuste de relógio polar"</string>
+<string name="show_seconds">"Mostra segundos"</string>
+<string name="variable_line_width">"Variar a largura de melodia"</string>
+<string name="palette">"Paleta de cor"</string>
+<string name="palette_gray">"Ferro"</string>
+<string name="palette_violet">"Meia-noite"</string>
+<string name="palette_matrix">"Tela Verde"</string>
+<string name="palette_white_c">"Urso Polar (dinámico)"</string>
+<string name="palette_black_c">"Furo Preto (dinámico)"</string>
+<string name="palette_halloween">"Pumpkin Pie"</string>
+<string name="palette_zenburn">"Salada de Fruta de Alienígena"</string>
+<string name="palette_oceanic">"Blue Laser"</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="agingtestlist" translatable="false">
+		<item>@string/lcd_name</item>
+		<item>@string/vibrator_name</item>
+		<item>@string/speaker_name</item>
+		<item>@string/mic_name</item>
+		<item>@string/earpiece_name</item>
+		<item>@string/flashlight_name</item>
+		<item>@string/camera_name</item>
+		<item>@string/wifi_name</item>
+		<item>@string/bluetooth_name</item>
+	</string-array>
+</resources>

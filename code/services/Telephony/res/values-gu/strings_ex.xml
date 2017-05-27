@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">"તમામ જાવક"</string>
+    <string name="messageAO">"કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો."</string>
+    <string name="sum_ao_enabled_indicator">તમામ કોલ્સ રવાનગી કરો</string>
+    <string name="sum_ao_enabled">"સક્રિય થયેલું"</string>
+    <string name="sum_ao_disabled">"નિષ્ક્રિય બનાવેલું"</string>
+    <string name="enable_ao_forbidden">"તમામ આવક કોલ્સ પ્રતિબંધ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="disable_ao_forbidden">"તમામ જાવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="labelOI">"જાવક આંતરરાષ્ટ્રિય"</string>
+    <string name="messageOI">"કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો."</string>
+    <string name="sum_oi_enabled">"સક્રિય થયેલું"</string>
+    <string name="sum_oi_disabled">"નિષ્ક્રિય બનાવેલું"</string>
+    <string name="enable_oi_forbidden">"આંતરરાષ્ટ્રીય જાવક કોલ્સ પ્રતિબંધ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="disable_oi_forbidden">"આંતરરાષ્ટ્રીય આવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="labelOX">જાવક આંતરરાષ્ટ્રિય રોમીંગ</string>
+    <string name="messageOX">"કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો."</string>
+    <string name="sum_ox_enabled">"સક્રિય થયેલું"</string>
+    <string name="sum_ox_disabled">"નિષ્ક્રિય બનાવેલું"</string>
+    <string name="enable_ox_forbidden">"આંતરરાષ્ટ્રીય રોમીંગ જાવક કોલ્સ પ્રતિબંધ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="disable_ox_forbidden">"આંતરરાષ્ટ્રીય રોમીંગ જાવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="labelAI">"તમામ આવક"</string>
+    <string name="messageAI">"કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો."</string>
+    <string name="sum_ai_enabled">"સક્રિય થયેલું"</string>
+    <string name="sum_ai_disabled">"નિષ્ક્રિય બનાવેલું"</string>
+    <string name="enable_ai_forbidden">"તમામ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="disable_ai_forbidden">"તમામ આવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="labelIR">"રોમીંગ સમયે આવક કોલ"</string>
+    <string name="messageIR">"કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો."</string>
+    <string name="sum_ir_enabled">"સક્રિય થયેલું"</string>
+    <string name="sum_ir_disabled">"નિષ્ક્રિય બનાવેલું"</string>
+    <string name="enable_ir_forbidden">"રોમીંગ કોલ્સ સમયે આવક કોલ્સ પ્રતિબંધ સક્રિય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="disable_ir_forbidden">"રોમીંગ કોલ્સ સમયે આવક કોલ્સ પ્રતિબંધ નિષ્‍ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="labelAB">"તમામ નિષ્ક્રીય કરો"</string>
+    <string name="messageAB">"કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો."</string>
+    <string name="sum_ab_enabled">"સક્રિય થયેલું"</string>
+    <string name="sum_ab_disabled">"નિષ્ક્રિય બનાવેલું"</string>
+    <string name="enable_ab_forbidden">"તમામ નિષ્ક્રીય કરવા માટે તમારું કેરીયર સહાયક નથી."</string>
+    <string name="disable_ab_forbidden">"તમારું કેરિયર દરેકને સક્રિય કરવા માટે સમર્થન આપતું નથી."</string>
+    <string name="labelChgPwd">"પાસવર્ડ બદલવો."</string>
+    <string name="DlgChgPwd_oldpwd">"કોલ પ્રતિબંધ પાસવર્ડ દાખલ કરો."</string>
+    <string name="DlgChgPwd_newpwd_first">"નવો પાસવર્ડ દાખલ કરો"</string>
+    <string name="DlgChgPwd_newpwd_last">"નવો પાસવર્ડ પુષ્ટિ કરો"</string>
+    <string name="cb_pw_no_match">પાસવર્ડ મેળ નથી ખાતો.</string>
+    <string name="cb_pw_error">પાસવર્ડ ખોટો છે.</string>
+    <string name="cb_pw_correct">પાસવર્ડ બદલાયેલ છે.</string>
+    <string name="labelCB">કોલ પ્રતિબંધ</string>
+    <string name="call_barring_settings">"કોલ પ્રતિબંધ ગોઠવણી"</string>
+    <string name="cb_error">કોલ પ્રતિબંધ અસ્વીકૃત</string>
+    <!-- SPRD: function call barring support. END-->
+
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"পেকেজ ইনষ্টলাৰ"</string>
+<string name="next">"পৰৱৰ্তী"</string>
+<string name="install">"ইনষ্টল কৰক"</string>
+<string name="done">"হৈ গৈছে"</string>
+<string name="security_settings_desc">"এই এপ্পটোক অনুমতি দিয়ক:"</string>
+<string name="cancel">"নাকচ"</string>
+<string name="unknown">"অজ্ঞাত"</string>
+<string name="installing">"ইনষ্টল কৰি আছে\u2026"</string>
+<string name="install_done">"এপ্প ইনষ্টল হৈছে।"</string>
+<string name="install_confirm_question">"আপুনি এই এপ্লিকেশ্বন ইনষ্টল কৰিব বিচাৰে নে? ই প্ৰৱেশ কৰিব পাৰিব:"</string>
+<string name="install_confirm_question_no_perms">"আপুনি এই এপ্লিকেশ্বন ইনষ্টল কৰিব বিচাৰে নে? ইয়াৰ বাবে কোনো বিশেষ প্ৰৱেশৰ আৱশ্যক নাই।"</string>
+<string name="install_confirm_question_update">"আপুনি এই বিদ্যমান এপ্লিকেশ্বনটোৰ এটা আপডেট ইনষ্টল কৰিব বিচাৰে নে? আপোনাৰ বিদ্যমান ডাটা নেহেৰায়। আপডেট কৰা এপ্লিকেশ্বনটোৱে এইবোৰত প্ৰৱেশ কৰিব:"</string>
+<string name="install_confirm_question_update_system">"আপুনি এই বিল্ট-ইন এপ্লিকেশ্বনটোৰ এটা আপডেট ইনষ্টল কৰিব বিচাৰে নে? আপোনাৰ বিদ্যমান ডাটা নেহেৰায়। আপডেট কৰা এপ্লিকেশ্বনটোৱে এইবোৰত প্ৰৱেশ কৰিব:"</string>
+<string name="install_confirm_question_update_no_perms">"আপুনি এই বিদ্যমান এপ্লিকেশ্বনটোৰ এটা আপডেট ইনষ্টল কৰিব বিচাৰে নে? আপোনাৰ বিদ্যমান ডাটা নেহেৰায়। ইয়াৰ বাবে কোনো বিশেষ প্ৰৱেশৰ আৱশ্যক নাই।"</string>
+<string name="install_confirm_question_update_system_no_perms">"আপুনি এই বিল্ট-ইন এপ্লিকেশ্বনটোৰ এটা আপডেট ইনষ্টল কৰিব বিচাৰে নে? আপোনাৰ বিদ্যমান ডাটা নেহেৰায়। ইয়াৰ বাবে কোনো বিশেষ প্ৰৱেশৰ আৱশ্যক নাই।"</string>
+<string name="install_failed">"এপ্প ইনষ্টল হোৱা নাই।"</string>
+<string name="install_failed_invalid_apk">"পেকেজটো দূষিত হোৱা যেন লাগিছে।"</string>
+<string name="install_failed_inconsistent_certificates">"একেই নামেৰে এটা দ্বন্দ্বিত সাক্ষৰসহ ইতিমধ্যে এটা পেকেজ ইনষ্টল কৰা হৈছে।"</string>
+<string name="install_failed_older_sdk">"পেকেজটোৱে Androidৰ নতুন সংস্কৰণৰ সৈতেহে কাম কৰে।"</string>
+<string name="install_failed_cpu_abi_incompatible" product="tablet">"এই এপ্পটো আপোনাৰ টেবলেটৰ সৈতে সুসংগত নহয়।"</string>
+<string name="install_failed_cpu_abi_incompatible" product="tv">"এই এপটো আপোনাৰ টিভিৰ সৈতে সুসঙ্গত নহয়।"</string>
+<string name="install_failed_cpu_abi_incompatible" product="default">"এই এপ্পটো আপোনাৰ ফোনৰ সৈতে সুসংগত নহয়।"</string>
+<string name="install_failed_file_not_found">"নিৰ্দিষ্ট কৰা পেকেজটো ইনষ্টলেশ্বন সম্পূৰ্ণ কৰিব পৰা আগতেই বিলোপ কৰা হৈছিল।"</string>
+<string name="install_failed_verify_failed">"পেকেজটোৱে সত্যাপণ পাৰ হ\'ব নোৱাৰিলে আৰু ইনষ্টল কৰিব নোৱাৰি।"</string>
+<string name="install_failed_verify_timeout">"এই পেকেজটো সত্যাপণ কৰিবলৈ চেষ্টা কৰি থাকোতে টাইমআউট সংঘটিত হ\'ল। ইয়াক পাছত পুনৰ ইনষ্টল কৰিবলৈ চেষ্টা কৰক।"</string>
+<string name="install_failed_msg" product="tablet">"<xliff:g id="app_name">%1$s</xliff:g> আপোনাৰ টেবলেটত ইনষ্টল কৰিব পৰা নগ\'ল।"</string>
+<string name="install_failed_msg" product="tv">"<xliff:g id="app_name">%1$s</xliff:g> আপোনাৰ টিভিত ইনষ্টল কৰিব পৰা নগ\'ল।"</string>
+<string name="install_failed_msg" product="default">"<xliff:g id="app_name">%1$s</xliff:g> আপোনাৰ ফোনত ইনষ্টল কৰিব পৰা নগ\'ল।"</string>
+<string name="launch">"খোলা"</string>
+<string name="unknown_apps_dlg_title">"ইনষ্টল অৱৰোধ কৰা হৈছে"</string>
+<string name="unknown_apps_dlg_text" product="tablet">"নিৰাপত্তাৰ বাবে, আপোনাৰ টেবলেটত অজ্ঞাত উৎসসমূহৰ পৰা আহৰণ কৰা এপ্প ইনষ্টল কৰাটো অৱৰোধ কৰিবলৈ ছেট কৰা হৈছে।"</string>
+<string name="unknown_apps_dlg_text" product="tv">"নিৰাপত্তাৰ বাবে, আপোনাৰ টিভিত অজ্ঞাত উৎসসমূহৰ পৰা আহৰণ কৰা এপ্প ইনষ্টল কৰাটো অৱৰোধ কৰিবলৈ ছেট কৰা হৈছে।"</string>
+<string name="unknown_apps_dlg_text" product="default">"নিৰাপত্তাৰ বাবে, আপোনাৰ ফোনত অজ্ঞাত উৎসসমূহৰ পৰা আহৰণ কৰা এপ্প ইনষ্টল কৰাটো অৱৰোধ কৰিবলৈ ছেট কৰা হৈছে।"</string>
+<string name="unknown_apps_admin_dlg_text">"আপোনাৰ প্ৰশাসকে অজ্ঞাত উৎসসমূহৰ পৰা আহৰণ কৰা এপ্প ইনষ্টল কৰাৰ অনুমতি নিদিয়ে।"</string>
+<string name="ok">"ঠিক আছে"</string>
+<string name="settings">"ছেটিংছ"</string>
+<string name="allow_source_dlg_title">"এপ্পৰ বাবে নতুন উৎস"</string>
+<string name="allow_source_dlg_text">"<xliff:g id="app_name">%1$s</xliff:g> এ অন্য এপ্পচ ইনষ্টল কৰিব বিচাৰে।\n\nএইটো এতিয়া আৰু ভৱিষ্যতেও অনুমতি দিবনে?"</string>
+<string name="manage_applications">"এপ্পসমূহৰ তদাৰকী"</string>
+<string name="dlg_app_replacement_title">"এপ্প সলনি কৰিব নে?"</string>
+<string name="dlg_app_replacement_statement">"আপুনি ইনষ্টল কৰি থকা এপ্পটোৱে আন এটা এপ্পক সলনি কৰিব।\n\nআপোনাৰ আগৰ সকলো ব্যৱহাৰকাৰী ডাটা সংৰক্ষণ কৰা হ\'ব।"</string>
+<string name="dlg_sys_app_replacement_statement">"এইটো এটা ছিষ্টেম এপ্প।\n\nআপোনাৰ আগৰ সকলো ব্যৱহাৰকাৰী ডাটা সংৰক্ষণ কৰা হ\'ব।"</string>
+<string name="out_of_space_dlg_title">"স্থানৰ অভাৱ"</string>
+<string name="out_of_space_dlg_text">"<xliff:g id="app_name">%1$s</xliff:g> ইনষ্টল কৰিব পৰা নগ\'ল। কিছু স্থান মুকলি কৰক আৰু পুনৰ চেষ্টা কৰক।"</string>
+<string name="dlg_ok">"ঠিক আছে"</string>
+<string name="app_not_found_dlg_title">"এপ্প পোৱা নগ\'ল"</string>
+<string name="app_not_found_dlg_text">"ইনষ্টল এপ্পসমূহৰ তালিকাত এপ্পটো পাৱা হোৱা নাই৷"</string>
+<string name="uninstall_application_title">"এপ্পসমূহৰ আনইনষ্টল"</string>
+<string name="uninstall_update_title">"আপডেট আনইনষ্টল কৰক"</string>
+<string name="uninstall_activity_text">"<xliff:g id="activity_name">%1$s</xliff:g> টো নিম্নলিখিত এপ্পৰ এটা অংশ:"</string>
+<string name="uninstall_application_text">"আপুনি এ‍ই এপ্পটো ইনষ্টল কৰিব বিচাৰে নেকি?" </string>
+<string name="uninstall_application_text_all_users">"<b>সকলো</b> ব্যৱহাৰকাৰীৰ বাবে আপুনি এ‍ই এপ্পটো ইনষ্টল কৰিব বিচাৰে নেকি?" এপ্লিকেশ্বন আৰু ইয়াৰ ডাটা ডিভাইচৰ <b>সকলো</b> ব্যৱহাৰকাৰীৰ পৰা আঁতৰোৱা হ\'ব।"</string>
+<string name="uninstall_application_text_user">"আপুনি <xliff:g id="username">%1$s</xliff:g>?" ব্যৱহাৰকৰ্তাৰ বাবে এই এপ্পটো আনইনষ্টল কৰিব বিচাৰে নেকি?</string>
+<string name="uninstall_update_text">"আপুনি এ‍ই এপ্পটো ফেক্টৰী সংস্কৰণৰ সৈতে সলনি কৰিব বিচাৰে নেকি?" </string>
+<string name="uninstalling">"আনইনষ্টল কৰি আছে\u2026"</string>
+<string name="uninstall_done">"আনইনষ্টল সম্পূৰ্ণ হৈছে।"</string>
+<string name="uninstall_failed">"আনইনষ্টল অসফল হৈছে।"</string>
+<string name="uninstall_failed_device_policy_manager">"আনইনষ্টল কৰিব নোৱাৰি কাৰণ এই পেকেজটো এটা সক্ৰিয় ডিভাইচ ব্যৱস্থাপক।"</string>
+<string name="uninstall_failed_device_policy_manager_of_user">"আনইনষ্টল কৰিব নোৱাৰি কাৰণ এই পেকেজটো নিষ্ক্ৰিয় ডিভাইচ প্ৰশাসক এই <xliff:g id="username">%1$s</xliff:g> ব্যৱহাৰকাৰীৰ বাবে।"</string>
+<string name="uninstall_blocked_profile_owner">"এই এপ্পটো আপোনাৰ কাৰ্য প্ৰফাইলৰ বাবে আৱশ্যক আৰু ইয়াক আনইনষ্টল কৰিব নোৱাৰি।"</string>
+<string name="uninstall_blocked_device_owner">"এই এপ্পটো আৱশ্যক আপোনাৰ ডিভাইচ ব্যৱস্থাপকৰ বাবে আৱশ্যক আৰু ইয়াক আনইনষ্টল কৰিব নোৱাৰি।"</string>
+<string name="manage_device_administrators">"ডিভাইচ ব্যৱস্থাপকসকলক ব্যৱস্থাপনা কৰক"</string>
+<string name="uninstall_failed_msg">"<xliff:g id="app_name">%1$s</xliff:g> আনইনষ্টল কৰিব পৰা নগ\'ল।"</string>
+<string name="Parse_error_dlg_title">"পাৰ্ছ  ত্ৰুটি"</string>
+<string name="Parse_error_dlg_text">"পেকেজটো পাৰ্ছিং কৰাৰ বাবে এটা সমস্যা হৈছে"</string>
+<string name="newPerms">"নতুন"</string>
+<string name="allPerms">"সকলো"</string>
+<string name="privacyPerms">"গোপনীয়তা"</string>
+<string name="devicePerms">"ডিভাইচ প্ৰৱেশ"</string>
+<string name="no_new_perms">"এই আপডেটৰ বাবে নতুন অনুমতিৰ আৱশ্যক নাই।"</string>
+<string name="grant_confirm_question">"আপুনি নিম্নলিখিত অনুমতিসমূহ মঞ্জুৰ কৰিব বিচাৰে নে? ই এইবোৰত প্ৰৱেশ কৰিব:"</string>
+<string name="grant_dialog_button_allow">"অনুমতি দিয়া হওঁক"</string>
+<string name="grant_dialog_button_deny">"অনুমতি নাকচ হওঁক"</string>
+<string name="current_permission_template">" <xliff:g id="current_permission_index" example="1">%1$s</xliff:g> তৈ <xliff:g id="permission_count" example="2">%2$s</xliff:g>"</string>
+<string name="permission_warning_template">"<xliff:g id="app_name" example="Gmail">%1$s</xliff:g> লৈ <xliff:g id="action" example="do something">%2$s</xliff:g> ক অনুমতি দিব?"</string>
+<string name="app_permissions_breadcrumb">"এপ্পসমূহ"</string>
+<string name="app_permissions">"এপ্প অনুমতিসমূহ"</string>
+<string name="never_ask_again">"পুনৰ কেতিয়াও নুসুধিব"</string>
+<string name="no_permissions">"অনুমতি নাই"</string>
+<string name="additional_permissions">"অতিৰিক্ত অনুমতিসমূহ"</string>
+<string name="old_sdk_deny_warning">"এই এপ্পটো Android ৰ এটা পুৰণি সংস্কৰণৰ বাবে ডিজাইন কৰা হৈছিল। অনুমতি দিবলৈ অস্বীকাৰ কৰিলে,অভিপ্ৰায় অনুযায়ী কাম নকৰিব পাৰে।"</string>
+<string name="default_permission_description">"এটা অজ্ঞাত কাৰ্য সম্পন্ন কৰক"</string>
+<string name="app_permissions_group_summary">"<xliff:g id="count" example="10">%1$d</xliff:g> তৈ <xliff:g id="count" example="10">%2$d</xliff:g> এপ্পৰ অনুমতি দিয়া হয়"</string>
+<string name="menu_show_system">"চিষ্টেম প্ৰদৰ্শন কৰক"</string>
+<string name="menu_hide_system">"ছিষ্টেম লুকুৱাওক"</string>
+<string name="permission_title">"<xliff:g id="permission" example="Camera">%1$s</xliff:g> অনুমতিসমূহ"</string>
+<string name="no_apps">"কোনো এপ্প নাই"</string>
+<string name="location_settings">"অৱস্থান ছেটিংছ"</string>
+<string name="location_warning">"<xliff:g id="app_name" example="Package Installer">%1$s</xliff:g> টো এই ডিভাইচৰ এটা অৱস্থান সেৱা প্ৰদানকাৰী। অৱস্থান ঠিকনাৰ পৰা অৱস্থানৰ প্ৰৱেশ সংশোধন কৰিব পাৰি।"</string>
+<string name="system_warning">"যদি আপুনি এই অনুমতি দিবলৈ অস্বীকাৰ কৰে, আপোনাৰ ডিভাইচৰ প্ৰাথমিক বৈশিষ্ট্যসমূহে অভিপ্ৰেত মতে কাম নকৰিব পাৰে।" "</string>
+<string name="permission_summary_enforced_by_policy">"নীতি অনুসৰি ৰূপায়িত"</string>
+<string name="loading">"লোড হৈ আছে\u2026"</string>
+<string name="all_permissions">"সকলো অনুমতি"</string>
+<string name="other_permissions">"সকলো এপ্প সক্ষমতা"</string>
+<string name="permission_request_title">"অনুমতিৰ অনুৰোধ"</string>
+<string name="screen_overlay_title">"স্ক্ৰীন অভাৰলে চিনাক্ত কৰা হৈছে"</string>
+<string name="screen_overlay_message">"এই অনুমতি ছেটিং সলনি কৰিবলৈ, আপুনি প্ৰথমতে ছেটিংচ\u003e এপ্পৰ পৰা স্ক্ৰীন অভাৰলে অফ কৰিব লাগিব"</string>
+<string name="screen_overlay_button">"ছেটিংছ খোলক"</string>
+<string name="toast_application_is_not_exists">"এপ্লিকেশ্বনটো আনইনষ্টল কৰা হ\'ল।"</string>
+</resources>

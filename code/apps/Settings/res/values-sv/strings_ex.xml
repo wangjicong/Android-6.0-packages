@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB-inställningar"</string>
+<string name="usb_charge_only">"Ladda enbart"</string>
+<string name="usb_charge_only_summary">"Använd enbart laddning-läge när USB är ansluten"</string>
+<string name="usb_charge_only_storage_active_subtext">"Kan inte enbart ladda när USB-lagring används"</string>
+<string name="usb_charge_only_notification">"Enbart ansluten genom laddning"</string>
+<string name="usb_storage">"USB-lagring"</string>
+<string name="usb_storage_summary">"Aktivera USB-masslagring"</string>
+<string name="ums_settings">"UMS-inställningar"</string>
+<string name="ums_mounted_setting">"Montera UMS till PC nu, vänta..."</string>
+<string name="ums_unmounted_setting">"Demontera UMS från PC nu, vänta..."</string>
+<string name="usb_virtual_drive">"USB virtuell enhet"</string>
+<string name="usb_virtual_drive_summary">"Aktivera USB virtuell enhet"</string>
+<string name="remember_choice">"Kom ihåg mitt val"</string>
+<string name="remember_choice_summary">"Kom ihåg mitt val och starta den ihågkomna åtgärden automatiskt nästa gång"</string>
+<string name="stand_by_set_changed_prompt">"SIM-aktiveringstillstånd kommer att ändras, bekräfta att du vill fortsätta?"</string>
+<string name="not_stand_by">"Förbjudet"</string>
+<string name="primary_card_switching">"Ställer in\uff0cvänta..."</string>
+<string name="toggle_data_change_message">"Dataanslutningen har ändrats till SIM-kortet <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, den kommer att producera data och notera motsvarade avgift."</string>
+<string name="select_primary_card">"Välj primärt kort"</string>
+<string name="whether_switch_primary_card">"Bekräfta om du vill byta det primära kortet till det här kortet?\nMobildata kommer också att hamna på kortet.)"</string>
+<string name="attention">"Obs!"</string>
+<string name="bt_softap_cannot_coexist">"När softap är aktiverat eller slås på, fungerar inte Bluetooth Om du vill använda Bluetooth se till att softap är inaktiverat."</string>
+<string name="softap_bt_cannot_coexist">"När Bluetooth är aktiverat eller sätts på fungerar inte softap. Om du vill använda softap, se till att Bluetooth är inaktiverat."</string>
+<string name="softap_need_mobile_data_enabled">"Portabel Wi-Fi-hotspot behöver mobil dataanslutning, ytterligare kostnader kan tillkomma."</string>
+<string-array name="light_color_picker">
+<item>"Grön"</item>
+<item>Blå</item>
+<item>"Indigo"</item>
+<item>"Lila"</item>
+<item>"Rosa"</item>
+<item>"Röd"</item>
+<item>"Gul"</item>
+</string-array>
+</resources>

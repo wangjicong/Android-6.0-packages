@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="call_log_outgoing_title">dalëse</string>
+<string name="call_log_incoming_title">hyrëse</string>
+<string name="recentOutgoing_empty">"Nuk keni telefonata dalëse."</string>
+<string name="recentIncoming_empty">"Nuk keni telefonata hyrëse."</string>
+<string name="view_setting">Shiko</string>
+<string name="item_all_calls">Të gjithë regjistrat e thirrjeve</string>
+<string name="item_sim_calls">"SIM%d regjistra thirrjesh"</string>
+<string name="unselect_all">"Çzgjidh të gjitha"</string>
+<string name="select_all_sprd">Zgjidh të gjitha</string>
+<string name="doneButton">U krye</string>
+<string name="cancel">Anulo</string>
+<string name="delete_selected_calls">"Jeni të sigurt që doni të fshini regjistrimet e zgjedhura?"</string>
+<string name="clearCallLogProgress_title">Duke pastruar regjistrin e telefonatave...</string>
+<string name="delete_success">"U fshi me sukses"</string>
+<string name="clear_all_call_log">Pastro të gjithë regjistrin e thirrjeve</string>
+<string name="clear_selected_call_log">Pastro regjistrin e zgjedhur të thirrjeve</string>
+<string name="select_all">Zgjidh të gjitha</string>
+<string name="unselect_all">Çzgjidh të gjitha</string>
+<string name="delete_all_calls_confirm">Doni të fshini të regjistrimet e të gjitha tuajave?</string>
+<string name="do_not_select">"Nuk zgjodhët asnjë regjistrim për të fshirë"</string>
+<string name="delete_calls">Fshi</string>
+<string name="number_anr_isnull">"Numri i kontaktit është bosh"</string>
+<string name="call_recording_setting_title">"Regjistrim i thirrjes"</string>
+<string name="automatic_recording_title">"Regjistrim automatik"</string>
+<string name="ip_dialing_list_title">Konfigurimi i telefonimit IP</string>
+<string name="ip_dial_menu">Telefonim IP</string>
+<string name="ip_dialing_title">Duke telefonuar IP</string>
+<string name="dialog_phone_permission_deny">"Për të përdorur telefonimin IP, \n aktivizoni lejen e telefonit."</string>
+<string name="search_description">Kërko Regjistrin e Thirrjeve</string>
+<string name="fast_dial_title">Thirrje e shpejtë</string>
+<string name="no_fast_dial_number">Numri i telefonimit të shpejtë nuk është vendosur.</string>
+<string name="call_log_add_to_blacklist">SHTO NË LISTËN E ZEZË</string>
+<string name="make_video_call_menu">Bëj një telefonatë video</string>
+</resources>

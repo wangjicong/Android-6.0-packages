@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2012,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/launcher_popup_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:background="@drawable/net_print_background"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" >
+
+        <TextView
+            android:id="@+id/net_print_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="40dp"
+            android:textColor="@android:color/white"
+            android:textSize="16dp"
+            android:gravity="left" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp">
+
+                <Button
+                    android:id="@+id/btn_confirm"
+                    android:layout_width="95dp"
+                    android:layout_height="52dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="40dp"
+                    android:background="@drawable/sns_net_print_btn"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/sns_net_positive_title"
+                    android:textColor="#363636"
+                    android:textSize="14dp" />
+
+                <Button
+                    android:id="@+id/btn_cancel"
+                    android:layout_width="95dp"
+                    android:layout_height="52dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="40dp"
+                    android:background="@drawable/sns_net_print_btn"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="@string/sns_net_negative_tilte"
+                    android:textColor="#363636"
+                    android:textSize="14dp" />
+            </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

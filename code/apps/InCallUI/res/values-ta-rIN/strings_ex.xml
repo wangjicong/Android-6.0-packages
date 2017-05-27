@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"முக்கிய கார்டு:"</string>
+<string name="vice_card_slot">"வைஸ் அட்டை:"</string>
+<string name="record_time">"பதிவு நேரம்:"</string>
+<string name="onscreenShowRecodText">"பதிவு"</string>
+<string name="recorderr">"பதிவுகள் சேமிக்கப்படவில்லை!"</string>
+<string name="audio_db_artist_name">"உங்கள் பதிவாக்கல்கள்"</string>
+<string name="audio_db_album_name">"அழைப்புப் பதிவாக்கல்கள்"</string>
+<string name="audio_db_playlist_name">"எனது பதிவாக்கல்கள்"</string>
+<string name="app_name">"ஃபோன் App"</string>
+<string name="error_mediadb_new_record">"பதிவுசெய்யப்பட்ட ஆடியோவை சேமிக்க முடியவில்லை"</string>
+<string name="sdcard_access_error">Sdஅட்டையை அணுக முடியாது</string>
+<string name="no_sd_card">SD கார்டு இல்லை அல்லது ஏற்றப்படவில்லை</string>
+<string name="insert_sd_card">"தயவுசெய்து ஒரு SD கார்டைச் செருகவும்"</string>
+<string name="storage_is_full">"சேமிப்பகம் நிரம்பியுள்ளது"</string>
+<string name="recording">"பதிவுகள் "</string>
+<string name="used_by_other_applications">"பதிவுசெய்யும் உபகரணம் பிற புரோகிராம்களால் பயன்படுத்தப்படுகின்றது, தயவுசெய்து புரோகிராமை நிறுத்தவும்."</string>
+<string name="prompt_record_finish">"பதியும் கோப்பு சேமிக்கப்பட்ட இடம்"</string>
+<string name="ok">சரி</string>
+<string name="permission_no_record">"அழைப்பு பதிவுக்கு உங்களுக்கு எந்தவித அனுமதியும் இல்லை"</string>
+<string name="hangup_hold_and_answer">"அழைப்பு நிறுத்தி வைத்திருப்பதை நிறுத்த்தி பதிலளிக்கவும்"</string>
+<string name="hangup_active_and_answer">"செயலத்திறமான அழைப்பை நிறுத்தி பதிலளிக்கவும்"</string>
+<string name="hangup_all_and_answer">"அனைத்து அழைப்புகளையும் நிறுத்தி பதிலளிக்கவும்"</string>
+<string name="onActive">"செயல்திறமான"</string>
+<string name="hold_current_call_and_answer">தற்போதைய அழைப்பை ஹோல்டு செய்துவிட்டு பதிலளி</string>
+<string name="hangup_current_call_and_answer">"தற்போதைய அழைப்பை துண்டித்துவிட்டு பதிலளிக்கவும்"</string>
+</resources>

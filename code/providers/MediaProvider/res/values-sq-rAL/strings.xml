@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="uid_label">Media</string>
+<string name="app_label">Hapësira ruajtëse e medias</string>
+<string name="artist_label">Artisti</string>
+<string name="ringtone_default">Ringtoni standard</string>
+<string name="notification_sound_default">Tingulli standard i njoftimit</string>
+<string name="alarm_sound_default">Tingulli standard i alarmit</string>
+<string name="root_images">Imazhet</string>
+<string name="root_videos">Videot</string>
+<string name="root_audio">audio</string>
+<string name="android_custom_label">Ringtone personale</string>
+<string name="ringtone_dialog_message">Nuk ka një rington që mund të përdoret.</string>
+<string name="ringtone_default_message">Më vjen keq, ringtoni nuk luhet</string>
+</resources>

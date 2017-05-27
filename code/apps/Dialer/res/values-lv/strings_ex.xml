@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP Sastādīšanas Uzstādījumi"</string>
+    <string name="ip_dial_menu">"IP SASTĀDĪTĀJS"</string>
+    <string name="ip_dialing_title">"IP sastādīšana"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Ātrās sastādīšanas Uzstādījumi"</string>
+    <string name="no_fast_dial_number">"Ātrās sastādīšanas nummurs nav uzstādīts."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"izejošs"</string>
+     <string name="call_log_incoming_title">"ienākošs"</string>
+     <string name="recentOutgoing_empty">"Jums nav izejošu zvanu."</string>
+     <string name="recentIncoming_empty">"Jums nav ienākošu zvanu."</string>
+     <string name="view_setting">"Skatīt"</string>
+     <string name="item_all_calls">"Visi zvanu saraksti"</string>
+     <string name="item_sim_calls">"SIM%d zvanu saraksti"</string>
+     <string name="unselect_all">"Noņemt atlasi visam"</string>
+     <string name="select_all_sprd">"Atlasīt visus"</string>
+     <string name="doneButton">"Gatavs"</string>
+     <string name="cancel">"Atcelt"</string>
+     <string name="delete_selected_calls">"Vai esat pārliecināts, ka vēlaties dzēst izvēlētos ierakstus?"</string>
+     <string name="clearCallLogProgress_title">"Notiek zvanu žurnāla tīrīšana..."</string>
+     <string name="delete_success">"Dzēsts veiksmīgi"</string>
+     <string name="clear_all_call_log">"Dzēst visu zvana sarakstu"</string>
+     <string name="clear_selected_call_log">"Dzēst izvēlēto zvanu sarakstu"</string>
+     <string name="select_all">"Atlasīt visus"</string>
+     <string name="unselect_all">"Atcelt atlasi"</string>
+     <string name="delete_all_calls_confirm">"Vai vēlaties dzēst visus savus ierakstus"</string>
+     <string name="do_not_select">"Jūs neizvēlējāties dzēst ierakstu"</string>
+     <string name="delete_calls">"Dzēst"</string>
+     <string name="number_anr_isnull">"Kontakta nummurs ir tukšs"</string>
+     <string name="call_recording_setting_title">"Zvana ierakstīšana"</string>
+     <string name="automatic_recording_title">"Automātiskā ierakstīšana"</string>
+     <string name="dialog_phone_permission_deny">"Lai izmantotu IP ciparnīcu, \n ieslēdziet Telefona atļauju."</string>
+     <string name="search_description">"Meklēt Zvanu sarakstu"</string>
+     <string name="call_log_add_to_blacklist">"PIEVIENOT MELNAJAM SARAKSTAM"</string>
+     <string name="make_video_call_menu">"Veikt videozvanu"</string>
+
+</resources>

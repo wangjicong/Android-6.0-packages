@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2010,2013 Thundersoft Corporation
+    All rights Reserved
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="sns_net_print_title">ネットプリント</string>
+    <string name="sns_net_print_shi">しまうまプリント</string>
+    <string name="sns_net_print_tolot">TOLOT フォトブック for au カメラで撮った写真から簡単にオリジナルのフォトブックや写真集がつくれるアプリ。</string>
+    <string name="sns_net_print_shi_no_message">「しまうまプリント」がインストールされていません。auスマートパスから インストールしますか？</string>
+    <string name="sns_net_print_tolot_no_message">「TOLOT」がインストールされていません。\n
+        auスマートパスから インストールしますか？</string>
+    <string name="sns_net_negative_tilte">キャンセル</string>
+    <string name="sns_net_positive_title">au スマートパスへ</string>
+    <string name="sns_net_shi_description">しまうまプリント for au スマートフォンに保存されている写真をオンラインで注文することができるアプリ。</string>
+    <string name="sns_net_print_back">戻る</string>
+</resources>

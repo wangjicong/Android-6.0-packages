@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"ပင္မ ကတ္-"</string>
+<string name="vice_card_slot">"ဗုိက္စ္ ကတ္-"</string>
+<string name="record_time">မွတ္တမ္းတင္ အခ်ိန္</string>
+<string name="onscreenShowRecodText">အသံဖမ္း</string>
+<string name="recorderr">"အသံသြင္း သိမ္းရန္ မေအာင္ျမင္!"</string>
+<string name="audio_db_artist_name">သင္၏ မွတ္တမ္းတင္မႈမ်ား</string>
+<string name="audio_db_album_name">"ဖုန္း မွတ္တမ္းတင္ျခင္းမ်ား"</string>
+<string name="audio_db_playlist_name">ကၽြႏု္ပ္၏ အသံသြင္းျခင္းမ်ား</string>
+<string name="app_name">"ဖုန္း ေအပီပီ"</string>
+<string name="error_mediadb_new_record">အသံဖမ္းထားသည့္ေအာ္ဒီယိုကိုသိမ္းရန္ မေထာက္ပ့ံပါ</string>
+<string name="sdcard_access_error">"SD ကဒ္မလက္ခံပါ"</string>
+<string name="no_sd_card">"SD ကဒ္မရွိ (သို့) အန္ေမာင့္"</string>
+<string name="insert_sd_card">"ေက်းဇူးျပဳ၍ SD ကဒ္ တစ္ခုထည့္ပါ"</string>
+<string name="storage_is_full">သိုေလွာင္မႈျပည့္ေနသည္</string>
+<string name="recording">"အသံသြင္း "</string>
+<string name="used_by_other_applications">"တျခားေအပီပီမွ အသံသြင္းစက္ကို သံုးေန, ေက်းဇူးျပဳ၍ ေအပီပီကို ပိတ္ပါ"</string>
+<string name="prompt_record_finish">"ရီေကာဒင္းဖိုင္ သိမ္းျပီး"</string>
+<string name="ok">အိုေက</string>
+<string name="permission_no_record">"ဖုန္း အသံသြင္းရန္ ခြင့္ျပဳခ်က္မရွိ"</string>
+<string name="hangup_hold_and_answer">"ဖုန္းကိုင္ျပီး ျပန္ေျဖပါ "</string>
+<string name="hangup_active_and_answer">"ဖုန္းအသံဖြင့္ျပီး ျပန္ေျဖပါ"</string>
+<string name="hangup_all_and_answer">"ဖုန္းအားလံုးကို ျပန္ေျဖပါ "</string>
+<string name="onActive">"အသက္၀င္"</string>
+<string name="hold_current_call_and_answer">"ယခုဖုန္းကို ကိုင္ျပီး ျပန္ေျဖပါ "</string>
+<string name="hangup_current_call_and_answer">"ယခုဖုန္းကို ျပန္ေျဖပါ "</string>
+</resources>

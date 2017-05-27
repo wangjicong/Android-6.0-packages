@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_drm" translatable="false">plugin.sprd.drmxposed.AddonMusicDRM</string>
+    <string name="music_cmcc" translatable="false">plugin.sprd.addmusicxposed.AddonAddMusicForCMCC</string>
+</resources>

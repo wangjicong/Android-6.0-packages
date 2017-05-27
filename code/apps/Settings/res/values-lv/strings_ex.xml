@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB uzstādījumi"</string>
+<string name="usb_charge_only">"Tikai uzlādēt"</string>
+<string name="usb_charge_only_summary">"Lietot tikai uzlādēt režīm, kad savienots caur USB"</string>
+<string name="usb_charge_only_storage_active_subtext">"Nevar tikai lādēt, kamēr tiek lietota USB glabātuve"</string>
+<string name="usb_charge_only_notification">"Savienots tikai uzlādēšanai"</string>
+<string name="usb_storage">"USB krātuve"</string>
+<string name="usb_storage_summary">"Iespējot USB lielapjoma krātuvi"</string>
+<string name="ums_settings">"UMS uzstādījumi"</string>
+<string name="ums_mounted_setting">"Šobrīd uzliek ums uz PC, lūdzu, uzgaidiet..."</string>
+<string name="ums_unmounted_setting">"Šobrīd noņem ums no PC, lūdzu, uzgaidiet..."</string>
+<string name="usb_virtual_drive">"USB virtuālais draiveris"</string>
+<string name="usb_virtual_drive_summary">"Iespējot USB virtuāla draiveri"</string>
+<string name="remember_choice">"Atcerēties manu izvēli"</string>
+<string name="remember_choice_summary">"Atcerēties manu izvēli un sākt atcerēto funkciju automātiski nākošajā reizē"</string>
+<string name="stand_by_set_changed_prompt">"Sim aktivācijas stāvoklis tiks mainīts, lūdzu, apstipriniet vai turpināt?"</string>
+<string name="not_stand_by">"Aizliegts"</string>
+<string name="primary_card_switching">"Uzstāda\uff0clūdzu, uzgaidiet..."</string>
+<string name="toggle_data_change_message">"Datu savienojums ir pārslēgts uz sim karti <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, tā radīs datu caurlaidspēju un korrelatīvās izmaksas, lūdzu, ņemiet vērā."</string>
+<string name="select_primary_card">"Izvēlēties primāro karti"</string>
+<string name="whether_switch_primary_card">"Lūdzu, apstipriniet, vai apmainīt primāro karti ar šo karti?\n(Mobilie dati arī tiks pārvietoti uz karti.)"</string>
+<string name="attention">"Uzmanību!"</string>
+<string name="bt_softap_cannot_coexist">"Kad softap ir iespējots vai tiek ieslēgts, bluetooth nevar strādāt, ja jūs vēlaties izmantot bluetooth, lūdzu, pārliecinieties, ka softap ir atspējots."</string>
+<string name="softap_bt_cannot_coexist">"Kad bluetooth ir iespējots vai tiek ieslēgts, softap var nestrādāt, ja jūs vēlaties izmantot softap, lūdzu, pārliecinieties, ka bluetooth ir atspējots."</string>
+<string name="softap_need_mobile_data_enabled">"Pārvietojamam Wi-Fi tīklājam nepieciešams mobilo datu savienojums, var radīt papildus izmaksas."</string>
+<string-array name="light_color_picker">
+<item>"Zaļa"</item>
+<item>"Zila"</item>
+<item>"Indigo"</item>
+<item>"Violeta"</item>
+<item>"Rozā"</item>
+<item>"Sarkana"</item>
+<item>"Dzeltena"</item>
+</string-array>
+</resources>

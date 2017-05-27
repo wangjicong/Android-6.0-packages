@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB-indstillinger"</string>
+<string name="usb_charge_only">Oplad kun</string>
+<string name="usb_charge_only_summary">Brug oplade kun tilstand, når USB er tilsluttet</string>
+<string name="usb_charge_only_storage_active_subtext">Kan ikkafgift, når USB lager er i brug</string>
+<string name="usb_charge_only_notification">Tilsluttet som ladning kun</string>
+<string name="usb_storage">USB lager </string>
+<string name="usb_storage_summary">Aktiver USB masselagring</string>
+<string name="ums_settings">"UMS Indstillinger"</string>
+<string name="ums_mounted_setting">"Tilslutter ums til PC\'en nu, vent venligst ..."</string>
+<string name="ums_unmounted_setting">"Kobler ums fra PC\'en nu, vent venligst ...</string>
+<string name="usb_virtual_drive">"USB virtuelt drev"</string>
+<string name="usb_virtual_drive_summary">"Aktiver USB vituelt drev"</string>
+<string name="remember_choice">Husk mit valg</string>
+<string name="remember_choice_summary">"Husk mit valg og start den gemte funktion automatisk næste gang"</string>
+<string name="stand_by_set_changed_prompt">"Aktiveringstilstanden for SIM vil blive ændret. Bekræft venligst, at du ønsker at fortsætte?"</string>
+<string name="not_stand_by">"FORBUDT"</string>
+<string name="primary_card_switching">"Indstiller\uff0c. Vent venligst..."</string>
+<string name="toggle_data_change_message">"Dataforbindelse er skiftet til SIM-kort <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, data udveklses og kan give afledte afgifter. Bemærk venligst."</string>
+<string name="select_primary_card">"Vælg primært kort"</string>
+<string name="whether_switch_primary_card">"Bekræft venligst, at hovedlager skal flyttes til dette kort?\n(Mobiltelefondata flyttes også til kortet.)"</string>
+<string name="attention">Opmærksomhed</string>
+<string name="bt_softap_cannot_coexist">Når Softapp er aktiveret eller tændes, virker Bluetooth ikke. Ønsker du at bruge Bluetooth, skal du sikre dig, at Softapp er slukket."</string>
+<string name="softap_bt_cannot_coexist">"Når bluetooth aktiveres eller slås til, kan hotspot ikke fungere. Ønsker du at bruge hotspot, skal du sikre, at bluetooth er deaktiveret."</string>
+<string name="softap_need_mobile_data_enabled">"Bærbart Wi-fi hotspot skal bruge mobildata for at forbinde, kan medføre yderligere omkostninger."</string>
+<string-array name="light_color_picker">
+<item>"Grøn"</item>
+<item>"Blå"</item>
+<item>"Indigo"</item>
+<item>"Lilla"</item>
+<item>"Pink"</item>
+<item>"Rød"</item>
+<item>"Gul"</item>
+</string-array>
+</resources>

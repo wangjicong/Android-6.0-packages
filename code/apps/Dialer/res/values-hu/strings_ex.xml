@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP tárcsázás beállítása"</string>
+    <string name="ip_dial_menu">"IP tárcsázás"</string>
+    <string name="ip_dialing_title">IP tárcsázás</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Gyors tárcsázás beállítása"</string>
+    <string name="no_fast_dial_number">"A gyors tárcsázási szám nincs beállítva."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"Kimenő"</string>
+     <string name="call_log_incoming_title">"bejövő"</string>
+     <string name="recentOutgoing_empty">"Nincs kimenő hívása."</string>
+     <string name="recentIncoming_empty">"Nincs bejövő hívása."</string>
+     <string name="view_setting">"Megtekintés"</string>
+     <string name="item_all_calls">"Minden hívásnapló"</string>
+     <string name="item_sim_calls">"SIM%d hívásnaplók"</string>
+     <string name="unselect_all">Az összes kijelölésének törlése</string>
+     <string name="select_all_sprd">"Összes kijelölése"</string>
+     <string name="doneButton">"Kész"</string>
+     <string name="cancel">"Mégse"</string>
+     <string name="delete_selected_calls">"Biztosan törli a kiválasztott adatokat?"</string>
+     <string name="clearCallLogProgress_title">"Hívásnapló törlése\u2026"</string>
+     <string name="delete_success">"Sikeres törlés"</string>
+     <string name="clear_all_call_log">"Teljes hívásnapló törlése"</string>
+     <string name="clear_selected_call_log">"Kijelölt hívásnapló törlése"</string>
+     <string name="select_all">"Összes kijelölése"</string>
+     <string name="unselect_all">"Semelyik"</string>
+     <string name="delete_all_calls_confirm">"Törölni kívánja az összes bejegyzését?"</string>
+     <string name="do_not_select">"Nem jelölt ki bejegyzést a törléshez"</string>
+     <string name="delete_calls">"törlés"</string>
+     <string name="number_anr_isnull">"A kapcsolat telefonszám mező üres"</string>
+     <string name="call_recording_setting_title">"Hívás felvétele"</string>
+     <string name="automatic_recording_title">"Automatikus felvétel"</string>
+     <string name="dialog_phone_permission_deny">"IP-tárcsázáshoz,\n kapcsolja be a telefon engedélyezését."</string>
+     <string name="search_description">hívásnapló keresése</string>
+     <string name="call_log_add_to_blacklist">Hozzáadás feketelistához</string>
+     <string name="make_video_call_menu">"Videohívás kezdeményezése"</string>
+
+</resources>

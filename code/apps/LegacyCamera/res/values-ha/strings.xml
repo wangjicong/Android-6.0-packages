@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">"Kuskure Kyamara"</string>
+<string name="cannot_connect_camera">"Ba za a iya hadawa da kyamara ba."</string>
+<string name="camera_disabled">"An rufe kyamara saboda ka\'idojin tsaro."</string>
+<string name="camera_label">"Kamara"</string>
+<string name="video_camera_label">"Kamkoda"</string>
+<string name="gallery_camera_bucket_name">"Hotunan kyamara"</string>
+<string name="gallery_camera_videos_bucket_name">"Bidiyoyin kyamara"</string>
+<string name="wait">"A dakata\u2026"</string>
+<string name="no_storage" product="nosdcard">"Kafa ma\'adanar USB kafin amfani da kyamara"</string>
+<string name="no_storage" product="default">"Shigar da katin SD kafin ka yi amfani da kyamara."</string>
+<string name="not_enough_space" product="nosdcard">"Your USB storage is full."</string>
+<string name="not_enough_space" product="default">"SD card dinka ya cika."</string>
+<string name="preparing_sd" product="nosdcard">"Preparing USB storage\u2026"</string>
+<string name="preparing_sd" product="default">"Ana shirya SD card\u2026"</string>
+<string name="access_sd_fail" product="nosdcard">"An kasa bude ma\'adanar USB."</string>
+<string name="access_sd_fail" product="default">"An kasa bude katin SD."</string>
+<string name="confirm_restore_title">"Maida zuwa tsarin farko"</string>
+<string name="confirm_restore_message">"A maido da saitukan kyamara na dindindin?"</string>
+<string name="review_play">"Kunna"</string>
+<string name="review_cancel">"Soke"</string>
+<string name="review_ok">"An yi"</string>
+<string name="review_retake">"SAKE DAUKA"</string>
+<string name="camera_gallery_photos_text">"Gallery"</string>
+<string name="switch_camera_id">"Kunna Kamara"</string>
+<string name="time_lapse_title">"Daukar shudewar lokaci"</string>
+<string name="pref_camera_id_title">"Zabi kyamara"</string>
+<string name="pref_camera_id_entry_back">"Baya"</string>
+<string name="pref_camera_id_entry_front">"Gaba"</string>
+<string name="pref_camera_recordlocation_title">"Hotuna na kasashe"</string>
+<string name="pref_camera_recordlocation_entry_off">"A KASHE"</string>
+<string name="pref_camera_recordlocation_entry_on">"A kunne"</string>
+<string name="pref_video_quality_title">"Ingancin bidiyo"</string>
+<string name="pref_video_time_lapse_frame_interval_title">"Nisan shudewar lokaci a tsakani"</string>
+<string name="pref_camera_settings_category">"Hotunan kyamara"</string>
+<string name="pref_camcorder_settings_category">"Saitunan kamkoda"</string>
+<string name="pref_camera_picturesize_title">"Girman hoto"</string>
+<string name="pref_camera_picturesize_entry_2592x1936">"5M Dige-dige"</string>
+<string name="pref_camera_picturesize_entry_2048x1536">"3M Dige-dige"</string>
+<string name="pref_camera_picturesize_entry_1600x1200">"2M Dige-dige"</string>
+<string name="pref_camera_picturesize_entry_1280x960">"1.3M Dige-dige"</string>
+<string name="pref_camera_picturesize_entry_1024x768">"1M Dige-dige"</string>
+<string name="pref_camera_focusmode_title">"Halin daidaitawa"</string>
+<string name="pref_camera_focusmode_entry_auto">"Automatik"</string>
+<string name="pref_camera_focusmode_entry_infinity">"Marar iyaka"</string>
+<string name="pref_camera_focusmode_entry_macro">"Macro"</string>
+<string name="pref_camera_flashmode_title">"Halin haske"</string>
+<string name="pref_camera_flashmode_entry_auto">"Automatik"</string>
+<string name="pref_camera_flashmode_entry_on">"A kunne"</string>
+<string name="pref_camera_flashmode_entry_off">"A KASHE"</string>
+<string name="pref_camera_whitebalance_title">"Ma`aunin haske"</string>
+<string name="pref_camera_whitebalance_entry_auto">"Automatik"</string>
+<string name="pref_camera_whitebalance_entry_incandescent">"Mai kyalkyalin wuta"</string>
+<string name="pref_camera_whitebalance_entry_daylight">"Hasken rana"</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">"Fitilar kwai mai haske"</string>
+<string name="pref_camera_whitebalance_entry_cloudy">"Yanayin hadari"</string>
+<string name="pref_camera_scenemode_title">"Tsarin dare"</string>
+<string name="pref_camera_scenemode_entry_auto">"Automatik"</string>
+<string name="pref_camera_scenemode_entry_action">"Aiki"</string>
+<string name="pref_camera_scenemode_entry_night">"Dare"</string>
+<string name="pref_camera_scenemode_entry_sunset">"Faduwar rana"</string>
+<string name="pref_camera_scenemode_entry_party">"Walima"</string>
+<string name="not_selectable_in_scene_mode">"Ba wanda ake zaba a yanayin fage ba ne."</string>
+<string name="pref_restore_title">"Hotunan kyamara"</string>
+<string name="pref_restore_detail">"Maida zuwa tsarin farko"</string>
+<string name="pref_exposure_title">"Nuna wa"</string>
+<string name="dialog_ok">"YA YI"</string>
+<string name="spaceIsLow_content" product="nosdcard">"Your USB storage is running out of space. Change the quality setting or delete some images or other files."</string>
+<string name="spaceIsLow_content" product="default">"Sararin SD card dinka ya kusa cika. Canja saitin inganci ko ka share wasu hotuna ko kuma sauran fayiloli."</string>
+<string name="video_reach_size_limit">"An kai makurar girma"</string>
+<string name="switch_to_camera_label">"Canja zuwa kyamara"</string>
+<string name="switch_to_video_label">"Canja zuwa bidiyo"</string>
+<string name="switch_to_panorama_label">"Canja zuwa kyawun yanayi"</string>
+<string name="share_picture_via">"Raba hoto ta cikin"</string>
+<string name="share_video_via">"Raba bidiyo ta cikin"</string>
+<string name="no_picture_to_share">"Babu hoto da za a rarraba."</string>
+<string name="no_video_to_share">"Babu bidiyo da za a rarraba."</string>
+<string name="pano_too_fast_prompt">"Mai sauri da yawa"</string>
+<string name="pano_dialog_prepare_preview">"Ana shirya kyawun yanayi"</string>
+<string name="pano_dialog_panorama_failed">"An kasa ajiye kyawun yanayi."</string>
+<string name="pano_dialog_title">"Kyawun yanayi"</string>
+<string name="pano_capture_indication">"Ana daukar kyawun yanayi"</string>
+<string name="pano_review_saving_indication_str">"Ana ajiye\u2026"</string>
+<string name="tap_to_focus">"Taba don ka fuskanta."</string>
+<string name="pref_video_effect_title">"Ayyuka"</string>
+<string name="effect_none">"Ko daya"</string>
+<string name="effect_goofy_face_squeeze">"Matse"</string>
+<string name="effect_goofy_face_big_eyes">"Manyan idanu"</string>
+<string name="effect_goofy_face_big_mouth">"Babban baki"</string>
+<string name="effect_goofy_face_small_mouth">"Karamin baki"</string>
+<string name="effect_goofy_face_big_nose">"Babban hanci"</string>
+<string name="effect_goofy_face_small_eyes">"Kananan idanu"</string>
+<string name="effect_backdropper_space">"A cikin sarari"</string>
+<string name="effect_backdropper_sunset">"Faduwar rana"</string>
+<string name="effect_backdropper_gallery">"Zabi naka"</string>
+<string name="bg_replacement_message">"Saita na\'urarka kasa\nFita daga fage na dan lokaci"</string>
+<string name="not_selectable_in_effect">"Ba wanda ake zaba ba ne lokacin da aiki ya ke yi."</string>
+<string name="video_snapshot_hint">"Dauki hoto lokacin da ake daukar bidiyo ta hanyar taba allon kyamara."</string>
+<string name="disable_video_snapshot_hint">"An rufe daukar hoton bidiyo  lokacin da ayyukan na musamman suke kunne."</string>
+<string name="clear_effects">"Goge ayyuka"</string>
+<string name="effect_silly_faces">"FUSKOKI MARASA TSARI"</string>
+<string name="effect_background">"KEWAYE"</string>
+<string name="accessibility_shutter_button">"Madannin murfi"</string>
+<string name="accessibility_review_thumbnail">"Hoto mafi sabunta"</string>
+<string name="accessibility_camera_picker">"Makunnin kyamara na gaba da baya"</string>
+<string name="accessibility_mode_picker">"Kyamara, bidiyo, ko mai zabar kyawun yanayi"</string>
+<string name="accessibility_second_level_indicators">"Karin masarrafan saituka"</string>
+<string name="accessibility_back_to_first_level">"Rufe masarrafan saiti"</string>
+<string name="accessibility_zoom_control">"Masarrafin kusanto/nisanta"</string>
+<string name="accessibility_decrement">"Rage %1$s"</string>
+<string name="accessibility_increment">"Karawa %1$s"</string>
+<string name="accessibility_switch">"%1$s sauya"</string>
+</resources>

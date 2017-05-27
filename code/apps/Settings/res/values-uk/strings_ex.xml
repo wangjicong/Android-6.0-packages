@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"налаштування USB"</string>
+<string name="usb_charge_only">"Тільки зарядка"</string>
+<string name="usb_charge_only_summary">"Використовуйте стягувати тільки в режимі підключеного USB"</string>
+<string name="usb_charge_only_storage_active_subtext">"Не заряджається тільки тоді, коли USB зберігання у використанні"</string>
+<string name="usb_charge_only_notification">"Connected as charge only"</string>
+<string name="usb_storage">"Носій USB"</string>
+<string name="usb_storage_summary">"Увімк. носій USB вел. ємн."</string>
+<string name="ums_settings">"Налаштування UMS"</string>
+<string name="ums_mounted_setting">"підключіть ums до ПК. Будь ласка, зачекайте…"</string>
+<string name="ums_unmounted_setting">"відключіть umsвід ПК. Будь ласка, зачекайте…"</string>
+<string name="usb_virtual_drive">"USB віртуальний диск"</string>
+<string name="usb_virtual_drive_summary">"USB віртуальний диск"</string>
+<string name="remember_choice">Запам\'ятати мій вибір</string>
+<string name="remember_choice_summary">"Запам\'ятати вибір та почати наступного разу автоматично".</string>
+<string name="stand_by_set_changed_prompt">"активація sim буде змінена. Продовжити?"</string>
+<string name="not_stand_by">"Заборонено"</string>
+<string name="primary_card_switching">"Встановлення\uff0c будь ласка, чекайте..."</string>
+<string name="toggle_data_change_message">"Процес передачі даних переключений на SIM-карту <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, будь ласка, візьміть до уваги, що це збільшить швидкість передачі даних і призведе до виникнення пов\'язаних з цим витрат."</string>
+<string name="select_primary_card">"вибрати основу карту"</string>
+<string name="whether_switch_primary_card">"Будь ласка, підтвердіть перемикання режиму роботи з основної карти\n(Дані мережі також будуть переміщені на нову карту)"</string>
+<string name="attention">"Увага"</string>
+<string name="bt_softap_cannot_coexist">"bluetooth не працює при ввімкненій точці WLAN ; для запуска bluetooth, вимкніть точку WLAN"</string>
+<string name="softap_bt_cannot_coexist">"При активації режиму Bluetooth програмна точка доступу може не працювати. Якщо ви хочете використовувати програмну точку доступу, будь ласка, переконайтеся, що режим Bluetooth вимкнено"</string>
+<string name="softap_need_mobile_data_enabled">"Для мобільної передачі даних необхідна портативна бездротова точка доступу, це може призвести до додаткових витрат."</string>
+<string-array name="light_color_picker">
+<item>"Зелений"</item>
+<item>"Синій"</item>
+<item>"Індиго"</item>
+<item>"фіолетовий"</item>
+<item>"Рожевий"</item>
+<item>"Червоний"</item>
+<item>"Жовтий"</item>
+</string-array>
+</resources>

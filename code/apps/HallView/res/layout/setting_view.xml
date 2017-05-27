@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/white_circle_bg" android:layout_width="@dimen/hall_view_width" android:layout_height="@dimen/hall_view_width"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@+id/setting_title_bg" 
+        android:background="#ff3366FF" 
+        android:layout_width="@dimen/hall_view_width" 
+        android:layout_height="90.0dip" 
+        android:scaleType="centerCrop" 
+        android:layout_centerHorizontal="true" />
+    <TextView android:textSize="24.0sp" 
+        android:textStyle="bold" 
+        android:textColor="#fff9f9f9" 
+        android:gravity="center" 
+        android:id="@+id/setting_Title" 
+        android:layout_width="@dimen/hall_view_width" 
+        android:layout_height="70.0dip" 
+        android:layout_marginTop="20.0dip" 
+        android:text="@string/settings" 
+        android:layout_centerHorizontal="true" />
+    <View android:id="@+id/setting_deliver" 
+        android:background="#ffe8e8e8" 
+        android:layout_width="@dimen/hall_view_width" 
+        android:layout_height="1.0dip" 
+        android:layout_below="@id/setting_Title" />
+    <RelativeLayout android:id="@+id/settings_list_container" 
+        android:layout_width="@dimen/hall_view_width"
+        android:layout_height="120dp" 
+        android:layout_below="@id/setting_deliver">
+        <ListView android:id="@+id/settings_list" 
+                  android:layout_width="fill_parent" 
+                  android:layout_height="fill_parent" 
+                  android:divider="#ffe8e8e8" 
+                  android:dividerHeight="0.5dip" />
+    </RelativeLayout>
+    <View android:background="@drawable/sms_override" android:layout_width="@dimen/hall_view_width" android:layout_height="@dimen/hall_view_width" />
+</RelativeLayout>

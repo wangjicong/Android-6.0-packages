@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Подпис"</string>
+<string name="pref_title_sms_retry_times">Разреши повторен опит на съобщение</string>
+<string name="preference_name">Често използвана фраза</string>
+<string name="select">Избрани</string>
+<string name="item_cancel">"Отказ"</string>
+<string name="item_delete">"Изтриване"</string>
+<string name="save_as_teltype">"За телефон"</string>
+<string name="save_as_mmstype">"За SMS"</string>
+<string name="type_to_pharser">"Изпишете често използвана фраза"</string>
+<string name="add">"Добавяне"</string>
+<string name="edit">"Редактиране"</string>
+<string name="delete">"Изтриване"</string>
+<string name="finish">"Край"</string>
+<string name="cancel">"Отказ"</string>
+<string name="add_pharser">"Добавете често използвана фраза"</string>
+<string name="edit_pharser">Редактирай често използвана фраза</string>
+<string name="pharser_can_modify">"Създаване на фраза"</string>
+<string name="pharser_cannot_modify">"Промени фраза"</string>
+<string name="select_item">"Вие избрахте"</string>
+<string name="select_commmon_phrase">"Изберете често използвана фраза"</string>
+<string name="common_phrase_empty">Няма често използвани фрази</string>
+<string name="action_add_phrase">"Въведете често използвана фраза"</string>
+<string name="pref_other_settings_title">"Други"</string>
+<string-array name="fixed_mms_phrase">
+<item>Моля обадете се на служебния ми номер, благодаря.</item>
+<item>Моля свържете се с мен, благодаря.</item>
+<item>Моля кажете ми местонахождението си.</item>
+<item>Моля обадете се на мобилния ми телефон по-късно, благодаря.</item>
+<item>Навън съм, когато се прибера вкъщи ще се свържа с Вас.</item>
+<item>В момента шофирам, ще се свържа по-късно с Вас.</item>
+<item>На път съм, почти стигнах.</item>
+<item>Има задръствания, ще дойда по-късно, съжалявам.</item>
+<item>Ще ти се обадя по-късно</item>
+<item>Във среща съм, ще се свържа с Вас по-късно.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Сега не мога да говоря. Какво има?"</item>
+<item>"Ще ви се обадя веднага обратно."</item>
+<item>"Ще ви се обадя по-късно."</item>
+<item>"Сега не мога да говоря. По-късно?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Моля обадете се или пратете съобщение по-късно."</item>
+</string-array>
+</resources>

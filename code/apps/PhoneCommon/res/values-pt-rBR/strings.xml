@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_dialpad_overflow">"Mais opções"</string>
+<string name="description_delete_button">"retrocesso"</string>
+<string name="description_image_button_plus">"mais"</string>
+<string name="description_voicemail_button">"Correio de voz"</string>
+<string name="default_notification_description">"Default som (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="callFailed_userBusy">"Linha ocupada"</string>
+<string name="callFailed_congestion">"Rede ocupado"</string>
+<string name="callFailed_timedOut">"Sem resposta, tempo limitado"</string>
+<string name="callFailed_server_unreachable">"Servidor não chegável"</string>
+<string name="callFailed_number_unreachable">"Número não chegável"</string>
+<string name="callFailed_invalid_credentials">"Nome de usuário ou senha incorreta"</string>
+<string name="callFailed_out_of_network">"Fora\u2011de\u2011chamada de rede"</string>
+<string name="callFailed_server_error">"Erro de servidor. Tentar de novo mais tarde."</string>
+<string name="callFailed_noSignal">"Sem sinal"</string>
+<string name="callFailed_limitExceeded">"ACM limite excedido"</string>
+<string name="callFailed_powerOff">"Rádio desativado"</string>
+<string name="callFailed_simError">"Sem SIM ou SIM erro"</string>
+<string name="callFailed_outOfService">"Rede de celular não disponível"</string>
+<string name="callFailed_fdn_only">"As chamadas de saída são limitadas por FDN."</string>
+<string name="callFailed_cb_enabled">"Não pode fazer as chamadas de saída quando o barramento de chamada é ligado."</string>
+<string name="callFailed_dsac_restricted">"Chamadas limitadas por controle de acesso."</string>
+<string name="callFailed_dsac_restricted_emergency">"Chamadas de emergência limitadas por controle de acesso."</string>
+<string name="callFailed_dsac_restricted_normal">"Chamadas normais limitadas por controle de acesso."</string>
+<string name="callFailed_unobtainable_number">"Número inválido"</string>
+<string name="incall_error_missing_voicemail_number">"Número de vozmail desconhecido."</string>
+<string name="ringtone_silent">"Nenhum"</string>
+<string name="ringtone_unknown">"Toque desconhecido"</string>
+</resources>

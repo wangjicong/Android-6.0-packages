@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"हस्ताक्षर"</string>
+<string name="pref_title_sms_retry_times">SMS रिट्राई सक्षम</string>
+<string name="preference_name">"आम वाक्यांश"</string>
+<string name="select">"चुना गया"</string>
+<string name="item_cancel">निरस्त करें</string>
+<string name="item_delete">मिटाएं</string>
+<string name="save_as_teltype">"फोन के लिए"</string>
+<string name="save_as_mmstype">"Sms के लिए"</string>
+<string name="type_to_pharser">"साधारण वाक्यांश टाइप करें"</string>
+<string name="add">"जोड़ें"</string>
+<string name="edit">सम्पादित करें</string>
+<string name="delete">मिटाएं</string>
+<string name="finish">"समाप्त करें"</string>
+<string name="cancel">निरस्त करें</string>
+<string name="add_pharser">"साधारण वाक्यांश जोड़ें"</string>
+<string name="edit_pharser">"आम वाक्यांश को एडिट करना"</string>
+<string name="pharser_can_modify">"अनुकूलित वाक्यांश"</string>
+<string name="pharser_cannot_modify">"वाक्यांश तय करें"</string>
+<string name="select_item">"आपने चयन किया है"</string>
+<string name="select_commmon_phrase">सामान्य वाक्यांश चुनें</string>
+<string name="common_phrase_empty">"कोई आम वाक्यांश नहीं"</string>
+<string name="action_add_phrase">"साधारण वाक्यांश दर्ज करें"</string>
+<string name="pref_other_settings_title">"अन्य"</string>
+<string-array name="fixed_mms_phrase">
+<item>कृपया मेरे ऑफिस फोन पर कॉल करें, धन्यवाद.</item>
+<item>कृपया मुझसे संपर्क करें, धन्यवाद.</item>
+<item>कृपया मुझे अपना स्थान बतायें </item>
+<item>कृपया मेरे सेल फोन पर बाद में फोन करें, धन्यवाद.</item>
+<item>मैं बाहर था, घर जाकर कॉल करूँगा </item>
+<item>"मैं गाड़ी चला रहा हूं और बाद में जवाब दूंगा।"</item>
+<item>"मैं रास्ते में हूं, जल्दी ही पहुंच जाऊंगा।"</item>
+<item> यातायात अवरुद्ध, बाद में, क्षमा करें.</item>
+<item>आपको बाद में फिर से फोन करेंगे </item>
+<item>मैं मीटिंग में हूँ, बाद में जवाब दूंगा </item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"अभी बात नहीं हो सकती. क्‍या चल रहा है?"</item>
+<item>"मैं आपको वापस कॉल करूंगा/करूंगी."</item>
+<item>"मैं आपको बाद में कॉल करूंगा/करूंगी."</item>
+<item>"अभी बात नहीं हो सकती. बाद में कॉल करें?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"कृपया मुझे बाद में कॉल करें अथवा sms भेजें।"</item>
+</string-array>
+</resources>

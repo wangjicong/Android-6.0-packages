@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="sms_app_name">"Mai karbar sassaukan sako"</string>
+<string name="sms_message_from_format">"Sako daga <xliff:g id="userName">%1$s</xliff:g>"</string>
+<string name="sms_done_button">"An yi"</string>
+</resources>

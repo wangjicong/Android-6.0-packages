@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">Gabim në kamera</string>
+<string name="cannot_connect_camera">Nuk mund të lidhet kamera</string>
+<string name="camera_disabled">Kamera është çaktivizuar për shkak të rregullave të sigurisë</string>
+<string name="camera_label">Kamera</string>
+<string name="video_camera_label">Videokamera</string>
+<string name="gallery_camera_bucket_name">Figurat e kamerës</string>
+<string name="gallery_camera_videos_bucket_name">Videot e kamerës</string>
+<string name="wait">Të lutem prit...</string>
+<string name="no_storage" product="nosdcard">Monto memorien USB para se ta përdorësh kamerën.</string>
+<string name="no_storage" product="default">Vendos një kartë SD para se ta përdorësh kamerën.</string>
+<string name="not_enough_space" product="nosdcard">Memoria jote USB është plot.</string>
+<string name="not_enough_space" product="default">Karta jote SD është plot.</string>
+<string name="preparing_sd" product="nosdcard">Duke përgatitur memorien USB...</string>
+<string name="preparing_sd" product="default">Duke përgatitur kartën SD...</string>
+<string name="access_sd_fail" product="nosdcard">Nuk mundi të hapë memorien USB.</string>
+<string name="access_sd_fail" product="default">Nuk mundi të hapë kartën SD.</string>
+<string name="confirm_restore_title">Rivendos standardet</string>
+<string name="confirm_restore_message">Rivendos kamerën në cilësimet standarde?</string>
+<string name="review_play">Luaj</string>
+<string name="review_cancel">Anulo</string>
+<string name="review_ok">U krye</string>
+<string name="review_retake">RIMERR</string>
+<string name="camera_gallery_photos_text">Galeria</string>
+<string name="switch_camera_id">Ndrysho kamerën</string>
+<string name="time_lapse_title">Regjistrim me intervale kohore</string>
+<string name="pref_camera_id_title">Zgjidh kamerën</string>
+<string name="pref_camera_id_entry_back">Kthehu</string>
+<string name="pref_camera_id_entry_front">Para</string>
+<string name="pref_camera_recordlocation_title">Vendndodhja e memories</string>
+<string name="pref_camera_recordlocation_entry_off">Joaktive</string>
+<string name="pref_camera_recordlocation_entry_on">Aktive</string>
+<string name="pref_video_quality_title">Cilësia e videos</string>
+<string name="pref_video_time_lapse_frame_interval_title">Intervali kohor</string>
+<string name="pref_camera_settings_category">Cilësimet e kamerës</string>
+<string name="pref_camcorder_settings_category">Cilësimet e videokamerës</string>
+<string name="pref_camera_picturesize_title">Përmasa e figurës</string>
+<string name="pref_camera_picturesize_entry_2592x1936">"5M piksel"</string>
+<string name="pref_camera_picturesize_entry_2048x1536">"3M piksel"</string>
+<string name="pref_camera_picturesize_entry_1600x1200">"2M piksel"</string>
+<string name="pref_camera_picturesize_entry_1280x960">"1.3M piksel"</string>
+<string name="pref_camera_picturesize_entry_1024x768">"1M piksel"</string>
+<string name="pref_camera_focusmode_title">Metoda e fokusit</string>
+<string name="pref_camera_focusmode_entry_auto">Auto</string>
+<string name="pref_camera_focusmode_entry_infinity">Infinit</string>
+<string name="pref_camera_focusmode_entry_macro">Makro</string>
+<string name="pref_camera_flashmode_title">Metoda e blicit</string>
+<string name="pref_camera_flashmode_entry_auto">Auto</string>
+<string name="pref_camera_flashmode_entry_on">Aktive</string>
+<string name="pref_camera_flashmode_entry_off">Joaktive</string>
+<string name="pref_camera_whitebalance_title">Bilanci i bardhësisë</string>
+<string name="pref_camera_whitebalance_entry_auto">Auto</string>
+<string name="pref_camera_whitebalance_entry_incandescent">Inkandeshent</string>
+<string name="pref_camera_whitebalance_entry_daylight">Dritë dielli</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">Fluoreshent</string>
+<string name="pref_camera_whitebalance_entry_cloudy">Me re</string>
+<string name="pref_camera_scenemode_title">Metodë skene</string>
+<string name="pref_camera_scenemode_entry_auto">Auto</string>
+<string name="pref_camera_scenemode_entry_action">Aksion</string>
+<string name="pref_camera_scenemode_entry_night">Natë</string>
+<string name="pref_camera_scenemode_entry_sunset">Perëndim dielli</string>
+<string name="pref_camera_scenemode_entry_party">Festë</string>
+<string name="not_selectable_in_scene_mode">Nuk mund të zgjidhet në metodën e skenës.</string>
+<string name="pref_restore_title">Cilësimet e kamerës</string>
+<string name="pref_restore_detail">Rivendos standardet</string>
+<string name="pref_exposure_title">Ekspozimi</string>
+<string name="dialog_ok">"OK"</string>
+<string name="spaceIsLow_content" product="nosdcard">Memories tënde USB po i mbaron hapësira. Ndrysho cilësimin e cilësisë ose fshi disa imazhe apo skedarë të tjerë.</string>
+<string name="spaceIsLow_content" product="default">Kartës tënde SD po i mbaron hapësira. Ndrysho cilësimin e cilësisë ose fshi disa imazhe apo skedarë të tjerë.</string>
+<string name="video_reach_size_limit">Kufiri i përmasës u arrit.</string>
+<string name="switch_to_camera_label">Kalo në Kamera</string>
+<string name="switch_to_video_label">Kalo në video</string>
+<string name="switch_to_panorama_label">Kalo në panorama</string>
+<string name="share_picture_via">Ndaj figurën me anë të</string>
+<string name="share_video_via">Ndaj videon me anë të</string>
+<string name="no_picture_to_share">Asnjë figurë për ndarë.</string>
+<string name="no_video_to_share">Asnjë video për ndarë.</string>
+<string name="pano_too_fast_prompt">Shumë shpejt</string>
+<string name="pano_dialog_prepare_preview">Duke përgatitur panoramën</string>
+<string name="pano_dialog_panorama_failed">Nuk mundi të ruajë panoramën.</string>
+<string name="pano_dialog_title">Panorama</string>
+<string name="pano_capture_indication">Duke kapur panoramën</string>
+<string name="pano_review_saving_indication_str">Duke ruajtur...</string>
+<string name="tap_to_focus">Prek për të fokusuar.</string>
+<string name="pref_video_effect_title">Efektet</string>
+<string name="effect_none">Heshtur</string>
+<string name="effect_goofy_face_squeeze">Shtrydh</string>
+<string name="effect_goofy_face_big_eyes">Sy të mëdhenj</string>
+<string name="effect_goofy_face_big_mouth">Gojë e madhe</string>
+<string name="effect_goofy_face_small_mouth">Gojë e vogël</string>
+<string name="effect_goofy_face_big_nose">Hundë e madhe</string>
+<string name="effect_goofy_face_small_eyes">Sy të vegjël</string>
+<string name="effect_backdropper_space">Në hapësirë</string>
+<string name="effect_backdropper_sunset">Perëndim dielli</string>
+<string name="effect_backdropper_gallery">Zgjidh tënden</string>
+<string name="bg_replacement_message">Vendose pajisjen poshtë\nLargohu nga pamja për një moment</string>
+<string name="not_selectable_in_effect">Nuk mund të zgjidhet kur efekti është aktiv.</string>
+<string name="video_snapshot_hint">Bëj një foto gjatë regjistrimit të videos duke prekur ekranin e shikimit.</string>
+<string name="disable_video_snapshot_hint">Fotografimi në video është i çaktivizuar kur efektet speciale janë aktive.</string>
+<string name="clear_effects">Pastro efektet</string>
+<string name="effect_silly_faces">FYTYRË BUDALLAI</string>
+<string name="effect_background">SFONDI</string>
+<string name="accessibility_shutter_button">Butoni i shkrehësit</string>
+<string name="accessibility_review_thumbnail">Fotoja më e fundit</string>
+<string name="accessibility_camera_picker">Çelësi i kamerës para dhe pas</string>
+<string name="accessibility_mode_picker">Zgjedhësi i kamerës, videos ose panoramës</string>
+<string name="accessibility_second_level_indicators">Më shumë kontrolle cilësimesh</string>
+<string name="accessibility_back_to_first_level">Mbyll kontrollet e cilësimeve</string>
+<string name="accessibility_zoom_control">Kontrolli i zmadhimit</string>
+<string name="accessibility_decrement">Ul %1$s</string>
+<string name="accessibility_increment">Rrit %1$s</string>
+<string name="accessibility_switch">Çelësi %1$s</string>
+</resources>

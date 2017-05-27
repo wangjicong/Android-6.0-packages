@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5955735546071433666">"Ljudinspelaren"</string>
+    <string name="record_your_message" msgid="1583671906691662148">"Spela in ditt meddelande"</string>
+    <string name="message_recorded" msgid="381539460921872233">"Meddelandet har spelats in"</string>
+    <string name="review_message" msgid="201616012287839474">"Granska meddelande"</string>
+    <string name="recording" msgid="4426791467211376099">"Inspelning"</string>
+    <string name="recording_stopped" msgid="1580278719585249612">"Inspelningen stoppades"</string>
+    <string name="storage_is_full" msgid="416039755956726221">"Lagringsplatsen är full"</string>
+    <string name="max_length_reached" msgid="6398215743584093353">"Maximal längd har uppnåtts"</string>
+    <string name="insert_sd_card" product="nosdcard" msgid="4609407750669086933">"Sätt i USB-enheten"</string>
+    <string name="insert_sd_card" product="default" msgid="1007630222084726808">"Sätt i ett SD-kort"</string>
+    <string name="min_available" msgid="5493947690062988925">"<xliff:g id="MINUTES">%d</xliff:g> minuter tillgängligt"</string>
+    <string name="sec_available" msgid="2297020788861694399">"<xliff:g id="SECONDS">%d</xliff:g> s kvar"</string>
+    <string name="accept" msgid="1888285552128743656">"Klar"</string>
+    <string name="discard" msgid="761613433029406319">"Släng"</string>
+    <string name="button_ok" msgid="3004911343723076226">"OK"</string>
+    <!-- no translation found for audio_db_title_format (7912182366970749312) -->
+    <skip />
+    <string name="audio_db_artist_name" msgid="961640229118120080">"Dina inspelningar"</string>
+    <string name="audio_db_album_name" msgid="9072588113803264440">"Ljudinspelningar"</string>
+    <string name="audio_db_playlist_name" msgid="5592939050047058162">"Mina inspelningar"</string>
+    <string name="error_sdcard_access" product="nosdcard" msgid="86629081075681774">"Det går inte att komma åt USB-lagringsenheten."</string>
+    <string name="error_sdcard_access" product="default" msgid="5750308258096153274">"Det går inte att komma åt SD-kortet."</string>
+    <string name="error_app_internal" msgid="312884382388702022">"Internt programfel."</string>
+    <string name="error_mediadb_new_record" msgid="261714902333432462">"Det gick inte att spara inspelat ljud."</string>
+    <string name="recording_save">"Inspelningen har sparats"</string>
+     <string name="recording_nosave">"Inspelningen sparades inte"</string>
+     <string name="phone_message">"Det gick inte att sätta på ljudinspelaren under samtalet."</string>
+     <string name="min_and_time_available">"Om <xliff:g id="minutes">%d</xliff:g> min och <xliff:g id="seconds">%d</xliff:g> sek tillgängligt"</string>
+     <string name="press_record">"Tryck spela in"</string>
+     <string name="save">"Spara"</string>
+     <string name="select_file_type">"Välj filtyp för inspelning"</string>
+     <string name="record_amr">"amr-typ(låg kvalitet)"</string>
+     <string name="record_3gpp">"3gpp-typ(hög kvalitet)"</string>
+     <string name="button_cancel">"Avbryt"</string>
+     <string name="path_save">"Standardsökväg sparades"</string>
+     <string name="path_nosave">"Standardsökväg sparades inte"</string>
+     <string name="path_default">"Den aktuella sökvägen kan inte skrivas eller är ogiltig, det är sökvägen till den interna lagringen"</string>
+     <string name="menu_set_save_path">"Ställ in spara sökväg"</string>
+     <string name="back">"Föregående.."</string>
+     <string name="path_label">"Välj spara sökväg"</string>
+     <string name="pause">"Pausa"</string>
+     <string name="storage_is_not_enough">"Lagringsutrymmet är inte tillräckligt"</string>
+     <string name="menu_recording_file_list">"Lista över inspelningsfiler"</string>
+     <string name="recording_list_empty">"Listan är tom"</string>
+     <string name="menu_recording_list_select_all">"Markera alla"</string>
+     <string name="menu_recording_list_delete">"Ta bort"</string>
+     <string name="menu_recording_list_deselect_all">"Avmarkera"</string>
+     <string name="recording_file_delete_success">"Inspelningen har tagits bort"</string>
+     <string name="recording_file_database_failed">"Kan inte ta bort databasfilen"</string>
+     <string name="recording_file_delete_failed">"Kan inte ta bort inspelningsfilen"</string>
+     <string name="confirm_del">"Är du säker på att du vill ta bort filerna?"</string>
+     <string name="button_delete">"Ta bort"</string>
+     <string name="recording_file_delete_alert_title">"Ta bort"</string>
+     <string name="recording_file_delete_alert_message">"Är du säker på att du vill ta bort %1$s ?"</string>
+     <string name="recording_file_list">"Lista över inspelningsfiler"</string>
+     <string name="less_than_one_second">"1 sekund"</string>
+     <string name="is_scanning">"MediaScanner skannar nu, vänta..."</string>
+     <string name="emptylist">"Listan är tom"</string>
+     <string name="choose_file">"Välj den inspelning som du vill ta bort!"</string>
+     <string name="error_path">"Sökvägen som du har valt finns inte, ställ in igen!"</string>
+     <string name="path_miss">"Den lagrade sökvägen finns inte eller kan inte kommas åt!"</string>
+     <string name="low_memory">"Telefonminnet är inte tillräckligt, inspelningen kommer att stoppas!"</string>
+     <string name="record_error">"Inspelning av ett undantag sker!"</string>
+     <string name="play_error">"Musikspelaren är inaktiverad och kan inte öppnas！"</string>
+     <string name="dialog_title">"Välj"</string>
+     <string name="dialog_message">"Vill du spara inspelningen?"</string>
+     <string name="same_application_running">"Inspelningsenheten används av ett annat program, stäng det här programmet!"</string>
+     <string name="recording_time_short">"Inspelningstiden är mindre än 1 sekund, har inte sparats"</string>
+     <string name="file_path_button">"Filens sökväg"</string>
+     <string name="file_name">"Filnamn："</string>
+     <string name="file_path">"Filens sökväg："</string>
+     <string name="rename">"Byt namn"</string>
+     <string name="rename_save">Byt namn framgångsrikt</string>
+     <string name="rename_nosave">"Namnbyte misslyckades"</string>
+     <string name="filename_is_not_modified">"Filnamnet har inte ändrats"</string>
+     <string name="duplicate_name">"Duplicering av filnamnet"</string>
+     <string name="soundpicker_label">"Välj inspelningsfil"</string>
+     <string name="error_sdcard_path">"SD-kortet finns inte. Sparad standardsökväg ändras i intern lagring."</string>
+     <string name="input_length_overstep">"Inmatning har uppnått maximal längd"</string>
+     <string name="filename_empty_error">"Filnamnet får inte vara tomt, spara originalnamnet"</string>
+     <string name="please_choose_files">"Välj filer"</string>
+     <string name="selected_files_count">"har valt<xliff:g id="COUNT">%d</xliff:g>"</string>
+     <string name="use_default_path">"Den sparade sökvägen finns inte, använd standardsökväg"</string>
+     <string name="stroage_not_mounted">"Lagringen är inte monterad"</string>
+     <string name="special_char_exist">"Specialtecken <xliff:g id="COUNT">%s</xliff:g> stöds inte"</string>
+     <string name="menu_select_more">"Välj fler"</string>
+     <string name="menu_select_type">"Ställ in filtyp"</string>
+     <string name="path_miss_nosave">"Den sparade sökvägen finns inte, inspelningen sparades inte！"</string>
+     <string name="dialog_dismiss">"Ta bort permanent"</string>
+     <string name="error_permissions">"Det saknas behörigheter som är avgörande för att appen ska fungera. Kontrollera behörighetsinställningarna."</string>
+
+</resources>

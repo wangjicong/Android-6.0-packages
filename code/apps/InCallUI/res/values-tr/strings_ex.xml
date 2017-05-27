@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Ana kart :"</string>
+<string name="vice_card_slot">"Yardımcı Kart :"</string>
+<string name="record_time">Kayıt süresi:</string>
+<string name="onscreenShowRecodText">Kaydet</string>
+<string name="recorderr">"Kurtarma başarısızlığı kaydediliyor!"</string>
+<string name="audio_db_artist_name">"Kayıtlarınız"</string>
+<string name="audio_db_album_name">"Çağrı Kayıtlarınız"</string>
+<string name="audio_db_playlist_name">Kayıtlarım</string>
+<string name="app_name">"Telefon Uygulaması"</string>
+<string name="error_mediadb_new_record">Kaydı yapılan ses kaydedilemiyor</string>
+<string name="sdcard_access_error">sdkarta erişilemiyor</string>
+<string name="no_sd_card">SD kart yok ya da ÇIKARTILMIŞ</string>
+<string name="insert_sd_card">"Lütfen bir SD kart takın."</string>
+<string name="storage_is_full">"Depolama birimi dolu"</string>
+<string name="recording">"Kayıt "</string>
+<string name="used_by_other_applications">"Kayıt araçları diğer programlar tarafından kullanılmaktadır, lütfen programı kapatınız". </string>
+<string name="prompt_record_finish">"Kayıt dosyası şuraya kaydedildi"</string>
+<string name="ok">Tamam</string>
+<string name="permission_no_record">"Çağrı kaydı için izne sahip değilsiniz"</string>
+<string name="hangup_hold_and_answer">"Bekletilen aramayı meşgule al ve Cevapla"</string>
+<string name="hangup_active_and_answer">"Etkin aramayı meşgule al ve Cevapla"</string>
+<string name="hangup_all_and_answer">"Tüm aramaları meşgule al ve Cevapla"</string>
+<string name="onActive">""Aktif" "</string>
+<string name="hold_current_call_and_answer">Mevcut aramayı ve cevabı beklet</string>
+<string name="hangup_current_call_and_answer">"Mevcut aramayı beklet ve Cevapla"</string>
+</resources>

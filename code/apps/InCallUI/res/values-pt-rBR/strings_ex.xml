@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Cartão Principal:"</string>
+<string name="vice_card_slot">"Vice Cartão:"</string>
+<string name="record_time">"Tempo de gravação:"</string>
+<string name="onscreenShowRecodText">"Gravar"</string>
+<string name="recorderr">"Falha guardar gravação!"</string>
+<string name="audio_db_artist_name">"Suas gravações"</string>
+<string name="audio_db_album_name">"Gravações de chamada"</string>
+<string name="audio_db_playlist_name">"Minhas Gravações"</string>
+<string name="app_name">"App de telefone"</string>
+<string name="error_mediadb_new_record">"Não é possível salvar o áudio gravado"</string>
+<string name="sdcard_access_error">"Não pode acessar sdcartão"</string>
+<string name="no_sd_card">"SEM SD cartão ou DESMONTADO"</string>
+<string name="insert_sd_card">"Favor inserir um cartão SD"</string>
+<string name="storage_is_full">"O armazenamento está cheio."</string>
+<string name="recording">"Gravando "</string>
+<string name="used_by_other_applications">"O equipamento de gravação é usado por outros programas, favor desligue o programa"</string>
+<string name="prompt_record_finish">"O arquivo de gravação é guardado para"</string>
+<string name="ok">"OK"</string>
+<string name="permission_no_record">"Você tem nenhuma permissão para gravação de chamada"</string>
+<string name="hangup_hold_and_answer">"Desligar chamada segurada e Responder"</string>
+<string name="hangup_active_and_answer">"Desligar chamada ativa e Responder"</string>
+<string name="hangup_all_and_answer">"Desligar todas as chamadas de Responder"</string>
+<string name="onActive">"Ativar"</string>
+<string name="hold_current_call_and_answer">"Segurar chamada corrente e Responder"</string>
+<string name="hangup_current_call_and_answer">"Desligar chamada corrente e Responder"</string>
+</resources>

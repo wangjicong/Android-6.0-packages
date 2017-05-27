@@ -1,0 +1,3 @@
+<!-- UMENG STAT RELATED -->
+<meta-data android:value="4fa8912752701515bb000015" android:name="UMENG_APPKEY" />
+<meta-data android:value="DEV" android:name="UMENG_CHANNEL"/>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"ลายเซ็น"</string>
+<string name="pref_title_sms_retry_times">เปิดใช้งาน SMS ลองอีกครั้ง</string>
+<string name="preference_name">"วลีทั่วไป"</string>
+<string name="select">"เลือก"</string>
+<string name="item_cancel">ยกเลิก</string>
+<string name="item_delete">ลบ</string>
+<string name="save_as_teltype">"สำหรับโทรศัพท์"</string>
+<string name="save_as_mmstype">"สำหรับ SMS"</string>
+<string name="type_to_pharser">"พิมพ์วลีทั่วไป"</string>
+<string name="add">"เพิ่ม"</string>
+<string name="edit">แก้ไข</string>
+<string name="delete">ลบ</string>
+<string name="finish">"เสร็จสิ้น"</string>
+<string name="cancel">ยกเลิก</string>
+<string name="add_pharser">"เพิ่มวลีทั่วไป"</string>
+<string name="edit_pharser">"แก้ไขทั่วไปวลี"</string>
+<string name="pharser_can_modify">"วลีที่กำหนดเอง"</string>
+<string name="pharser_cannot_modify">"วลีแก้ไข"</string>
+<string name="select_item">"คุณได้เลือก"</string>
+<string name="select_commmon_phrase">"เลือกวลีทั่วไป"</string>
+<string name="common_phrase_empty">"ไม่มีวลีทั่วไป"</string>
+<string name="action_add_phrase">"แทรกวลีทั่วไป"</string>
+<string name="pref_other_settings_title">"อื่น"</string>
+<string-array name="fixed_mms_phrase">
+<item>กรุณาโทรออฟฟิศ,ขอบคุณ</item>
+<item>โปรดติดต่อฉัน,ขอบคุณ</item>
+<item>กรุณาบอกสถานที่ของคุณ</item>
+<item>กรุณาโทรโทรศัพท์มือถือของฉันในภายหลัง,ขอบคุณ</item>
+<item>ฉันอยู่ข้างนอก,กลับถึงบ้านแล้วโทรหาคุณ</item>
+<item>"ขับรถและจะตอบกลับภายหลัง."</item>
+<item>"ผมมาอยู่บนถนน จะไปถึงทันที."</item>
+<item>การจราจรติดขัด,สาย,เสียใจ</item>
+<item>โทรหาคุณภายหลัง</item>
+<item>ฉันประชุมตอบกลับในภายหลัง</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"ตอนนี้คุยไม่ได้ มีอะไรหรือเปล่า"</item>
+<item>"เดี๋ยวจะโทรกลับทันที"</item>
+<item>"เดี๋ยวจะโทรหาทีหลัง"</item>
+<item>"ตอนนี้คุยไม่ได้ โทรมาใหม่ได้ไหม"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"ได้โปรดโทรหาฉันหรือส่ง SMS ไปฉันในภายหลัง."</item>
+</string-array>
+</resources>

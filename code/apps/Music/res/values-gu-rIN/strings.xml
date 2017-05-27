@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">1 ગીત</string>
+<plurals name="Nsongs">
+<item quantity="other"><xliff:g id="count">%d</xliff:g>ગીતો</item>
+</plurals>
+<plurals name="Nsongscomp">
+<item quantity="other"><xliff:g id="count_for_artist">%2$d</xliff:g> ના <xliff:g id="total_count">%1$d</xliff:g>ગીતો</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">1 આલ્બમ</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g> આલ્બમ</item>
+</plurals>
+<string name="goto_start">પુસ્તકાલય</string>
+<string name="party_shuffle">પાર્ટી શફલ</string>
+<string name="party_shuffle_off">પાર્ટી શફલ બંધ</string>
+<string name="delete_item">"ભૂંસો"</string>
+<string name="shuffle_all">બધું જ ભેગું કરો (શફલ)</string>
+<string name="play_all">બધા રમો</string>
+<string name="delete_artist_desc">આ SD કાર્ડમાંથી <xliff:g id="artist">%s</xliff:g> કાયમ માટે ગીતો ડિલીટ કરવા છે?</string>
+<string name="delete_artist_desc_nosdcard">USB સ્ટોરેજમાથી <xliff:g id="artist">%s</xliff:g> દ્વારા કાયમ માટે ગીતો ડિલીટ કરવા છે? </string>
+<string name="delete_album_desc">આ SD કાર્ડમાંથી <xliff:g id="artist">%s</xliff:g> કાયમ માટે સમગ્ર આલ્બમ ડિલીટ કરવા છે?</string>
+<string name="delete_album_desc_nosdcard">USB સ્ટોરેજમાથી <xliff:g id="artist">%s</xliff:g> સમગ્ર આલ્બમ ડિલીટ કરવું છે? </string>
+<string name="delete_song_desc">આ SD કાર્ડમાંથી <xliff:g id="artist">%s</xliff:g> કાયમ માટે ડિલીટ કરવું છે?</string>
+<string name="delete_song_desc_nosdcard">USB સ્ટોરેજમાથી <xliff:g id="artist">%s</xliff:g> હંમેશ માટે ડિલીટ કરવું છે? </string>
+<string name="delete_confirm_button_text">ઓકે</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">1 ગીત કાઢી નંખાયુ હતું .</item>
+<item quantity="other"><xliff:g id="songs_to_delete">%d</xliff:g> ગીતો કાડ્જી નાખવામાં આવ્યાં.</item>
+</plurals>
+<string name="scanning">SD કાર્ડ સ્કેન કરી રહ્યું છે\u2026</string>
+<string name="scanning_nosdcard">USB સ્ટોરેજ સ્કેન કરી રહ્યું છે\u2026</string>
+<string name="nowplaying_title">હવે રમો.</string>
+<string name="partyshuffle_title">પાર્ટી શફલ</string>
+<string name="artists_title">કલાકારો</string>
+<string name="albums_menu">આલ્બમ્સ</string>
+<string name="albums_title">આલ્બમ્સ</string>
+<string name="tracks_menu">ગીતો</string>
+<string name="tracks_title">ગીતો</string>
+<string name="playlists_menu">પ્લેલિસ્ટ</string>
+<string name="playlists_title">પ્લેલિસ્ટ</string>
+<string name="videos_title">વિડીયોઝ</string>
+<string name="all_title">તમામ મિડિયા</string>
+<string name="browse_menu">કલાકારો</string>
+<string name="search_title">"શોધ"</string>
+<string name="no_tracks_title">કોઈ સંગીત નથી</string>
+<string name="no_videos_title">કોઈ વિડિયો નથી</string>
+<string name="no_playlists_title">"પ્લેલિસ્ટ નથી"</string>
+<string name="delete_playlist_menu">"ભૂંસો"</string>
+<string name="edit_playlist_menu">"ફેરફાર"</string>
+<string name="rename_playlist_menu">ફરીથી નામ આપો</string>
+<string name="playlist_deleted_message">પ્લેલિસ્ટને કાઢી નાખવામાં આવ્યુ.</string>
+<string name="playlist_renamed_message">પ્લેલિસ્ટને ફરી નામ આપવામાં આવ્યુ.</string>
+<string name="recentlyadded">તાજેતરમાં ઉમેરવામાં આવ્યા</string>
+<string name="recentlyadded_title">તાજેતરમાં ઉમેરવામાં આવ્યા</string>
+<string name="podcasts_listitem">પૉડકાસ્ટ</string>
+<string name="podcasts_title">પૉડકાસ્ટ</string>
+<string name="sdcard_missing_title">કોઇ SD કાર્ડ નથી</string>
+<string name="sdcard_missing_title_nosdcard">કોઈ USB સ્ટોરેજ નથી</string>
+<string name="sdcard_missing_message">તમારા ફોનમાં SD કાર્ડ ઇન્સર્ટ થયેલું નથી.</string>
+<string name="sdcard_missing_message_nosdcard">તમારા ફોનમાં USB સ્ટોરેજમાં નથી.</string>
+<string name="sdcard_busy_title">SD કાર્ડ અનુપલબ્ધ</string>
+<string name="sdcard_busy_title_nosdcard">USB સંગ્રહ અનુપલબ્ધ</string>
+<string name="sdcard_busy_message">તમારું SD કાર્ડ વ્યસ્ત છે.</string>
+<string name="sdcard_busy_message_nosdcard">તમારુ USB સ્ટોરેજ વ્યસ્ત છે.</string>
+<string name="sdcard_error_title">SD કાર્ડ ત્રુટિ</string>
+<string name="sdcard_error_title_nosdcard">USB સ્ટોરેજ ત્રુટિ</string>
+<string name="sdcard_error_message">તમારા SD કાર્ડ પર એક ભૂલ ઊભી થઈ છે.</string>
+<string name="sdcard_error_message_nosdcard">તમારા USB સ્ટોરેજ પર એક ભૂલ ઊભી થઈ છે.</string>
+<string name="unknown_artist_name">અજ્ઞાત કલાકાર</string>
+<string name="unknown_album_name">અજ્ઞાત આલ્બમ</string>
+<string name="shuffle_on_notif">શફલ ચાલુ છે.</string>
+<string name="shuffle_off_notif">શફલ બંધ છે.</string>
+<string name="repeat_off_notif">રિપીટ બંધ છે.</string>
+<string name="repeat_current_notif">હાલના ગીતો રિપીટ થઈ રહ્યાં છે.</string>
+<string name="repeat_all_notif">બધા ગીતો રિપીટ થઈ રહ્યાં છે.</string>
+<string name="ringtone_menu">ફોનની રિંગટોનની જેમ ઉપયોગ કરો</string>
+<string name="ringtone_menu_short">રિંગટોનની જેમ ઉપયોગ કરો</string>
+<string name="ringtone_set">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ફોનની રિંગટોન તરીકે સેટ કરો.</string>
+<string name="play_selection">પ્લે</string>
+<string name="add_to_playlist">પ્લેલિસ્ટમાં ઉમેરો</string>
+<string name="queue">"પ્રવર્તમાન પ્લેલિસ્ટ"</string>
+<string name="new_playlist">"નવું"</string>
+<string name="new_playlist_name_template">નવું પ્લેલિસ્ટ <xliff:g id="number">%d</xliff:g></string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">1 ગીત પ્લેલિસ્ટમાં ઉમેર્યું.</item>
+<item quantity="other"><xliff:g id="number" example="27">%d</xliff:g>પ્લેલિસ્ટમાં ગીતો ઉમેરવામાં આવ્યાં છે</item>
+</plurals>
+<string name="emptyplaylist">પસંદ કરવામાં આવેલું પ્લેલિસ્ટ ખાલી છે.</string>
+<string name="create_playlist_create_text">"બચાવો"</string>
+<string name="create_playlist_overwrite_text">ફરીથી લખવું</string>
+<string name="service_start_error_title">પ્લેબેક સમસ્યા</string>
+<string name="service_start_error_msg">"ગીતને વગાડી શકાશે નહી."</string>
+<string name="service_start_error_button">ઓકે</string>
+<string-array name="weeklist">
+<item>1 સપ્તાહ</item>
+<item>"2 અઠવાડિયું"</item>
+<item>"2 અઠવાડિયું"</item>
+<item>"2 અઠવાડિયું"</item>
+<item>"2 અઠવાડિયું"</item>
+<item>"2 અઠવાડિયું"</item>
+<item>"2 અઠવાડિયું"</item>
+<item>"2 અઠવાડિયું"</item>
+<item>"2 અઠવાડિયું"</item>
+<item>"10 અઠવાડિયું"</item>
+<item>"10 અઠવાડિયું"</item>
+<item>"10 અઠવાડિયું"</item>
+</string-array>
+<string name="weekpicker_set">"પૂર્ણ"</string>
+<string name="weekpicker_title">સમય સેટ કરો</string>
+<string name="save_as_playlist">પ્લેલિસ્ટ તરીકે સેવ કરો</string>
+<string name="clear_playlist">પ્લેલિસ્ટસ હટાવો</string>
+<string name="musicbrowserlabel">સંગીત</string>
+<string name="musicshortcutlabel">"સંગીત પ્લેલિસ્ટ"</string>
+<string name="mediaplaybacklabel">સંગીત</string>
+<string name="videobrowserlabel">વિડીયોઝ</string>
+<string name="mediapickerlabel">સંગીત</string>
+<string name="playback_failed">"પ્લેયર આ પ્રકારની ઑડિયો ફાઇલને સમર્થન કરતું નથી."</string>
+<string name="cancel">"રદ્દ"</string>
+<string name="remove_from_playlist">પ્લેલીસ્ટમાંથી દૂર કરો</string>
+<string name="streamloadingtext"><xliff:g id="host">%s</xliff:g> સાથે જોડે છે\u2026</string>
+<string name="mediasearch">સર્ચ કરો <xliff:g id="term" example="Beethoven">%s</xliff:g>વાપરીને:</string>
+<string name="working_artists">"કલાકારો \u2026"</string>
+<string name="working_albums">"આલ્બમ્સ\u2026"</string>
+<string name="working_songs">"ગીતો\u2026"</string>
+<string name="working_playlists">પ્લેલિસ્ટ</string>
+<string name="loading">લોડ થાય છે\u2026</string>
+<string name="sort_by_track">ટ્રેક<xliff:g id="track_number">%d</xliff:g></string>
+<string name="sort_by_album">આલ્બમ્સ</string>
+<string name="sort_by_artist">કલાકારો</string>
+<string name="music_picker_title">સંગીત ટ્રૅક પસંદ કરો</string>
+<string name="search_settings_description">કલાકારો, આલ્બમ્સ, અને ટ્રેક્સ</string>
+<string name="search_hint">સંગીત સર્ચ કરો</string>
+<string name="fast_scroll_alphabet">" [અ આ ઇ ઈ ઉ ઊ ઋ એ ઐ ઓ ઔ ક ખ ગ ઘ ઙ ચ છ જ ઝ ઞ ટ ઠ ડ ઢ ણ ત થ દ ધ ન પ ફ બ ભ મ ય ર લ વ શ ષ સ હ ળ]"</string>
+<string name="widget_initial_text">સંગીત પસંદ કરવા ટચ કરો.</string>
+<string name="effectspanel">"ધ્વનિની અસરો"</string>
+<string name="no_play">"હાલમાં ચલાવવામાં અસમર્થ!"</string>
+<string name="activity_title_delete">"ગીતો દૂર કરો"</string>
+<string name="activity_title">સંગીત ઉમેરો</string>
+<string name="add_music">સંગીત ઉમેરો</string>
+<string name="music_selected_all">"દરેક સિલેક્ટ કરો"</string>
+<string name="confirm_add">ઉમેરો</string>
+<string name="cancel_add">"રદ્દ"</string>
+<string name="delete_all_music">"દૂર કરો"</string>
+<string name="confirm_delete">"દૂર કરો"</string>
+<string name="music_selected_all_delete">"ચાવીને ખાલી કરવાનું પસંદ કરો"</string>
+<string name="music_cancle_selected_all">બધું જ રદ કરો</string>
+<string name="being_add">"એ ઉમેરવામાં આવી રહ્યું છે, કૃપા કરી રાહ જુઓ ..."</string>
+<string name="remove_track">"દૂર કરવામાં આવી રહ્યું છે, કૃપયા પ્રતિક્ષા કરો ..."</string>
+<string name="invalid">આ ડિરેક્ટરી ખુલ્લી ન હોઈ શકે</string>
+<string name="from_library">લાઇબ્રેરીમાંથી સંગીત ઉમેરો</string>
+<string name="from_folder">ફોલ્ડરમાંથી સંગીત ઉમેરો</string>
+<string name="lyrics_edit_title">"ઉર્મિગીત સંપાદિત કરો"</string>
+<string name="nolrc">"કોઇ ગીત અથવા ફાઇલ અમાન્ય નથી"</string>
+<string name="del_track">"વસ્તુઓ હટાવે છે, કૃપયા પ્રતિક્ષા કરો..."</string>
+<string name="ringtone_title_sim1">SIM1 ફોન રિંગટોન</string>
+<string name="ringtone_title_sim2">SIM2 ફોન રિંગટોન</string>
+<string name="ringtone_set_sim1">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1 ફોનની રિંગટોન તરીકે સેટ કરો.</string>
+<string name="ringtone_set_sim2">\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1 ફોનની રિંગટોન તરીકે સેટ કરો.</string>
+<string name="ring_set_fail">"ક્ષમા કરશો, આ ગીત વગાડી શકાતું નથી. કૃપા કરી રિંગટોન તરીકે અન્ય ગીતની પસંદગી કરો."</string>
+<string name="ring_set_silent_vibrate">"વર્તમાન મોડમાં કસ્ટમ રીંગટોન્સને સમર્થન નથી"</string>
+<string name="please_insert_sim_card">"ઓછામાં ઓછુ એક SIM કાર્ડ ઇન્સર્ટ કરો"</string>
+<string name="create_playlist_warning">"તાજેતરમાં ઉમેરેલા સાથે સમાન નામનો ઉપયોગ કરી શકતા નથી."</string>
+<string name="overwrite_playlist_alert">"<xliff:g id="NAME">%s</xliff:g>"માં પ્લેલિસ્ટ ક્લિયર કરાશે."</string>
+<string name="playlist_created_message">" પ્લેલિસ્ટ ની રચના કરવામાં આવી છે."</string>
+<string name="overwrite_playlist_alert_rename">"""<xliff:g id="NAME">%s</xliff:g>"માંના પ્લેલિસ્ટ ડેટાને આવરી લેવાશે." "</string>
+<string name="delete_artist">"ઉપકરણથી \"<xliff:g id="artist">%s</xliff:g>\" દ્વારા બધા ગીતોને કાયમીપણે હટાવીએ?"</string>
+<string name="delete_album">"ઉપકરણથી સંપૂર્ણ આલ્બમને \"<xliff:g id="album">%s</xliff:g>\" કાયમીપણે હટાવીએ?"</string>
+<string name="delete_song">"ઉપકરણથી \"<xliff:g id="song">%s</xliff:g>\" કાયમીપણે હટાવીએ?"</string>
+<string name="display_music">સંગીત</string>
+<string name="quit">"છોડી દો"</string>
+<string name="delete_playlist_message">"પ્લેલિસ્ટ  "%1$s" ડિલીટ કરવા માટે તમે નિશ્ચિત છો？"</string>
+<string name="delete_all_playlist">તમામ પ્લેલીસ્ટ સાફ કરો</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">પ્લેલીસ્ટમાં ગીત છે</item>
+<item quantity="other">પ્લેલીસ્ટમાં ગીતો છે</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 ગીત ઉમેરાયું છે,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> ગીતો ઉમેરો,"</item>
+</plurals>
+<plurals name="NNNsongAlreadyExist">
+<item quantity="one">"1 ગીત પહેલેથી જ પ્લેલિસ્ટમાં અસ્તિત્વ ધરાવે છે."</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> ગીતો પહેલેથી જ પ્લેલિસ્ટમાં છે."</item>
+</plurals>
+<string name="length_limited">"મહત્તમ લંબાઈ સુધીનું નામ"</string>
+<string name="no_search_result">"કોઈ ગીત મળી આવ્યા ન હતા"</string>
+<string name="search_title_hint">"કલાકારો, ગીતો અથવા આલ્બમ્સ"</string>
+<string name="error_permissions">"એપ્લિકેશન પાસે શરૂ થવા માટેની મહત્વપૂર્ણ પરવાનગીઓ નથી. કૃપા કરીને તમારી પરવાનગીઓ સેટિંગ્સ તપાસો."</string>
+<string name="dialog_dismiss">બરખાસ્ત કરવું</string>
+<string name="toast_fileexplorer_internal_error">" સંગીતમાં એક આંતરિક ખામી ઊભી થઈ છે!"</string>
+</resources>

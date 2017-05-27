@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <string name="vmnumber">9911</string>
+    </carrier_config>
+    <carrier_config spn="blauworld">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Blaumobil</string>
+        <string name="vmnumber">9911</string>
+        <string name="roamingvm">491779911</string>
+    </carrier_config>
+    <carrier_config spn="blau.de">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">blau.de</string>
+    </carrier_config>
+    <carrier_config spn="Aldi Talk">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Aldi Talk</string>
+    </carrier_config>
+    <carrier_config spn="Simyo">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Simyo</string>
+    </carrier_config>
+    <carrier_config spn="Simvoice">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Simvoice</string>
+    </carrier_config>
+    <carrier_config spn="Ay Yildiz">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Ay Yildiz</string>
+    </carrier_config>
+    <carrier_config spn="Alice">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Alice</string>
+    </carrier_config>
+    <carrier_config pnn="Ortel D">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Ortel D</string>
+        <string name="vmnumber">9911</string>
+    </carrier_config>
+    <carrier_config spn="ptt-mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">ptt-mobile</string>
+    </carrier_config>
+</carrier_config_list>

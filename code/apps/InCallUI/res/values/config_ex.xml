@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SPRD: duration time should not fadeout when hangup call for cmcc case feature. @{ -->
+    <string name="incallui_plugin">com.sprd.incallui.addonInCallUIPlugin.AddonInCallUIPlugin</string>
+    <!-- @} -->
+    <!-- SPRD: Porting Caller Address Feature. @{ -->
+    <string name="china_mobile">"移动"</string>
+    <string name="china_unicom">"联通"</string>
+    <string name="china_telecom">"电信"</string>
+    <string name="caller_address_plugin_name">com.sprd.incallui.callerAddressPlugin.CallerAddressPlugin</string>
+    <!-- @} -->
+
+    <!-- SPRD: Shaking phone to start recording. -->
+    <string name="shake_phone_to_start_recording_plugin_name" translatable="false">
+        plugin.sprd.shakePhoneToStartRecording.ShakePhoneToStartRecordingPlugin
+    </string>
+    <!-- SPRD: Hands-free switch to headset. -->
+    <string name="speaker_switch_to_headset_plugin_name" translatable="false">
+        plugin.sprd.speakerToHeadset.SpeakerToHeadsetPlugin</string>
+    <string name="show_merge_call_button" translatable="false">
+        com.sprd.mergecallbutton.MergeCallButtonPlugin
+    </string>
+    <!-- SPRD: Add incallui Hd Voice plugin -->
+    <string name="incallui_hd_voice_plugin">"com.sprd.incallui.hdvoice.AddonInCallUIHdVoicePlugin"</string>
+    <!-- SPRD: FDN in dialer feature. @{ -->
+    <string name="fdn_list_name_plugin_name">com.sprd.incallui.supportFdnListNamePlugin.FdnListNamePlugin</string>
+    <!-- SPRD: Incoming third call. @{ -->
+    <string name="incoming_third_call_plugin_name">com.sprd.incallui.incomingThirdCallPlugin.IncomingThirdCallPlugin</string>
+    <!-- SPRD: Support telcel requirements in InCallUI. @{ -->
+    <string name="incallui_telcel_plugin_name">
+        com.sprd.incallui.inCallUITelcelPlugin.InCallUITelcelPlugin
+    </string>
+    <!-- SPRD: Mutil Part Call Feature @{ -->
+    <string name="mutil_part_call_plugin_name">
+        com.sprd.incallui.multiPartCallPlugin.MultiPartCallPlugin
+    </string>
+    <!-- SPRD: Add for send sms button bug565307 @{ -->
+    <string name="send_sms_button_plugin_name">com.sprd.incallui.sendSmsButtonPlugin.SendSmsButtonPlugin</string>
+</resources>

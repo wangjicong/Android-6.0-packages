@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="description_dialpad_overflow">"Karin zabuka"</string>
+<string name="description_delete_button">"filin baya"</string>
+<string name="description_image_button_plus">"kari"</string>
+<string name="description_voicemail_button">"Voicemail"</string>
+<string name="default_notification_description">"Sauti na asali (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="callFailed_userBusy">"Layi na aiki"</string>
+<string name="callFailed_congestion">"Layin sadarwa ya cushe"</string>
+<string name="callFailed_timedOut">"Ba martani, lokaci ya wuce"</string>
+<string name="callFailed_server_unreachable">"Ba a kai ga uwar garke ba"</string>
+<string name="callFailed_number_unreachable">"Ba a kai wa ga lambar"</string>
+<string name="callFailed_invalid_credentials">"Sunan mai amfani ba daidai ba ko kalmar shiga"</string>
+<string name="callFailed_out_of_network">"Wajen kiran yanayin sadarwa"</string>
+<string name="callFailed_server_error">"Kuskuren uwar garke. Sake kuma anjima."</string>
+<string name="callFailed_noSignal">"Ba sigina"</string>
+<string name="callFailed_limitExceeded">"An kure iyakar ACM"</string>
+<string name="callFailed_powerOff">"Radiyo a kashe"</string>
+<string name="callFailed_simError">Ba SIM ko Kuskuren SIM</string>
+<string name="callFailed_outOfService">"Yanayin sadarwar salula ba shi"</string>
+<string name="callFailed_fdn_only">"Kira masu fita an takaita su da FDN."</string>
+<string name="callFailed_cb_enabled">"Ba zai iya yin kiran fita waje ba yayin da aka kunna tunkude kira."</string>
+<string name="callFailed_dsac_restricted">"An takaita kira daga lura da isa ga abu."</string>
+<string name="callFailed_dsac_restricted_emergency">"Kiran gaggawa an takaita shi daga lura da isa ga abu."</string>
+<string name="callFailed_dsac_restricted_normal">"Kiran kullum an takaita shi daga lura da isa ga abu."</string>
+<string name="callFailed_unobtainable_number">"Lambar da ba daidai ba"</string>
+<string name="incall_error_missing_voicemail_number">"Lambar wasikar murya majahule ce."</string>
+<string name="ringtone_silent">"Ko daya"</string>
+<string name="ringtone_unknown">"Bakon sautin kira"</string>
+</resources>

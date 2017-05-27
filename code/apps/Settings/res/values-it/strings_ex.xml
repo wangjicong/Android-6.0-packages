@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">Impostazioni USB</string>
+<string name="usb_charge_only">Ricarica esclusivamente</string>
+<string name="usb_charge_only_summary">Utilizza la modalità diricarica solo quando la USB è connessa</string>
+<string name="usb_charge_only_storage_active_subtext">Impossibile caricare quando la memoria dell\'USB è in uso</string>
+<string name="usb_charge_only_notification">"Solo come connettore di ricarica"</string>
+<string name="usb_storage">"Archivio USB"</string>
+<string name="usb_storage_summary">"Attiva archivio di massa USB"</string>
+<string name="ums_settings">Impostazioni UMS</string>
+<string name="ums_mounted_setting">Monta UMS sul PC adesso, si prega di attendere..</string>
+<string name="ums_unmounted_setting">Smontare adesso la UMS dal PC, si prega di attendere...</string>
+<string name="usb_virtual_drive">Driver USB virtuale</string>
+<string name="usb_virtual_drive_summary">Abilita driver USB virtuale</string>
+<string name="remember_choice">"Memorizza la mia scelta"</string>
+<string name="remember_choice_summary">Ricorda la mia scelta e avvia la funzione ricordata automaticamente la prossima volta</string>
+<string name="stand_by_set_changed_prompt">Lo stato di attivazione della SIM verrà modificato, continuare?</string>
+<string name="not_stand_by">PROIBITO</string>
+<string name="primary_card_switching">"Impostazioni\uff0cattendere prego..."</string>
+<string name="toggle_data_change_message">"Connessione dati passata alla scheda SIM  <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, produrrà il throughput dei dati e le relative modifiche."</string>
+<string name="select_primary_card">Selezionare scheda principale</string>
+<string name="whether_switch_primary_card">"Si prega di confermare se passare alla scheda principale di questa scheda? \n (la rete dati mobili riceverà verrà trasferita alla scheda.)"</string>
+<string name="attention">Attenzione</string>
+<string name="bt_softap_cannot_coexist">Quando il softAP è abilitato o attivo il bluetooth non può essere operativo, se si vuole utilizzare il bluetooth, assicurarsi che il softAP sia disabilitato</string>
+<string name="softap_bt_cannot_coexist">Impossibile usare l\'hotspot WLAN portatile quando il bluetooth è attivo, se si desidera utilizzare un hotspot WLAN portatile, disattivare il bluetooth."</string>
+<string name="softap_need_mobile_data_enabled">Un hotspot Wi-Fi portatile necessita di una connesione dati mobile, questo potrebbe produrre costi aggiuntivi.</string>
+<string-array name="light_color_picker">
+<item>"Verde"</item>
+<item>"Blu"</item>
+<item>"Indaco"</item>
+<item>"Viola"</item>
+<item>"Rosa"</item>
+<item>"Rosso"</item>
+<item>"Giallo"</item>
+</string-array>
+</resources>

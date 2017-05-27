@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/black_circle_bg"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.wx.hallview.views.CircleLayout android:id="@+id/button_container"
+    	android:layout_width="@dimen/hall_view_width"
+    	android:layout_height="@dimen/hall_view_width">
+        <Button android:id="@+id/buttion_0" style="@style/Dialer_Button" />
+        <Button android:id="@+id/buttion_1" style="@style/Dialer_Button" />
+        <Button android:id="@+id/buttion_2" style="@style/Dialer_Button" />
+        <Button android:id="@+id/buttion_3" style="@style/Dialer_Button" />
+        <Button android:id="@+id/buttion_4" style="@style/Dialer_Button" />
+        <Button android:id="@+id/buttion_5" style="@style/Dialer_Button" />
+        <Button android:id="@+id/buttion_6" style="@style/Dialer_Button" />
+        <Button android:id="@+id/buttion_7" style="@style/Dialer_Button" />
+        <Button android:id="@+id/buttion_8" style="@style/Dialer_Button" />
+        <Button android:id="@+id/buttion_9" style="@style/Dialer_Button" />
+        <Button android:textColor="#ffff0000" android:id="@+id/buttion_c" style="@style/Dialer_Button" />
+    </com.wx.hallview.views.CircleLayout>
+    <com.wx.hallview.views.CirleTextView
+    	android:textSize="@dimen/dialCirleTextSize"
+    	android:id="@+id/digits"
+    	android:background="@drawable/diale_digits_bg"
+    	android:layout_width="160.0dip"
+    	android:layout_height="160.0dip"
+    	android:maxLength="20"
+    	android:layout_centerInParent="true" />
+    <Button android:id="@+id/call_button"
+    	android:background="@drawable/dial_button"
+    	android:layout_width="80.0dip"
+    	android:layout_height="80.0dip"
+    	android:layout_centerInParent="true" />
+</RelativeLayout>

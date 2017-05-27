@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">"ਕੈਲੰਡਰ"</string>
+<string name="what_label">ਕੀ </string>
+<string name="where_label">ਜਿੱਥੇ</string>
+<string name="when_label">ਕਦੋਂ</string>
+<string name="timezone_label">ਸਮਾਂ ਖੇਤਰ</string>
+<string name="attendees_label">ਮਹਿਮਾਨ</string>
+<string name="today">ਅੱਜ</string>
+<string name="tomorrow">ਕੱਲ</string>
+<string name="today_at_time_fmt"> ਅੱਜ <xliff:g id="time_interval">%s</xliff:g> ਨੂੰ</string>
+<string name="tomorrow_at_time_fmt">"ਕੱਲ੍ਹ ਨੂੰ <xliff:g id="time_interval">%s</xliff:g>ਵਜੇ"</string>
+<string name="date_time_fmt">"<xliff:g id="date">%s</xliff:g>, <xliff:g id="time_interval">%s</xliff:g>"</string>
+<string name="repeats_label">ਦੁਹਰਾਉਣਾ</string>
+<string name="no_title_label">(ਕੋਈ ਸਿਰਲੇਖ ਨਹੀਂ)</string>
+<plurals name="Nminutes">
+<item quantity="one">"1 ਮਿੰਟ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ਮਿੰਟ"</item>
+</plurals>
+<plurals name="Nmins">
+<item quantity="one">1 ਮਿੰਟ</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ਮਿੰਟ"</item>
+</plurals>
+<plurals name="Nhours">
+<item quantity="one">"1 ਘੰਟਾ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ਘੰਟੇ"</item>
+</plurals>
+<plurals name="Ndays">
+<item quantity="one">1ਦਿਨ</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ਦਿਨ"</item>
+</plurals>
+<plurals name="weekN">
+<item quantity="other">"ਹਫਤਾ <xliff:g id="count">%d</xliff:g>"</item>
+</plurals>
+<string name="calendar_refresh">ਰਿਫਰੈਸ਼ ਕਰੋ</string>
+<string name="select_date">ਤਾਰੀਖ ਚੁਣੋ</string>
+<string name="show_day_view">ਦਿਨ ਦਿਖਾਓ</string>
+<string name="agenda_view">ਏਜੇਂਡਾ</string>
+<string name="day_view">ਦਿਨ</string>
+<string name="week_view">ਹਫ਼ਤਾ</string>
+<string name="month_view">ਮਹੀਨਾ</string>
+<string name="event_view">ਘਟਨਾ ਦੇਖੋ</string>
+<string name="event_create">ਨਵੀ ਘਟਨਾ</string>
+<string name="event_edit">ਘਟਨਾ ਐਡਿਟ ਕਰੋt</string>
+<string name="event_delete">ਘਟਨਾ ਮਿਟਾਓ</string>
+<string name="goto_today">ਅੱਜ</string>
+<string name="menu_preferences">ਸੈਟਿੰਗਸ</string>
+<string name="menu_select_visible_calendars">ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਕੈਲੰਡਰ</string>
+<string name="search">"ਖੋਜੋ"</string>
+<string name="hide_controls">ਨਿਯੰਤ੍ਰਣ ਛਿਪਾਓ</string>
+<string name="show_controls">ਨਿਯੰਤ੍ਰਣ ਦਿਖਾਓ</string>
+<string name="select_visible_calendars_title">ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਕੈਲੰਡਰ</string>
+<string name="synced">"ਸਿੰਕ ਕੀਤਾ"</string>
+<string name="not_synced">ਸਿੰਕਾ ਨਹੀਂ ਕੀਤਾ</string>
+<string name="acct_not_synced">ਇਹ ਖਾਤਾ ਸਿੰਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ ਇਸ ਲਈ ਤੁਹਾਡੇ ਕੈਲੰਡਰ ਅਪ-ਟੂ-ਡੇਟ ਨਹੀਂ ਹੋ ਸਕਦੇ।</string>
+<string name="accounts">"ਖਾਤੇ &amp; ਸਿੰਕ"</string>
+<string name="select_synced_calendars_title">ਸਿੰਕ ਕਰਨ ਲਈ ਕੈਲੰਡਰ</string>
+<string name="select_synced_calendars_button">ਸਿੰਕ ਕਰਨ ਲਈ ਕੈਲੰਡਰ</string>
+<string name="hint_what">ਘਟਨਾ ਦਾ ਨਾਮ</string>
+<string name="hint_where">ਸਥਿਤੀ</string>
+<string name="hint_description">ਵਰਣਨ</string>
+<string name="hint_attendees">ਮਹਿਮਾਨ</string>
+<string name="creating_event">ਘਟਨਾ ਬਣਾਈ ਗਈ।</string>
+<string name="saving_event">ਘਟਨਾ ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਗਈ।</string>
+<string name="empty_event">ਖਾਲੀ ਘਟਨਾ ਨਹੀਂ ਬਣਾਈ ਗਈ।</string>
+<string name="creating_event_with_guest">ਸੱਦੇ ਭੇਜੇ ਜਾਣਗੇ।</string>
+<string name="saving_event_with_guest">ਅਪਡੇਟਸ ਭੇਜੀਆਂ ਜਾਣਗੀਆਂ।</string>
+<string name="rsvp_accepted">"ਹਾਂ ਦਾ ਜਵਾਬ ਦਿੱਤਾ।"</string>
+<string name="rsvp_tentative">"ਸ਼ਾਇਦ ਦਾ ਜਵਾਬ ਦਿੱਤਾ।"</string>
+<string name="rsvp_declined">"ਨਹੀਂ ਦਾ ਜਵਾਬ ਦਿੱਤਾ।"</string>
+<string name="create_event_dialog_save">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+<string name="alert_title">ਕੈਲੇਂਡਰ ਸੂਚਨਾਵਾਂ</string>
+<string name="event_info_title">ਘਟਨਾ ਦੇਖੋ</string>
+<string name="event_info_title_invite">ਮੀਟਿੰਗ ਸੱਦਾ</string>
+<string name="edit_event_to_label">ਤੋਂ</string>
+<string name="edit_event_from_label">ਤੋਂ</string>
+<string name="edit_event_all_day_label">ਸਾਰਾ ਦਿਨ</string>
+<string name="edit_event_calendar_label">"ਕੈਲੰਡਰ"</string>
+<string name="edit_event_show_all">ਸਾਰੇ ਦਿਖਾਓ</string>
+<string name="description_label">ਵਰਣਨ</string>
+<string name="presence_label">ਮੈਨੂੰ ਇਸ ਰੂਪ ਵਿੱਚ ਦਿਖਾਓ</string>
+<string name="privacy_label">ਨਿੱਜੀਤਾ</string>
+<string name="reminders_label">ਰਿਮਾਈਂਡਰ ਜੋੜੋ</string>
+<string name="no_syncable_calendars">ਕੋਈ ਕਲੈਂਡਰ ਨਹੀਂ</string>
+<string name="no_calendars_found">ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਕਿ ਤੁਸੀਂ ਇੱਕ ਘਟਨਾ ਜੋੜੋ, ਤੁਹਾਨੂੰ ਆਪਣੀ ਡਿਵਾਈਸ ਤੇ ਘੱਟੋ ਘੱਟ ਇੱਕ ਕੈਲੰਡਰ ਜੋੜਨਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਕੈਲੰਡਰ ਨੂੰ ਦਿਖਾਈ ਦੇਣ ਯੋਗ ਬਣਾਉਣਾ ਚਾਹੀਦਾ ਹੈ। ਇੱਕ ਖਾਤਾ ਜੋੜਨ ਲਈ ਖਾਤਾ ਜੋੜੋ ਨੂੰ ਛੋਹਵੋ (ਜੇਕਰ ਤੁਸੀਂ ਹੁਣੇ ਇੱਕ ਖਾਤਾ ਜੋੜਿਆ ਹੈ, ਤਾਂ ਇਸਦੇ ਸਿੰਕ ਕਰਨਾ ਖਤਮ ਕਰਨ ਤੱਕ ਠਹਿਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ)। ਜਾਂ ਰੱਦ ਕਰੋ ਨੂੰ ਛੋਹਵੋ ਅਤੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਘੱਟੋ ਘੱਟ ਇੱਕ ਕੈਲੰਡਰ ਦਿਖਾਈ ਦੇਣ ਯੋਗ ਹੈ।</string>
+<string name="create_an_account_desc">ਕੈਲੰਡਰ ਇੱਕ Google ਖਾਤੇ ਨਾਲ ਬਿਹਤਰ ਕੰਮ ਕਰਦਾ ਹੈ।\n\n\u2022  ਕਿਸੇ ਵੀ ਵੈਬ ਬ੍ਰਾਊਜਰ ਤੋਂ ਇਸ ਤੱਕ ਪਹੁੰਚੋ\n\u2022 ਆਪਣੀਆਂ ਘਟਨਾਵਾਂ ਸੁਰੱਖਿਅਤ ਰੂਪ ਨਾਲ ਬੈਕ ਅਪ ਕਰੋ</string>
+<string name="add_account">ਖਾਤਾ ਜੋੜੋ</string>
+<string name="view_event_calendar_label">ਕੈਲੇਂਡਰ:</string>
+<string name="view_event_organizer_label">ਸੰਗਠਕ :</string>
+<string name="choose_event_color_label">"ਘਟਨਾ ਦਾ ਰੰਗ ਚੁਣੋ"</string>
+<string name="event_color_picker_dialog_title">"ਘਟਨਾ ਰੰਗ"</string>
+<string name="event_color_set_to_default">"ਡਿਫੌਲਟ ਕੈਲੰਡਰ ਰੰਗ ਤੇ ਸੈਟ ਕਰੋ"</string>
+<string name="calendar_color_picker_dialog_title">"ਕੈਲੰਡਰ ਰੰਗ"</string>
+<string name="calendar_square_color_picker_description">"ਰੰਗ ਪਿਕਰ"</string>
+<string name="view_event_response_label">ਕੀ ਭਾਗ ਲੈ ਰਹੇ ਹੋਂ?</string>
+<string name="response_yes">ਹਾਂ</string>
+<string name="response_maybe">ਸ਼ਾਇਦ</string>
+<string name="response_no">ਨਹੀਂ</string>
+<string name="email_guests_label">ਮੇਹਮਾਨਾਂ ਨੂੰ ਈਮੇਲ ਕਰੋ</string>
+<string name="email_organizer_label">"ਈਮੇਲ ਪ੍ਰਬੰਧਕ"</string>
+<string name="email_picker_label">ਇਸ ਨਾਲ ਈਮੇਲ ਕਰੋ</string>
+<string name="event_not_found">"ਘਟਨਾ ਨਹੀਂ ਮਿਲੀ।"</string>
+<string name="map_label">ਨਕਸ਼ਾ</string>
+<string name="call_label">"ਕਾਲ ਕਰੋ"</string>
+<string name="quick_response_settings">ਝਟਪਟ ਜਵਾਬ</string>
+<string name="quick_response_settings_summary">ਮੇਹਮਾਨਾਂ ਨੂੰ ਈਮੇਲ ਕਰਦੇ ਸਮੇਂ ਡਿਫੌਲਟ ਜਵਾਬਾਂ ਨੂੰ ਸੰਪਾਦਿਤ ਕਰੋ</string>
+<string name="quick_response_settings_title">ਝਟਪਟ ਜਵਾਬ ਸੰਪਾਦਿਤ ਕਰੋ</string>
+<string name="quick_response_settings_edit_title">ਝਟਪਟ ਜਵਾਬ</string>
+<string name="quick_response_dialog_title">ਝਟਪਟ ਜਵਾਬ ਚੁਣੋ</string>
+<string name="quick_response_email_failed">ਇੱਕ ਈਮੇਲ ਪ੍ਰੋਗਰਾਮ ਲੱਭਣ ਵਿੱਚ ਅਸਫਲ</string>
+<string-array name="quick_response_defaults">
+<item>ਕੇਵਲ ਕੁਝ ਮਿੰਟ ਦੇਰੀ ਨਾਲ ਚੱਲ ਰਿਹਾ ਹੈ।</item>
+<item>ਲਗਭਗ 10 ਮਿੰਟ ਵਿੱਚ ਉੱਥੇ ਹੋਵੋ</item>
+<item>ਅੱਗੇ ਵਧੋ ਅਤੇ ਮੇਰੇ ਬਿਨਾਂ ਚਾਲੂ ਕਰੋ।</item>
+<item>ਮਾਫ ਕਰਨਾ, ਮੈਂ ਇਸਨੂੰ ਨਹੀਂ ਬਣਾ ਸਕਦਾ। ਸਾਨੂੰ ਦੁਬਾਰਾ ਸਮਾਂ ਨਿਰਧਾਰਿਤ ਕਰਨਾ ਪਵੇਗਾ। </item>
+</string-array>
+<string name="quick_response_custom_msg">"ਆਪਣਾ ਖੁਦ ਦਾ ਲਿਖੋ\u2026"</string>
+<string name="event_info_organizer">ਸੰਗਠਕ :</string>
+<string name="event_info_reminders_label">ਰਿਮਾਈਂਡਰ</string>
+<string name="agenda_today">"ਅੱਜ, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="agenda_yesterday">"ਕੱਲ੍ਹ, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="agenda_tomorrow">"ਕੱਲ੍ਹ ਨੂੰ, <xliff:g id="date">%1$s</xliff:g>"</string>
+<string name="loading">ਲੋਡ ਹੋ ਰਹੀ ਹੈ\u2026</string>
+<string name="show_older_events">" <xliff:g id="oldest_search_range">%1$s</xliff:g> ਤੋਂ ਪਹਿਲਾਂ ਇਵੈਂਟਾਂ ਦੇਖਣ ਲਈ ਛੋਹਵੋ"</string>
+<string name="show_newer_events">" <xliff:g id="newest_search_range">%1$s</xliff:g> ਤੋਂ ਬਾਅਦ ਇਵੈਂਟਾਂ ਦੇਖਣ ਲਈ ਛੋਹਵੋ"</string>
+<string name="search_title">ਮੇਰੇ ਕੈਲੰਡਰ ਖੋਜੋ</string>
+<string name="edit_event_label">ਵੇਰਵੇ</string>
+<string name="edit_label">"ਸੰਪਾਦਿਤ ਕਰੋ"</string>
+<string name="delete_label">ਮਿਟਾਓ</string>
+<string name="save_label">ਹੋ ਗਿਆ</string>
+<string name="discard_label">ਰੱਦ ਕਰੋ</string>
+<string name="snooze_all_label">"ਸਾਰਿਆਂ ਨੂੰ ਸਨੂਜ਼ ਕਰੋ"</string>
+<string name="dismiss_all_label">ਸਾਰੇ ਖਾਰਿਜ ਕਰੋ</string>
+<string name="snooze_label">ਸਨੂਜ਼</string>
+<string name="does_not_repeat">ਇੱਕ ਵਾਰ ਵਾਲੀ ਘਟਨਾ</string>
+<string name="endByDate">"; ਜਦੋਂ ਤੱਕ <xliff:g id="date">%s</xliff:g>"</string>
+<plurals name="endByCount">
+<item quantity="one">"; ਇੱਕ ਵਾਰ ਲਈ"</item>
+<item quantity="other">";  <xliff:g id="number">%d</xliff:g> ਵਾਰ ਲਈ"</item>
+</plurals>
+<plurals name="daily">
+<item quantity="one">ਰੋਜ਼ਾਨਾ</item>
+<item quantity="other">"ਹਰੇਕ <xliff:g id="number">%d</xliff:g> ਦਿਨ"</item>
+</plurals>
+<string name="every_weekday">ਹਰੇਕ ਹਫ਼ਤੇ ਦਾ ਦਿਨ (ਸੋਮ\u2013ਸ਼ੁੱਕਰ)</string>
+<plurals name="weekly">
+<item quantity="one">" <xliff:g id="days_of_week">%2$s</xliff:g> ਨੂੰ ਹਫਤਾਵਾਰ"</item>
+<item quantity="other">"ਹਰੇਕ <xliff:g id="number">%1$d</xliff:g> <xliff:g id="days_of_week">%2$s</xliff:g> ਨੂੰ ਹਫਤੇ"</item>
+</plurals>
+<string name="monthly">ਮਾਸਿਕ</string>
+<string name="yearly_plain">ਸਲਾਨਾ</string>
+<string name="monthly_on_day">"ਮਾਸਿਕ (ਦਿਨ <xliff:g id="day_of_month">%s</xliff:g> ਨੂੰ)"</string>
+<string name="yearly">"ਸਾਲਾਨਾ (<xliff:g id="dates">%s</xliff:g> ਨੂੰ)"</string>
+<string name="custom" product="tablet">ਕਸਟਮ (ਟੈਬਲੇਟ ਤੇ ਅਨੁਕੂਲਿਤ ਨਹੀਂ ਕਰ ਸਕਦਾ)</string>
+<string name="custom" product="default">ਕਸਟਮ (ਫੋਨ ਤੇ ਅਨੁਕੂਲਿਤ ਨਹੀਂ ਕਰ ਸਕਦਾ)</string>
+<string name="modify_event">ਕੇਵਲ ਇਹ ਘਟਨਾ ਬਦਲੋ</string>
+<string name="modify_all">ਸੀਰੀਜ ਵਿੱਚ ਸਾਰੀਆਂ ਘਟਨਾਵਾਂ ਬਦਲੋ</string>
+<string name="modify_all_following">ਇਹ ਅਤੇ ਸਾਰੀਆਂ ਭਵਿੱਖੀ ਘਟਨਾਵਾਂ ਬਦਲੋ</string>
+<string name="new_event_dialog_label">ਨਵੀ ਘਟਨਾ</string>
+<string name="new_event_dialog_option">ਨਵੀ ਘਟਨਾ</string>
+<string name="delete_this_event_title">ਕੀ ਇਹ ਘਟਨਾ ਮਿਟਾਉਣੀ ਹੈ?</string>
+<string name="delete_recurring_event_title">"ਕੀ <xliff:g id="eventtitle">%s</xliff:g> ਮਿਟਾਉਣਾ ਹੈ?"</string>
+<string name="change_response_title">ਉੱਤਰ ਬਦਲੋ</string>
+<string name="menu_general_preferences">"ਸਧਾਰਨ ਸੈਟਿੰਗਸ"</string>
+<string name="menu_about_preferences">ਕੈਲੰਡਰ ਬਾਰੇ</string>
+<string name="preferences_title">ਸੈਟਿੰਗਸ</string>
+<string name="preferences_general_title">ਕੈਲੰਡਰ ਦ੍ਰਿਸ਼ ਸੈਟਿੰਗਸ</string>
+<string name="preferences_reminder_title">"ਸੂਚਨਾਵਾਂ \u0026 ਰੀਮਾਈਂਡਰ"</string>
+<string name="preferences_hide_declined_title">ਨਾਮਨਜ਼ੂਰ ਘਟਨਾਵਾਂ ਲੁਕਾਓ</string>
+<string name="preferences_week_start_day_title">ਨੂੰ ਹਫਤਾ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ</string>
+<string name="preferences_week_start_day_dialog">ਨੂੰ ਹਫਤਾ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ</string>
+<string name="preferences_clear_search_history_title">ਖੋਜ ਇਤਿਹਾਸ ਮਿਟਾਓ</string>
+<string name="preferences_clear_search_history_summary">ਸਾਰੀਆਂ ਖੋਜਾਂ ਮਿਟਾਓ ਜੋ ਤੁਸੀਂ ਕੀਤੀਆਂ ਹਨ</string>
+<string name="search_history_cleared">ਖੋਜ ਇਤਿਹਾਸ ਮਿਟ ਗਿਆ।</string>
+<string name="preferences_alerts_title">"ਸੂਚਨਾਵਾਂ"</string>
+<string name="preferences_alerts_vibrateWhen_title">ਵਾਈਬ੍ਰੇਟ</string>
+<string name="preferences_alerts_ringtone_title">ਧੁਨੀ</string>
+<string name="preferences_alerts_popup_title">ਪੌਪ-ਅਪ ਸੂਚਨਾ</string>
+<string name="preferences_default_reminder_title">ਡਿਫਾਲਟ ਰਿਮਾਈਂਡਰ ਸਮਾਂ</string>
+<string name="preferences_default_reminder_dialog">ਡਿਫਾਲਟ ਰਿਮਾਈਂਡਰ ਸਮਾਂ</string>
+<string name="preferences_use_home_tz_title">ਹੋਮ ਟਾਈਮ ਖੇਤਰ ਦੀ ਵਰਤੋ ਕਰੋ</string>
+<string name="preferences_use_home_tz_descrip">ਯਾਤਰਾ ਦੌਰਾਨ ਤੁਹਾਡੇ ਹੋਮ ਖੇਤਰ ਵਿੱਚ ਕਲੈਂਡਰ ਅਤੇ ਘਟਨਾਵਾਂ ਦਾ ਸਮਾਂ ਦਿਖਾਓ</string>
+<string name="preferences_home_tz_title">ਹੋਮ ਸਮਾਂ ਖੇਤਰ</string>
+<string name="preferences_show_week_num_title">ਹਫਤਾ ਸੰਖਿਆ ਦਿਖਾਓ</string>
+<string name="preferences_about_title">ਬਾਰੇ</string>
+<string name="preferences_build_version">ਨੰਬਰ ਬਣਾਓ</string>
+<string name="gadget_title">"ਕੈਲੰਡਰ"</string>
+<string name="gadget_no_events">ਕੋਈ ਆਗਾਮੀ ਕਲੈਂਡਰ ਘਟਨਾਵਾਂ ਨਹੀਂ ਹਨ</string>
+<string name="preferences_experimental_category">"ਪ੍ਰਯੋਗਾਤਮਕ"</string>
+<string name="preferences_reminders_category">ਰਿਮਾਈਂਡਰ</string>
+<string name="preferences_reminders_responded_label">"ਰੀਮਾਈਂਡਰ ਛੱਡੋ"</string>
+<string name="preferences_reminders_responded_dialog">"ਰੀਮਾਈਂਡਰ ਛੱਡੋ"</string>
+<string name="preferences_reminders_quiet_hours_label">"ਸ਼ਾਂਤ ਘੰਟੇ"</string>
+<string name="preferences_reminders_quiet_hours_description">"ਨਿਰਦਿਸ਼ਟ ਕੀਤੇ ਸਮੇਂ ਦੌਰਾਨ ਖਾਮੋਸ਼ੀ ਘਟਨਾ ਰੀਮਾਈਂਡਰ।"</string>
+<string name="preferences_reminders_quiet_hours_start">"ਸ਼ਾਂਤ ਘੰਟਿਆਂ ਦੇ ਸ਼ੁਰੂ ਹੋਣ ਦਾ ਸਮਾਂ"</string>
+<string name="preferences_reminders_quiet_hours_end">"ਸ਼ਾਂਤ ਘੰਟਿਆਂ ਦੇ ਸਮਾਪਤ ਹੋਣ ਦਾ ਸਮਾਂ"</string>
+<string name="preferences_debug_category">ਡੀਬਗਿੰਗ</string>
+<string name="copy_db">ਡੇਟਾਬੇਸ ਭੇਜੋ</string>
+<string name="directory_searching_fmt">"<xliff:g id="domain">%s</xliff:g> ਖੋਜਿਆ ਜਾ ਰਿਹਾ ਹੈ\u2026"</string>
+<string name="accessibility_remove_attendee">ਅਟੈਂਡੀ ਮਿਟਾਓ</string>
+<string name="accessibility_pick_start_date">ਚਾਲੂ ਹੋਣ ਦੀ ਮਿਤੀ</string>
+<string name="accessibility_pick_start_time">ਚਾਲੂ ਹੋਣ ਦਾ ਸਮਾਂ</string>
+<string name="accessibility_pick_end_date">ਖਤਮ ਹੋਣ ਦੀ ਮਿਤੀ</string>
+<string name="accessibility_pick_end_time">ਖਤਮ ਹੋਣ ਦਾ ਸਮਾਂ</string>
+<string name="accessibility_pick_time_zone">ਸਮਾਂ ਖੇਤਰ</string>
+<string name="accessibility_pick_recurrence">"ਘਟਨਾ ਦੁਹਰਾਓ"</string>
+<string name="accessibility_add_reminder">ਰਿਮਾਈਂਡਰ ਜੋੜੋ</string>
+<string name="accessibility_remove_reminder">ਰਿਮਾਈਂਡਰ ਹਟਾਓ</string>
+<string name="accessibility_add_attendee">ਅਟੈਂਡੀ ਜੋਰੋ</string>
+<string name="accessibility_sync_cal">ਸਿੰਕ ਕਲੈਂਡਰ</string>
+<string name="accessibility_all_day">ਪੂਰੇ ਦਿਨ ਦੀ ਘਟਨਾ</string>
+<string name="accessibility_repeats">ਦੁਹਰਾਉਣਾ</string>
+<string name="accessibility_reminder_time">ਰਿਮਾਈਂਡਰ ਸਮਾਂ</string>
+<string name="accessibility_reminder_type">ਰਿਮਾਈਂਡਰ  ਪ੍ਰਕਾਰ</string>
+<string name="accessibility_reminder_showmeas">ਮੈਨੂੰ ਇਸ ਰੂਪ ਵਿੱਚ ਦਿਖਾਓ</string>
+<string name="accessibility_reminder_privacy">ਨਿੱਜੀਤਾ</string>
+<string name="acessibility_cal_notification">ਕੈਲੰਡਰ ਸੂਚਨਾ</string>
+<string name="acessibility_snooze_notification">ਸਨੂਜ਼ ਸੂਚਨਾ</string>
+<string name="accessibility_email_notification">ਮੇਹਮਾਨਾਂ ਨੂੰ ਈਮੇਲ ਕਰੋ</string>
+<string name="day_view_new_event_hint">+ਨਵੀਂ ਈਵੈਂਟ</string>
+<string name="template_announce_item_index">"<xliff:g id="item_count">%2$s</xliff:g>ਦੀ ਇਵੈਂਟ <xliff:g id="item_index">%1$s</xliff:g>।"</string>
+<plurals name="Nevents">
+<item quantity="one">1 ਘਟਨਾ</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ਇਵੈਂਟਾਂ"</item>
+</plurals>
+<plurals name="N_remaining_events">
+<item quantity="one">+1 ਘਟਨਾ</item>
+<item quantity="other">"+<xliff:g id="count">%d</xliff:g> ਇਵੈਂਟਾਂ"</item>
+</plurals>
+<string name="acessibility_selected_marker_description">ਚੁਣੀ ਗਈ ਘਟਨਾ</string>
+<string name="do_not_check">ਜਾਂਚ ਨਾ ਕਰੋ -&gt;</string>
+<string name="recurrence_dialog_title">ਦੁਹਰਾਓ</string>
+<string name="recurrence_dialog_title_never">"ਕਦੇ ਨਾ ਦੁਹਰਾਓ"</string>
+<plurals name="recurrence_interval_daily">
+<item quantity="one">"ਹਰੇਕ<xliff:g id="count">%d</xliff:g> ਦਿਨ"</item>
+<item quantity="other">"ਹਰੇਕ <xliff:g id="count">%d</xliff:g> ਦਿਨ"</item>
+</plurals>
+<plurals name="recurrence_interval_weekly">
+<item quantity="one">"ਹਰੇਕ <xliff:g id="count">%d</xliff:g> ਹਫਤਾ"</item>
+<item quantity="other">"ਹਰੇਕ <xliff:g id="count">%d</xliff:g> ਹਫਤੇ"</item>
+</plurals>
+<plurals name="recurrence_interval_monthly">
+<item quantity="one">"ਹਰੇਕ <xliff:g id="count">%d</xliff:g> ਮਹੀਨਾ"</item>
+<item quantity="other">"ਹਰੇਕ <xliff:g id="count">%d</xliff:g> ਮਹੀਨੇ"</item>
+</plurals>
+<plurals name="recurrence_interval_yearly">
+<item quantity="one">"ਹਰੇਕ <xliff:g id="count">%d</xliff:g> ਸਾਲ"</item>
+<item quantity="other">"ਹਰੇਕ <xliff:g id="count">%d</xliff:g> ਸਾਲ"</item>
+</plurals>
+<string name="recurrence_month_pattern_by_day">"ਹਰੇਕ ਮਹੀਨੇ ਇੱਕੋ ਦਿਨ ਨੂੰ"</string>
+<string name="recurrence_end_continously">"ਹਮੇਸ਼ਾ"</string>
+<string name="recurrence_end_date_label">"ਇੱਕ ਤਾਰੀਖ ਤੱਕ"</string>
+<string name="recurrence_end_date">"<xliff:g id="date">%s</xliff:g> ਤੱਕ"</string>
+<string name="recurrence_end_count_label">"ਕੁਝ ਘਟਨਾਵਾਂ ਲਈ"</string>
+<plurals name="recurrence_end_count">
+<item quantity="one">"<xliff:g id="event_count">%d</xliff:g> ਘਟਨਾ ਲਈ"</item>
+<item quantity="other">"<xliff:g id="event_count">%d</xliff:g> ਘਟਨਾਵਾਂ ਲਈ"</item>
+</plurals>
+<string name="acessibility_recurrence_choose_end_date_description">"ਸਮਾਪਤ ਹੋਣ ਦੀ ਤਾਰੀਖ ਬਦਲੋ"</string>
+<string name="email_format_err">ਮਹਿਮਾਨ ਦੇ ਈਮੇਲ ਪਤੇ ਵਿੱਚ ਫੌਰਮੈਟ ਅਸ਼ੁੱਧੀ!</string>
+<string name="local_account">ਸਥਾਨਕ ਖਾਤਾ</string>
+<string name="can_not_synced">"ਸਿੰਕ ਨਹੀਂ ਕਰ ਸਕਦਾ"</string>
+<string name="menu_share">ਸਾਂਝਾ ਕਰੋ</string>
+<string name="send_calendar">ਇਸ ਰਾਹੀਂ ਘਟਨਾ ਸ਼ੇਅਰ ਕਰੋ</string>
+<string name="no_way_to_share_calendar">ਕੈਲੰਡਰ ਘਟਨਾ ਸ਼ੇਅਰ ਕਰਨ ਲਈ ਕੋਈ ਅਨੁਪ੍ਰਯੋਗ ਉਪਲਬਧ ਨਹੀਂ।</string>
+<string name="ringtone_default_message">ਮਾਫ ਕਰਨਾ, ਰਿੰਗਟੋਨ ਫਾਈਲ ਪਲੇ ਨਹੀਂ ਹੁੰਦੀ, ਇੱਕ ਰਿੰਗਟੋਨ ਦੇ ਤੌਰ ਤੇ ਡਿਫੌਲਟ ਸਾਊਂਡ ਫਾਈਲ ਸੈਟ ਕਰੋ</string>
+<string name="select_date_out_range">"ਤੁਹਾਡੀ ਪਸੰਦ ਦੀ ਤਾਰੀਖ ਸੀਮਾ ਤੋਂ ਬਾਹਰ ਹੈ, ਸਹੀ ਸੀਮਾ 1970-2037 ਹੈ।"</string>
+<string name="title_too_long">ਇਨਪੁਟ ਬਹੁਤ ਜ਼ਿਆਦਾ ਵੱਡਾ ਹੈ</string>
+<string name="type_vcalendar">"ਕੈਲੰਡਰ"</string>
+<string name="import_vcalendar">ਕੈਲੰਡਰ ਇੰਪੋਰਟ ਕਰੋ?</string>
+<string name="parse_fail">"ਫਾਈਲ ਪਾਰਸਿੰਗ ਅਸਫਲ!"</string>
+<string name="import_error">"ਗਤੀਵਿਧੀ ਆਯਾਤ ਕਰਨਾ ਅਸਫਲ!"</string>
+<string name="import_waiting">ਇੰਪੋਰਟ ਹੋ ਰਿਹਾ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਠਹਿਰੋ...</string>
+<string name="import_ok">"ਘਟਨਾ (ਘਟਨਾਵਾਂ) ਸਫਲਤਾਪੂਰਵਕ ਇੰਪੋਰਟ ਹੋ ਗਈਆਂ!"</string>
+<string name="import_type_error">"ਆਯਾਤ ਗਤੀਵਿਧੀ ਲਈ ਖਾਤਾ ਪ੍ਰਕਾਰ ਮੌਜੂਦਾ ਕੈਲੰਡਰ ਵਿੱਚ ਮੌਜੂਦ ਨਹੀਂ ਹੈ"</string>
+<string name="no_exist_accounts">ਕੋਈ ਕੈਲੰਡਰ ਖਾਤਾ ਮੌਜੂਦ ਨਹੀਂ। ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਖਾਤਾ ਜੋੜੋ!</string>
+<string name="application_stop">"ਇਸ ਓਪਰੇਸ਼ਨ ਨੂੰ ਚਲਾਉਣ ਵਾਲੀ ਐਪਲੀਕੇਸ਼ਨ ਨਹੀਂ ਮਿਲੀ"</string>
+<string name="error_permissions">"ਐਪ ਨੂੰ ਚਲਾਉਣ ਲਈ ਲੁੜੀਂਦੀਆਂ ਲਾਜ਼ਮੀ ਅਨੁਮਤੀਆਂ ਨਹੀਂ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀਆਂ ਅਨੁਮਤੀ ਸੈਟਿੰਗਾਂ ਦੀ ਜਾਂਚ ਕਰੋ।"</string>
+<string name="dialog_dismiss">ਖਰਿਜ ਕਰੋ</string>
+<string name="toast_calendar_internal_error">"ਕੈਲੰਡਰ ਵਿੱਚ ਇੱਕ ਅੰਦਰੂਨੀ ਤਰੁਟੀ ਹੋਈ!"</string>
+<string name="not_save_event">"ਇਸ ਗਤੀਵਿਧੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਆਖ਼ਰੀ ਤਾਰੀਖ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ"</string>
+</resources>

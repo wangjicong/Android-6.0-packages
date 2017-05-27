@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Parašas"</string>
+<string name="pref_title_sms_retry_times">"Įjungti SMS siuntimo kartojimą"</string>
+<string name="preference_name">"Bendra frazė"</string>
+<string name="select">"Pasirinkta"</string>
+<string name="item_cancel">"Atšaukti"</string>
+<string name="item_delete">"Ištrinti"</string>
+<string name="save_as_teltype">"Telefonui"</string>
+<string name="save_as_mmstype">"Trumposioms žinutėms"</string>
+<string name="type_to_pharser">"Įveskite bendrą frazę"</string>
+<string name="add">"Pridėti"</string>
+<string name="edit">"Redaguoti"</string>
+<string name="delete">"Ištrinti"</string>
+<string name="finish">"Užbaigti"</string>
+<string name="cancel">"Atšaukti"</string>
+<string name="add_pharser">"Pridėti bendrą frazę"</string>
+<string name="edit_pharser">"Redaguoti bendrą frazę"</string>
+<string name="pharser_can_modify">"Pritaikyta frazė"</string>
+<string name="pharser_cannot_modify">"Taisyti frazę"</string>
+<string name="select_item">"Jūs pasirinkote"</string>
+<string name="select_commmon_phrase">"Pasirinkti bendrą frazę"</string>
+<string name="common_phrase_empty">"Nėra bendrų frazių"</string>
+<string name="action_add_phrase">"Įvesti bendrą frazę"</string>
+<string name="pref_other_settings_title">"Kita"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Prašome skambinti į mano biuro telefoną, ačiū."</item>
+<item>"Prašom su manimi susisiekti, ačiū."</item>
+<item>"Prašom pasakyti kur esate."</item>
+<item>"Prašom paskambinti man į mobilų telefoną, ačiū."</item>
+<item>"Manęs nėra namuose, paskambinsiu jums kai grįšiu."</item>
+<item>"Dabar vairuoju, paskambinsiu vėliau."</item>
+<item>"Esu kelyje, greitai būsiu pasiekiamas."</item>
+<item>"Eismo kamščiai, vėluoju, atsiprašau."</item>
+<item>"Perskambinsiu jums vėliau."</item>
+<item>"Esu susirinkime, perskambinsiu vėliau."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Dabar negaliu kalbėti. Kas nutiko?"</item>
+<item>"Netrukus perskambinsiu."</item>
+<item>"Paskambinsiu vėliau."</item>
+<item>"Dabar negaliu kalb. Pask. vėliau."</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Paskambink ar parašyk žinutę vėliau."</item>
+</string-array>
+</resources>

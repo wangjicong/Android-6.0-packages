@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="no_effects">အသံလိုင္းမရွိပါ။</string>
+<string name="eq_dialog_title">ထိန္းညွိေပးခ်က္</string>
+<string name="headset_plug">ဤသက္ေရာက္မႈမ်ားအတြက္ နားၾကပ္ကိုတပ္ပါ</string>
+<string name="bass_boost_strength">ေဘ့စ္သံ</string>
+<string name="virtualizer_strength">ပတ္လည္အသံ</string>
+<string name="setup">"အသံေမးလ္အဆင္အျပင္မ်ား"</string>
+<string name="ci_extreme">FX booster</string>
+<string name="user">အသံုးျပဳသူ</string>
+<string name="picker_title">ေတးဂီတသက္ေရာက္ခ်က္ထိန္းခ်ဳပ္မႈ ပန္နယ္</string>
+<string name="headset">နားၾကပ္</string>
+<string name="pop">Pop ေပါ့</string>
+<string name="normal"> ပံုမွန</string>
+<string name="classical">Classical ကလယ္စီကယ္</string>
+<string name="dance">Dance ဒန္႕</string>
+<string name="flat">အျပား/ တုိက္ခန္း</string>
+<string name="folk">Folk ေဖါ့</string>
+<string name="heavymetal">Heavy Metal ဟဲဗီးမက္တယ္</string>
+<string name="hippop">Hip Hop ဟစ္ေဟာ့</string>
+<string name="jazz">Jazz ဂ်က္စ္</string>
+<string name="rock">Rock ေရာ့ခ္</string>
+</resources>

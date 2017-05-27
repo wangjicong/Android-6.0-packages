@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config spn="Manx">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Manx</string>
+    </carrier_config>
+</carrier_config_list>

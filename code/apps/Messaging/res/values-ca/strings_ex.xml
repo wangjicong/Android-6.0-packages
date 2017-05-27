@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Signatura"</string>
+<string name="pref_title_sms_retry_times">"Activar reintent de SMS"</string>
+<string name="preference_name">"Frase habitual"</string>
+<string name="select">"Seleccionat"</string>
+<string name="item_cancel">"Cancel·la"</string>
+<string name="item_delete">"Suprimeix"</string>
+<string name="save_as_teltype">"Per a telèfon"</string>
+<string name="save_as_mmstype">"Per a Sms"</string>
+<string name="type_to_pharser">"Escriviu una frase comuna"</string>
+<string name="add">"Afegeix"</string>
+<string name="edit">"Edita"</string>
+<string name="delete">"Suprimeix"</string>
+<string name="finish">"Finalitza"</string>
+<string name="cancel">"Cancel·la"</string>
+<string name="add_pharser">"Afegiu una frase comuna"</string>
+<string name="edit_pharser">"Edita frase habitual"</string>
+<string name="pharser_can_modify">"Personalitzeu la frase"</string>
+<string name="pharser_cannot_modify">"Arregleu la frase"</string>
+<string name="select_item">"Heu seleccionat"</string>
+<string name="select_commmon_phrase">"Seleccioneu una frase comuna"</string>
+<string name="common_phrase_empty">"Frases poc habituals"</string>
+<string name="action_add_phrase">"Inseriu una frase comuna"</string>
+<string name="pref_other_settings_title">"Altres"</string>
+<string-array name="fixed_mms_phrase">
+<item>"Truqueu a la meva oficina, gràcies."</item>
+<item>"Poseu-vos en contacte amb mi, gràcies."</item>
+<item>"Digueu-me on sou."</item>
+<item>"Si us plau, truqueu-me més tard al mòbil, gràcies"</item>
+<item>"No era a casa, quan torni us trucaré"</item>
+<item>"Estic conduint, contestaré més tard."</item>
+<item>"Estic venint de camí, em posaré en contacte de seguida"</item>
+<item>"Hi ha embussos a la carrereta, disculpeu el retard"</item>
+<item>"Us truco més tard"</item>
+<item>"Estic a una reunió, contestaré més tard"</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Ara no puc parlar. Què passa?"</item>
+<item>"Et truco de seguida."</item>
+<item>"Et truco més tard."</item>
+<item>"Ara no puc parlar. Truques després?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Truca\'m o envia\'m un sms més tard."</item>
+</string-array>
+</resources>

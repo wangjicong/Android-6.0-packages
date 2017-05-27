@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="box_sort_menu_items">
+        <item>收件箱</item>
+        <item>已发送 </item>
+        <item>发件箱</item>
+        <item>草稿箱</item>
+    </string-array>
+</resources>

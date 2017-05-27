@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP डाएल सेटिंग"</string>
+    <string name="ip_dial_menu">"IP डाएल"</string>
+    <string name="ip_dialing_title">"IP डायल करत आहे"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"फास्ट डाएल सेटिंग"</string>
+    <string name="no_fast_dial_number">"फास्ट डाएल क्रमांक पाठवला नाही."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"जाणारा"</string>
+     <string name="call_log_incoming_title">"येणारा"</string>
+     <string name="recentOutgoing_empty">"आपले आउटगोईंग कॉल्स नाहीत."</string>
+     <string name="recentIncoming_empty">"आपले इनकमिंग कॉल्स नाहीत."</string>
+     <string name="view_setting">"पहा"</string>
+     <string name="item_all_calls">"सर्व कॉल लॉग"</string>
+     <string name="item_sim_calls">"कॉल लॉग SIM%d केले"</string>
+     <string name="unselect_all">"सर्व निवड रद्द करा"</string>
+     <string name="select_all_sprd">"सर्व निवडा"</string>
+     <string name="doneButton">"केले गेले"</string>
+     <string name="cancel">"रद्द करा"</string>
+     <string name="delete_selected_calls">"निवडलेले रेकॉर्डस डिलीट करण्याविषयी आपली खात्री आहे?"</string>
+     <string name="clearCallLogProgress_title">"कॉल लॉग स्वच्छ करत आहे\u2026"</string>
+     <string name="delete_success">"यशस्वी प्रकारे डिलीट केले गेले"</string>
+     <string name="clear_all_call_log">"सर्व कॉल लॉग काढून टाका"</string>
+     <string name="clear_selected_call_log">"निवडलेले कॉल लॉग काढून टाका"</string>
+     <string name="select_all">"सर्व निवडा"</string>
+     <string name="unselect_all">"सर्वांची निवड रद्द करा"</string>
+     <string name="delete_all_calls_confirm">"तुम्हाला तुमचे सर्व दप्तरनोंद नष्ट करायची आहे का?"</string>
+     <string name="do_not_select">"आपण डिलीट करण्यासाठी रेकॉर्ड निवडले नाही"</string>
+     <string name="delete_calls">"डिलिट"</string>
+     <string name="number_anr_isnull">"संपर्क क्रमांक रिकामा आहे"</string>
+     <string name="call_recording_setting_title">"कॉल रेकॉर्ड करत आहे"</string>
+     <string name="automatic_recording_title">"ऑटोमेटिक रेकॉर्डिंग करत आहे"</string>
+     <string name="dialog_phone_permission_deny">"IP डायल वापरण्यासाठी,\n फोनची परवानगी चालू करा."</string>
+     <string name="search_description">"कॉल लॉग शोधा"</string>
+     <string name="call_log_add_to_blacklist">"ब्लॅकलिस्टमध्ये जोडा"</string>
+     <string name="make_video_call_menu">"व्‍हिडिओ कॉल करा"</string>
+
+</resources>

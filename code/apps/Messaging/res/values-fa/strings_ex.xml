@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"امضا"</string>
+<string name="pref_title_sms_retry_times">غیرفعال کردن تجدید SMS</string>
+<string name="preference_name">"عبارت معمول"</string>
+<string name="select">"انتخاب شد"</string>
+<string name="item_cancel">انصراف</string>
+<string name="item_delete">حذف</string>
+<string name="save_as_teltype">"برای تلفن"</string>
+<string name="save_as_mmstype">"برای پیامک"</string>
+<string name="type_to_pharser">"عبارت رایج را تایپ کنید"</string>
+<string name="add">افزایش</string>
+<string name="edit">ویرایش</string>
+<string name="delete">حذف</string>
+<string name="finish">"پایان"</string>
+<string name="cancel">انصراف</string>
+<string name="add_pharser">"عبارت رایج را اضافه نمایید"</string>
+<string name="edit_pharser">ویرایش عبارت مناسب</string>
+<string name="pharser_can_modify">"عبارت سفارشی شده"</string>
+<string name="pharser_cannot_modify">"عبارت ثابت"</string>
+<string name="select_item">"انتخاب کرده اید"</string>
+<string name="select_commmon_phrase">انتخاب عبارت رایج </string>
+<string name="common_phrase_empty">"عبارات رایج یافت نشد"</string>
+<string name="action_add_phrase">"عبارت رایج را وارد کنید"</string>
+<string name="pref_other_settings_title">"سایر"</string>
+<string-array name="fixed_mms_phrase">
+<item>لطفا با تلفن دفترم تماس بگیرید، متشکرم.</item>
+<item>لطفا با من تماس بگیرید، متشکرم</item>
+<item>لطفا موقعیتتان را به من بگویید.</item>
+<item>لطفا بعدا با تلفن همراه من تماس بگیرید، متشکرم.</item>
+<item>من بیرون هستم، به خانه که رسیدم تماس می گیرم.</item>
+<item>"در حال رانندگی هستم، بعداً پاسخ می دهم."</item>
+<item>"من وارد جاده شدم، به زودی می رسم."</item>
+<item>در ترافیک هستم، دیرتر می رسم، با عرض پوزش.</item>
+<item>بعدا با شما تماس خواهم گرفت.</item>
+<item>من در جلسه هستم، بعدا پاسخ می دهم.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"اکنون نمی‌توانم صحبت کنم. موضوع چیست؟"</item>
+<item>"به زودی با شما تماس می‌گیرم."</item>
+<item>"بعداً با شما تماس می‌گیرم."</item>
+<item>"اکنون نمی‌توانم صحبت کنم. بعداً به من زنگ می‌زنید؟"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"لطفاً بعداً تماس بگیرید یا پیامک دهید."</item>
+</string-array>
+</resources>

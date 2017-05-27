@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="onesong">"1টা গীত"</string>
+<plurals name="Nsongs">
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> গীত"</item>
+</plurals>
+<plurals name="Nsongscomp">
+<item quantity="other">"<xliff:g id="count_for_artist">%2$d</xliff:g> ৰ <xliff:g id="total_count">%1$d</xliff:g> গীত"</item>
+</plurals>
+<plurals name="Nalbums">
+<item quantity="one">"1টা এলবাম"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> এলবাম"</item>
+</plurals>
+<string name="goto_start">"লাইব্ৰেৰী"</string>
+<string name="party_shuffle">"পাৰ্টি শ্বাফল"</string>
+<string name="party_shuffle_off">"পাৰ্টি শ্বাফল অফ"</string>
+<string name="delete_item">"মচি দিয়া"</string>
+<string name="shuffle_all">"সকলো শ্বাফল কৰক"</string>
+<string name="play_all">"সকলো প্লে কৰক"</string>
+<string name="delete_artist_desc">"SD কাৰ্ডৰ পৰা <xliff:g id="artist">%s</xliff:g> ৰে সকলো গীত স্থায়ীভাৱে বিলোপ কৰিব নে?"</string>
+<string name="delete_artist_desc_nosdcard">"USB সংগ্ৰহৰ পৰা <xliff:g id="artist">%s</xliff:g> ৰে সকলো গীত স্থায়ীভাৱে বিলোপ কৰিব নে?"</string>
+<string name="delete_album_desc">"SD কাৰ্ডৰ পৰা \"<xliff:g id="album">%s</xliff:g>\" ৰে সমগ্ৰ এলবামটো স্থায়ীভাৱে বিলোপ কৰিব নে?"</string>
+<string name="delete_album_desc_nosdcard">"USB সংগ্ৰহৰ পৰা \"<xliff:g id="album">%s</xliff:g>\" ৰে সমগ্ৰ এলবামটো স্থায়ীভাৱে বিলোপ কৰিব নে?"</string>
+<string name="delete_song_desc">"SD কাৰ্ডৰ পৰা \"<xliff:g id="song">%s</xliff:g>\" টো স্থায়ীভাৱে বিলোপ কৰিব নে?"</string>
+<string name="delete_song_desc_nosdcard">"USB সংগ্ৰহৰ পৰা \"<xliff:g id="song">%s</xliff:g>\" টো স্থায়ীভাৱে বিলোপ কৰিব নে?"</string>
+<string name="delete_confirm_button_text">"ঠিক আছে"</string>
+<plurals name="NNNtracksdeleted">
+<item quantity="one">"1টা গীত বিলোপ কৰা হৈছিল।"</item>
+<item quantity="other">"<xliff:g id="songs_to_delete">%d</xliff:g> গীত বিলোপ কৰা হৈছিল।"</item>
+</plurals>
+<string name="scanning">"SD কাৰ্ড স্কেনিং কৰি আছে\u2026"</string>
+<string name="scanning_nosdcard">"USB সংগ্ৰহ স্কেনিং কৰি আছে\u2026"</string>
+<string name="nowplaying_title">"এতিয়া প্লে কৰি আছে"</string>
+<string name="partyshuffle_title">"পাৰ্টি শ্বাফল"</string>
+<string name="artists_title">"কলাকাৰ"</string>
+<string name="albums_menu">"এলবামসমূহ"</string>
+<string name="albums_title">"এলবামসমূহ"</string>
+<string name="tracks_menu">"গীত"</string>
+<string name="tracks_title">"গীত"</string>
+<string name="playlists_menu">"প্লেলিষ্ট"</string>
+<string name="playlists_title">"প্লেলিষ্ট"</string>
+<string name="videos_title">"ভিডিঅ’ সমূহ"</string>
+<string name="all_title">"সকলো মিডিয়া"</string>
+<string name="browse_menu">"কলাকাৰ"</string>
+<string name="search_title">"বিচাৰ"</string>
+<string name="no_tracks_title">"কোনো গীত নাই"</string>
+<string name="no_videos_title">"কোনো ভিডিঅ\' নাই"</string>
+<string name="no_playlists_title">"প্লেলিষ্ট নাই"</string>
+<string name="delete_playlist_menu">"মচি দিয়া"</string>
+<string name="edit_playlist_menu">"সম্পাদনা"</string>
+<string name="rename_playlist_menu">"পুনঃনামাকৰণ"</string>
+<string name="playlist_deleted_message">"প্লেলিষ্ট বিলোপ কৰা হৈছে।"</string>
+<string name="playlist_renamed_message">"প্লেলিষ্ট পুনঃনাম কৰা হৈছে।"</string>
+<string name="recentlyadded">"শেহতীয়াকৈ যোগ কৰা"</string>
+<string name="recentlyadded_title">"শেহতীয়াকৈ যোগ কৰা"</string>
+<string name="podcasts_listitem">"প\'ডকাষ্ট"</string>
+<string name="podcasts_title">"প\'ডকাষ্ট"</string>
+<string name="sdcard_missing_title">"SD কাৰ্ড নাই"</string>
+<string name="sdcard_missing_title_nosdcard">"USB সংগ্ৰহ নাই"</string>
+<string name="sdcard_missing_message">"আপোনাৰ ফোনত SD কাৰ্ড আন্তঃসংযোগ কৰা নাই।"</string>
+<string name="sdcard_missing_message_nosdcard">"আপোনাৰ ফোনত USB সংগ্ৰহ নাই।"</string>
+<string name="sdcard_busy_title">"SD কাৰ্ড উপলব্ধ নহয়"</string>
+<string name="sdcard_busy_title_nosdcard">"USB ষ্ট’ৰেজ উপলব্ধ নহয়"</string>
+<string name="sdcard_busy_message">"আপোনাৰ SD কাৰ্ড ব্যস্ত আছে।"</string>
+<string name="sdcard_busy_message_nosdcard">"আপোনাৰ USB সংগ্ৰহ ব্যস্ত আছে।"</string>
+<string name="sdcard_error_title">"SD কাৰ্ডৰ ত্ৰুটি"</string>
+<string name="sdcard_error_title_nosdcard">"USB সংগ্ৰহৰ ত্ৰুটি"</string>
+<string name="sdcard_error_message">"আপোনাৰ SD কাৰ্ডত এটা ত্ৰুটিৰ সম্মুখীন হৈছে।"</string>
+<string name="sdcard_error_message_nosdcard">"আপোনাৰ USB সংগ্ৰহত এটা ত্ৰুটিৰ সম্মুখীন হৈছে।"</string>
+<string name="unknown_artist_name">"অজ্ঞাত কলাকাৰ"</string>
+<string name="unknown_album_name">"অজ্ঞাত এলবাম"</string>
+<string name="shuffle_on_notif">"শ্বাফল অন আছে।"</string>
+<string name="shuffle_off_notif">"শ্বাফল অফ আছে।"</string>
+<string name="repeat_off_notif">"পুনৰাবৃত্তি অফ আছে।"</string>
+<string name="repeat_current_notif">"সাম্প্ৰতিক গীত পুনৰাবৃত্তি কৰি আছে।"</string>
+<string name="repeat_all_notif">"সকলো গীত পুনৰাবৃত্তি কৰি আছে।"</string>
+<string name="ringtone_menu">"ফোনৰ ৰিংটোন হিচাপে ব্যৱহাৰ কৰক"</string>
+<string name="ringtone_menu_short">"ৰিংটোন হিচাপে ব্যৱহাৰ কৰক"</string>
+<string name="ringtone_set">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" ফোনৰ ৰিংটোন হিচাপে ছেট কৰক।"</string>
+<string name="play_selection">"চালু কৰক।"</string>
+<string name="add_to_playlist">"প্লেলিষ্টলৈ যোগ কৰক"</string>
+<string name="queue">"সাম্প্ৰতিক প্লেলিষ্ট"</string>
+<string name="new_playlist">"নতুন"</string>
+<string name="new_playlist_name_template">"নতুন প্লেলিষ্ট <xliff:g id="number">%d</xliff:g>"</string>
+<plurals name="NNNtrackstoplaylist">
+<item quantity="one">"1টা গীত প্লেলিষ্টলৈ যোগ কৰা হৈছে।"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> গীত প্লেলিষ্টলৈ যোগ কৰা হৈছে।"</item>
+</plurals>
+<string name="emptyplaylist">"চয়নিত প্লেলিষ্টখন খালি আছে।"</string>
+<string name="create_playlist_create_text">"সংৰক্ষণ কৰা "</string>
+<string name="create_playlist_overwrite_text">"অধিলেখন"</string>
+<string name="service_start_error_title">"প্লেবেক সমস্যা"</string>
+<string name="service_start_error_msg">"গীতটো প্লে কৰিব নোৱাৰি।"</string>
+<string name="service_start_error_button">"ঠিক আছে"</string>
+<string-array name="weeklist">
+<item>"১ সপ্তাহ"</item>
+<item>"2 সপ্তাহ"</item>
+<item>"3 সপ্তাহ"</item>
+<item>"4 সপ্তাহ"</item>
+<item>"5 সপ্তাহ"</item>
+<item>"6 সপ্তাহ"</item>
+<item>"7 সপ্তাহ"</item>
+<item>"8 সপ্তাহ"</item>
+<item>"9 সপ্তাহ"</item>
+<item>"10 সপ্তাহ"</item>
+<item>"11 সপ্তাহ"</item>
+<item>"12 সপ্তাহ"</item>
+</string-array>
+<string name="weekpicker_set">"হৈ গৈছে"</string>
+<string name="weekpicker_title">"সময় ছেট কৰক"</string>
+<string name="save_as_playlist">"প্লেলিষ্ট হিচাপে সংৰক্ষণ কৰক"</string>
+<string name="clear_playlist">"প্লেলিষ্ট পৰিষ্কাৰ কৰক"</string>
+<string name="musicbrowserlabel">"সংগীত"</string>
+<string name="musicshortcutlabel">"সংগীত প্লেলিষ্ট"</string>
+<string name="mediaplaybacklabel">"সংগীত"</string>
+<string name="videobrowserlabel">"ভিডিঅ’ সমূহ"</string>
+<string name="mediapickerlabel">"সংগীত"</string>
+<string name="playback_failed">"প্লেয়াৰে এই প্ৰকাৰৰ ফাইল সমৰ্থন নকৰে।"</string>
+<string name="cancel">"নাকচ"</string>
+<string name="remove_from_playlist">"প্লেলিষ্টৰ পৰা আঁতৰাওক"</string>
+<string name="streamloadingtext">"<xliff:g id="host">%s</xliff:g> লৈ সংযোগ কৰি আছে\u2026"</string>
+<string name="mediasearch">"<xliff:g id="term" example="Beethoven">%s</xliff:g> ব্যৱহাৰ কৰি অনুসন্ধান কৰক:"</string>
+<string name="working_artists">"কলাকাৰ\u2026"</string>
+<string name="working_albums">"এলবাম\u2026"</string>
+<string name="working_songs">"গীত\u2026"</string>
+<string name="working_playlists">"প্লেলিষ্ট\u2026"</string>
+<string name="loading">"লোড হৈ আছে\u2026"</string>
+<string name="sort_by_track">"ট্ৰেক"</string>
+<string name="sort_by_album">"এলবামসমূহ"</string>
+<string name="sort_by_artist">"কলাকাৰ"</string>
+<string name="music_picker_title">"সংগীত ট্ৰেক বাছনি কৰক"</string>
+<string name="search_settings_description">"কলাকাৰ, এলাবাম, আৰু ট্ৰেকসমূহ"</string>
+<string name="search_hint">"সংগীত অনুসন্ধান কৰক"</string>
+<string name="fast_scroll_alphabet">"\u0020ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+<string name="widget_initial_text">"সংগীত বাছনি কৰিবলৈ স্পৰ্শ কৰক।"</string>
+<string name="effectspanel">"ধ্বনি প্ৰভাৱবোৰ"</string>
+<string name="no_play">"সম্প্ৰতি প্লে কৰিবলৈ অক্ষম!"</string>
+<string name="activity_title_delete">"গীতবোৰ আঁতৰাওক"</string>
+<string name="activity_title">"সংগীত যোগ দিয়ক"</string>
+<string name="add_music">"সংগীত যোগ দিয়ক"</string>
+<string name="music_selected_all">"আটাইবোৰ নিৰ্ধাৰণ কৰক"</string>
+<string name="confirm_add">"যোগ"</string>
+<string name="cancel_add">"নাকচ"</string>
+<string name="delete_all_music">"মচি দিয়ক"</string>
+<string name="confirm_delete">"মচি দিয়ক"</string>
+<string name="music_selected_all_delete">"খালি কী চয়ন কৰক"</string>
+<string name="music_cancle_selected_all">"সকলো নাকচ কৰক"</string>
+<string name="being_add">"যোগ কৰি আছে, অনুগ্ৰহ কৰি অপেক্ষা কৰক ..."</string>
+<string name="remove_track">"আঁতৰাই আছে, অনুগ্ৰহ কৰি অপেক্ষা কৰক..."</string>
+<string name="invalid">"এই ডাইৰেক্টৰী খুলিব নোৱাৰি"</string>
+<string name="from_library">"লাইব্ৰেৰীৰ পৰা সংগীত যোগ কৰক"</string>
+<string name="from_folder">"ফ\'ল্ডাৰৰ পৰা সংগীত যোগ কৰক"</string>
+<string name="lyrics_edit_title">"গীতৰ কথা সম্পাদনা কৰক"</string>
+<string name="nolrc">"কোনো গীতৰ কথা নাই বা ফাইলটো অবৈধ"</string>
+<string name="del_track">"আইটেমবোৰ বিলোপ কৰি আছে, অনুগ্ৰহ কৰি অপেক্ষা কৰক..."</string>
+<string name="ringtone_title_sim1">"SIM1ৰ ফোন ৰিংটোন"</string>
+<string name="ringtone_title_sim2">"SIM2ৰ ফোন ৰিংটোন"</string>
+<string name="ringtone_set_sim1">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM1ৰ ফোন ৰিংটোন হিচাপে ছেট কৰক।"</string>
+<string name="ringtone_set_sim2">"\"<xliff:g id="name" example="Alarm Bell">%s</xliff:g>\" SIM2ৰ ফোন ৰিংটোন হিচাপে ছেট কৰক।"</string>
+<string name="ring_set_fail">"দুঃখিত, গীতটো প্লে কৰিব নোৱাৰি। অনুগ্ৰহ কৰি ৰিংটোন হিচাপে অন্য এটা গীত চয়ন কৰক"</string>
+<string name="ring_set_silent_vibrate">"চলিত মোডত কাষ্টম ৰিংটোন সমৰ্থিত নহয়"</string>
+<string name="please_insert_sim_card">"কমেও এখন SIM কাৰ্ড আন্তঃসংযোগ কৰক।</string>
+<string name="create_playlist_warning">"সম্প্ৰতি যোগ কৰাবোৰৰ সৈতে একে নাম ব্যৱহাৰ কৰিব নোৱাৰি।"</string>
+<string name="overwrite_playlist_alert">"“<xliff:g id="NAME">%s</xliff:g>”ত প্লেলিষ্ট ডাটা পৰিষ্কাৰ কৰা হ\'ব।"</string>
+<string name="playlist_created_message">"প্লেলিষ্ট সৃষ্টি কৰা হৈছে।"</string>
+<string name="overwrite_playlist_alert_rename">"“<xliff:g id="NAME">%s</xliff:g>” ত প্লেলিষ্ট ডাটা সামৰি লোৱা হ\'ব।"</string>
+<string name="delete_artist">"ডিভাইচৰ পৰা \"<xliff:g id="artist">%s</xliff:g>\" ৰে সকলো গীত স্থায়ীভাৱে বিলোপ কৰিব নে?"</string>
+<string name="delete_album">"ডিভাইচৰ পৰা \"<xliff:g id="album">%s</xliff:g>\" ৰে সমগ্ৰ এলবামটো স্থায়ীভাৱে বিলোপ কৰিব নে?"</string>
+<string name="delete_song">"ডিভাইচৰ পৰা \"<xliff:g id="song">%s</xliff:g>\" টো স্থায়ীভাৱে বিলোপ কৰিব নে?"</string>
+<string name="display_music">"সংগীত"</string>
+<string name="quit">"পৰিত্যাগ কৰক"</string>
+<string name="delete_playlist_message">"আপুনি "%1$s" প্লেলিষ্ট বিলোপ কৰিব বিচাৰে বুলি নিশ্চিত নে?"</string>
+<string name="delete_all_playlist">সকলো প্লেলিষ্ট ক্লিয়েৰ কৰক</string>
+<plurals name="NNNallSongsExist">
+<item quantity="one">গানটো প্লেলিষ্টত আছিলে ।</item>
+<item quantity="other">গানসমুহ প্লেলিষ্টত আছিলে ।</item>
+</plurals>
+<plurals name="NNNaddsongtoplaylist">
+<item quantity="one">"1 টা গান যোগ দিয়া হৈছে,"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> টা গান যোগ দিয়া হৈছে,"</item>
+</plurals>
+<plurals name="NNNsongAlreadyExist">
+<item quantity="one">"1 টা গান ইতিমধ্যে প্লেসূচীত আছে।"</item>
+<item quantity="other">"<xliff:g id="number" example="27">%d</xliff:g> টা গান ইতিমধ্যে প্লেসূচীত আছে।"</item>
+</plurals>
+<string name="length_limited">"নামটো সৰ্ব্বোচ্চ দৈৰ্ঘ্যৰ"</string>
+<string name="no_search_result">"কোনো গীত পোৱা নাই"</string>
+<string name="search_title_hint">"শিল্পী,গান বা এলবাম"</string>
+<string name="error_permissions">"এপ্পটোৰ চলাবলৈ আৱশ্যকীয় জটিল অনুমতি নাই। অনুগ্ৰহ কৰি আপোনাৰ অনুমতি ছেটিংছ পৰীক্ষা কৰক।"</string>
+<string name="dialog_dismiss">"নাকচ কৰক"</string>
+<string name="toast_fileexplorer_internal_error">"সংগীতত এটা অভ্যন্তৰীণ ত্ৰুটি ঘটিল!"</string>
+</resources>

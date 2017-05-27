@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- add for multicall -->
+    <!-- SPRD:modify 275 to 240 for bug452382 @{ -->
+    <!-- SPRD:modify 235 to 245 for bug483025 @{ -->
+    <dimen name="in_call_photo_top_magin">100dp</dimen>
+    <!-- SPRD: @} -->
+    <dimen name="conference_call_list_item_padding">5dp</dimen>
+</resources>

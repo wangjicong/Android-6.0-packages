@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <string name="vmnumber">5500</string>
+    </carrier_config>
+    <carrier_config spn="O.tel.o">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Otelo</string>
+    </carrier_config>
+    <carrier_config spn="klarmobil">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">klarmobil</string>
+        <string name="vmnumber">5500</string>
+        <string name="roamingvm">+491712523311</string>
+    </carrier_config>
+</carrier_config_list>

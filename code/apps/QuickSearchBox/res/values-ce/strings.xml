@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Pangita</string>
+<string name="remove_from_history_failed">"Dili makuha ang butang sa mga kaagi."</string>
+<string name="corpus_selection_heading">Pangita</string>
+<string name="menu_settings">"Pangita ug mga setting"</string>
+<string name="system_search_category_title">telepono</string>
+<string name="clear_shortcuts_summary">"Limason ang mga shortcut nga bago pa gipili nga suhestiyon sa pagpangita"</string>
+<string name="menu_help">Tabang</string>
+<string name="google_search_hint">"Pangita sa google"</string>
+<string name="google_search_description">"Mga suhestiyon sa pagpangita sa Google"</string>
+<string name="voice_search_hint_title">"Suway ug sulti:"</string>
+</resources>

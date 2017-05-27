@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"USB ಸೆಟ್ಟಿಂಗ್ಗಳು"</string>
+<string name="usb_charge_only">"ಚಾರ್ಜ್ ಓನ್ಲೀ"</string>
+<string name="usb_charge_only_summary">"USB ಸಂಪರ್ಕಿತವಾದಾಗ ಚಾರ್ಜ್ ಓನ್ಲೀ ಮೋಡ್ ಬಳಸಿ"</string>
+<string name="usb_charge_only_storage_active_subtext">"USB ಸ್ಟೋರೇಜ್ ಬಳಕೆಯಲ್ಲಿದ್ದಾಗ ಚಾರ್ಜ್ ಓನ್ಲೀ ಸಾಧ್ಯವಿಲ್ಲ"</string>
+<string name="usb_charge_only_notification">"ಚಾರ್ಜ್ ಆಗಿ ಮಾತ್ರ ಜೋಡಿಸಲಾಗಿದೆ"</string>
+<string name="usb_storage">"USB ಸ್ಟೋರೇಜ್"</string>
+<string name="usb_storage_summary">"USB ಸಮೂಹ ದಾಸ್ತಾನು"</string>
+<string name="ums_settings">"UMS ಸೆಟ್ಟಿಂಗ್ಗಳು"</string>
+<string name="ums_mounted_setting">"ಈಗ PCಗೆ UMS ಮೌಂಟ್ ಮಾಡಿ,ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ ..."</string>
+<string name="ums_unmounted_setting">"ಈಗ PCಯಿಂದ UMS ಅನ್ಮೌಂಟ್ ಮಾಡಿ,ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ ..."</string>
+<string name="usb_virtual_drive">"USB ವರ್ಚುವಲ್ ಡ್ರೈವ್"</string>
+<string name="usb_virtual_drive_summary">"USB ವರ್ಚುವಲ್ ಡ್ರೈವ್ ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
+<string name="remember_choice">"ನನ್ನ ಆಯ್ಕೆಯನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಿ"</string>
+<string name="remember_choice_summary">"ನನ್ನ ಆಯ್ಕೆಯನ್ನು ನೆನಪಿನಲ್ಲಿರಿಸಿಕೊಳ್ಳಿ ಮತ್ತು ಮುಂದಿನ ಬಾರಿ ನೆನಪಿನಲ್ಲಿರಿಸಿಕೊಂಡ ಕಾರ್ಯವನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಆರಂಭಿಸಿ"</string>
+<string name="stand_by_set_changed_prompt">"ಸಿಮ್ ಸಕ್ರಿಯಗೊಳಿಸುವ ಸ್ಥಿತಿಯು ಬದಲಾಗುತ್ತದೆ, ದಯವಿಟ್ಟು ಮುಂದುವರಿಕೆಯನ್ನು ದೃಢೀಕರಿಸುತ್ತೀರಾ?</string>
+<string name="not_stand_by">"ನಿಷೇಧಿತ"</string>
+<string name="primary_card_switching">"ಸೆಟ್ಟಿಂಗ್\uff0cದಯವಿಟ್ಟು ಕಾಯಿರಿ..."</string>
+<string name="toggle_data_change_message">"ಡೇಟಾ ಸಂಪರ್ಕವು ಸಿಮ್ ಕಾರ್ಡ್ ಗೆ ಬದಲಾಗಿದೆ <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, ದಯವಿಟ್ಟು ಗಮನಿಸಿ, ಇದು ದತ್ತಾಂಶದ ಥ್ರೂಪುಟ್ ಮತ್ತು ಪರಸ್ಪರ ದರಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ."</string>
+<string name="select_primary_card">"ಪ್ರಾಥಮಿಕ ಕಾರ್ಡ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="whether_switch_primary_card">"ಈ ಕಾರ್ಡಿಗೆ ಪ್ರಾಥಮಿಕ್ ಕಾರ್ಡ್ ಸ್ವಿಚ್ ಮಾಡಬೇಕೆ ಅಥವಾ ಬೇಡವೆ? ಎಂಬುದನ್ನು ದಯವಿಟ್ಟು ದೃಢೀಕರಿಸಿ\n(ಸೆಲ್ಯುಲರ್ ಡೇಟಾ ಕೂಡಾ ಕಾರ್ಡಿಗೆ ವರ್ಗಾವಣೆಯಾಗುತ್ತದೆ.)"</string>
+<string name="attention">"ಗಮನ"</string>
+<string name="bt_softap_cannot_coexist">"ಸಾಪ್ಟಾಪ್ ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ ಅಥವಾ ಚಾಲ್ತಿಯಲ್ಲಿರುವಾಗ ಬ್ಲೂಟೂತ್ ಕಾರ್ಯ ನಿರ್ವಹಿಸಲಾಗುವುದಿಲ್ಲ, ಬ್ಲೂಟೂತ್, ಬಳಸಬೇಕೆಂದರೆ ಸಾಪ್ಟಾಪ್ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿರುವುದನ್ನು ಖಾತ್ರಿಗೊಳಿಸಿಕೊಳ್ಳಿ."</string>
+<string name="softap_bt_cannot_coexist">"ಬ್ಲೂಟೂಥನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿರುವಾಗ ಅಥವಾ ಅದು ಆನ್ ಆಗುತ್ತಿರುವಾಗ, ಮೃದು ಟ್ಯಾಪ್ ಕೆಲಸಮಾಡಲಾಗುವುದಿಲ್ಲ; ನೀವು ಮೃದು ಟ್ಯಾಪ್ ಬಳಸಬೇಕೆಂದಿದ್ದರೆ, ಬ್ಲೂಟೂಥನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆಯೆಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."</string>
+<string name="softap_need_mobile_data_enabled">"ಪೋರ್ಟಬಲ್ Wi-Fi ಹಾಟ್ಸ್ಪಾಟ್ ಗೆ ಮೊಬೈಲ್ ಡೇಟಾ ಸಂಪರ್ಕದ ಅಗತ್ಯವಿದೆ,ಇದು ಹೆಚ್ಚುವರಿ ವೆಚ್ಚಗಳನ್ನು ಉಂಟುಮಾಡಬಹುದು."</string>
+<string-array name="light_color_picker">
+<item>"ಹಸಿರು"</item>
+<item>"ನೀಲಿ"</item>
+<item>"ಊದಾ"</item>
+<item>"ನೇರಳೆ"</item>
+<item>"ಗುಲಾಬಿ ಬಣ್ಣ"</item>
+<item>"ಕೆಂಪು"</item>
+<item>"ಹಳದಿ"</item>
+</string-array>
+</resources>

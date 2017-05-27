@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <string name="vmnumber">3311</string>
+        <string name="roamingvm">+491712523311</string>
+    </carrier_config>
+    <carrier_config spn="callmobile.de">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">callmobile.de</string>
+        <string name="vmnumber">3311</string>
+    </carrier_config>
+    <carrier_config spn="Lebara">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Lebara</string>
+        <string name="vmnumber">3311</string>
+        <string name="roamingvm">+491712523311</string>
+    </carrier_config>
+    <carrier_config spn="Telekom.de">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Telekom.de</string>
+    </carrier_config>
+</carrier_config_list>

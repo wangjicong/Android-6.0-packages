@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"স্বাক্ষৰ"</string>
+<string name="pref_title_sms_retry_times">"SMS পুনৰচেষ্টা সক্ৰিয় কৰক"</string>
+<string name="preference_name">"সাধাৰণ বাক্যাংশ "</string>
+<string name="select">"চয়নিত"</string>
+<string name="item_cancel">"নাকচ"</string>
+<string name="item_delete">"মচি দিয়া"</string>
+<string name="save_as_teltype">"ফোনৰ বাবে"</string>
+<string name="save_as_mmstype">"Sms ৰ বাবে"</string>
+<string name="type_to_pharser">"সাধাৰণ বাক্যাংশ টাইপ কৰক"</string>
+<string name="add">"যোগ"</string>
+<string name="edit">"সম্পাদনা"</string>
+<string name="delete">"মচি দিয়া"</string>
+<string name="finish">"শেষ"</string>
+<string name="cancel">"নাকচ"</string>
+<string name="add_pharser">"সাধাৰণ বাক্যাংশ যোগ কৰক"</string>
+<string name="edit_pharser">"সাধাৰণ বাক্যাংশ সম্পাদনা কৰক"</string>
+<string name="pharser_can_modify">"অনুকূলিত বাক্যাংশ"</string>
+<string name="pharser_cannot_modify">"নিৰ্দিষ্ট বাক্যাংশ"</string>
+<string name="select_item">"আপুনি পচন্দ কৰিলে"</string>
+<string name="select_commmon_phrase">"সাধাৰণ বাক্যাংশ বাছনি কৰক"</string>
+<string name="common_phrase_empty">" কোনো সাধাৰণ বাক্যাংশ  নাই"</string>
+<string name="action_add_phrase">"সাধাৰণ বাক্যাংশ সন্নিবিষ্ট কৰক"</string>
+<string name="pref_other_settings_title">অন্যান্য</string>
+<string-array name="fixed_mms_phrase">
+<item>"অনুগ্ৰহ কৰি মোৰ অফিচৰ ফোনটোত কল কৰক, ধন্যবাদ৷"</item>
+<item>"অনুগ্ৰহ কৰি মোৰ সৈতে যোগাযোগ কৰক, ধন্যবাদ৷"</item>
+<item>"অনুগ্ৰহ কৰি আপোনাৰ লোকেশ্যনটো মোক কওঁক৷"</item>
+<item>"অনুগ্ৰহ কৰি মোৰ চেলফোনত পিছত ফোন কৰিব, ধন্যবাদ৷"</item>
+<item>"মই বাহিৰত আছিলো, গতিকে ঘৰলৈ গৈ আপোনাক ফোন এটা কৰিম৷"</item>
+<item>"মই গাড়ী চলাই আছো, পিছত আপোনাৰ সৈতে কথা পাতিম৷"</item>
+<item>"মই গৈ আছো, কিছু সময় পিছতেই গৈ পামগৈ৷"</item>
+<item>"যানজঁট হৈছে, পলম হ’ব, তাৰ বাবে দুঃখিত৷"</item>
+<item>"আপোনাক পিছত ফোন কৰিম৷"</item>
+<item>"এখন সভাত আছো, পিছত কথা হ’ম৷"</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"এতিয়া কথা পাতিব নোৱাৰো৷ কি কৰিছা?"</item>
+<item>"আপোনাক কিছু সময় পিছতে মই কলবেক কৰিম৷"</item>
+<item>"আপোনাক পিছত ফোন কৰিম"</item>
+<item>"এতিয়া কথা পাতিব নোৱাৰো৷ মোক পিছত ফোন কৰিব৷"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"অনুগ্ৰহ কৰি মোক কল কৰক বা পাছত মোলৈ sms কৰক।"</item>
+</string-array>
+</resources>

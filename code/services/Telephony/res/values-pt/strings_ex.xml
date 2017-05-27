@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: National Data Roaming. {@ -->
+    <string name="preferred_data_roaming_title">Roaming de dados</string>
+    <string name="preferred_data_roaming_summary">Roaming nacional só</string>
+    <string name="preferred_data_roaming_dialogtitle">Roaming de dados</string>
+    <string name="preferred_data_roaming_disable">Desativar</string>
+    <string name="preferred_data_roaming_national">Roaming nacional só</string>
+    <string name="preferred_data_roaming_all_networks">Todas as redes</string>
+
+    <string-array name="enabled_data_roaming_choices">
+        <item>Desativar</item>
+        <item>Roaming nacional só</item>
+        <item>Todas as redes</item>
+    </string-array>
+    <!-- @} -->
+</resources>

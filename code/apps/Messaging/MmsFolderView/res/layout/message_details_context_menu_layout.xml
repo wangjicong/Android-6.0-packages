@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/contextmenu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_height" />
+
+    <TextView
+        android:id="@+id/coptText"
+        style="@style/contextmenu_textview"
+        android:gravity="center_vertical|left"
+        android:text="@string/message_context_menu_copy_text" />
+
+    <TextView
+        android:id="@+id/coptMsgToSim"
+        style="@style/contextmenu_textview"
+        android:gravity="center_vertical|left"
+        android:text="@string/context_menu_copy_to_sim_memory" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_height" />
+
+</LinearLayout>

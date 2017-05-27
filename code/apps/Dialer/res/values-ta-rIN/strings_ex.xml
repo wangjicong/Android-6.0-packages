@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP டயல் அமைப்பு"</string>
+    <string name="ip_dial_menu">IP டயல்</string>
+    <string name="ip_dialing_title">IP டயல் செய்தல்</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"விரைவு டயல் அமைப்பு"</string>
+    <string name="no_fast_dial_number">"விரைவு டயல் எண் அமைக்கப்படவில்லை"</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"வெளிச்செல்லும்"</string>
+     <string name="call_log_incoming_title">"உள்வரும்"</string>
+     <string name="recentOutgoing_empty">"உங்களுக்கு எந்த வெளிச்செல்லும் அழைப்புகளும் இல்லை."</string>
+     <string name="recentIncoming_empty">"உங்களுக்கு எந்த உள்வரும் அழைப்புகளும் இல்லை."</string>
+     <string name="view_setting">பார்வையிடுக</string>
+     <string name="item_all_calls">"அனைத்து அழைப்புப் பதிவுகள்"</string>
+     <string name="item_sim_calls">"SIM%d அழைப்புப் பதிவுகள்"</string>
+     <string name="unselect_all">அனைத்து தெரிவையும் அகற்றுக</string>
+     <string name="select_all_sprd">அனைத்தையும் தெரிவு செய்க</string>
+     <string name="doneButton">செய்யப்பட்டது</string>
+     <string name="cancel">ரத்து செய்க</string>
+     <string name="delete_selected_calls">"தேர்ந்தெடுக்கப்பட்ட பதிவுகளை நீங்கள் நிச்யமாக அழிக்க வேண்டுமா?"</string>
+     <string name="clearCallLogProgress_title">அழைப்பு குறிப்பேட்டினை\u2026 அகற்றுகிறது</string>
+     <string name="delete_success">"வெற்றிகரமாக நீக்கப்பட்டது"</string>
+     <string name="clear_all_call_log">"அனைத்து அழைப்புப் பதிவுகளையும் அழி"</string>
+     <string name="clear_selected_call_log">"தேர்ந்தெடுக்கப்பட்ட அழைப்புப் பதிவுகளை அழி"</string>
+     <string name="select_all">அனைத்தையும் தெரிவு செய்க</string>
+     <string name="unselect_all">"அனைத்தையும் தேர்வுநீக்கு"</string>
+     <string name="delete_all_calls_confirm">"நீங்கள் உங்கள் பதிவேடுகள் அனைத்தையும் நீக்க விரும்புகின்றீர்களா?"</string>
+     <string name="do_not_select">"நீங்கள் அழிக்க பதிவை தேர்ந்தெடுக்கவில்லை"</string>
+     <string name="delete_calls">அழிக்கவும்</string>
+     <string name="number_anr_isnull">"தொடர்பு எண் காலியாக உள்ளது"</string>
+     <string name="call_recording_setting_title">"அழைப்பினை பதிவு செய்தல்"</string>
+     <string name="automatic_recording_title">"தானியங்கி பதிவு செய்தல்"</string>
+     <string name="dialog_phone_permission_deny">"IP டயலைப் பயன்படுத்த, \n தொலைபேசி அனுமதியை இயங்கச் செய்யவும்."</string>
+     <string name="search_description">அழைப்பு குறிப்பேடு தேடவும்</string>
+     <string name="call_log_add_to_blacklist">கறுப்பு பட்டியலுக்கு சேர்க்கவும்</string>
+     <string name="make_video_call_menu">"வீடியோவில் அழை"</string>
+
+</resources>

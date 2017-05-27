@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">Összes kimenő</string>
+    <string name="messageAO">Adja meg a híváskorlátozási jelszót.</string>
+    <string name="sum_ao_enabled_indicator">"Minden hívás átirányítása"</string>
+    <string name="sum_ao_enabled">"Engedélyezve"</string>
+    <string name="sum_ao_disabled">"Letiltva"</string>
+    <string name="enable_ao_forbidden">Az Ön szolgáltatója nem támogatja az összes kimenő hívás letiltásának bekapcsolását.</string>
+    <string name="disable_ao_forbidden">Az Ön szolgáltatója nem támogatja az összes kimenő hívás letiltásának kikapcsolását.</string>
+    <string name="labelOI">Kimenő nemzetközi</string>
+    <string name="messageOI">Adja meg a híváskorlátozási jelszót.</string>
+    <string name="sum_oi_enabled">"Engedélyezve"</string>
+    <string name="sum_oi_disabled">"Letiltva"</string>
+    <string name="enable_oi_forbidden">Az Ön szolgáltatója nem támogatja az összes kimenő nemzetközi hívás letiltásának bekapcsolását.</string>
+    <string name="disable_oi_forbidden">Az Ön szolgáltatója nem támogatja az összes kimenő nemzetközi hívás letiltásának kikapcsolását.</string>
+    <string name="labelOX">Kimenő nemzetközi roaming</string>
+    <string name="messageOX">Adja meg a híváskorlátozási jelszót.</string>
+    <string name="sum_ox_enabled">"Engedélyezve"</string>
+    <string name="sum_ox_disabled">"Letiltva"</string>
+    <string name="enable_ox_forbidden">Az Ön szolgáltatója nem támogatja az összes kimenő nemzetközi roaming hívás letiltásának bekapcsolását.</string>
+    <string name="disable_ox_forbidden">Az Ön szolgáltatója nem támogatja az összes kimenő nemzetközi roaming hívás letiltásának kikapcsolását.</string>
+    <string name="labelAI">Összes bejövő</string>
+    <string name="messageAI">Adja meg a híváskorlátozási jelszót.</string>
+    <string name="sum_ai_enabled">"Engedélyezve"</string>
+    <string name="sum_ai_disabled">"Letiltva"</string>
+    <string name="enable_ai_forbidden">Az Ön szolgáltatója nem támogatja az összes bejövő hívás letiltásának bekapcsolását.</string>
+    <string name="disable_ai_forbidden">Az Ön szolgáltatója nem támogatja az összes bejövő hívás letiltásának kikapcsolását.</string>
+    <string name="labelIR">Bejövő hívások roaming közben</string>
+    <string name="messageIR">Adja meg a híváskorlátozási jelszót.</string>
+    <string name="sum_ir_enabled">"Engedélyezve"</string>
+    <string name="sum_ir_disabled">"Letiltva"</string>
+    <string name="enable_ir_forbidden">Az Ön szolgáltatója nem támogatja az összes kimenő hívás letiltásának bekapcsolását roaming közben.</string>
+    <string name="disable_ir_forbidden">Az Ön szolgáltatója nem támogatja az összes kimenő hívás letiltásának kikapcsolását roaming közben.</string>
+    <string name="labelAB">Összes deaktiválása</string>
+    <string name="messageAB">Adja meg a híváskorlátozási jelszót.</string>
+    <string name="sum_ab_enabled">"Engedélyezve"</string>
+    <string name="sum_ab_disabled">"Letiltva"</string>
+    <string name="enable_ab_forbidden">Az Ön szolgáltatója nem támogatja az összes deaktiválását.</string>
+    <string name="disable_ab_forbidden">"A szállító nem támogatja az összes aktiválását."</string>
+    <string name="labelChgPwd">"Jelszó módosítása"</string>
+    <string name="DlgChgPwd_oldpwd">Adja meg a híváskorlátozási jelszót.</string>
+    <string name="DlgChgPwd_newpwd_first">Adjon meg egy új jelszót</string>
+    <string name="DlgChgPwd_newpwd_last">Erősítse meg az új jelszót</string>
+    <string name="cb_pw_no_match">"A jelszavak nem egyeznek"</string>
+    <string name="cb_pw_error">"A jelszó helytelen"</string>
+    <string name="cb_pw_correct">"A jelszó megváltozott"</string>
+    <string name="labelCB">"Hívásletiltás"</string>
+    <string name="call_barring_settings">Híváskorlátozási beállítások</string>
+    <string name="cb_error">Híváskorlátozás elutasítva</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Nincs hálózati kapcsolat. Kívánja beállítani a hálózatot?"</string>
+     <string name="dialog_network_selection_title">"Figyelem"</string>
+     <string name="dialog_network_selection_message">"Kézi beállítás esetén mobiltelefonja nem választ ki más szolgáltatót. Bizonyos esetekben szükség lehet a szolgáltató kézi kiválasztására, majd az automatikus csatlakozás visszaállítására, ha a kiválasztott szolgáltató elérhetetlenné válik. Javasoljuk az "Automatikus hálózatválasztás"-t. Kézi hálózatválasztásra vált? "</string>
+     <string name="network_unknown">"Ismeretlen"</string>
+     <string name="network_inhibit">TILOS</string>
+     <string name="ip_dialing_title">IP tárcsázás</string>
+     <string name="ip_dialing_list_title">IP Tárcsázási lista</string>
+     <string name="ip_no_number">"Hiányzó IP előtag"</string>
+     <string name="ip_no_number_msg">"Az IP előtag nincs eltárolva a telefonon."</string>
+     <string name="ip_number_empty_loading">"Az IP tárcsázási lista üres."</string>
+     <string name="remove">"Eltávolítás"</string>
+     <string name="ip_number_is_too_long">"Az IP tárcsázási számok nem lehetnek hosszabbak 20 számjegynél."</string>
+     <string name="add_ip_number_str">"Új"</string>
+     <string name="ip_dialing_num_error">Csak 10 IP szám menthető el</string>
+     <string name="ip_dialing_num_repeat">"Ismételje meg a számot, hozzáadás sikertelen"</string>
+     <string name="menu_selected_all">"Összes kijelölése"</string>
+     <string name="menu_select_none">Az összes kijelölésének törlése</string>
+     <string name="doneButton">"Kész"</string>
+     <string name="cancel">"Mégse"</string>
+     <string name="uplmn_setting_title">"Beállítások"</string>
+     <string name="uplmn_setting">"UPLMN beállítások"</string>
+     <string name="uplmn_index">"Mutató (0-tól indul):"</string>
+     <string name="uplmn_id">"Azonosító szám:"</string>
+     <string name="uplmn_type">"Típus (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">"Helyezze be az USIM kártyát, majd próbálja újra"</string>
+     <string name="index_error_uplmn">"A Címjegyzék üres. Próbálja újra!"</string>
+     <string name="type_is_emplty_error_uplmn">"A Típus üres. Próbálja újra!"</string>
+     <string name="number_too_short_uplmn">"Az azonosító szám túl rövid. Próbálja újra!"</string>
+     <string name="type_is_wrong_uplmn">"A típusnak 1-nek vagy 0-nak kell lennie. Próbálja újra!"</string>
+     <string name="fail_uplmn">"Sikertelen. Próbálja újra."</string>
+     <string name="set_uplmn_unsuccessful">"UPLMN beállítása sikertelen!"</string>
+     <string name="menu_new_uplmn">"Új UPLMN"</string>
+     <string name="menu_delete_uplmn">"UPLMN törlése"</string>
+     <string name="uplmn_exceeds_capacity">"A szám meghaladja a SIM kapacitását!"</string>
+     <string name="delete">"törlés"</string>
+     <string name="delete_uplmn_successfully">"Uplmn törlése sikeres"</string>
+     <string name="id_is_wrong_uplmn">"Az azonosítót egy számmal kell megadni!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Hálózati mód kiválasztása"</string>
+     <string name="lte_service_switch">"Beállítás, kérjük, várjon..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G Multi mód"</item>
+        <item>"Csak 3G/2G mód"</item>
+        <item>"Csak 2G mód"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G Multi mód"</item>
+        <item>"Csak 3G/2G mód"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"Csak GSM"</item>
+        <item>"Csak WCDMA"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Auto)"</item>
+    </string-array>
+     <string name="fast_dial_settings">gyorstárcsázás beállítások</string>
+     <string name="delete_fastdial">gyorstárcsázás törlése</string>
+     <string name="update_fastdial">gyorstárcsázás frissítése</string>
+     <string name="no_sim_text">"Csatlakoztasson vagy indítsa a SIM kártyát"</string>
+     <string name="network_not_on">"Nincs hálózati kapcsolat. Kívánja beállítani a hálózatot?"</string>
+     <string name="one_key_locked_notification">"Ez a típus fel van OLDVA. Szeretné zárolni?"</string>
+     <string name="one_key_unlocked_notification">"Ez a típus ZÁROLVA van. Szeretné feloldani?"</string>
+     <string name="one_key_unlocked">"Feloldás"</string>
+     <string name="one_key_locked">"Lakat"</string>
+     <string name="one_key_operation_success">"A művelet sikeres, újraindítás szükséges."</string>
+     <string name="one_key_operation_unsuccess">"A művelet sikertelen, próbálja újra!"</string>
+     <string name="one_key_query_unsuccess">"Simzárolási lekérés sikertelen!"</string>
+     <string name="one_key_simlock_setting">"SIMLOCK beállítás"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Hálózat zárolása"</item>
+        <item>"HálózatRész zárolása"</item>
+        <item>"Szolgáltatói zárolás"</item>
+        <item>"Vállalati zárolás"</item>
+        <item>"SIM Zárolás"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Bejövő híváskorlátozás beállítása"</string>
+     <string name="callout_barring_settings">"Kimenő híváskorlátozás beállítása"</string>
+     <string name="labelCOUT">"Kimenő híváskorlátozás"</string>
+     <string name="labelCIN">"Bejövő híváskorlátozás"</string>
+     <string name="no_sim_text">"Csatlakoztasson vagy indítsa a SIM kártyát"</string>
+     <string name="sim_lock_none">"Egyik SIM sincs zárolva."</string>
+     <string name="sim_lock_try_later">"Kérem, próbálja meg később."</string>
+     <string name="edit_and_save_fdn">FDN szám szerkesztése</string>
+     <string name="call_fdn_number_by_sim">"Hívás"</string>
+     <string name="vt_call_fdn_numberr_by_sim">Videotelefon hívás</string>
+     <string name="airplane_changed_on">"Repülős üzemmód bekapcsolva."</string>
+     <string name="number_empty">"A szám üres"</string>
+     <string name="unblock_pin2">"PIN2 feloldása"</string>
+     <string name="sum_fdn_unblock_pin2">"Írja be a PUK2 kódot a SIM-kártya feloldására"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> kísérlet maradt)"</string>
+     <string name="oldPin2_Label">"Régi PIN2 (<xliff:g>%s</xliff:g> kísérlet maradt"</string>
+     <string name="puk2_code_label">"Adja meg a PUK2 kódot (<xliff:g>%s</xliff:g> kísérlet maradt)"</string>
+     <string name="promptWordOne">"Marad&#160;"</string>
+     <string name="promptWordTwo">"&#160;alkalommal"</string>
+     <string name="adn_full">Az FDN lista megtelt</string>
+     <string name="no_available_phone_accounts">"Nincs elérhető hívó fiók"</string>
+     <string name="lnd_list">"LND lista"</string>
+     <string name="sdn_list">"SDN lista"</string>
+     <string name="sim_list_title">Válasszon egy SIM kártyát</string>
+     <string name="wait_message">"Kérjük, várjon..."</string>
+     <string name="menu_call">"Kapcsolat hívása"</string>
+     <string name="lnd_no_contact_record">Ezen a SIM kártyán nem található LND bejegyzés.</string>
+     <string name="sdn_no_contact_number">Ez a SIM kártya nem támogatja az SDN számot.</string>
+     <string name="remove">"Eltávolítás"</string>
+     <string name="delete_selected_contents">Szeretné törölni a kiválasztott tartalmat?</string>
+     <string name="sim_notready_can_not_delete">Mivel a SIM kártya nem áll készen, nem törölhető.</string>
+     <string name="contact_del_failed">Törlés sikertelen</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"A hangposta beállításához válassza a Menü &gt; Beállítások pontot."</string>
+     <string name="simlock_unlocked">"Simlock feloldva."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"Csak WCDMA"</item>
+        <item>"Csak GSM"</item>
+        <item>"Automatikus"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"Csak GSM"</item>
+    </string-array>
+</resources>

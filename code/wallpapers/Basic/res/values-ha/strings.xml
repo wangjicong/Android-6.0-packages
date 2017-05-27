@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpapers">wallpapers na masarrafin Android</string>
+<string name="wallpaper_walkaround">Gani ta ciki</string>
+<string name="wallpaper_walkaround_desc">Gani ta wayarka kuma ka yi tafiya ba tare da tsoron hadari ba.</string>
+<string name="wallpaper_clock">"0"</string>
+<string name="wallpaper_clock_desc">Bayyanar da kwanan wata  da lokaci a tsarin wata, rana, awa, minti da sakan</string>
+<string name="clock_settings">Saitocin agogon Polar</string>
+<string name="show_seconds">Nuna sakan</string>
+<string name="variable_line_width">Canza fadin zobban</string>
+<string name="palette">Dandamalin kala</string>
+<string name="palette_gray">Karfe</string>
+<string name="palette_violet">"Tsakar dare"</string>
+<string name="palette_matrix">Koren allo</string>
+<string name="palette_white_c">Dabbar Polar mai (kuzari)</string>
+<string name="palette_black_c">Bakin rami (kuzari)</string>
+<string name="palette_halloween">Dunkulen kabewa</string>
+<string name="palette_zenburn">Hadadden salad</string>
+<string name="palette_oceanic">Shudin laser</string>
+</resources>

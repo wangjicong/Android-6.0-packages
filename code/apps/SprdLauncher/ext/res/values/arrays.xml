@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Folder model -->
+    <string-array name="folder_model">
+        <item>@string/line_model</item>
+        <item>@string/grid_mode</item>
+    </string-array>
+    <string-array name="folder_model_values" translatable="false">
+        <item>Line</item>
+        <item>Grid</item>
+    </string-array>
+
+    <!--Add for unread function: Email list -->
+    <string-array name="support_email_component_array" translatable="false">
+        <item>com.android.email/.activity.Welcome</item>
+    </string-array>
+    <!--Add for unread function: Calendar list -->
+    <string-array name="support_calendar_component_array" translatable="false">
+        <item>com.android.calendar/.AllInOneActivity</item>
+        <item>com.google.android.calendar/com.android.calendar.AllInOneActivity</item>
+    </string-array>
+</resources>

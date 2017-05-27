@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">Tüm gidenler</string>
+    <string name="messageAO">Arama engelleme parolasını girin.</string>
+    <string name="sum_ao_enabled_indicator">"Tüm çağrılar yönlendiriliyor"</string>
+    <string name="sum_ao_enabled">"Etkin"</string>
+    <string name="sum_ao_disabled">"Devre dışı"</string>
+    <string name="enable_ao_forbidden">Hizmet sağlayıcınız giden tüm aramaların etkinleştirilmesini desteklemiyor.</string>
+    <string name="disable_ao_forbidden">Hizmet sağlayıcınız tüm giden aramaların engellenmesinin devre dışı bırakılmasını desteklemiyor.</string>
+    <string name="labelOI">Giden uluslararası</string>
+    <string name="messageOI">Arama engelleme parolasını girin.</string>
+    <string name="sum_oi_enabled">"Etkin"</string>
+    <string name="sum_oi_disabled">"Devre dışı"</string>
+    <string name="enable_oi_forbidden">Hizmet sağlayıcınız giden uluslararası aramaların engellenmesinin etkinleştirilmesini desteklemiyor.</string>
+    <string name="disable_oi_forbidden">Hizmet sağlayıcınız giden uluslararası aramaların engellenmesinin devre dışı bırakılmasını desteklemiyor.</string>
+    <string name="labelOX">Giden uluslararası dolaşım</string>
+    <string name="messageOX">Arama engelleme parolasını girin.</string>
+    <string name="sum_ox_enabled">"Etkin"</string>
+    <string name="sum_ox_disabled">"Devre dışı"</string>
+    <string name="enable_ox_forbidden">Hizmet sağlayıcınız dolaşımda iken giden uluslararası aramaların engellenmesinin etkinleştirilmesini desteklemiyor.</string>
+    <string name="disable_ox_forbidden">Hizmet sağlayıcınız dolaşımda iken giden uluslararası aramaların engellenmesinin devre dışı bırakılmasını desteklemiyor.</string>
+    <string name="labelAI">Tüm gelenler</string>
+    <string name="messageAI">Arama engelleme parolasını girin.</string>
+    <string name="sum_ai_enabled">"Etkin"</string>
+    <string name="sum_ai_disabled">"Devre dışı"</string>
+    <string name="enable_ai_forbidden">Hizmet sağlayıcınız gelen tüm aramaların etkinleştirilmesini desteklemiyor.</string>
+    <string name="disable_ai_forbidden">Hizmet sağlayıcınız tüm gelen aramaların engellenmesinin devre dışı bırakılmasını desteklemiyor.</string>
+    <string name="labelIR">Dolaşımda gelen aramalar</string>
+    <string name="messageIR">Arama engelleme parolasını girin.</string>
+    <string name="sum_ir_enabled">"Etkin"</string>
+    <string name="sum_ir_disabled">"Devre dışı"</string>
+    <string name="enable_ir_forbidden">Hizmet sağlayıcınız dolaşımda iken tüm gelen aramaların engellenmesinin etkinleştirilmesini desteklemiyor.</string>
+    <string name="disable_ir_forbidden">Hizmet sağlayıcınız dolaşımda iken tüm gelen aramaların engellenmesinin devre dışı bırakılmasını desteklemiyor.</string>
+    <string name="labelAB">Tümünü devre dışı bırak</string>
+    <string name="messageAB">Arama engelleme parolasını girin.</string>
+    <string name="sum_ab_enabled">"Etkin"</string>
+    <string name="sum_ab_disabled">"Devre dışı"</string>
+    <string name="enable_ab_forbidden">Hizmet sağlayıcınız tamamını devre dışı bırakmayı desteklemiyor.</string>
+    <string name="disable_ab_forbidden">Hizmet sağlayıcınız tamamını aktif hale getirmeyi desteklemiyor.</string>
+    <string name="labelChgPwd">"Şifreyi değiştir"</string>
+    <string name="DlgChgPwd_oldpwd">Arama engelleme parolasını girin.</string>
+    <string name="DlgChgPwd_newpwd_first">Yeni parolayı girin</string>
+    <string name="DlgChgPwd_newpwd_last">"Yeni şifreyi doğrulayın:"</string>
+    <string name="cb_pw_no_match">"Parolalar eşleşmiyor"</string>
+    <string name="cb_pw_error">"Parola geçersiz"</string>
+    <string name="cb_pw_correct">"Parola değiştirildi"</string>
+    <string name="labelCB">"Çağrı engelleme"</string>
+    <string name="call_barring_settings">Arama engelleme ayarları</string>
+    <string name="cb_error">Arama engelleme reddedildi</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Ağ açık değil, Ağ durumunu ayarlamak istiyor musunuz?"</string>
+     <string name="dialog_network_selection_title">"Dikkat"</string>
+     <string name="dialog_network_selection_message"> "Cep telefonu manuel seçim modunda sizin için diğer operatörleri seçmeyecektir. Bazen seçilen operatörün hizmetini kaybettiğiniz zaman manuel seçimi tekrar yapmanız veya otomatik seçim moduna geri çevirmeniz gerekir. "Otomatik olarak seç"i kullanmanızı öneririz. Ağı manuel olarak seçmek istiyor musunuz? " </string>
+     <string name="network_unknown">Bilinmiyor</string>
+     <string name="network_inhibit">"YASAK"</string>
+     <string name="ip_dialing_title">"IP araması"</string>
+     <string name="ip_dialing_list_title">IP Arama Listesi</string>
+     <string name="ip_no_number">"IP öneki eksik"</string>
+     <string name="ip_no_number_msg">"IP öneki telefonda saklanmaz."</string>
+     <string name="ip_number_empty_loading">"IP arama listesi boş."</string>
+     <string name="remove">"Kaldır"</string>
+     <string name="ip_number_is_too_long">"IP numara sayıları 20\'den büyük olamaz  ."</string>
+     <string name="add_ip_number_str">"Yeni"</string>
+     <string name="ip_dialing_num_error">En fazla 10 IP numarası kaydedilebilir</string>
+     <string name="ip_dialing_num_repeat">Tekrar edilen numara, ekleme başarısız</string>
+     <string name="menu_selected_all">Tümünü Seç</string>
+     <string name="menu_select_none">Tümünün Seçimini Kaldır</string>
+     <string name="doneButton">Bitti</string>
+     <string name="cancel">İptal</string>
+     <string name="uplmn_setting_title">"Tercihler"</string>
+     <string name="uplmn_setting">""UPLMN Ayarları" "</string>
+     <string name="uplmn_index">"Dizin (0\'dan başlar):"</string>
+     <string name="uplmn_id">""Kimlik Numarası:" "</string>
+     <string name="uplmn_type">"Tip (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">Lütfen USIM kartı takın ve tekrar deneyin</string>
+     <string name="index_error_uplmn">"İndeks boş. Tekrar deneyin!"</string>
+     <string name="type_is_emplty_error_uplmn">"Tür boş. Tekrar deneyin!"</string>
+     <string name="number_too_short_uplmn">"ID numarası çok kısa. Tekrar deneyin!"</string>
+     <string name="type_is_wrong_uplmn">"Tür 1 veya 0 olmalı. Tekrar deneyin!"</string>
+     <string name="fail_uplmn">"Başarısız, tekrar deneyin."</string>
+     <string name="set_uplmn_unsuccessful">"uplmn ayarı başarısız!"</string>
+     <string name="menu_new_uplmn">"Yeni UPLMN"</string>
+     <string name="menu_delete_uplmn">"UPLMN\'yi sil"</string>
+     <string name="uplmn_exceeds_capacity">"Sayı, sim kapasitesini aşıyor!"</string>
+     <string name="delete">Sil</string>
+     <string name="delete_uplmn_successfully">"uplmn\'yi başarıyla Sil"</string>
+     <string name="id_is_wrong_uplmn">"Kimlik, bir numara ile ayarlanmalıdır!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Ağ modunu seçin"</string>
+     <string name="lte_service_switch">"Ayarlanıyor, lütfen bekleyin .."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G Çoklu Mod"</item>
+        <item>"3G/2G tek mod"</item>
+        <item>"Sadece 2G Modu"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G Çoklu Mod"</item>
+        <item>"3G/2G tek mod"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"Sadece GSM"</item>
+        <item>"Sadece WCDMA"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE / WCDMA / GSM (Otomatik)" </item>
+    </string-array>
+     <string name="fast_dial_settings">hızlı arama ayarları</string>
+     <string name="delete_fastdial">hızlı aramayı sil</string>
+     <string name="update_fastdial">hızlı aramayı güncelle</string>
+     <string name="no_sim_text">"Lütfen SIM kartını takın ya da başlatın"</string>
+     <string name="network_not_on">"Ağ açık değil, Ağ durumunu ayarlamak istiyor musunuz?"</string>
+     <string name="one_key_locked_notification">"Bu türün KİLİDİ açıldı, kilitlemek istiyor musunuz?"</string>
+     <string name="one_key_unlocked_notification">"Bu tür KİLİTLENDİ, kilidini açmak istiyor musunuz?"</string>
+     <string name="one_key_unlocked">"Kilit Aç"</string>
+     <string name="one_key_locked">"Kilit"</string>
+     <string name="one_key_operation_success">"İşlem başarılı, şimdi yeniden başlatma gerekiyor."</string>
+     <string name="one_key_operation_unsuccess">"İşlem başarısız, tekrar deneyebilirsiniz!"</string>
+     <string name="one_key_query_unsuccess">""Sorgu simlock tipi başarısız!" "</string>
+     <string name="one_key_simlock_setting">"SIMLOCK Ayarı"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>""Ağ kilidi" "</item>
+        <item>"AğAltkümesi Kilidi"</item>
+        <item>"ServisSağlayıcı Kilidi"</item>
+        <item>"Kurumsal Kilit"</item>
+        <item>""SIM Kilidi" "</item>
+    </string-array>
+     <string name="callin_barring_settings">"Gelen çağrı engelleme ayarları"</string>
+     <string name="callout_barring_settings">"Giden çağrı engelleme ayarları" </string>
+     <string name="labelCOUT">"Giden arama engelleme" </string>
+     <string name="labelCIN">"Gelen engelleme"</string>
+     <string name="no_sim_text">"Lütfen SIM kartını takın ya da başlatın"</string>
+     <string name="sim_lock_none">"Hiçbir SIM kilitlenmedi."</string>
+     <string name="sim_lock_try_later">"Lütfen daha sonra deneyin."</string>
+     <string name="edit_and_save_fdn">Fdn Numarasını Düzenle</string>
+     <string name="call_fdn_number_by_sim">"Arama</string>
+     <string name="vt_call_fdn_numberr_by_sim">VT Arama</string>
+     <string name="airplane_changed_on">"Uçak modu açıldı."</string>
+     <string name="number_empty">"Numara boş"</string>
+     <string name="unblock_pin2">"PIN2 blokunu kaldırın"</string>
+     <string name="sum_fdn_unblock_pin2">"SIM kartınızın kilidini açmak için PUK2\'yi girin"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> kalan deneme(ler))"</string>
+     <string name="oldPin2_Label">"Eski PIN2 (<xliff:g>%s</xliff:g> kalan deneme(ler))"</string>
+     <string name="puk2_code_label">"PUK2 kodunu girin (<xliff:g>%s</xliff:g> kalan deneme(ler))"</string>
+     <string name="promptWordOne">"Remain&#160;"</string>
+     <string name="promptWordTwo">"&#160;kez(ler)"</string>
+     <string name="adn_full">"SAN listesi dolu"</string>
+     <string name="no_available_phone_accounts">"Mevcut arama hesabı yok"</string>
+     <string name="lnd_list">LND listesi</string>
+     <string name="sdn_list">SDN listesi</string>
+     <string name="sim_list_title">Lütfen SIM kartı seçin</string>
+     <string name="wait_message">Lütfen bekleyin...</string>
+     <string name="menu_call">"Kişiyi ara"</string>
+     <string name="lnd_no_contact_record">Bu SIM kartta LND kaydı yok.</string>
+     <string name="sdn_no_contact_number">Bu SIM kart SDN numarasını desteklemiyor</string>
+     <string name="remove">"Kaldır"</string>
+     <string name="delete_selected_contents">Seçilen içerikleri silmek istiyor musunuz?</string>
+     <string name="sim_notready_can_not_delete">SIM kart hazır olmadığı için silemezsiniz.</string>
+     <string name="contact_del_failed">Silinemedi</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Sesli mesajı yapılandırmak için Menü &gt; Ayarlar\'a gidin."</string>
+     <string name="simlock_unlocked">"Simlock kilidi açıldı."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"Sadece WCDMA"</item>
+        <item>"Sadece GSM"</item>
+        <item>Otomatik</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"Sadece GSM"</item>
+    </string-array>
+</resources>

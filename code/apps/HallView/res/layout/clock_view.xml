@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/white_circle_bg" android:layout_width="@dimen/hall_view_width" android:layout_height="@dimen/hall_view_width"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:clock="http://schemas.android.com/apk/res/com.wx.hallview">
+    <ImageView
+        android:id="@+id/iv_simple_weather_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90.0dip"
+        android:layout_marginTop="65.0dip"
+        android:src="@drawable/clock_snow" />
+   <!-- qiuyaobo,remove weather,20160901,begin-->     
+    <!--TextView
+        android:textSize="13.0sp"
+        android:textColor="#ffa8a8a8"
+        android:id="@+id/tv_simple_day_week"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8.0dip"
+        android:layout_marginTop="75.0dip"
+        android:layout_toRightOf="@id/iv_simple_weather_icon" /> -->
+    <TextView
+        android:textSize="13.0sp"
+        android:textColor="#ffa8a8a8"
+        android:id="@+id/tv_simple_day_week"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75.0dip"
+        android:layout_centerHorizontal="true" />      
+    <!-- qiuyaobo,remove weather,20160901,end-->    
+    <RelativeLayout
+        android:layout_width="75.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="78.5dip"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+        <com.wx.hallview.views.ImageViewWithUnReadNumber
+            android:id="@+id/phone_icon"
+            android:layout_width="30.0dip"
+            android:layout_height="30.0dip"
+            android:src="@drawable/clock_call"
+            android:layout_alignParentLeft="true" />
+        <com.wx.hallview.views.ImageViewWithUnReadNumber
+            android:id="@+id/message_icon"
+            android:layout_width="30.0dip"
+            android:layout_height="30.0dip"
+            android:src="@drawable/clock_sms"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <com.wx.hallview.views.MyQAnalogClock
+        android:id="@+id/analog_clock"
+        android:background="@drawable/android_clock_dial"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        clock:hour_image1="@drawable/shizhen"
+        clock:minute_image1="@drawable/fenzhen"
+        clock:second_image1="@drawable/miaozhen" />
+</RelativeLayout>

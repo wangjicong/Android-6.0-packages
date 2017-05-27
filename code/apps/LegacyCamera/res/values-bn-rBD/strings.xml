@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">"ক্যামেরা ত্রুটি"</string>
+<string name="cannot_connect_camera">"ক্যামেরা সাথে সংযোগ করতে পারবেন না।"</string>
+<string name="camera_disabled">"নিরাপত্তা নীতিগুলির জন্য ক্যামেরা অক্ষমিত করা হয়েছে।"</string>
+<string name="camera_label">"ক্যামেরা"</string>
+<string name="video_camera_label">"ক্যামকর্ডার"</string>
+<string name="gallery_camera_bucket_name">"ক্যামেরা ছবি"</string>
+<string name="gallery_camera_videos_bucket_name">"ক্যামেরা ভিডিওগুলি"</string>
+<string name="wait">"দয়া করে অপেক্ষা করুন..."</string>
+<string name="no_storage" product="nosdcard">"ক্যামেরা ব্যবহারের আগে USB স্টোরেজ মাউন্ট করুন।"</string>
+<string name="no_storage" product="default">"ক্যামেরা ব্যবহার করার পূর্বে একটি SD কার্ড ঢোকান।"</string>
+<string name="not_enough_space" product="nosdcard">"আপনার USB সংরক্ষণ পূর্ণ।"</string>
+<string name="not_enough_space" product="default">"আপনার SD কার্ড পূর্ণ।"</string>
+<string name="preparing_sd" product="nosdcard">"USB স্টোরেড প্রস্তুত করা হয়েছে\u2026"</string>
+<string name="preparing_sd" product="default">"SD কার্ড প্রস্তুত করা হচ্ছে..."</string>
+<string name="access_sd_fail" product="nosdcard">"USB স্টোরেজ -এ প্রবেশ করা যাচ্ছে না।"</string>
+<string name="access_sd_fail" product="default">"SD কার্ড অ্যাক্সেস করা যায়নি৷"</string>
+<string name="confirm_restore_title">"ডিফল্ট পুনরুদ্ধার করুন"</string>
+<string name="confirm_restore_message">ক্যামেরা ডিফল্ট সেটিংস পূর্বাবস্থায় ফিরিয়ে আনুন?</string>
+<string name="review_play">প্লে</string>
+<string name="review_cancel">বাতিল</string>
+<string name="review_ok">সম্পন্ন</string>
+<string name="review_retake">"পুনরায় নিন"</string>
+<string name="camera_gallery_photos_text">"গ্যালারি"</string>
+<string name="switch_camera_id">ক্যামেরা পরিবর্তন করুন</string>
+<string name="time_lapse_title">"সময় ব্যয় রেকর্ডিং"</string>
+<string name="pref_camera_id_title">ক্যামেরা নির্বাচন করুন</string>
+<string name="pref_camera_id_entry_back">পিছনে</string>
+<string name="pref_camera_id_entry_front">"সামনের"</string>
+<string name="pref_camera_recordlocation_title">"স্টোরের অবস্থান"</string>
+<string name="pref_camera_recordlocation_entry_off">বন্ধ</string>
+<string name="pref_camera_recordlocation_entry_on">চালু</string>
+<string name="pref_video_quality_title">"ভিডিও গুণমান"</string>
+<string name="pref_video_time_lapse_frame_interval_title">"সময় অতিক্রম বিরতি"</string>
+<string name="pref_camera_settings_category">"ক্যামেরা সেটিংস"</string>
+<string name="pref_camcorder_settings_category">"ক্যামকর্ডার সেটিংস"</string>
+<string name="pref_camera_picturesize_title">"ছবির আকার"</string>
+<string name="pref_camera_picturesize_entry_2592x1936">"5M পিক্সেল"</string>
+<string name="pref_camera_picturesize_entry_2048x1536">"3M পিক্সেল"</string>
+<string name="pref_camera_picturesize_entry_1600x1200">"2M পিক্সেল"</string>
+<string name="pref_camera_picturesize_entry_1280x960">"1.3M পিক্সেল (16:9)"</string>
+<string name="pref_camera_picturesize_entry_1024x768">"1M পিক্সেল"</string>
+<string name="pref_camera_focusmode_title">"ফোকাস মোড"</string>
+<string name="pref_camera_focusmode_entry_auto">স্বয়ংক্রিয়</string>
+<string name="pref_camera_focusmode_entry_infinity">"অনন্ত"</string>
+<string name="pref_camera_focusmode_entry_macro">"ম্যাক্রো"</string>
+<string name="pref_camera_flashmode_title">"ফ্ল্যাশ মোড"</string>
+<string name="pref_camera_flashmode_entry_auto">স্বয়ংক্রিয়</string>
+<string name="pref_camera_flashmode_entry_on">চালু</string>
+<string name="pref_camera_flashmode_entry_off">বন্ধ</string>
+<string name="pref_camera_whitebalance_title">"হোয়াইট ব্যালান্স"</string>
+<string name="pref_camera_whitebalance_entry_auto">স্বয়ংক্রিয়</string>
+<string name="pref_camera_whitebalance_entry_incandescent">"দ্যুতিময়"</string>
+<string name="pref_camera_whitebalance_entry_daylight">"দিবালোক"</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">"ফ্লুরোসেণ্ট"</string>
+<string name="pref_camera_whitebalance_entry_cloudy">"মেঘলা"</string>
+<string name="pref_camera_scenemode_title">"দৃশ্য মোড"</string>
+<string name="pref_camera_scenemode_entry_auto">স্বয়ংক্রিয়</string>
+<string name="pref_camera_scenemode_entry_action">"অ্যাকশন"</string>
+<string name="pref_camera_scenemode_entry_night">"রাত্রি"</string>
+<string name="pref_camera_scenemode_entry_sunset">"সূর্যাস্ত"</string>
+<string name="pref_camera_scenemode_entry_party">পার্টি</string>
+<string name="not_selectable_in_scene_mode">"দৃশ্য মোডে নির্বাচনযোগ্য নয়।"</string>
+<string name="pref_restore_title">"ক্যামেরা সেটিংস"</string>
+<string name="pref_restore_detail">"ডিফল্ট পুনরুদ্ধার করুন"</string>
+<string name="pref_exposure_title">"এক্সপোজার"</string>
+<string name="dialog_ok">ঠিক আছে</string>
+<string name="spaceIsLow_content" product="nosdcard">"আপনার USB স্টোরেজ-এ স্থান কমে আসছে। কোয়েলিটি সেটিং পরিবর্তন করুন অথবা কিছু ছবি বা অন্য়ান্য় ফাইল মুছে দিন।"</string>
+<string name="spaceIsLow_content" product="default">"আপনার SD কার্ডে আর পর্যাপ্ত নেই। গুণমান সেটিংস পরিবর্তন করুন অথবা কিছু চিত্র বা অন্য ফাইলগুলি মুছে দিন।"</string>
+<string name="video_reach_size_limit">"আকার সীমায় পৌঁছে গেছে।"</string>
+<string name="switch_to_camera_label">"ক্যামেরায় যান"</string>
+<string name="switch_to_video_label">"ভিডিওতে স্যুইচ করুন"</string>
+<string name="switch_to_panorama_label">"প্যানোরামাতে স্যুইচ করুন"</string>
+<string name="share_picture_via">"ছবি শেয়ার করুন এর মাধ্যমে"</string>
+<string name="share_video_via">"ভিডিও শেয়ার করুন এর মাধ্যমে"</string>
+<string name="no_picture_to_share">"শেয়ার করার জন্য কোনো ছবি নেই।"</string>
+<string name="no_video_to_share">"শেয়ার করার জন্য কোনো ভিডিও নেই।"</string>
+<string name="pano_too_fast_prompt">"খুব দ্রুত"</string>
+<string name="pano_dialog_prepare_preview">"প্যানোরামা প্রস্তুত করা হচ্ছে"</string>
+<string name="pano_dialog_panorama_failed">"প্যানোরামা সংরক্ষণ করা যায়নি৷"</string>
+<string name="pano_dialog_title">"প্যানোরামা"</string>
+<string name="pano_capture_indication">"প্যানোরামা ক্যাপচার করা হচ্ছে"</string>
+<string name="pano_review_saving_indication_str">সংরক্ষণ\u2026</string>
+<string name="tap_to_focus">"ফোকাস করতে স্পর্শ করুন।"</string>
+<string name="pref_video_effect_title">"প্রভাবগুলি"</string>
+<string name="effect_none">"কোনো কিছুই নয়"</string>
+<string name="effect_goofy_face_squeeze">"কুঈজ"</string>
+<string name="effect_goofy_face_big_eyes">"বড় চোখ"</string>
+<string name="effect_goofy_face_big_mouth">"বড় মুখ"</string>
+<string name="effect_goofy_face_small_mouth">"ছোট মুখ"</string>
+<string name="effect_goofy_face_big_nose">"বড় নাক"</string>
+<string name="effect_goofy_face_small_eyes">"ছোট চোখ"</string>
+<string name="effect_backdropper_space">"ব্যবধানে"</string>
+<string name="effect_backdropper_sunset">"সূর্যাস্ত"</string>
+<string name="effect_backdropper_gallery">আপনার নিজের পছন্দ করুন</string>
+<string name="bg_replacement_message">"আপনার ডিভাইস ডাউনে সেট করুন\nপ্রদর্শন থেকে বাইরে আসুন কয়েক মুহূর্তের জন্য"</string>
+<string name="not_selectable_in_effect">প্রভাব যখন নির্বাচনযোগ্য নেই.</string>
+<string name="video_snapshot_hint">প্রাকদর্শন পর্দা স্পর্শ দ্বারা ভিডিও রেকর্ডিং করার সময় একটি ফটো তুলুন.</string>
+<string name="disable_video_snapshot_hint">"ভিডিও স্ন্যাপশট অক্ষম করা হয় যখন স্পেশাল এফেক্ট চালু থাকে।"</string>
+<string name="clear_effects">"প্রভাবগুলি সাফ করুন"</string>
+<string name="effect_silly_faces">"সিলি ফেস"</string>
+<string name="effect_background">"পশ্চাদপট"</string>
+<string name="accessibility_shutter_button">"শাটার বোতাম"</string>
+<string name="accessibility_review_thumbnail">"সবচেয়ে সাম্প্রতিক ছবি"</string>
+<string name="accessibility_camera_picker">"সামনে ও পিছনে ক্যামেরা অদল-বদল করুন"</string>
+<string name="accessibility_mode_picker">"ক্যামেরা, ভিডিও, বা প্যানোরামা নির্বাচক"</string>
+<string name="accessibility_second_level_indicators">"আরও সেটিং নিয়ন্ত্রণ"</string>
+<string name="accessibility_back_to_first_level">"সেটিং নিয়ন্ত্রণ বন্ধ করুন"</string>
+<string name="accessibility_zoom_control">"জুম নিয়ন্ত্রণ"</string>
+<string name="accessibility_decrement">"কমান %1$s"</string>
+<string name="accessibility_increment">"বাড়ান %1$s"</string>
+<string name="accessibility_switch">"%1$s অদল-বদল করুন"</string>
+</resources>

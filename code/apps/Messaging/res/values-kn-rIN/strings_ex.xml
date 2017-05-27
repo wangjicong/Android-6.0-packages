@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"ಸಿಗ್ನೇಚರ್"</string>
+<string name="pref_title_sms_retry_times">"SMS ಮರುಪ್ರಯತ್ನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"</string>
+<string name="preference_name">"ಸಾಮಾನ್ಯ ಪದಪುಂಜ"</string>
+<string name="select">"ಆಯ್ಕೆ ಮಾಡಲಾಯಿತು"</string>
+<string name="item_cancel">"ರದ್ದು"</string>
+<string name="item_delete">"ಅಳಿಸಿ"</string>
+<string name="save_as_teltype">"ಫೋನ್‌ಗಾಗಿ"</string>
+<string name="save_as_mmstype">"ಎಸ್‌ಎಂಎಸ್ ಗಾಗಿ"</string>
+<string name="type_to_pharser">"ಸಾಮಾನ್ಯ ಪದಗುಚ್ಛ ಟೈಪ್ ಮಾಡಿ"</string>
+<string name="add">"ಸೇರಿಸು"</string>
+<string name="edit">"ಸಂಪಾದಿಸಿ"</string>
+<string name="delete">"ಅಳಿಸಿ"</string>
+<string name="finish">"ಮುಗಿಸು"</string>
+<string name="cancel">"ರದ್ದು"</string>
+<string name="add_pharser">"ಸಾಮಾನ್ಯ ಪದಗುಚ್ಛ ಸೇರಿಸಿ"</string>
+<string name="edit_pharser">"ಸಾಮಾನ್ಯ ಪದಪುಂಜವನ್ನು ಪರಿಷ್ಕರಿಸಿ"</string>
+<string name="pharser_can_modify">"ಗ್ರಾಹಕೀಯ ಪದಗುಚ್ಛ"</string>
+<string name="pharser_cannot_modify">"ಪದಗುಚ್ಛ ಸರಿಪಡಿಸಿ"</string>
+<string name="select_item">"ನೀವು ಆಯ್ಕೆಮಾಡಿಕೊಂಡಿರುವಿರಿ"</string>
+<string name="select_commmon_phrase">"ಸಾಮಾನ್ಯ ಪದಗುಚ್ಛ ಆಯ್ಕೆಮಾಡಿ"</string>
+<string name="common_phrase_empty">"ಯಾವುದೇ ಸಾಮಾನ್ಯ ಪದಪುಂಜಗಳು ಇಲ್ಲ"</string>
+<string name="action_add_phrase">"ಸಾಮಾನ್ಯ ಪದಗುಚ್ಛ ಸೇರಿಸಿ"</string>
+<string name="pref_other_settings_title">"ಇತರೆ"</string>
+<string-array name="fixed_mms_phrase">
+<item>"ದಯವಿಟ್ಟು ನನ್ನ ಕಚೇರಿಯ ಫೋನ್ ಗೆ ಕರೆ ಮಾಡಿ, ಧನ್ಯವಾದಗಳು."</item>
+<item>"ದಯವಿಟ್ಟು ನನ್ನನ್ನು ಸಂಪರ್ಕಿಸಿ, ಧನ್ಯವಾದಗಳು."</item>
+<item>"ದಯವಿಟ್ಟು ನನಗೆ ನಿಮ್ಮ ಇರುವ ಎಡೆಯನ್ನು ಹೇಳಿ."</item>
+<item>"ದಯವಿಟ್ಟು ನಂತರ ನನ್ನ ಸೆಲ್ ಫೋನ್ ನಂಬರ್ ಗೆ ಕರೆ ಮಾಡಿ, ಧನ್ಯವಾದಗಳು."</item>
+<item>"ನಾನು ಹೊರಗೆ ಹೋಗಿದ್ದೆ, ಮನೆಗೆ ಹೋಗಿ ನಿಮಗೆ ಕರೆ ಮಾಡುತ್ತೇನೆ."</item>
+<item>"ವಾಹನ ಚಲಾಯಿಸುತ್ತಿದ್ದೇನೆ ಮತ್ತು ನಂತರ ಪ್ರತಿಸ್ಪಂದಿಸುತ್ತೇನೆ."</item>
+<item>"ನಾನು ಮಾರ್ಗದಲ್ಲಿದ್ದೇನೆ, ಸದ್ಯದಲ್ಲೇ ತಲುಪುತ್ತೇನೆ."</item>
+<item>"ವಾಹನದಟ್ಟಣೆಯಿಂದ ಸ್ಥಗಿತ, ವಿಳಂಬವಾಗುತ್ತಿದೆ, ಕ್ಷಮಿಸಿ."</item>
+<item>"ನಿಮ್ಮ ಕರೆ ಆಮೇಲೆ ಹಿಂತಿರುಗಿಸುತ್ತೇನೆ."</item>
+<item>"ನಾನು ಒಂದು ಸಮಾವೇಶದಲ್ಲಿದ್ದೇನೆ, ನಂತರ ಉತ್ತರಿಸುತ್ತೇನೆ."</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"ಈಗ ಮಾತನಾಡಲಾಗುವುದಿಲ್ಲ. ಏನು ಸಮಾಚಾರ?"</item>
+<item>"ನಾನು ಕೂಡಲೆ ನಿಮಗೆ ಕರೆ ನೀಡುತ್ತೇನೆ."</item>
+<item>"ನಾನು ನಿಮಗೆ ಆಮೇಲೆ ಕರೆ ಮಾಡುತ್ತೇನೆ."</item>
+<item>"ಈಗ ಮಾತನಾಡಲಾಗುವುದಿಲ್ಲ. ಆಮೇಲೆ ಕರೆ ಮಾಡುವಿರೆ?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"ದಯವಿಟ್ಟು ನನಗೆ ಕರೆಮಾಡಿ ಅಥವಾ ನಂತರ ನನಗೆ ಎಸ್‌ಎಂಎಸ್ ಮಾಡಿ."</item>
+</string-array>
+</resources>

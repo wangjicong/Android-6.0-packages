@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="girdview_item_title">
+        <item>@string/system_test_title</item>
+        <item>@string/display_test_title</item>
+        <item>@string/ring_test_title</item>
+        <item>@string/phone_test_title</item>
+        <item>@string/accessories_test_title</item>
+        <item>@string/wireless_test_title</item>
+        <item>@string/sensor_test_title</item>
+        <item>@string/camera_test_title</item>
+        <item>@string/key_test_title</item>
+        <item>@string/test_result_title</item>
+    </string-array>
+  <string-array name="system_list_test">
+        <item>@string/version_test</item>
+        <item>@string/rf_cali_test</item>
+        <item>@string/rtc_test</item>
+    </string-array>
+  <string-array name="display_list_test">
+        <item>@string/lcd_test</item>
+        <item>@string/backlight_test</item>
+        <item>@string/touchpoint_test</item>
+        <item>@string/muti_touchpoint_test</item>
+        <item>@string/ctp_test</item>
+    </string-array>
+  <string-array name="ring_list_test">
+        <item>@string/vibrator_test</item>
+        <item>@string/melody_test</item>
+    </string-array>
+  <string-array name="phone_list_test">
+        <item>@string/phone_loopback_test</item>
+        <item>@string/sim_test</item>
+        <item>@string/phone_call_test</item>
+    </string-array>
+  <string-array name="accessories_list_test">
+        <item>@string/sdcard_test</item>
+        <item>@string/charger_test</item>
+        <item>@string/headset_test</item>
+    </string-array>
+  <string-array name="wireless_list_test">
+        <item>@string/fm_test</item>
+        <!-- <item>@string/atv_test</item> -->
+        <item>@string/wifi_test</item>
+        <item>@string/bt_test</item>
+        <item>@string/gps_test</item>
+        <item>@string/btut_test</item>
+    </string-array>
+  <string-array name="sensor_list_test">
+        <item>@string/gravity_sensor_test</item>
+        <item>@string/oritention_sensor_test</item>
+        <item>@string/proximity_sensor_test</item>
+    </string-array>
+  <string-array name="camera_list_test">
+        <item>@string/back_camera_test</item>
+        <item>@string/front_camera_test</item>
+    </string-array>
+</resources>

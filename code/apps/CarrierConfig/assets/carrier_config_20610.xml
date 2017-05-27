@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <string name="vmnumber">5555</string>
+    </carrier_config>
+    <carrier_config spn="LYCAMOBILE">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">LYCAMOBILE</string>
+    </carrier_config>
+    <carrier_config spn="Telenet">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Telenet</string>
+        <string name="vmnumber">5555</string>
+    </carrier_config>
+</carrier_config_list>

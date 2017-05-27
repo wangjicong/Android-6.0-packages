@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="camera_error_title">Error da cámara</string>
+<string name="cannot_connect_camera">Non pode conectar coa cámara.</string>
+<string name="camera_disabled">A cámara deshabilitouse polas policías de seguridade.</string>
+<string name="camera_label">Cámara</string>
+<string name="video_camera_label">Vídeo cámara</string>
+<string name="gallery_camera_bucket_name">Imaxes de cámara</string>
+<string name="gallery_camera_videos_bucket_name">Vídeos de cámara</string>
+<string name="wait">Espere…</string>
+<string name="no_storage" product="nosdcard">Montar memoria USB antes de usar a cámara</string>
+<string name="no_storage" product="default">Introducir a tarxeta SD antes de usar a cámara.</string>
+<string name="not_enough_space" product="nosdcard">A memoria USB está chea.</string>
+<string name="not_enough_space" product="default">A súa tarxeta SD está chea.</string>
+<string name="preparing_sd" product="nosdcard">Preparando almacenamento USB\u2026</string>
+<string name="preparing_sd" product="default">Preparando tarxeta SD\u2026</string>
+<string name="access_sd_fail" product="nosdcard">Non pode acceder a memoria USB.</string>
+<string name="access_sd_fail" product="default">Non pode acceder a tarxeta SD.</string>
+<string name="confirm_restore_title">Restaurar valores por defecto</string>
+<string name="confirm_restore_message">¿Restaurar os axustes por defecto da cámara?</string>
+<string name="review_play">Reproducir</string>
+<string name="review_cancel">cancelar</string>
+<string name="review_ok">Feita</string>
+<string name="review_retake">RETOMAR</string>
+<string name="camera_gallery_photos_text">Galería</string>
+<string name="switch_camera_id">Cambiar cámara</string>
+<string name="time_lapse_title">Rexistrando o tempo transcorrido</string>
+<string name="pref_camera_id_title">Seleccionar cámara</string>
+<string name="pref_camera_id_entry_back">Volver</string>
+<string name="pref_camera_id_entry_front">Dianteiro</string>
+<string name="pref_camera_recordlocation_title">Localización da tenda</string>
+<string name="pref_camera_recordlocation_entry_off">OFF</string>
+<string name="pref_camera_recordlocation_entry_on">ON</string>
+<string name="pref_video_quality_title">Calidade de vídeo</string>
+<string name="pref_video_time_lapse_frame_interval_title">Intervalo de tempo transcorrido</string>
+<string name="pref_camera_settings_category">Axustes da cámara</string>
+<string name="pref_camcorder_settings_category">Axustes da videocámara</string>
+<string name="pref_camera_picturesize_title">Tamaño da imaxe</string>
+<string name="pref_camera_picturesize_entry_2592x1936">5M píxeles</string>
+<string name="pref_camera_picturesize_entry_2048x1536">3M píxeles</string>
+<string name="pref_camera_picturesize_entry_1600x1200">2M píxeles</string>
+<string name="pref_camera_picturesize_entry_1280x960">1,3M píxeles</string>
+<string name="pref_camera_picturesize_entry_1024x768">1M píxeles</string>
+<string name="pref_camera_focusmode_title">Modo de enfoque</string>
+<string name="pref_camera_focusmode_entry_auto">AUTO</string>
+<string name="pref_camera_focusmode_entry_infinity">Infinito</string>
+<string name="pref_camera_focusmode_entry_macro">Macro</string>
+<string name="pref_camera_flashmode_title">Modo de flash</string>
+<string name="pref_camera_flashmode_entry_auto">AUTO</string>
+<string name="pref_camera_flashmode_entry_on">ON</string>
+<string name="pref_camera_flashmode_entry_off">OFF</string>
+<string name="pref_camera_whitebalance_title">Equilibrio de brancos</string>
+<string name="pref_camera_whitebalance_entry_auto">AUTO</string>
+<string name="pref_camera_whitebalance_entry_incandescent">Incandescente</string>
+<string name="pref_camera_whitebalance_entry_daylight">Luz diúrna</string>
+<string name="pref_camera_whitebalance_entry_fluorescent">Fluorescente</string>
+<string name="pref_camera_whitebalance_entry_cloudy">Nuboso</string>
+<string name="pref_camera_scenemode_title">Modo escena</string>
+<string name="pref_camera_scenemode_entry_auto">AUTO</string>
+<string name="pref_camera_scenemode_entry_action">Acción</string>
+<string name="pref_camera_scenemode_entry_night">Noite</string>
+<string name="pref_camera_scenemode_entry_sunset">Posta de sol</string>
+<string name="pref_camera_scenemode_entry_party">FESTA</string>
+<string name="not_selectable_in_scene_mode">Non seleccionable no modo de escena.</string>
+<string name="pref_restore_title">Axustes da cámara</string>
+<string name="pref_restore_detail">Restaurar valores por defecto</string>
+<string name="pref_exposure_title">Expoñer</string>
+<string name="dialog_ok">OK</string>
+<string name="spaceIsLow_content" product="nosdcard">A memoria USB está quedando sen espazo. Cambie o axuste de cualidade our borre as imaxes our otros arquivos.</string>
+<string name="spaceIsLow_content" product="default">A súa tarxeta SD está quedando sen espazo. Cambie o axuste de cualidade our borre as imaxes our otros arquivos.</string>
+<string name="video_reach_size_limit">Límite de tamaño alcanzado.</string>
+<string name="switch_to_camera_label">Cambiar á cámara</string>
+<string name="switch_to_video_label">Cambiar ó vídeo</string>
+<string name="switch_to_panorama_label">Cambiar ó panorámico</string>
+<string name="share_picture_via">Compartir imaxe vía</string>
+<string name="share_video_via">Compartir vídeo vía</string>
+<string name="no_picture_to_share">Sen imaxes para compartir</string>
+<string name="no_video_to_share">Sen vídeo para compartir</string>
+<string name="pano_too_fast_prompt">Demasiado rápida</string>
+<string name="pano_dialog_prepare_preview">Preparar panorámico</string>
+<string name="pano_dialog_panorama_failed">Non pode gardar o panorámico.</string>
+<string name="pano_dialog_title">Panorámico</string>
+<string name="pano_capture_indication">Captura panorámica</string>
+<string name="pano_review_saving_indication_str">Gardando\u2026</string>
+<string name="tap_to_focus">Tocar para enfocar.</string>
+<string name="pref_video_effect_title">Efectos</string>
+<string name="effect_none">Ningún</string>
+<string name="effect_goofy_face_squeeze">Espremer</string>
+<string name="effect_goofy_face_big_eyes">Ollos grandes</string>
+<string name="effect_goofy_face_big_mouth">Boca grande</string>
+<string name="effect_goofy_face_small_mouth">Boca pequena</string>
+<string name="effect_goofy_face_big_nose">Nariz grande</string>
+<string name="effect_goofy_face_small_eyes">Ollos pequenos</string>
+<string name="effect_backdropper_space">No espazo</string>
+<string name="effect_backdropper_sunset">Posta de sol</string>
+<string name="effect_backdropper_gallery">Elixirse a se mesmo</string>
+<string name="bg_replacement_message">Apague o seu dispositivo\nSaírse da vista por un momento</string>
+<string name="not_selectable_in_effect">Non seleccionable cando o efecto está acendido.</string>
+<string name="video_snapshot_hint">Tomar unha foto durante a gravación do vídeo tocando a prevista da pantalla.</string>
+<string name="disable_video_snapshot_hint">O pantallazo de vídeo deshabilitouse porque os efectos especiais está acendidos.</string>
+<string name="clear_effects">Borrar efectos</string>
+<string name="effect_silly_faces">CARAS TONTAS</string>
+<string name="effect_background">FONDO</string>
+<string name="accessibility_shutter_button">Botón obturador</string>
+<string name="accessibility_review_thumbnail">Foto máis recente</string>
+<string name="accessibility_camera_picker">Interruptor de cámara dianteira y traseira</string>
+<string name="accessibility_mode_picker">Selector de cámara, vídeo o panorámico</string>
+<string name="accessibility_second_level_indicators">Máis controis de axuste</string>
+<string name="accessibility_back_to_first_level">Pechar controis de axuste</string>
+<string name="accessibility_zoom_control">Control do zoom</string>
+<string name="accessibility_decrement">Diminuír %1$s</string>
+<string name="accessibility_increment">Aumentar %1$s</string>
+<string name="accessibility_switch">%1$s interruptor</string>
+</resources>

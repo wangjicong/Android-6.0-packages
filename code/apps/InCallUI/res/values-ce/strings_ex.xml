@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Labing mahinungdanon nga kard :"</string>
+<string name="vice_card_slot">"Ikaduha nga kard :"</string>
+<string name="record_time">Rekord ang Oras:</string>
+<string name="onscreenShowRecodText">"Rekord"</string>
+<string name="recorderr">"Ang girekord pakyas nga iluwas!"</string>
+<string name="audio_db_artist_name">"Ang imong mga gipangrekord"</string>
+<string name="audio_db_album_name">"Tawagi ang mga gipangrekord"</string>
+<string name="audio_db_playlist_name">"Akong mga gipangrekord"</string>
+<string name="app_name">"App sa Telepono"</string>
+<string name="error_mediadb_new_record">"Dili mahimo sa pagtigom sa narekord nga awdyo"</string>
+<string name="sdcard_access_error">Dili ma gamit ang sdkard</string>
+<string name="no_sd_card">"Walay SD kard o wala nagmontar"</string>
+<string name="insert_sd_card">"Palihug sa pagsuksok sa SD kard"</string>
+<string name="storage_is_full">"Puno ang sudlanan"</string>
+<string name="recording">"Pagrekord "</string>
+<string name="used_by_other_applications">"Ang pagrekord nga mga gamit kay gipanggamit pa sa uban nga mga programa, palihug pagpawng sa mga programa"</string>
+<string name="prompt_record_finish">"Ang narekord nga payl kay nasalba ngadto sa"</string>
+<string name="ok">"OK"</string>
+<string name="permission_no_record">"Wala kay permiso para sa pagrekord og tawag"</string>
+<string name="hangup_hold_and_answer">"Kuhaa ang nagunitan nga tawag ug Tubaga"</string>
+<string name="hangup_active_and_answer">"Kuhaa ang aktibo nga tawag ug Tubaga"</string>
+<string name="hangup_all_and_answer">"Kuhaa ang tanang mga tawag ug Tubaga"</string>
+<string name="onActive">"Aktibo"</string>
+<string name="hold_current_call_and_answer">Gunitan ang tanang naa nga tawag ug tubag</string>
+<string name="hangup_current_call_and_answer">"Kuhaa ang kasamtangang tawag ug Tubaga"</string>
+</resources>

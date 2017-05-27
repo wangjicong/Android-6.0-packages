@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">"Mga gitakda sa USB"</string>
+<string name="usb_charge_only">"Karga ra"</string>
+<string name="usb_charge_only_summary">"Gamita ang Charge only kung konektado sa USB"</string>
+<string name="usb_charge_only_storage_active_subtext">"Dili makakarga kung gigamit ang imbakan sa USB"</string>
+<string name="usb_charge_only_notification">"Konektado silbi nga karga ra"</string>
+<string name="usb_storage">"Imbakan sa USB"</string>
+<string name="usb_storage_summary">"Paganahon ang masa nga imbakan sa USB"</string>
+<string name="ums_settings">"Mga Setting sa UMS"</string>
+<string name="ums_mounted_setting">"Ibutang ang ums sa PC karon, palihug paghuwat..."</string>
+<string name="ums_unmounted_setting">"Ayaw ibutang ang ums sa PC karon, palihug paghuwat..."</string>
+<string name="usb_virtual_drive">"Birtuwal nga Drive sa USB"</string>
+<string name="usb_virtual_drive_summary">"Paganahon ang birtuwal nga drive sa USB"</string>
+<string name="remember_choice">"Hinumdomi aku gipili"</string>
+<string name="remember_choice_summary">"Hinumdumi ang ako napili ug sugdi ang nahinumduman nga aksyon nga awtomatiko sanod"</string>
+<string name="stand_by_set_changed_prompt">"Ang pagaktiba nga estado sa Sim kay bag-ohon, palihug pagpamatuod kon magpadayon?"</string>
+<string name="not_stand_by">"Wala Tugti"</string>
+<string name="primary_card_switching">"Seting\uff0cpalihug hulat..."</string>
+<string name="toggle_data_change_message">"Koneksyon sa datus mibalhin sa sim kard <xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, kini makamugna og mga datus ug mga korelatibo nga mga karga, palihug timan-i."</string>
+<string name="select_primary_card">"Pili ug naguna nga kard"</string>
+<string name="whether_switch_primary_card">"Palihug konpirmaha kon ibalhin ang nag-una nga kard ngadto niini nga kard?\n(Ang data sa selyular mobalhin usab dinhi nga kard.)"</string>
+<string name="attention">"Atensiyon"</string>
+<string name="bt_softap_cannot_coexist">"Kung ang softap kay gipagana o paganahon pa, ang bluetooth kay dili mugana, kung ganahan ka mugamit sa bluetooth, palihug pagsigurado nga ang softap kay pawng."</string>
+<string name="softap_bt_cannot_coexist">"Kung ang bluetooth kay gipagana o ipagana pa, ang softap kay dili mugana, kung ganahan ka mugamit sa softap, palihug pagsigurado nga ang bluetooth kay wala gipagana."</string>
+<string name="softap_need_mobile_data_enabled">"Ang mabalhin nga Wi-Fi hotspot nanginahanglan ug mobayl nga datus nga koneksyon, kini mahimong magdugang ug bayad."</string>
+<string-array name="light_color_picker">
+<item>"Lunhaw"</item>
+<item>"Asul"</item>
+<item>Abohon</item>
+<item>"Ubihon"</item>
+<item>Rosas</item>
+<item>"Pula"</item>
+<item>"Dayag"</item>
+</string-array>
+</resources>

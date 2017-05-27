@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+
+<carrier_config_list>
+    <carrier_config>
+        <int name="vvm_port_number_int" value="20481"/>
+        <string name="vvm_destination_number_string">887</string>
+        <string name="vvm_type_string">vvm_type_omtp</string>
+    </carrier_config>
+    <carrier_config>
+        <string name="vmnumber">123</string>
+        <string name="vmtag">Voicemail</string>
+        <string name="roamingvm">+447973100123</string>
+    </carrier_config>
+    <carrier_config spn="Now Mobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Now Mobile</string>
+        <string name="vmnumber">+447973102269</string>
+        <string name="vmtag">VM</string>
+        <string name="roamingvm">+447973102269</string>
+    </carrier_config>
+    <carrier_config spn="LIFE">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">LIFE</string>
+        <string name="vmnumber">+447870020555</string>
+        <string name="roamingvm">+447870020555</string>
+    </carrier_config>
+    <carrier_config spn="Now PAYG">
+        <boolean name="mvno" value="true"/>
+    </carrier_config>
+    <carrier_config spn="Lycamobile">
+        <boolean name="mvno" value="true"/>
+        <string name="spn">Lycamobile</string>
+    </carrier_config>
+</carrier_config_list>

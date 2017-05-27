@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">USB настройки</string>
+<string name="usb_charge_only">Само зареждане</string>
+<string name="usb_charge_only_summary">Използвай USB само за зареждане когато е свързано с устройството</string>
+<string name="usb_charge_only_storage_active_subtext">Не може да се зарежда когато USB хранилището се използва</string>
+<string name="usb_charge_only_notification">Свързан само като зарядно</string>
+<string name="usb_storage">"USB хранилище"</string>
+<string name="usb_storage_summary">"Активиране на USB устройство за масово съхранение"</string>
+<string name="ums_settings">UMS настройки</string>
+<string name="ums_mounted_setting">Монтира се на компютъра, моля изчакайте...</string>
+<string name="ums_unmounted_setting">Демонтира се от компютъра, моля изчакайте...</string>
+<string name="usb_virtual_drive">USB виртуално устройство</string>
+<string name="usb_virtual_drive_summary">Разреши USB виртуално устройство</string>
+<string name="remember_choice">"Изборът ми да се запомни"</string>
+<string name="remember_choice_summary">Запомни избора ми и стартирай запомнената функция автоматично следващия път</string>
+<string name="stand_by_set_changed_prompt">Действието ще промени активността на SIM картата, да се продължи ли?</string>
+<string name="not_stand_by">Забранен</string>
+<string name="primary_card_switching">"Настройка\uff0cмоля изчакайте..."</string>
+<string name="toggle_data_change_message">Връзката с данни беше превключена на SIM карта<xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>, това ще начисли данни и съответните за тях такси, моля обърнете внимание.</string>
+<string name="select_primary_card">Избери основна карта</string>
+<string name="whether_switch_primary_card">Моля потвърдете дали основната карта да бъде променена с тази карта?\n(Клетъчните данни също ще бъдат преместени на картата.)</string>
+<string name="attention">"Внимание"</string>
+<string name="bt_softap_cannot_coexist">Когато точката за безжичен достъп е включена или се стартира, </string>
+<string name="softap_bt_cannot_coexist">Когато Bluetooth е активиран или се включва, точката за достъп може да не работи, ако желаете да я използвате, моля уверете се че Bluetooth е изключен.</string>
+<string name="softap_need_mobile_data_enabled">Преносимата Wi-fi точка за достъп трябва да бъде свързана с мобилни данни, това може да доведе до допълнителни разходи</string>
+<string-array name="light_color_picker">
+<item>"Зелен"</item>
+<item>"Син"</item>
+<item>"индиго"</item>
+<item>"лилаво"</item>
+<item>"розово"</item>
+<item>"Червен"</item>
+<item>"Жълт"</item>
+</string-array>
+</resources>

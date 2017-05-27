@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wallpaper_instructions">ေနာက္ခံပံုရိပ္ထား႐ွိပါ</string>
+<string name="image_load_fail">ပံုကုိ မရယူႏုိင္ပါ</string>
+<string name="wallpaper_load_fail">"ပိုစတာအတြက္ ဓါတ္ပံု တင္မရနိုင္"</string>
+<plurals name="number_of_items_selected">
+<item quantity="zero">%1$d ေရြးခ်ယ္ထားျပီး</item>
+<item quantity="one">%1$d ေရြးခ်ယ္ထားျပီး</item>
+<item quantity="other">%1$d ေရြးခ်ယ္ထားျပီး</item>
+</plurals>
+<string name="wallpaper_accessibility_name">"ပိုစတာ %1$d ၏ %2$d"</string>
+<string name="announce_selection">"ေရြးခ်ယ္ထားသည္<xliff:g id="label" example="Wallpaper 3 of 10">%1$s</xliff:g>"</string>
+<string name="wallpaper_delete">"ပယ္ဖ်က္သည္"</string>
+<string name="pick_image">"ဓါတ္ပံုေရြးပါ"</string>
+<string name="pick_wallpaper">ပိုစတာမ်ား</string>
+<string name="crop_wallpaper">"ပိုစတာ ျဖတ္ျခင္း"</string>
+    <string name="set_wallpaper_failed">ေနာက္ခံနံရံကုိ သတ္မွတ္ျခင္းမေအာင္ျမင္ပါ!</string>
+</resources>

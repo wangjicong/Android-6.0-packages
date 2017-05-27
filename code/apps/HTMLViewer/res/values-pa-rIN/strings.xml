@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_label">HTML ਵਿਊਅਰ</string>
+<string name="storage_permission_missed_hint">"ਲੋੜੀਂਦੀ ਸਟੋਰੇਜ ਅਨੁਮਤੀ ਖੁੰਝ ਗਈ। ਇਸਲਈ ਸਧਾਰਨ ਢੰਗ ਨਾਲ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀਆਂ ਅਨੁਮਤੀ ਸੈਟਿੰਗਾਂ ਦੇਖੋ।"</string>
+<string name="dialog_dismiss">ਖਰਿਜ ਕਰੋ</string>
+</resources>

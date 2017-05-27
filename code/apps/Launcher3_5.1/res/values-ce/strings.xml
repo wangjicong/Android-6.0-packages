@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="home">"Home"</string>
+<string name="uid_name">Android Ugat Apps</string>
+<string name="activity_not_found">wala naka-install ang aplikasyon sa imu telepono.</string>
+<string name="safemode_shortcut_error">"Ang na-download nga app kay dili magamit sa Luwas nga moda"</string>
+<string name="widgets_tab_label">"Mga Widget"</string>
+<string name="widget_adder">"Mga Widget"</string>
+<string name="toggle_weight_watcher">"Ipakita ang Mem"</string>
+<string name="long_press_widget_to_add">"Hikapa &amp; guniti para dalon ang widget."</string>
+<string name="market">Palit</string>
+<string name="widget_dims_format">"%1$d \u00d7 %2$d"</string>
+<string name="external_drop_widget_error">"Dili mahulog ang butang sa balay nga iskrin."</string>
+<string name="external_drop_widget_pick_title">"Pili ug widget para himuon"</string>
+<string name="rename_folder_label">Pangan sa folder</string>
+<string name="rename_folder_title">Panganlan balik ang folder</string>
+<string name="rename_action">Kansela</string>
+<string name="cancel_action">Balihon</string>
+<string name="menu_item_add_item">Dugang sa Home screen</string>
+<string name="group_applications">"Tanan aplikasyon"</string>
+<string name="group_shortcuts">Mga shortcut</string>
+<string name="group_widgets">"Mga Widget"</string>
+<string name="completely_out_of_space">Wala nay kwarto sa imu screen sa Home</string>
+<string name="out_of_space">Wala nay kwarto para ani nga screen sa Home.</string>
+<string name="hotseat_out_of_space">"Wala nay kwarto sa mga Paborito nga bandeha"</string>
+<string name="invalid_hotseat_item">"Kani nga widget kay dako ra para sa mga Paborito nga bandeha"</string>
+<string name="shortcut_installed">Shortcut nga \"<xliff:g id="name" example="Browser">%s</xliff:g>\" kay nahimu.</string>
+<string name="shortcut_uninstalled">Shortcut nga \"<xliff:g id="name" example="Browser">%s</xliff:g>\" kay natanggal.</string>
+<string name="shortcut_duplicate">Shortcut nga \"<xliff:g id="name" example="Browser">%s</xliff:g>\" kay naa na.</string>
+<string name="title_select_shortcut">"Pili ug lat-angan"</string>
+<string name="title_select_application">Pili ug aplikasyon</string>
+<string name="all_apps_button_label">"Tanan aplikasyon"</string>
+<string name="all_apps_home_button_label">"Home"</string>
+<string name="delete_zone_label_workspace">Tanggala</string>
+<string name="delete_zone_label_all_apps">I-uninstall</string>
+<string name="delete_target_label">Tanggala</string>
+<string name="delete_target_uninstall_label">I-uninstall</string>
+<string name="info_target_label">"Impormasyon sa App"</string>
+<string name="accessibility_search_button">"Pangita"</string>
+<string name="accessibility_voice_search_button">"Pagpangita sa Voice"</string>
+<string name="accessibility_all_apps_button">"Tanan aplikasyon"</string>
+<string name="accessibility_delete_button">Tanggala</string>
+<string name="delete_zone_label_all_apps_system_app">"I-uninstall ang update"</string>
+<string name="cab_menu_delete_app">"I-uninstall ang app"</string>
+<string name="cab_menu_app_info">"Mga detalye sa App"</string>
+<string name="cab_app_selection_text">1 ka app ang napili</string>
+<string name="cab_widget_selection_text">1 ka wdiget ang napili</string>
+<string name="cab_folder_selection_text">"1 ka folder ang napili"</string>
+<string name="cab_shortcut_selection_text">"1 ka shortcut ang napili"</string>
+<string name="permlab_install_shortcut">Install ug mga shortcut</string>
+<string name="permdesc_install_shortcut">"Tugoti ang app sa pagdugang ug lat-ang nga walay pagpanginlabot sa tiggamit."</string>
+<string name="permlab_uninstall_shortcut">I-uninstall ang shortcuts</string>
+<string name="permdesc_uninstall_shortcut">"Tugoti ang app sa pagtangtang ug lat-ang nga walay pagpanginlabot sa tiggamit."</string>
+<string name="permlab_read_settings">Basa ug mga setting ug mga shortcut sa Home</string>
+<string name="permdesc_read_settings">"Tugoti ang app sa pagbasa sa gitakda ug mga lat-ang sa Balay."</string>
+<string name="permlab_write_settings">suwat ug Home settings ug shortcuts</string>
+<string name="permdesc_write_settings">"Tugoti ang app sa pagilis sa gitaksa ug mga lat-ang sa Balay."</string>
+<string name="gadget_error_text">Problema sa pagload ug widget</string>
+<string name="gadget_setup_text">Mga setting...</string>
+<string name="uninstall_system_app_text">"Kini kay app sa sistema ug dili pwede ma-uninstall."</string>
+<string name="dream_name">Tigsugod sa Raketa</string>
+<string name="folder_hint_text">"Wala napanganlan nga Folder"</string>
+<string name="workspace_description_format">Balay Iskrin %1$d</string>
+<string name="default_scroll_format">Pahina %1$d sa %2$d</string>
+<string name="workspace_scroll_format">"Balay iskrin %1$d sa %2$d"</string>
+<string name="apps_customize_apps_scroll_format">"Pahina sa mga Apps %1$d sa %2$d"</string>
+<string name="apps_customize_widgets_scroll_format">"Pahina sa mga Widget %1$d sa %2$d"</string>
+<string name="first_run_cling_title">Malipayong pag-abot</string>
+<string name="first_run_cling_description">"Himua ang imong kaugalingon nga anaa sa balay."</string>
+<string name="first_run_cling_create_screens_hint">"Maghimo ug daghan nga iskrin para sa paborito nga apps ug mga polder"</string>
+<string name="migration_cling_title">"Kopyaha ang imong app nga mga ikon"</string>
+<string name="migration_cling_description">"Magangkay ug mga ikon ug mga polder gikan sa imong daan nga Balay nga mga iskrin?"</string>
+<string name="migration_cling_copy_apps">"KOPYA UG MGA IKON"</string>
+<string name="migration_cling_use_default">"MAGSUGOD UG LABAS"</string>
+<string name="workspace_cling_title">"Iorganisa ang imong espasyo"</string>
+<string name="workspace_cling_move_item">"Hikapa &amp; guniti ang naa sa likod para magdumala sa wolpayper, widgets ug mga gitakda."</string>
+<string name="workspace_cling_longpress_title">"Mga wolpayper, mga widget, &amp; mga gitakda"</string>
+<string name="workspace_cling_longpress_description">"Hikapa &amp; kuptan ang likoran para sa pagpahiangay"</string>
+<string name="workspace_cling_longpress_dismiss">"NAKUHA NA"</string>
+<string name="folder_cling_title">"Ani-a ang usa ka polder"</string>
+<string name="folder_cling_create_folder">"Para maghimo ug usa ka pareho ani, hikapa &amp; guniti ang app, sunod ibalhin kini sa ibabaw sa lain."</string>
+<string name="cling_dismiss">Kansela</string>
+<string name="folder_opened">"Giablihan ang polder, <xliff:g id="width" example="5">%1$d</xliff:g> ni <xliff:g id="height" example="3">%2$d</xliff:g>"</string>
+<string name="folder_tap_to_close">"Hikapa para musirado ang polder"</string>
+<string name="folder_tap_to_rename">"Hikapa para tigumon ang gibalik nga ngalan"</string>
+<string name="folder_closed">"Folder nasirado"</string>
+<string name="folder_renamed">"Ang polder gi-ilisan ug ngalan ngadto sa <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="folder_name_format">"Polder: <xliff:g id="name" example="Games">%1$s</xliff:g>"</string>
+<string name="widget_button_text">"Mga Widget"</string>
+<string name="wallpaper_button_text">Mga wolpeyper</string>
+<string name="settings_button_text">"Mga Setting"</string>
+<string name="package_state_enqueued">"Naghuwat"</string>
+<string name="package_state_downloading">Nagdownload</string>
+<string name="package_state_installing">"Nag-instol"</string>
+<string name="package_state_unknown">"Wala mailhan"</string>
+<string name="package_state_error">"Wala napahiuli"</string>
+<string name="abandoned_clean_all">"Tangtangon tanan"</string>
+<string name="abandoned_clean_this">Tanggala</string>
+<string name="abandoned_search">"Pangita"</string>
+<string name="abandoned_promises_title">"Kani nga app kay wala na instol"</string>
+<string name="abandoned_promise_explanation">"Ang app para ani nga ikon kay wala na instol. Imo kani makuha, o mapangita para sa app ug i-instol nga manwal. "</string>
+<string name="circular_sliding">Siklo sa Desktop</string>
+    <string name="input_too_long">"Ang gisulod kay taas ra kaau."</string>
+
+</resources>

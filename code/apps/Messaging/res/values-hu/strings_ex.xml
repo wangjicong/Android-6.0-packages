@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="signature_title">"Aláírás"</string>
+<string name="pref_title_sms_retry_times">"SMS újrapróbálkozás engedélyezése"</string>
+<string name="preference_name">Közös kifejezés</string>
+<string name="select">"Kiválasztott"</string>
+<string name="item_cancel">"Mégse"</string>
+<string name="item_delete">"törlés"</string>
+<string name="save_as_teltype">"Telefonra"</string>
+<string name="save_as_mmstype">"Sms-re"</string>
+<string name="type_to_pharser">"Írjon be egy sablonszöveget"</string>
+<string name="add">"Hozzáadás:"</string>
+<string name="edit">"Szerkesztés..."</string>
+<string name="delete">"törlés"</string>
+<string name="finish">"Befejezés"</string>
+<string name="cancel">"Mégse"</string>
+<string name="add_pharser">"Sablonszöveg hozzáadása"</string>
+<string name="edit_pharser">Közös kifejezés szerkesztése</string>
+<string name="pharser_can_modify">"Személyre szabott szöveg"</string>
+<string name="pharser_cannot_modify">"Fix szöveg"</string>
+<string name="select_item">"Kiválasztva"</string>
+<string name="select_commmon_phrase">"Sablonszöveg kiválasztása"</string>
+<string name="common_phrase_empty">"Nincsenek közös kifejezések"</string>
+<string name="action_add_phrase">"Sablonszöveg beszúrása"</string>
+<string name="pref_other_settings_title">"Egyéb"</string>
+<string-array name="fixed_mms_phrase">
+<item>Kérem, hívja az irodai telefonomat. Köszönöm.</item>
+<item>Kérem, vegye fel velem a kapcsolatot. Köszönöm.</item>
+<item>Kérem, árulja el, hol van.</item>
+<item>Kérem, hívja később a mobiltelefonomat. Köszönöm.</item>
+<item>Nem voltam otthon. Hazaérek és visszahívom.</item>
+<item>"Vezetek, később keresni fogom."</item>
+<item>"Úton vagyok, azonnal jelentkezem."</item>
+<item>Forgalmi dugó, kések, bocsi.</item>
+<item>Később visszahívlak.</item>
+<item>Gyűlésen vagyok, később válaszolok.</item>
+</string-array>
+<string-array name="fixed_tel_phrase">
+<item>"Most nem alkalmas. Mi újság?"</item>
+<item>"Hamarosan visszahívom."</item>
+<item>"Később visszahívom."</item>
+<item>"Most nem alkalmas. Hívna később?"</item>
+</string-array>
+<string-array name="fixed_both_phrase">
+<item>"Kérem, hívjon vagy küldjön sms-t később."</item>
+</string-array>
+</resources>

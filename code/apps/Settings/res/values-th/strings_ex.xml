@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="usb_settings">การตั้งค่า USB</string>
+<string name="usb_charge_only">"ชาร์จเท่านั้น"</string>
+<string name="usb_charge_only_summary">"ค่าใช้จ่ายเฉพาะในโหมดUSBเชื่อมต่อ"</string>
+<string name="usb_charge_only_storage_active_subtext">"ไม่สามารถคิดค่าใช้จ่ายเฉพาะเมื่อมีการใช้งานจัดเก็บข้อมูล USB "...</string>
+<string name="usb_charge_only_notification">"เชื่อมต่อเป็นค่าใช้จ่าย"</string>
+<string name="usb_storage">"ที่เก็บข้อมูล USB"</string>
+<string name="usb_storage_summary">เปิดใช้งานที่จัดเก็บข้อมูลแบบ USB</string>
+<string name="ums_settings">"ตั้งค่า UMS"</string>
+<string name="ums_mounted_setting">"UMS ไปยังเครื่องคอมพิวเตอร์ในขณะนี้โปรดรอสักครู่ ... "</string>
+<string name="ums_unmounted_setting">"UMS ยกเลิกการเชื่อมต่อจากคอมพิวเตอร์ตอนนี้โปรดรอสักครู่ ... "</string>
+<string name="usb_virtual_drive">" เสมือนไดรฟ์ USB"</string>
+<string name="usb_virtual_drive_summary">" เสมือนเปิดใช้งานไดรฟ์USB"</string>
+<string name="remember_choice">"จดจำตัวเลือกของฉัน"</string>
+<string name="remember_choice_summary">"จดจำตัวเลือกของฉันและเริ่มต้นการทำงานที่จำโดยอัตโนมัติในครั้งต่อไป"</string>
+<string name="stand_by_set_changed_prompt">"สถานะยืนยันการใช้งานซิมจะมีการเปลี่ยนแปลงโปรดยืนยันว่าจะต่อหรือไม่?"</string>
+<string name="not_stand_by">"ต้องห้าม"</string>
+<string name="primary_card_switching">"ตั้งค่าโปรดรอ ... "</string>
+<string name="toggle_data_change_message">"เชื่อมต่อข้อมูลได้เปลี่ยนSIMการ์ด<xliff:g id="NEW_DATA_CARD">%1$d</xliff:g>,จะส่งข้อมูลการผลิต และค่าใช้จ่ายที่สัมพันธ์กันโปรดทราบ"</string>
+<string name="select_primary_card">"เลือกบัตรหลัก"</string>
+<string name="whether_switch_primary_card">"เพื่อยืนยันบัตรหลักบัตรแท็บ \n(เครือข่ายข้อมูลมือถือจะถูกตัดให้การ์ดใบนี้.)"</string>
+<string name="attention">"ความสนใจ"</string>
+<string name="bt_softap_cannot_coexist">"เมื่อเปิด  WLAN แบบพกพาจะใช้งานบลูทูธไม่ได้ถ้า,ต้องการที่จะใช้บลูทูธโปรดปิดWLANแบบพกพา ."</string>
+<string name="softap_bt_cannot_coexist">"เมื่อมีการใช้งานบลูทูธ หรือจะเปลี่ยนใน SoftAP ไม่สามารถทำงานได้ถ้าคุณต้องการที่จะใช้ SoftAP โปรดให้แน่ใจว่าบลูทูธ ถูกปิดใช้งาน."</string>
+<string name="softap_need_mobile_data_enabled">"Wi-Fi ฮอตสปอตแบบพกพาต้องการเชื่อมต่อข้อมูลมือถืออาจทำให้มีค่าใช้จ่ายเพิ่มเติม".</string>
+<string-array name="light_color_picker">
+<item>"เขียว"</item>
+<item>"น้ำเงิน"</item>
+<item>"น้ำเงินอมม่วง"</item>
+<item>"ม่วง"</item>
+<item>"ชมพู"</item>
+<item>"แดง"</item>
+<item>"เหลือง"</item>
+</string-array>
+</resources>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">Duk masu fita</string>
+    <string name="messageAO">Shiga da kalmar shiga na hana kira.</string>
+    <string name="sum_ao_enabled_indicator">Tura gaba duk kiraye-kiraye</string>
+    <string name="sum_ao_enabled">An bada dama</string>
+    <string name="sum_ao_disabled">An nakasa</string>
+    <string name="enable_ao_forbidden">Kamfanin sadarwarka bai samar da yadda a ke bude duk wani kira mai fita ba.</string>
+    <string name="disable_ao_forbidden">Kamfanin sadarwarka bai samar da yadda a ke rufe shirin toshe duk kira mai fita ba.</string>
+    <string name="labelOI">Kira mai fita zuwa kasashe</string>
+    <string name="messageOI">Shiga da kalmar shiga na hana kira.</string>
+    <string name="sum_oi_enabled">An bada dama</string>
+    <string name="sum_oi_disabled">An nakasa</string>
+    <string name="enable_oi_forbidden">Kamfanin sadarwarka bai samar da yadda a ke bude kira mai fita zuwa kasashen waje ba.</string>
+    <string name="disable_oi_forbidden">Kamfanin sadarwarka bai samar da yadda a ke toshe kira mai fita zuwa kasashen waje.</string>
+    <string name="labelOX">Kira mai fita zuwa kasashe yayin da ake roaming</string>
+    <string name="messageOX">Shiga da kalmar shiga na hana kira.</string>
+    <string name="sum_ox_enabled">An bada dama</string>
+    <string name="sum_ox_disabled">An nakasa</string>
+    <string name="enable_ox_forbidden">Kamfanin sadarwarka bai samar da yadda a ke bude kira mai fita zuwa kasashe ba a yanayin yawo.</string>
+    <string name="disable_ox_forbidden">Kamfanin sadarwarka bai samar da yadda a ke toshe kira mai fita kasashen waje a yanayin yawo.</string>
+    <string name="labelAI">Duk mai zuwa</string>
+    <string name="messageAI">Shiga da kalmar shiga na hana kira.</string>
+    <string name="sum_ai_enabled">An bada dama</string>
+    <string name="sum_ai_disabled">An nakasa</string>
+    <string name="enable_ai_forbidden">Kamfanin sadarwarka bai samar da yadda a ke bude duk wani kira mai shigo wa ba.</string>
+    <string name="disable_ai_forbidden">Kamfanin sadarwarka bai samar da yadda a ke rufe shirin toshe duk kira mai shigo wa ba.</string>
+    <string name="labelIR">Kira masu shigowa a lokacin tafiya</string>
+    <string name="messageIR">Shiga da kalmar shiga na hana kira.</string>
+    <string name="sum_ir_enabled">An bada dama</string>
+    <string name="sum_ir_disabled">An nakasa</string>
+    <string name="enable_ir_forbidden">Kamfanin sadarwarka bai samar da yadda a ke bude kira mai shigowa ba a yanayin yawo.</string>
+    <string name="disable_ir_forbidden">Kamfanin sadarwarka bai samar da yadda a ke rufe toshe kira mai shigowa a yanayin yawo ba.</string>
+    <string name="labelAB">A matas dasu dukka</string>
+    <string name="messageAB">Shiga da kalmar shiga na hana kira.</string>
+    <string name="sum_ab_enabled">An bada dama</string>
+    <string name="sum_ab_disabled">An nakasa</string>
+    <string name="enable_ab_forbidden">Kamfanin sadarwarka bai samar da yadda a ke sake budewa gaba daya ba.</string>
+    <string name="disable_ab_forbidden">Kamfanin sadarwarka bai samar da yadda a ke bude gaba daya ba.</string>
+    <string name="labelChgPwd">Sauaya kalmomin shiga</string>
+    <string name="DlgChgPwd_oldpwd">Shiga da kalmar shiga na hana kira.</string>
+    <string name="DlgChgPwd_newpwd_first">Shiga da sabon kalmar shiga</string>
+    <string name="DlgChgPwd_newpwd_last">Tabbatar da sabuwar kalmar shiga</string>
+    <string name="cb_pw_no_match">"Kalmomin shiga basu dace ba"</string>
+    <string name="cb_pw_error">"Kalmar shiga bai yi daidai ba"</string>
+    <string name="cb_pw_correct">"An canza kalmar shiga"</string>
+    <string name="labelCB">Haramcewa kira</string>
+    <string name="call_barring_settings">Haramcewa kira</string>
+    <string name="cb_error">Ki karba hana kira</string>
+    <!-- SPRD: function call barring support. END-->
+
+    <string name="network_not_on">"Sadarwa ba a kunne yake ba, Kana so ka saita matsayin sadarwa?"</string>
+     <string name="dialog_network_selection_title">"Kula"</string>
+     <string name="dialog_network_selection_message">"Wayar mobayil ba za ta zabar maka kamfanonin sadarwa ba daga yanayin zabi da hannu ba. Wani lokaci sai ka yi amfani yanayin zabi da hannu ko ka koma ga yanayin zabi automatikiyyan idan ka rasa hidimar kamfanin sadarwar da ka zaba. Muna ba da shawarar ka yi amfani da "Select automatically". Kana so ka zabi yanayin sadarwar da hannunka?"</string>
+     <string name="network_unknown">"Majahuli"</string>
+     <string name="network_inhibit">"HARAMTACCE"</string>
+     <string name="ip_dialing_title">"Yin kiran IP"</string>
+     <string name="ip_dialing_list_title">Jerin kiran IP</string>
+     <string name="ip_no_number">"Rashin lambobi kafin lambar IP"</string>
+     <string name="ip_no_number_msg">"Lambobi kafin IP ba a adana kan waya ba."</string>
+     <string name="ip_number_empty_loading">"Jerin kiran IP fanko ne."</string>
+     <string name="remove">"Cire"</string>
+     <string name="ip_number_is_too_long">"IP na lambobin yin kira ba zai wuce 20."</string>
+     <string name="add_ip_number_str">"Sabo"</string>
+     <string name="ip_dialing_num_error">Zai iya aje lambobin IP 10 ne.</string>
+     <string name="ip_dialing_num_repeat">Sake lamba, kari ya gaza</string>
+     <string name="menu_selected_all">"Zabi duk"</string>
+     <string name="menu_select_none">"Cire zabin duk"</string>
+     <string name="doneButton">"An yi"</string>
+     <string name="cancel">"Soke"</string>
+     <string name="uplmn_setting_title">"Zabin da aka fi so"</string>
+     <string name="uplmn_setting">"Saitukan UPLMN"</string>
+     <string name="uplmn_index">"Fihirisa (fara daga 0):"</string>
+     <string name="uplmn_id">"Lambar Id:"</string>
+     <string name="uplmn_type">"Nau\'i (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">Ka sa katin USIM, ka sake gwadawa</string>
+     <string name="index_error_uplmn">"Indes fanko ne. Sake kuma!"</string>
+     <string name="type_is_emplty_error_uplmn">"Bugawa fanko ne. Sake kuma!"</string>
+     <string name="number_too_short_uplmn">"Lambar Id ya yi gajarta ainun. Sake kuma!"</string>
+     <string name="type_is_wrong_uplmn">"Bugawan ya zama 1 ko 0. Sake kuma!"</string>
+     <string name="fail_uplmn">"Ya gaza sake kuma."</string>
+     <string name="set_uplmn_unsuccessful">"Saita uplmn bai nasara ba!"</string>
+     <string name="menu_new_uplmn">"Sabon UPLMN"</string>
+     <string name="menu_delete_uplmn">"Goge UPLMN"</string>
+     <string name="uplmn_exceeds_capacity">"Kirgen ya haura iya aikin sim!"</string>
+     <string name="delete">"Goge"</string>
+     <string name="delete_uplmn_successfully">"Goge uplmn ya yi nasara"</string>
+     <string name="id_is_wrong_uplmn">"ID dole a saita shi da lamba!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"Zabi yanayin hanyar sadarwa"</string>
+     <string name="lte_service_switch">"Ana saitawa, jira…"</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"Yanayi Mai yawa na 4G/3G/2G"</item>
+        <item>"Yanayi kadai na 3G/2G"</item>
+        <item>"Yanayin 2G Kadai"</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"Yanayi Mai yawa na 4G/3G/2G"</item>
+        <item>"Yanayi kadai na 3G/2G"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>"GSM kawai"</item>
+        <item>"WCDMA kawai"</item>
+        <item>"WCDMA/GSM"</item>
+        <item>"LTE/WCDMA/GSM (Autonatikiyya)"</item>
+    </string-array>
+     <string name="fast_dial_settings">"Saitocin yin kiran sauri"</string>
+     <string name="delete_fastdial">"Goge yin kiran sauri"</string>
+     <string name="update_fastdial">"Daukaka kiran sauri"</string>
+     <string name="no_sim_text">"Ka sa ko kaddamar da katin SIM"</string>
+     <string name="network_not_on">"Sadarwa ba a kunne yake ba, Kana so ka saita matsayin sadarwa?"</string>
+     <string name="one_key_locked_notification">"An BUDE wannan nau\'I, Kana son kunne shi?"</string>
+     <string name="one_key_unlocked_notification">"An KULLE wannan nau\'I, Kana son bude shi?"</string>
+     <string name="one_key_unlocked">"Bude"</string>
+     <string name="one_key_locked">"Makulli"</string>
+     <string name="one_key_operation_success">"Aiki ya yi nasara, ana bukatar sake kunnawa yanzu."</string>
+     <string name="one_key_operation_unsuccess">"Aiki bai yi nasara ba, kana iya sake gwadawa!"</string>
+     <string name="one_key_query_unsuccess">"An kasa tuhumar nau\'in simlock"</string>
+     <string name="one_key_simlock_setting">"Saitin SIMLOCK"</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>"Makullin hanyar sadarwa"</item>
+        <item>"Makullin Karamar tashar Hanyar sadarwa"</item>
+        <item>"Makullin Kamfanin sadarwa"</item>
+        <item>"Makullin Hukuma"</item>
+        <item>"Makullin SIM"</item>
+    </string-array>
+     <string name="callin_barring_settings">"Saitocin tunkude kira mai shigowa"</string>
+     <string name="callout_barring_settings">"Saitocin tunkude kira mai fita"</string>
+     <string name="labelCOUT">"Tunkude kira mai fita"</string>
+     <string name="labelCIN">"Tunkude kira mai shiga"</string>
+     <string name="no_sim_text">"Ka sa ko kaddamar da katin SIM"</string>
+     <string name="sim_lock_none">"Babu SIM da ke rufe."</string>
+     <string name="sim_lock_try_later">"Gwada shi wani lokaci."</string>
+     <string name="edit_and_save_fdn">"Gyara lambar Fdn"</string>
+     <string name="call_fdn_number_by_sim">"Kira"</string>
+     <string name="vt_call_fdn_numberr_by_sim">"Kiran VT"</string>
+     <string name="airplane_changed_on">"Yanayin jirgin sama an kunna."</string>
+     <string name="number_empty">"Lambar fanko ce"</string>
+     <string name="unblock_pin2">"Cire toshe lambar PIN2"</string>
+     <string name="sum_fdn_unblock_pin2">"Shigar da lambar PUK2 don cire toshe katinka na SIM"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> ragowar yunkuri)"</string>
+     <string name="oldPin2_Label">"Tsohon PIN2 (<xliff:g>%s</xliff:g> ragowar yunkuri)"</string>
+     <string name="puk2_code_label">"Buga lambar PUK2 (<xliff:g>%s</xliff:g> ragowar yunkuri)"</string>
+     <string name="promptWordOne">"Saura&#160;"</string>
+     <string name="promptWordTwo">"&#160;lokaci"</string>
+     <string name="adn_full">"Jerin FDN ya cika"</string>
+     <string name="no_available_phone_accounts">"Babu asusan kira a nan"</string>
+     <string name="lnd_list">"Jerin LND"</string>
+     <string name="sdn_list">"Jerin SDN"</string>
+     <string name="sim_list_title">Ka zabi katin SIM</string>
+     <string name="wait_message">"Ka jira..."</string>
+     <string name="menu_call">"Kira lamba"</string>
+     <string name="lnd_no_contact_record">Babu rekod din LND a kan wannan katin SIM.</string>
+     <string name="sdn_no_contact_number">Wannan katin SIM din bai dace da lambar SDN ba.</string>
+     <string name="remove">"Cire"</string>
+     <string name="delete_selected_contents">Kana so ka goge abin da ka zaba?</string>
+     <string name="sim_notready_can_not_delete">Saboda katin sim din bai shiryu ba, ba za ka iya gogewa ba.</string>
+     <string name="contact_del_failed">"Gogewa ya gaza"</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"Don saita wasikar murya, je ka jadawalin tsari &gt; Saitoci."</string>
+     <string name="simlock_unlocked">"An bude makullin Sim."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>"WCDMA kawai"</item>
+        <item>"GSM kawai"</item>
+        <item>"Automatik"</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>"GSM kawai"</item>
+    </string-array>
+</resources>

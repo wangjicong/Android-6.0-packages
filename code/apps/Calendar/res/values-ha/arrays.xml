@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string-array name="reminder_methods_labels">
+<item>"Ankararwa"</item>
+<item>"Emel"</item>
+<item>"Kiraye kirayen murya"</item>
+<item>Kararrawar tunasarwa</item>
+</string-array>
+<string-array name="reminder_minutes_labels">
+<item>"Minti 0"</item>
+<item>"Minti 1"</item>
+<item>"Minti 5"</item>
+<item>"Minti 10"</item>
+<item>"Minti 15"</item>
+<item>"Minti 20"</item>
+<item>"Minti 25"</item>
+<item>"Minti 30"</item>
+<item>"Minti 45"</item>
+<item>"Awa 1"</item>
+<item>"Awa 2"</item>
+<item>"Awa 3"</item>
+<item>"Awa 12"</item>
+<item>"Awa 24"</item>
+<item>"2 kwanaki"</item>
+<item>"1 sati"</item>
+</string-array>
+<string-array name="preferences_default_reminder_labels">
+<item>"Ba wanda"</item>
+<item>"Minti 0"</item>
+<item>"Minti 1"</item>
+<item>"Minti 5"</item>
+<item>"Minti 10"</item>
+<item>"Minti 15"</item>
+<item>"Minti 20"</item>
+<item>"Minti 25"</item>
+<item>"Minti 30"</item>
+<item>"Minti 45"</item>
+<item>"Awa 1"</item>
+<item>"Awa 2"</item>
+<item>"Awa 3"</item>
+<item>"Awa 12"</item>
+<item>"Awa 24"</item>
+<item>"2 kwanaki"</item>
+<item>"1 sati"</item>
+</string-array>
+<string-array name="preferences_week_start_day_labels">
+<item>"Dauwamarwa gida"</item>
+<item>"Asabar"</item>
+<item>"Lahadi"</item>
+<item>"Litinin"</item>
+</string-array>
+<string-array name="availability">
+<item>"Na aiki"</item>
+<item>"Samamme"</item>
+<item>"Na wucin-gadi"</item>
+</string-array>
+<string-array name="visibility">
+<item>Na asali</item>
+<item>"Magana cikin sirri da"</item>
+<item>"Jama\'a"</item>
+</string-array>
+<string-array name="ordinal_labels">
+<item>"farko"</item>
+<item>"na biyu"</item>
+<item>"na uku"</item>
+<item>"na hudu"</item>
+<item>"na karshe"</item>
+</string-array>
+<string-array name="response_labels1">
+<item>"(Ba amsa)"</item>
+<item>"E"</item>
+<item>"Watakila"</item>
+<item>"A\'a"</item>
+</string-array>
+<string-array name="delete_repeating_labels">
+<item>"Wannan lamarin kadai"</item>
+<item>"Wannan &amp; al\'amura masu zuwa"</item>
+<item>"Dukkanin aukuwa"</item>
+</string-array>
+<string-array name="delete_repeating_labels_no_selected">
+<item>"Wannan &amp; al\'amuran nan gaba"</item>
+<item>"Dukkanin aukuwa"</item>
+</string-array>
+<string-array name="change_response_labels">
+<item>"Wannan lamarin kadai"</item>
+<item>"Dukkanin aukuwa cikin jerurruka"</item>
+</string-array>
+<string-array name="buttons_list">
+<item>"Yini"</item>
+<item>"Mako"</item>
+<item>"Wata"</item>
+<item>"Tsari"</item>
+</string-array>
+<string-array name="preferences_skip_reminders_labels">
+<item>"Sai in an hana"</item>
+<item>"In an hana ko ba tuntuba"</item>
+</string-array>
+<string-array name="recurrence_freq">
+<item>"MAIMAITA KULLUM"</item>
+<item>"MAIMAITA MAKO-MAKO"</item>
+<item>"MAIMAITA WATA-WATA"</item>
+<item>"MAIMAITA SHEKARA-SHEKARA"</item>
+</string-array>
+<string-array name="repeat_by_nth_sun">
+<item>"a kowace Lahadi ta fari"</item>
+<item>"a kowace Lahadi ta biyu"</item>
+<item>"a kowace Lahadi ta uku"</item>
+<item>"a kowace Lahadi ta hudu"</item>
+<item>"a kowace Lahadin karshe"</item>
+</string-array>
+<string-array name="repeat_by_nth_mon">
+<item>"a kowace Litinin ta fari"</item>
+<item>"a kowace Litinin ta biyu"</item>
+<item>"a kowace Litinin ta uku"</item>
+<item>"a kowace Litinin ta hudu"</item>
+<item>"a kowace Litinin ta karshe"</item>
+</string-array>
+<string-array name="repeat_by_nth_tues">
+<item>"a kowace Talatar fari"</item>
+<item>"a kowace Talata ta biyu"</item>
+<item>"a kowace Talata ta uku"</item>
+<item>"a kowace Talata ta hudu"</item>
+<item>"a kowace Talatar karshe"</item>
+</string-array>
+<string-array name="repeat_by_nth_wed">
+<item>"a kowace Larabar fari"</item>
+<item>"a kowace Laraba ta biyu"</item>
+<item>"a kowace Laraba ta uku"</item>
+<item>"a kowace Laraba ta hudu"</item>
+<item>"a kowace Laraba ta karshe"</item>
+</string-array>
+<string-array name="repeat_by_nth_thurs">
+<item>"a kowace Alhamis ta fari"</item>
+<item>"a kowace Alhamis ta biyu"</item>
+<item>"a kowace Alhamis ta uku"</item>
+<item>"a kowace Alhamis ta hudu"</item>
+<item>"a kowace Alhamis ta karshe"</item>
+</string-array>
+<string-array name="repeat_by_nth_fri">
+<item>"a kowace Juma\'ar fari"</item>
+<item>"a kowace Juma\'a ta biyu"</item>
+<item>"a kowace Juma\'a ta uku"</item>
+<item>"a kowace Juma\'a ta hudu"</item>
+<item>"a kowace Juma\'ar karshe"</item>
+</string-array>
+<string-array name="repeat_by_nth_sat">
+<item>"a kowace Asabar ta fari"</item>
+<item>"a kowace Asabar ta biyu"</item>
+<item>"a kowace Asabar ta uku"</item>
+<item>"a kowace Asabar ta hudu"</item>
+<item>"a kowace Asabar ta karshe"</item>
+</string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--xihe add for app icon size start-->
+    <string-array name = "app_package_classname">
+
+    </string-array>
+    
+    <string-array name = "app_icon">
+     
+    </string-array>
+    <!--xihe add for app icon size end-->
+    
+</resources>

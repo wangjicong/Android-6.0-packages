@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+        android:title="@string/wifi_advanced_titlebar">
+
+    <ListPreference
+        android:key="soft_ap_sleep_policy"
+        android:title="@string/soft_ap_sleep_policy_title"
+        android:persistent="false"
+        android:entries="@array/soft_ap_sleep_policy_entries"
+        android:entryValues="@array/soft_ap_sleep_policy_entryvalues" />
+
+    <Preference
+            android:key="hotspot_ssid_and_security"
+            android:title="@string/wifi_tether_configure_ap_text"
+            android:persistent="false"/>
+
+    <Preference
+        android:key="hotspot_wps_connect"
+        android:title="@string/hotspot_wps_connect"
+        android:summary="@string/hotspot_select_wps"
+        android:persistent="false"/>
+
+    <ListPreference
+            android:key="hotspot_mode"
+            android:title="@string/hotspot_mode"
+            android:persistent="false"
+            android:entries="@array/hotspot_mode"
+            android:entryValues="@array/hotspot_mode_values" />
+
+    <PreferenceCategory
+            android:key="hotspot_connected_stations"
+            android:title="@string/hotspot_connected_stations" >
+        <Preference
+                android:key="hotspot_no_connected_station"
+                android:title="@string/hotspot_no_connected_station" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:key="hotspot_blocked_stations"
+            android:title="@string/hotspot_blocked_stations" >
+        <Preference
+                android:key="hotspot_no_blocked_station"
+                android:title="@string/hotspot_no_blocked_station" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+            android:key="hotspot_whitelist_stations"
+            android:title="@string/hotspot_whitelist_stations" />
+    <Preference
+            android:key="hotspot_no_whitelist_station"
+            android:title="@string/hotspot_no_whitelist_station" />
+
+</PreferenceScreen>

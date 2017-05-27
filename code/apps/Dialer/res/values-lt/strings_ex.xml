@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: bug#474283, IP DIAL FEATURE. @{ -->
+    <string name="ip_dialing_list_title">"IP rinkimo nustatymas"</string>
+    <string name="ip_dial_menu">"IP RINKIMAS"</string>
+    <string name="ip_dialing_title">"Renkamas IP"</string>
+    <!-- @} -->
+    <!-- SPRD: bug#474289, FAST DIAL FEATURE @{ -->
+    <string name="fast_dial_title">"Greito rinkimo nustatymas"</string>
+    <string name="no_fast_dial_number">"Greito rinkimo numeris nenustatytas."</string>
+    <!-- @} -->
+    <string name="call_log_outgoing_title">"siunčiamieji"</string>
+     <string name="call_log_incoming_title">"gaunamieji"</string>
+     <string name="recentOutgoing_empty">"Išeinančių skambučių nėra."</string>
+     <string name="recentIncoming_empty">"Įeinančių skambučių nėra."</string>
+     <string name="view_setting">"Peržiūrėti"</string>
+     <string name="item_all_calls">"Visi skambučių žurnalai"</string>
+     <string name="item_sim_calls">"SIM%d skambučių žurnalai"</string>
+     <string name="unselect_all">"Atšaukti visų pasirinkimą"</string>
+     <string name="select_all_sprd">"Rinktis viską"</string>
+     <string name="doneButton">"Atlikta"</string>
+     <string name="cancel">"Atšaukti"</string>
+     <string name="delete_selected_calls">"Ar tikrai noritė ištrinti parinktus įrašus?"</string>
+     <string name="clearCallLogProgress_title">"Išvalomas skambučių žurnalas\u2026"</string>
+     <string name="delete_success">"Sėkmingai ištrinta"</string>
+     <string name="clear_all_call_log">"Išvalyti visą skambučių žurnalą"</string>
+     <string name="clear_selected_call_log">"Išvalyti pasirinktą skambučių žurnalą"</string>
+     <string name="select_all">"Rinktis viską"</string>
+     <string name="unselect_all">"Panaikint žym."</string>
+     <string name="delete_all_calls_confirm">"Ar norite ištrinti visus savo įrašus?"</string>
+     <string name="do_not_select">"Jūs nepasirinkote įrašo ištrinti"</string>
+     <string name="delete_calls">"Ištrinti"</string>
+     <string name="number_anr_isnull">"Kontakto numeris tuščias"</string>
+     <string name="call_recording_setting_title">"Skambučio įrašymas"</string>
+     <string name="automatic_recording_title">"Automatinis įrašymas"</string>
+     <string name="dialog_phone_permission_deny">"Norėdami naudotis IP skambinimu,\n įjunkite Telefono leidimą."</string>
+     <string name="search_description">"Ieškoti skambučių žurnalo"</string>
+     <string name="call_log_add_to_blacklist">"PRIDĖTI Į JUODĄJĮ SĄRAŠĄ"</string>
+     <string name="make_video_call_menu">"Atlikti vaizdo skambutį"</string>
+
+</resources>

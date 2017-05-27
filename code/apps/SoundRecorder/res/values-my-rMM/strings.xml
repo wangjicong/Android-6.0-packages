@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5955735546071433666">"အသံသွင်းစက်"</string>
+    <string name="record_your_message" msgid="1583671906691662148">"သင့်စာတိုကို အသံသွင်းနေပါပြီ"</string>
+    <string name="message_recorded" msgid="381539460921872233">"စာတိုကို အသံသွင်းယူပြီးပါပြီ"</string>
+    <string name="review_message" msgid="201616012287839474">"စာတိုအား ပြန်လည်ဆန်းစစ်ရန်"</string>
+    <string name="recording" msgid="4426791467211376099">"အသံသွင်းယူနေပါပြီ"</string>
+    <string name="recording_stopped" msgid="1580278719585249612">"အသံသွင်းယူခြင်း ရပ်သွားပါပြီ"</string>
+    <string name="storage_is_full" msgid="416039755956726221">"သိုလှောင်မှုနေရာ ပြည့်နေပါပြီ"</string>
+    <string name="max_length_reached" msgid="6398215743584093353">"အများဆုံး အရှည်အတိုင်းအတာကို ရောက်ရှိပါပြီ"</string>
+    <string name="insert_sd_card" product="nosdcard" msgid="4609407750669086933">"USBသိုလှောင်မှုကိုထိုင်ပါ"</string>
+    <string name="insert_sd_card" product="default" msgid="1007630222084726808">"SD ကတ်ကို ထည့်သွင်းပါ"</string>
+    <string name="min_available" msgid="5493947690062988925">"<xliff:g id="MINUTES">%d</xliff:g> မိနစ် ရှိသေးသည်"</string>
+    <string name="sec_available" msgid="2297020788861694399">"<xliff:g id="SECONDS">%d</xliff:g>စက္ကန့် ရှိသေးသည်"</string>
+    <string name="accept" msgid="1888285552128743656">"ပြီးပါပြီ"</string>
+    <string name="discard" msgid="761613433029406319">"ထားလိုက်တော့"</string>
+    <string name="button_ok" msgid="3004911343723076226">"ကောင်းပြီ"</string>
+    <!-- no translation found for audio_db_title_format (7912182366970749312) -->
+    <skip />
+    <string name="audio_db_artist_name" msgid="961640229118120080">"သင်ဖမ်းထားသော အသံသွင်းမှုများ"</string>
+    <string name="audio_db_album_name" msgid="9072588113803264440">"အသံသွင်းမှုများ"</string>
+    <string name="audio_db_playlist_name" msgid="5592939050047058162">"ကျွန်ုပ်၏ အသံသွင်းမှုများ"</string>
+    <string name="error_sdcard_access" product="nosdcard" msgid="86629081075681774">"USB သိုလှောင်ကတ်ကို ချိတ်ဆက်ကြည့်ရှု၍မရပါ"</string>
+    <string name="error_sdcard_access" product="default" msgid="5750308258096153274">"SD ကတ်ကို ချိတ်ဆက်ကြည့်ရှု၍မရပါ"</string>
+    <string name="error_app_internal" msgid="312884382388702022">"စက်တွင်းအပ်ပလီကေးရှင်းမှားယွင်းမှု"</string>
+    <string name="error_mediadb_new_record" msgid="261714902333432462">"အသံသွင်းထားမှုကို သိမ်းဆည်း၍မရပါ"</string>
+    <string name="recording_save">အသံသြင္းမႈကို သိမ္းဆည္းၿပီးၿပီ</string>
+     <string name="recording_nosave">ရီေကာဒင္းကို မသိမ္းပါ</string>
+     <string name="phone_message">ဖုန္းေျပာေနစဥ္ အသံဖမ္းယူကိရိယာကုိ ဖြင့္၍ မရႏုိင္ပါ။</string>
+     <string name="min_and_time_available">"<xliff:g id="minutes">%d</xliff:g> မိနစ္နွင့္ <xliff:g id="seconds">%d</xliff:g> စကၠန္႔ ရရွိႏိုင္သည္"</string>
+     <string name="press_record">မွတ္တမ္းတင္ ကိုႏွိပ္ပါ</string>
+     <string name="save">သိမ္းပါ</string>
+     <string name="select_file_type">ဖုိင္အမ်ိဳးအစားမွတ္တမ္းကို ေ႐ြးခ်ယ္ပါ</string>
+     <string name="record_amr">"amr ရိုက္ပါ (အဆင့္နိမ့္-အရည္အေသြး)"</string>
+     <string name="record_3gpp">"3gpp ရိုက္ပါ (အဆင့္ျမင့္-အရည္အေသြး)"</string>
+     <string name="button_cancel">"မလုပ္ပါ"</string>
+     <string name="path_save">မူလသိမ္းထားသည့္လမ္းေၾကာင္းအား သိမ္းဆည္းျပီး</string>
+     <string name="path_nosave">မူလသိမ္းထားသည့္လမ္းေၾကာင္းအား မသိမ္းရေသးပါ</string>
+     <string name="path_default">ယခု အသံုးျပဳေနေသာလမ္းေၾကာင္းသည္ မမွန္ကန္ပါ။ အတြင္း သိုေလွာင္မႈလမ္းေၾကာင္း ကို သံုးေနျခင္းျဖစ္ပါသည္</string>
+     <string name="menu_set_save_path">လမ္းေၾကာင္းသိမ္းဆည္းျခင္း တပ္ဆင္ပါ</string>
+     <string name="back">ေနာက္သို႔</string>
+     <string name="path_label">သိမ္းရန္လမ္းေၾကာင္းကို ေ႐ြးခ်ယ္ပါ</string>
+     <string name="pause">ခဏရပ္</string>
+     <string name="storage_is_not_enough">သိုေလွာင္မႈမလံုေလာက္ပါ</string>
+     <string name="menu_recording_file_list">မွတ္တမ္းတင္ထားေသာဖိုင္စာရင္း</string>
+     <string name="recording_list_empty">ဗလာစရင္း</string>
+     <string name="menu_recording_list_select_all">"အားလံုး ေရြးခ်ယ္"</string>
+     <string name="menu_recording_list_delete">"ဖ်က္ပါ"</string>
+     <string name="menu_recording_list_deselect_all">မေရြးခ်ယ္ပါ</string>
+     <string name="recording_file_delete_success">ရီေကာဒင္းကို ဖ်က္ျပီး</string>
+     <string name="recording_file_database_failed">ေဒတာေဘ့စ္ ဖိုင္ဖ်က္ရန္ မေအာင္ျမင္ပါ</string>
+     <string name="recording_file_delete_failed">ရီေကာဒင္း ဖိုင္ဖ်က္ရန္ မေအာင္ျမင္ပါ</string>
+     <string name="confirm_del">ဖုိင္မ်ားကို ဖ်က္မွာ ေသခ်ာလား?</string>
+     <string name="button_delete">"ဖ်က္ပါ"</string>
+     <string name="recording_file_delete_alert_title">"ဖ်က္ပါ"</string>
+     <string name="recording_file_delete_alert_message">%1$s ကိုဖ်က္မွာေသခ်ာလား?</string>
+     <string name="recording_file_list">မွတ္တမ္းတင္ထားေသာဖိုင္စာရင္း</string>
+     <string name="less_than_one_second">1 စကၠန္႔</string>
+     <string name="is_scanning">"မီဒီယာစကင္နာသည္ စကင္ဖတ္ေနသည္၊ေက်းဇူးျပဳ၍ ေနာက္မွ ထပ္ႀကိဳးစားပါ။"</string>
+     <string name="emptylist">"စာရင္းဗလာ"</string>
+     <string name="choose_file">"ေက်းဇူးျပဳ၍ သင္ပယ္ဖ်က္လိုသည့္ ရီေကာဒင္းကို ဖိုင္မ်ား ေရြးခ်ယ္ပါ။"</string>
+     <string name="error_path">" သင္ေရြးခ်ယ္သည့္ထားသည္လမ္းေၾကာင္း မတည္ရွိပါ၊ ေက်းဇူးျပဳ၍ ျပန္လည္တပ္ဆင္ပါ။"</string>
+     <string name="path_miss">သိုေလွာင္မႈလမ္းေၾကာင္း မရွိပါ (သို႔) ၀င္၍မရႏိုင္ပါ</string>
+     <string name="low_memory">"ဖုန္း သိုေလွာင္မွတ္ဥာဏ္ ေနရာမလံုေလာက္ပါ။ ရီေကာဒင္းလုပ္သြားလိမ့္မည္"</string>
+     <string name="record_error">"ရီေကာဒင္း ခြ်င္းခ်က္ေတြ႕ရွိ။"</string>
+     <string name="play_error">သီခ်င္းဖြင့္သည့္ကိရိယာကုိ ပိတ္ထားသည္၊ ဖြင့္၍ မရႏုိင္ပါ!</string>
+     <string name="dialog_title">"ေက်းဇူးျပဳ၍ေရြးခ်ယ္ပါ"</string>
+     <string name="dialog_message">"အသံသြင္းထားသည္ကုိ သိမ္းမလား?"</string>
+     <string name="same_application_running">"ရီေကာဒင္းကိရိယာကို တျခားပရိုဂရမ္မွ သံုးထားသည္။ ေက်းဇူးျပဳ၍ ဤပရိုဂရမ္ကိုပိတ္ပါ။ "</string>
+     <string name="recording_time_short">"ရီေကာဒင္းအခ်ိန္ ၁ မိနစ္ေအာက္ရွိလွ်င္ , သိမ္း၍မရပါ"</string>
+     <string name="file_path_button">ဖုိင္လမ္းေၾကာင္း</string>
+     <string name="file_name">ဖုိင္အမည္-</string>
+     <string name="file_path">ဖုိင္လမ္းေၾကာင္း</string>
+     <string name="rename">နာမည္အသစ္ေပး</string>
+     <string name="rename_save">"အမည္ျပန္ေပးျခင္းေအာင္ျမင္သည္"</string>
+     <string name="rename_nosave">"အမည္ျပန္ေပးျခင္းက်ရွံုးသည္"</string>
+     <string name="filename_is_not_modified">"ဖိုင္အမည္ျပန္မျပင္ျဖစ္ပါ"</string>
+     <string name="duplicate_name">"ဖိုင္အမည္ ပြားထားသည္"</string>
+     <string name="soundpicker_label">"ေက်းဇူးျပဳ၍ရီေကာဒင္းဖိုင္ကိုေရြးခ်ယ္ပါ"</string>
+     <string name="error_sdcard_path">"sd ကဒ္မရွိ. သိုေလွာင္စတိုမွတ္ဥာဏ္သို႔ ဒီေဖါ့သိမ္းသည့္လမ္းေျကာင္း ေျပာင္းျပီး."</string>
+     <string name="input_length_overstep">"အင္ပြတ္ပမာဏအျမင့္ဆံုးသို့ေရာက္ေန"</string>
+     <string name="filename_empty_error">"ဖိုင္အမည္ဗလာမျဖစ္ရ ,မူလအမည္ျဖင့္သိမ္းပါ"</string>
+     <string name="please_choose_files">"ေက်းဇူးျပဳ၍မူလဖိုင္မ်ားေရြးခ်ယ္ပါ"</string>
+     <string name="selected_files_count">"ေရြးခ်ယ္ျပီး <xliff:g id="COUNTS">%d</xliff:g>"</string>
+     <string name="use_default_path">သိုေလွာင္မႈလမ္းေၾကာင္း မရွိပါ အျခားနည္းလမ္းသံုးပါ</string>
+     <string name="stroage_not_mounted">သိုေလွာင္မႈ တိုး၍ မရပါ</string>
+     <string name="special_char_exist">"အထူးအကၡရာမ်ား <xliff:g id="COUNTS">%s</xliff:g> မေထာက္ပံ့"</string>
+     <string name="menu_select_more">"ပို၍ ေရြးခ်ယ္ပါ"</string>
+     <string name="menu_select_type">ဖုိင္အမ်ိဳးအစားကုိ သတ္မွတ္ပါ</string>
+     <string name="path_miss_nosave">"သုိေလွာင္ေသာ လမ္းေၾကာင္း မတည္ရွိပါ၊ အသံဖမ္းယူထားမႈကုိ မသိမ္းထားပါ!"</string>
+     <string name="dialog_dismiss">ခ်န္လွပ္ထားသည္</string>
+     <string name="error_permissions">"အပ်ဖ်ကိုဖွင့်ရန် အရေးကြီးသည့်ခွင့်ပြုချက် မရှိပါ။ ကျေးဇူးပြု၍ သင့်ခွင့်ပြုချက် ချိန်ညှိမှုများကို စစ်ဆေးပါ။"</string>
+
+</resources>

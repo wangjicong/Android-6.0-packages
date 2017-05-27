@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="main_card_slot">"Tarjeta principal:"</string>
+<string name="vice_card_slot">"Tarjeta Vice :"</string>
+<string name="record_time">Tiempo de registro:</string>
+<string name="onscreenShowRecodText">Grabar</string>
+<string name="recorderr">"¡Error al guardar los archivos de registro!"</string>
+<string name="audio_db_artist_name">Sus registros</string>
+<string name="audio_db_album_name">registros de llamadas</string>
+<string name="audio_db_playlist_name">Mis grabaciones</string>
+<string name="app_name">Palicaciones de teléfono</string>
+<string name="error_mediadb_new_record">No sep uede granar el audio</string>
+<string name="sdcard_access_error">No se puede acceder a la tarjeta SD</string>
+<string name="no_sd_card">No hay tarjeta SD o esta ha sido desmontada</string>
+<string name="insert_sd_card">Por favor inserte una tarjeta SD</string>
+<string name="storage_is_full">El almacenamientos esta lleno</string>
+<string name="recording">"Registrando "</string>
+<string name="used_by_other_applications">"El equipo de grabacin esta siendo utilizado por otro programa, por favor cierrre el programa"</string>
+<string name="prompt_record_finish">"El archivo de grabado ha sido guardado en"</string>
+<string name="ok">OK</string>
+<string name="permission_no_record">"Usted no tiene permiso para la grabación de la llamada"</string>
+<string name="hangup_hold_and_answer">"Colgar llamada en espera y Contestar"</string>
+<string name="hangup_active_and_answer">"Colgar llamada activa y Contestar"</string>
+<string name="hangup_all_and_answer">"Colgar todas las llamadas y Contestar"</string>
+<string name="onActive">"Activa"</string>
+<string name="hold_current_call_and_answer">Mantener llamada actual y contestar</string>
+<string name="hangup_current_call_and_answer">"Colgar llamada actual y Contestar"</string>
+</resources>

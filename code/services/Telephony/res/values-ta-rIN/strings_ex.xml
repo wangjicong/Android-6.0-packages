@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- SPRD: function call barring support. BEGIN-->
+    <string name="labelAO">அனைத்து வெளிச்செல்பவை</string>
+    <string name="messageAO">அழைப்பு தடுக்கும் கடவுச்சொல் உள்ளிடவும்.</string>
+    <string name="sum_ao_enabled_indicator">அனைத்து அழைப்புக்களையும் முன் தள்ளுகிறது</string>
+    <string name="sum_ao_enabled">ஏதுவாக்கப்பட்டது</string>
+    <string name="sum_ao_disabled">செயலிழக்க செய்யப்பட்டது</string>
+    <string name="enable_ao_forbidden">அனைத்து வெளிச்செல்லும் அழைப்புக்களைத் தடுப்பதை ஏதுவாக்குவதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="disable_ao_forbidden">அனைத்து வெளிச்செல்லும் அழைப்புக்களைத் தடுப்பதை செயலிழக்க செய்வதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="labelOI">வெளிச்செல்லும் சர்வதேச </string>
+    <string name="messageOI">அழைப்பு தடுக்கும் கடவுச்சொல் உள்ளிடவும்.</string>
+    <string name="sum_oi_enabled">ஏதுவாக்கப்பட்டது</string>
+    <string name="sum_oi_disabled">செயலிழக்க செய்யப்பட்டது</string>
+    <string name="enable_oi_forbidden">வெளிச்செல்லும் சர்வதேச அழைப்பு தடை செய்வதை ஏதுவாக்குவதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="disable_oi_forbidden">வெளிச்செல்லும் சர்வதேச அழைப்பு தடை செய்வதை செயலிழக்க செய்வதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="labelOX">வெளிச்செல்லும் சர்வதேச உலாவருகின்ற</string>
+    <string name="messageOX">அழைப்பு தடுக்கும் கடவுச்சொல் உள்ளிடவும்.</string>
+    <string name="sum_ox_enabled">ஏதுவாக்கப்பட்டது</string>
+    <string name="sum_ox_disabled">செயலிழக்க செய்யப்பட்டது</string>
+    <string name="enable_ox_forbidden">வெளிச்செல்லும் சர்வதேச உலாவரும் அழைப்பு தடை செய்வதை ஏதுவாக்குவதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="disable_ox_forbidden">வெளிச்செல்லும் சர்வதேச உலாவரும் அழைப்பு தடை செய்வதை செயலிழக்க செய்வதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="labelAI">அனைத்து உள்வருபவை</string>
+    <string name="messageAI">அழைப்பு தடுக்கும் கடவுச்சொல் உள்ளிடவும்.</string>
+    <string name="sum_ai_enabled">ஏதுவாக்கப்பட்டது</string>
+    <string name="sum_ai_disabled">செயலிழக்க செய்யப்பட்டது</string>
+    <string name="enable_ai_forbidden">அனைத்து உள்வரும் அழைப்புக்களைத் தடுப்பதை ஏதுவாக்குவதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="disable_ai_forbidden">அனைத்து உள்வரும் அழைப்புக்களைத் தடுப்பதை செயலிழக்க செய்வதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="labelIR">உலாவுதலின்போது உள்வரும் அழைப்புகள்</string>
+    <string name="messageIR">அழைப்பு தடுக்கும் கடவுச்சொல் உள்ளிடவும்.</string>
+    <string name="sum_ir_enabled">ஏதுவாக்கப்பட்டது</string>
+    <string name="sum_ir_disabled">செயலிழக்க செய்யப்பட்டது</string>
+    <string name="enable_ir_forbidden">உலாவரும் அழைப்பின்போது உள்வரும் அழைப்புக்களை தடுப்பதை ஏதுவாக்குவதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="disable_ir_forbidden">உலாவரும் அழைப்பின்போது உள்வரும் அழைப்புக்களை தடுப்பதை செயலிழக்க செய்வதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="labelAB">அனைத்தையும் செயலிழக்க செய்யவும்</string>
+    <string name="messageAB">அழைப்பு தடுக்கும் கடவுச்சொல் உள்ளிடவும்.</string>
+    <string name="sum_ab_enabled">ஏதுவாக்கப்பட்டது</string>
+    <string name="sum_ab_disabled">செயலிழக்க செய்யப்பட்டது</string>
+    <string name="enable_ab_forbidden">அனைத்தையும் செயல்பாடில்லாமல் செய்வதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="disable_ab_forbidden">அனைத்தையும் செயல்பட செய்வதற்கு உங்கள் கேர்ரியர் துணை நிற்கவில்லை.</string>
+    <string name="labelChgPwd">கடவுச்சொல் மாற்றவும்</string>
+    <string name="DlgChgPwd_oldpwd">அழைப்பு தடுக்கும் கடவுச்சொல் உள்ளிடவும்.</string>
+    <string name="DlgChgPwd_newpwd_first">புதிய கடவுச்சொல் உள்ளிடவும்</string>
+    <string name="DlgChgPwd_newpwd_last">புதிய கடவுச்சொல் உறுதிப்படுத்தவும்</string>
+    <string name="cb_pw_no_match">"கடவுச்சொற்கள் பொருந்தவில்லை"</string>
+    <string name="cb_pw_error">"கடவுச்சொல் தவறானது"</string>
+    <string name="cb_pw_correct">"கடவுச்சொல் மாற்றப்பட்டது"</string>
+    <string name="labelCB">அழைப்பு தடை செய்யப்படுவது</string>
+    <string name="call_barring_settings">அழைப்பு தடுத்தல் அமைப்புக்கள்</string>
+    <string name="cb_error">அழைப்பு தடுத்தல் மறுக்கப்பட்டது</string>
+    <!-- SPRD: function call barring support. END-->
+    <string name="network_not_on">வலையமைப்பு இயங்கவில்லை, வலையமைப்பு நிலையை அமைக்க விரும்புகிறீர்களா?</string>
+     <string name="dialog_network_selection_title">கவனம்</string>
+     <string name="dialog_network_selection_message">மொபைல் தொலைபேசி பிற இயக்குபவர்கள் உங்களுக்காக கைமுறைத் தேர்வுமுறையில் தேர்ந்தெடுக்காது. சில நேரங்களில் நீங்கள் கைமுறை தேர்வை மீண்டும் செய்ய வேண்டும் அல்லது தேர்ந்தெடுக்கப்பட்ட இயக்குபவர் சேவை இழக்கப்படும் போது மீண்டும் தானியங்கி முறைக்கு திரும்ப வேண்டும். "தானாக தேர்ந்தெடுக்கும்முறையை" நாங்கள் உங்களுக்கு பரிந்துரைக்கிறோம். வலையமைப்பை கைமுறையாகத் தேர்ந்தெடுக்க விரும்புகிறீர்களா?</string>
+     <string name="network_unknown">தெரியாதது</string>
+     <string name="network_inhibit">"தடுக்கப்பட்டது"</string>
+     <string name="ip_dialing_title">"IP டயலிங்"</string>
+     <string name="ip_dialing_list_title">IP டயல் பட்டியல்</string>
+     <string name="ip_no_number">"IP முன்னொட்டி இல்லை"</string>
+     <string name="ip_no_number_msg">"IP முன்னொட்டி ஃபோனில் சேமிக்கப்படவில்லை."</string>
+     <string name="ip_number_empty_loading">"IP டயல் பட்டியல் காலியாக உள்ளது."</string>
+     <string name="remove">நீக்குக</string>
+     <string name="ip_number_is_too_long">"IP டயல் எண்கள் 20க்கு அதிகமாக இருக்க முடியாது"</string>
+     <string name="add_ip_number_str">புதிய</string>
+     <string name="ip_dialing_num_error"> 10 IP எண்கள் மட்டுமே சேமிக்கப்படும்</string>
+     <string name="ip_dialing_num_repeat">ரிபீட் எண், சேர்த்தல் தோல்வியுற்றது</string>
+     <string name="menu_selected_all">அனைத்தையும் தெரிவு செய்க</string>
+     <string name="menu_select_none">அனைத்து தெரிவையும் அகற்றுக</string>
+     <string name="doneButton">செய்யப்பட்டது</string>
+     <string name="cancel">ரத்து செய்க</string>
+     <string name="uplmn_setting_title">"விருப்பங்கள்"</string>
+     <string name="uplmn_setting">"UPLMN அமைப்புகள்"</string>
+     <string name="uplmn_index">"அட்டவணை (0 முதல் துவங்குகிறது):"</string>
+     <string name="uplmn_id">"குறியீட்டு எண்:"</string>
+     <string name="uplmn_type">"வகை (0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):"</string>
+     <string name="no_sim_card_prompt">தயவுசெய்து USIM கார்டினை உட்செருகி மீண்டும் முயற்சிக்கவும்</string>
+     <string name="index_error_uplmn">"அட்டவணை காலியாக உள்ளது. மீண்டும் முயல்க!"</string>
+     <string name="type_is_emplty_error_uplmn">"வகை காலியாக உள்ளது. மீண்டும் முயல்க!"</string>
+     <string name="number_too_short_uplmn">"Id எண் மிக சிறிதாக உள்ளது. மீண்டும் முயல்க!"</string>
+     <string name="type_is_wrong_uplmn">"வகையானது 1 அல்லது 0 ஆக இருக்க வேண்டும். மீண்டும் முயல்க!"</string>
+     <string name="fail_uplmn">"தோல்வியுற்றது, மீண்டும் முயலுக."</string>
+     <string name="set_uplmn_unsuccessful">"lmn அமைப்பது வெற்றியடையவில்லை!"</string>
+     <string name="menu_new_uplmn">"புதிய UPLMN"</string>
+     <string name="menu_delete_uplmn">"UPLMNஐ அழிக்கவும்"</string>
+     <string name="uplmn_exceeds_capacity">"எண்ணிக்கை சிம்மின் கொள்ளளவை விட கூடியுள்ளது"</string>
+     <string name="delete">அழிக்கவும்</string>
+     <string name="delete_uplmn_successfully">"uplmnஐ வெற்றிகரமாக அழிக்கவும்"</string>
+     <string name="id_is_wrong_uplmn">"குறியீடு ஒரு எண்ணைக் கொண்டு அமைக்கப்பட வேண்டும்!"</string>
+     <string name="lte_service_network_mode_settings_dialog_title">"நெட்வொர்க் பயன்முறையைத் தேர்வுசெய்யவும்"</string>
+     <string name="lte_service_switch">"அமைக்கின்றது, தயவுசெய்து காத்திருக்கவும்..."</string>
+     <string-array name="lte_preferred_networks_choices_for_common">
+        <item>"4G/3G/2G பல பயன்முறை"</item>
+        <item>"3G/2G மட்டும் பயன்முறை"</item>
+        <item>2ஜி மட்டும் வகை</item>
+    </string-array>
+     <string-array name="lte_preferred_networks_choices">
+        <item>"4G/3G/2G பல பயன்முறை"</item>
+        <item>"3G/2G மட்டும் பயன்முறை"</item>
+    </string-array>
+     <string-array name="lte_network_mode_choices">
+        <item>GSM மட்டும்</item>
+        <item>WCDMA மட்டும்</item>
+        <item>"WCDMA/GSM"</item>
+        <item>LTE/WCDMA/GSM (தானியங்கி)</item>
+    </string-array>
+     <string name="fast_dial_settings">விரைவு டயல் அமைப்புக்கள்</string>
+     <string name="delete_fastdial">விரைவு டயல் அழிக்கவும்</string>
+     <string name="update_fastdial">விரைவு டயல் புதுப்பிக்கவும்</string>
+     <string name="no_sim_text">"சிம் அட்டையை தயவுசெய்து சொருகவும் இல்லை தொடங்கவும்"</string>
+     <string name="network_not_on">வலையமைப்பு இயங்கவில்லை, வலையமைப்பு நிலையை அமைக்க விரும்புகிறீர்களா?</string>
+     <string name="one_key_locked_notification">இதை வகை திறக்கப்பட்டுள்ளது, அதை பூட்ட விரும்புகிறீர்களா?</string>
+     <string name="one_key_unlocked_notification">இந்த வகை பூட்டப்பட்டுள்ளது, அதை திறக்க விரும்புகிறீர்களா?</string>
+     <string name="one_key_unlocked">"பூட்டு திறக்கவும்"</string>
+     <string name="one_key_locked">"பூட்டு"</string>
+     <string name="one_key_operation_success">இயக்குதல் வெற்றிப்பெற்றது, ரீபூட் செய்ய வேண்டும் இப்போது</string>
+     <string name="one_key_operation_unsuccess">இயக்குதல் வெற்றிப்பெறவில்லை, நீங்கள் மீண்டும் முயற்சிக்கலாம்!</string>
+     <string name="one_key_query_unsuccess">விசாரணை சிம்பூட்டு வகை நொடித்துவிட்டது</string>
+     <string name="one_key_simlock_setting">SIMLOCK அமைப்பு</string>
+     <string-array name="one_key_sim_lock_type">
+        <item>வலையமைப்பு பூட்டு</item>
+        <item>வலையமைப்பு துணைத்தொகுதி பூட்டு</item>
+        <item>சேவை அளிப்பவர் பூட்டு</item>
+        <item>கார்ப்பரேட் பூட்டு</item>
+        <item>SIM பூட்டு</item>
+    </string-array>
+     <string name="callin_barring_settings">உள்வரும் அழைப்புத் தடை செய்தல் அமைப்புகள்</string>
+     <string name="callout_barring_settings">வெளிசெல்லும் அழைப்புத் தடை செய்தல் அமைப்புகள்</string>
+     <string name="labelCOUT">வெளிசெல்லும் அழைப்புத் தடை செய்தல்</string>
+     <string name="labelCIN">உள்வரும் அழைப்புத் தடை செய்தல்</string>
+     <string name="no_sim_text">"சிம் அட்டையை தயவுசெய்து சொருகவும் இல்லை தொடங்கவும்"</string>
+     <string name="sim_lock_none">"‍SIM எதுவும் பூட்டப்படவில்லை"</string>
+     <string name="sim_lock_try_later">"தயவு செய்து பின்னர் முயற்சிக்கவும்"</string>
+     <string name="edit_and_save_fdn">Fdn  எண் திருத்துக</string>
+     <string name="call_fdn_number_by_sim">அழைப்பு</string>
+     <string name="vt_call_fdn_numberr_by_sim">VT அழைப்பு</string>
+     <string name="airplane_changed_on">"விமானப் பயன்முறை இயக்கப்பட்டது."</string>
+     <string name="number_empty">"எண் காலியாக உள்ளது"</string>
+     <string name="unblock_pin2">" PIN2ஐ தடுப்புநீக்கவும்"</string>
+     <string name="sum_fdn_unblock_pin2">"உங்கள் SIM கார்டைத் தடைநீக்க PUK2 வை உள்ளிடவும்"</string>
+     <string name="pin2_Label">"PIN2 (<xliff:g>%s</xliff:g> மீதமுள்ள முயற்சி(கள்))"</string>
+     <string name="oldPin2_Label">"பழைய PIN2 (<xliff:g>%s</xliff:g> மீதமுள்ள முயற்சி(கள்))"</string>
+     <string name="puk2_code_label">"PUK2 குறியீட்டைத் தட்டச்சு செய்யவும் (<xliff:g>%s</xliff:g> மீதமுள்ள முயற்சி(கள்))"</string>
+     <string name="promptWordOne">"இருக்கவும்&#160;"</string>
+     <string name="promptWordTwo">"&#160; நேரம்(கள்)"</string>
+     <string name="adn_full">"FDN பட்டியல் நிரம்பியுள்ளது"</string>
+     <string name="no_available_phone_accounts">"கிடைக்கக்கூடிய அழைப்புக் கணக்குகள் இல்லை"</string>
+     <string name="lnd_list">"LND பட்டியல்"</string>
+     <string name="sdn_list">"SDN பட்டியல்"</string>
+     <string name="sim_list_title">தயவு செய்து சிம் கார்டு தெரிவு செய்க</string>
+     <string name="wait_message">காத்திருக்கவும்...</string>
+     <string name="menu_call">தொடர்பு அழைக்கவும்</string>
+     <string name="lnd_no_contact_record">இந்த சிம் கார்டில் LND பதிவு இல்லை.</string>
+     <string name="sdn_no_contact_number">இந்த சிம் SDN எண்ணுக்கு துணை நிற்பதில்லை.</string>
+     <string name="remove">நீக்குக</string>
+     <string name="delete_selected_contents">தெரிவு செய்யப்பட்ட உட்பொருட்களைஅழிக்க நீங்கள் விரும்புகிறீர்களா?</string>
+     <string name="sim_notready_can_not_delete">சிம் கார்டு தயாராக இல்லாததால் அழிக்க முடியாது.</string>
+     <string name="contact_del_failed">அழித்தல் தோல்வி</string>
+     <string name="incall_error_missing_voicemail_number_sprd">"குரலஞ்சலை அமைக்க, செல்க மெனு &gt; அமைப்பு."</string>
+     <string name="simlock_unlocked">"சிம்பூட்டு பூட்டுநீக்கம் செய்யப்பட்டது."</string>
+     <string-array name="preferred_network_mode_choices_wcdma">
+        <item>WCDMA மட்டும்</item>
+        <item>GSM மட்டும்</item>
+        <item>தானியக்கம்</item>
+    </string-array>
+     <string-array name="preferred_network_mode_choices_gsm_only">
+        <item>GSM மட்டும்</item>
+    </string-array>
+</resources>
